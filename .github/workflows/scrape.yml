@@ -32,3 +32,5 @@ jobs:
           git add news.json
           git commit -m "Auto update news.json at $(date -u)" || echo "Nothing to commit"
           git push
+
+
