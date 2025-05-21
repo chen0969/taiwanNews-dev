@@ -1,16 +1,29 @@
-
-
 name: Hello World Test
 
 on:
   schedule:
-    - cron: "*/1 * * * *"  # 每5分鐘執行
+    - cron: "*/1 * * * *"  # 每分鐘執行
   workflow_dispatch:
+
+permissions:
+  contents: write  # 允許 push
 
 jobs:
   say-hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Hello World
-        run: echo "Hello World!"
+      - name: Checkout code
+        uses: actions/checkout@v3
 
+      - name: Create data folder and hello.json
+        run: |
+          mkdir -p data
+          echo '{ "message": "hello, world" }' > data/hello.json
+
+      - name: Commit and push result
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add data/hello.json
+          git commit -m "Add hello.json in data/ at $(date -u)" || echo "Nothing to commit"
+          git push
