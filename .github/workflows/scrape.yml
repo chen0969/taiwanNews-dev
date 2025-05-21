@@ -2,7 +2,7 @@ name: Auto Scrape Taiwan News
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # 每5分鐘自動執行
+    - cron: "*/60 * * * *"  # 每60分鐘自動執行
   workflow_dispatch:       # 手動啟動
 
 permissions:

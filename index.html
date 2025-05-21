@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Taiwan News Monitor</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    h1 { color: #2c3e50; }
+    ul { padding-left: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>Taiwan News Monitor</h1>
+  <p>以下是最近抓到的新聞：</p>
+  <ul id="news-list"></ul>
+
+  <script>
+    fetch('data/news.json')
+      .then(res => res.json())
+      .then(data => {
+        const list = document.getElementById('news-list');
+        data.articles.forEach(article => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = article.url;
+          a.textContent = article.title;
+          a.target = "_blank";
+          li.appendChild(a);
+          list.appendChild(li);
+        });
+      })
+      .catch(err => {
+        document.body.innerHTML += '<p>讀取資料失敗</p>';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
