@@ -1,19 +1,19 @@
-name: Auto Scrape Taiwan News
+name: Scrape Taiwan News
 
 on:
   schedule:
-    - cron: "*/60 * * * *"  # 每60分鐘自動執行
-  workflow_dispatch:       # 手動啟動
+    - cron: "*/30 * * * *"  # 每30分鐘執行一次
+  workflow_dispatch:
 
 permissions:
-  contents: write  # 允許 push 回 repo
+  contents: write
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -23,17 +23,15 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install feedparser requests beautifulsoup4
 
       - name: Run scraper
-        run: |
-          mkdir -p data
-          python scraper.py
+        run: python scraper.py
 
-      - name: Commit and push news.json
+      - name: Commit and push result
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add data/news.json
-          git commit -m "Update news.json at $(date -u)" || echo "Nothing to commit"
+          git commit -m "Auto update news.json at $(date -u)" || echo "Nothing to commit"
           git push
