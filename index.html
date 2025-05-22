@@ -12,8 +12,7 @@
 <body>
   <h1>Taiwan News Monitor</h1>
   <p>以下是最近抓到的新聞，依照日期分類：</p>
-  <div id="news">Loading...</div>
-
+  <ol id="news">Loading...</ol>
 <script>
   async function loadNews() {
     const res = await fetch("data/news.json");
@@ -28,10 +27,10 @@
       return publishedDate >= sevenDaysAgo;
     });
 
-    // 排序（可選）
+    // 排序（新到舊）
     filteredArticles.sort((a, b) => new Date(b.published) - new Date(a.published));
 
-    // 分類並顯示
+    // 分類（依日期）
     const groupedByDate = {};
     filteredArticles.forEach(article => {
       const date = article.date || article.published?.split("T")[0] || "未知日期";
@@ -39,23 +38,45 @@
       groupedByDate[date].push(article);
     });
 
+    // 顯示在畫面上
     const container = document.getElementById("news");
     container.innerHTML = "";
 
     for (const [date, articles] of Object.entries(groupedByDate)) {
-      const section = document.createElement("div");
-      section.innerHTML = `<h2>${date}</h2>`;
+      const section = document.createElement("section");
+      const heading = document.createElement("h2");
+      heading.textContent = date;
+      section.appendChild(heading);
+
+      const ol = document.createElement("ol");
       articles.forEach(article => {
-        const p = document.createElement("p");
-        p.innerHTML = `<a href="${article.url}" target="_blank">${article.title}</a>`;
-        section.appendChild(p);
+        const li = document.createElement("li");
+
+        const p1 = document.createElement("p");
+        p1.innerHTML = `${article.source}<br>`;
+
+        const p2 = document.createElement("p");
+        p2.innerHTML = `${article.title}<br>`;
+        
+        const a = document.createElement("a");
+        a.href = article.url;
+        a.textContent = article.url;
+        a.target = "_blank";
+        p2.appendChild(a);
+
+        li.appendChild(p1);
+        li.appendChild(p2);
+        li.appendChild(document.createElement("hr"));
+
+        ol.appendChild(li);
       });
+
+      section.appendChild(ol);
       container.appendChild(section);
     }
   }
 
   loadNews();
 </script>
-
 </body>
 </html>
