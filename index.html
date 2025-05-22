@@ -1,82 +1,123 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="UTF-8">
   <title>Taiwan News Monitor</title>
   <style>
-    body { font-family: sans-serif; padding: 2rem; }
-    h1 { color: #2c3e50; }
-    ul { padding-left: 1rem; }
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+    }
+
+    h1 {
+      color: #2c3e50;
+    }
+
+    ul {
+      padding-left: 1rem;
+    }
+
+    .canadian-news {
+      color: #003366;
+      /* 深藍色 */
+      font-weight: bold;
+    }
+
+    .non-canadian-news {
+      color: #3399cc;
+      /* 淺藍色 */
+      font-weight: normal;
+    }
   </style>
 </head>
+
 <body>
   <h1>Taiwan News Monitor</h1>
   <p>以下是最近抓到的新聞，依照日期分類：</p>
   <ol id="news">Loading...</ol>
-<script>
-  async function loadNews() {
-    const res = await fetch("data/news.json");
-    const data = await res.json();
+  <script>
+    async function loadNews() {
+      const res = await fetch("data/news.json");
+      const data = await res.json();
 
-    const now = new Date();
-    const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+      const now = new Date();
+      const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
 
-    // 過濾只保留 7 天內的新聞
-    const filteredArticles = data.articles.filter(article => {
-      const publishedDate = new Date(article.published);
-      return publishedDate >= sevenDaysAgo;
-    });
-
-    // 排序（新到舊）
-    filteredArticles.sort((a, b) => new Date(b.published) - new Date(a.published));
-
-    // 分類（依日期）
-    const groupedByDate = {};
-    filteredArticles.forEach(article => {
-      const date = article.date || article.published?.split("T")[0] || "未知日期";
-      if (!groupedByDate[date]) groupedByDate[date] = [];
-      groupedByDate[date].push(article);
-    });
-
-    // 顯示在畫面上
-    const container = document.getElementById("news");
-    container.innerHTML = "";
-
-    for (const [date, articles] of Object.entries(groupedByDate)) {
-      const section = document.createElement("section");
-      const heading = document.createElement("h2");
-      heading.textContent = date;
-      section.appendChild(heading);
-
-      const ol = document.createElement("ol");
-      articles.forEach(article => {
-        const li = document.createElement("li");
-
-        const p1 = document.createElement("p");
-        p1.innerHTML = `${article.source}<br>`;
-
-        const p2 = document.createElement("p");
-        p2.innerHTML = `${article.title}<br>`;
-        
-        const a = document.createElement("a");
-        a.href = article.url;
-        a.textContent = article.url;
-        a.target = "_blank";
-        p2.appendChild(a);
-
-        li.appendChild(p1);
-        li.appendChild(p2);
-        li.appendChild(document.createElement("hr"));
-
-        ol.appendChild(li);
+      // 過濾只保留 7 天內的新聞
+      const filteredArticles = data.articles.filter(article => {
+        const publishedDate = new Date(article.published);
+        return publishedDate >= sevenDaysAgo;
       });
 
-      section.appendChild(ol);
-      container.appendChild(section);
-    }
-  }
+      // 排序
+      filteredArticles.sort((a, b) => new Date(b.published) - new Date(a.published));
 
-  loadNews();
-</script>
+      // 分類
+      const groupedByDate = {};
+      filteredArticles.forEach(article => {
+        const date = article.date || article.published?.split("T")[0] || "未知日期";
+        if (!groupedByDate[date]) groupedByDate[date] = [];
+        groupedByDate[date].push(article);
+      });
+
+      // 加拿大媒體名單
+      const canadianSources = [
+        "CBC News", "Radio-Canada", "Global News", "CTV News", "National Post",
+        "The Canadian Press", "APTN", "CPAC", "Ottawa Citizen", "Ottawa Sun",
+        "CityNews Ottawa", "The Hill Times", "Ottawa Business Journal",
+        "The Daily Courier", "Penticton Herald", "The Intelligencer", "Brantford Expositor",
+        "The Recorder and Times", "Chatham Daily News", "Cornwall Standard Freeholder",
+        "Le Journal de Québec", "La Tribune", "Le Nouvelliste", "Le Quotidien",
+        "The Guardian", "The Journal Pioneer", "The Western Star", "The Evening News",
+        "The Sault Star", "The Sudbury Star"
+      ];
+
+      // 顯示
+      const container = document.getElementById("news");
+      container.innerHTML = "";
+
+      for (const [date, articles] of Object.entries(groupedByDate)) {
+        const section = document.createElement("section");
+        const heading = document.createElement("h2");
+        heading.textContent = date;
+        section.appendChild(heading);
+
+        const ol = document.createElement("ol");
+        articles.forEach(article => {
+          const li = document.createElement("li");
+
+          const isCanadian = canadianSources.includes(article.source);
+          const className = isCanadian ? "canadian-news" : "non-canadian-news";
+
+          const p1 = document.createElement("p");
+          p1.innerHTML = `${article.source}<br>`;
+          p1.className = className;
+
+          const p2 = document.createElement("p");
+          p2.innerHTML = `${article.title}<br>`;
+          p2.className = className;
+
+          const a = document.createElement("a");
+          a.href = article.url;
+          a.textContent = article.url;
+          a.target = "_blank";
+          p2.appendChild(a);
+
+          li.appendChild(p1);
+          li.appendChild(p2);
+          li.appendChild(document.createElement("hr"));
+
+          ol.appendChild(li);
+        });
+
+        section.appendChild(ol);
+        container.appendChild(section);
+      }
+    }
+
+    loadNews();
+  </script>
 </body>
+
 </html>
