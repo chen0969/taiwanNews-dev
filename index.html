@@ -14,49 +14,48 @@
   <p>以下是最近抓到的新聞，依照日期分類：</p>
   <div id="news-container">Loading...</div>
 
-  <script>
-    fetch('data/news.json')
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById('news-container');
-        container.innerHTML = '';
+<script>
+  async function loadNews() {
+    const res = await fetch("data/news.json");
+    const data = await res.json();
 
-        // 整理資料：以日期分組
-        const grouped = {};
-        data.articles.forEach(article => {
-          const date = article.date || '未知日期';
-          if (!grouped[date]) grouped[date] = [];
-          grouped[date].push(article);
-        });
+    const now = new Date();
+    const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
 
-        // 把每個日期段落加到 HTML
-        const dates = Object.keys(grouped).sort((a, b) => b.localeCompare(a)); // 最新在上
-        dates.forEach(date => {
-          const section = document.createElement('section');
-          const title = document.createElement('h2');
-          title.textContent = date;
-          section.appendChild(title);
+    // 過濾只保留 7 天內的新聞
+    const filteredArticles = data.articles.filter(article => {
+      const publishedDate = new Date(article.published);
+      return publishedDate >= sevenDaysAgo;
+    });
 
-          const ul = document.createElement('ul');
-          grouped[date].forEach(article => {
-            const li = document.createElement('li');
-            const a = document.createElement('a');
-            a.href = article.url;
-            a.textContent = article.title;
-            a.target = "_blank";
-            li.appendChild(a);
-            ul.appendChild(li);
-          });
+    // 排序（可選）
+    filteredArticles.sort((a, b) => new Date(b.published) - new Date(a.published));
 
-          section.appendChild(ul);
-          container.appendChild(section);
-        });
-      })
-      .catch(err => {
-        const container = document.getElementById('news-container');
-        container.innerHTML = '<p>❌ 無法載入新聞資料，請稍後再試。</p>';
-        console.error(err);
+    // 分類並顯示
+    const groupedByDate = {};
+    filteredArticles.forEach(article => {
+      const date = article.date || article.published?.split("T")[0] || "未知日期";
+      if (!groupedByDate[date]) groupedByDate[date] = [];
+      groupedByDate[date].push(article);
+    });
+
+    const container = document.getElementById("news");
+    container.innerHTML = "";
+
+    for (const [date, articles] of Object.entries(groupedByDate)) {
+      const section = document.createElement("div");
+      section.innerHTML = `<h2>${date}</h2>`;
+      articles.forEach(article => {
+        const p = document.createElement("p");
+        p.innerHTML = `<a href="${article.url}" target="_blank">${article.title}</a>`;
+        section.appendChild(p);
       });
-  </script>
+      container.appendChild(section);
+    }
+  }
+
+  loadNews();
+</script>
+
 </body>
 </html>
