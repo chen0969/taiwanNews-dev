@@ -1,35 +1,42 @@
 import feedparser
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
-# Google News RSS feed：搜尋「Taiwan」，地區為加拿大
-rss_url = "https://news.google.com/rss/search?q=Taiwan+when:7d&hl=en-CA&gl=CA&ceid=CA:en"
+# Google News RSS feed（搜尋 Taiwan，地區：加拿大）
+rss_url = "https://news.google.com/rss/search?q=Taiwan&hl=en-CA&gl=CA&ceid=CA:en"
 
 feed = feedparser.parse(rss_url)
 
 articles = []
+now = datetime.utcnow()
+cutoff = now - timedelta(days=1)  # 24 小時內
+
 for entry in feed.entries:
-    # 將 published 轉為 ISO 日期格式
     try:
         published_parsed = entry.published_parsed
-        published_iso = datetime(*published_parsed[:6]).isoformat()
-        published_date = datetime(*published_parsed[:3]).strftime("%Y-%m-%d")
-    except:
-        published_iso = None
-        published_date = "未知日期"
+        published_dt = datetime(*published_parsed[:6])
 
-    articles.append({
-        "title": entry.title,
-        "url": entry.link,
-        "published": published_iso,
-        "date": published_date
-    })
+        if published_dt >= cutoff:
+            articles.append({
+                "source": "Google News (Taiwan)",
+                "title": entry.title,
+                "url": entry.link,
+                "published": published_dt.isoformat(),
+                "date": published_dt.strftime("%Y-%m-%d")
+            })
+    except Exception as e:
+        print("跳過無效項目:", e)
+        continue
+
+# 時間排序
+articles.sort(key=lambda x: x["published"], reverse=True)
 
 news_data = {
     "source": "Google News RSS",
-    "updated_at": datetime.utcnow().isoformat() + "Z",
+    "query": "Taiwan",
+    "updated_at": now.isoformat() + "Z",
     "article_count": len(articles),
-    "articles": articles,
+    "articles": articles
 }
 
 # 儲存為 data/news.json
