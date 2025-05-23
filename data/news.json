@@ -1,14 +1,518 @@
 {
-  "source": "Google News RSS + Filtered Sources",
+  "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-05-23T19:21:22.260976Z",
-  "article_count": 8,
+  "updated_at": "2025-05-23T19:41:52.622919Z",
+  "article_count": 170,
   "articles": [
     {
+      "source": "The Globe and Mail",
+      "title": "Intel Stock (NASDAQ:INTC) Slips as AMD Steps Up at Computex - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWGtsRzNtWXVtOHpLS1VuSkxJd1VRazVBUDY5OTFzeC1abFI1VGFVeG9MaXpEN05pMmJmNm16RFpUNVdaSkdZaGZYY1Y5OENST21vNUh1ZnVoYXFVRmlHbjBKU21ad292ZUJQTFNlamgwMUxmMDdrMERxM1hGaXlOWXRVTlhoSjlyR2NwM0J2djNpS1lvVGlsdTBQV0N4d3FTMjk3LWdWdVdjeDFBYy1xcEtBaThHaTdJcC1BcGM2dWx0OEg3R1RVZEx4LXFzSnVjQWhNNDJGSnBxaG9m?oc=5",
+      "published": "2025-05-23T19:20:40",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump threatens EU with 50% tariff, iPhone maker Apple with 25% - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5naTlOVzNUY3ZuU0pBa1R6YVFmUU1VUll5SThBTUp0Z0NVNUZhdS16ZmJubkk1RzhOOTZIakJXZ1ZVZE5TTlBJMWl0VVo1b2ly?oc=5",
+      "published": "2025-05-23T19:05:49",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Here's What's in the EU Trade Proposal That Trump Just Rejected - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXJmUGFaM21OS0ltT2F2ODRRQjB3Y1R1ZDViWnNIR3JwS1NtZ20tajFhSXpHOGx3dW4yVjNVbllzU3VzaVplYm5JcHpMZ0J1dkY1LVRWWnA5S21mclpmZWtZOFFRbGJwcTlORjFqVjQyYzZlUzZ1Z052d24zeEk2dHk1NUo4TXRFRTZVSGFNZ2VseXVIMURoYnhRV25LbWJXYTJfc3pEOA?oc=5",
+      "published": "2025-05-23T19:02:29",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump threatens 50% tariffs on EU and 25% penalties on smart phones as his trade war intensifies - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEU4OXVhR3ozemdtdGltU1ZXa2NOMmhnVDExTFZhV0ZoT3Nad2pUT1czNWJDaWduNWEtMHVXUGgwdnhOU3dYQzJPZXhwdEJzeUZYNXo0TkZxMktISmQwc2t3cU96d1Fid2ZESFl4Tk9VQnhGRGdfNUxyWGdYUzJwRVAxWmk1MjFjOWNWRk13SzdUSy1YTXpFRkltUWFOWHBLcmF4NXVuVEZId1hXR1RNSDA3SGpxQ2hP?oc=5",
+      "published": "2025-05-23T18:45:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump Signs Orders to Revive US Leadership in Nuclear Power - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRy1HV0g2SlBiWXQwS1hGakRJUE5OeHowN19xLXFKOURpLUN3NDl6eEtuU0tLOE5sY1BIR216eEkwNkxUQ3dGaE9wUS1ROVc2NUtMVzh1QUhtS3pJUnNnZVNkZXhTakxfSzhrZURxaWswSjJ0cEdQMWNWT2lHa3l0ekYtRkstR3lFdEtyc2hCY3JhYmJUOG0xZXJlQ3dyaU9XWFJGYg?oc=5",
+      "published": "2025-05-23T18:42:58",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Apple has had few incentives in the past to start making iPhones in US - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm5Pa3RZN2IwYjZzZHlIOUI2ZnlaN29wUG5lZVNtLTg5WGNRN2xHYTRKdVl0TTlxLW1HV3ZrNzJqRUNKNXVIaW5EZk9JdUl3SUVGZlJRc2hMVlJ6TzZYOTNDeEhSOFFYMWxPd01sUWthelNlSkxPcWV3cFNtai1wYmNwQnRMcnpfaTNTbURLSmZzbVMxV0RyVmlCc2ZhMFpHTEE?oc=5",
+      "published": "2025-05-23T18:22:30",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Posthaste: Canada's pension giants have the power to boost the Canadian dollar, says analyst - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90WUMzS1VVdE1sYTNPbVJ5N1ZzMGlfUTgxMW5xeUZJVFBLRkRPRnFxTjZoRVlSNVlTMENuRTFGVGlJTmVWNHZCWDYyZ2xpSWE1TkxZX3Q0TTBLdlBPNUM5VzE4cEUtMzRhaUxHRm9TMUUxQ21QOWlmZTFreUtVUQ?oc=5",
+      "published": "2025-05-23T18:22:30",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "'The most devastating news' — Canadian Harvard students grapple with Trump's ban - CBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SUJETHlaZ3laTWlJc281Z09PZnJJNE55QVVLMmVDYnJTQjFoZHkxZDVlY1JiOFU0dkw3UE1JNzRVSTdZNVozTWQ3dzBpMkYwdHdQZ0t2SFJfQnRnRVR6Q0FBQ05Na2VMTWJWM1FfaGZZb3Rta21xTDkyUWc?oc=5",
+      "published": "2025-05-23T18:20:46",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Sanction on Harvard’s foreign students strikes at the heart of the university’s global allure - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUVVcV9iM3hQSVJKN1M5NmRhbzN4c29PTmpsMlozRTBZYTcxclMwSjF0MW5xV2RzU1djU0NoWl9abXhaUXA0M2kzQ2IySGNQbTlON1U5QU50c2lVZTRvendBRl9WdWRMV2xtRXJqREkwNUVnTy1fZzVUOG9XTmhWamtKTVo3aW9rQlZpSmZhcXlER01PaXFBZ3FjclYtbFU0aXUzSld3Y1d0LVZwNThnakpIOUZ3MTVyOWttUVI1UWljY0ZtcWR0VUdVRdIB0AFBVV95cUxOMEt4TWRob1Ztb2tkd2syQk9GSkdzRXdYQUkzVEpybTdrMjFSM1FHOEdXQkwtOXhoeHJqeGJaMk9jNFFiSE50SHJwNnlIZ3BuaE0wTVRWS3dUM3NpZkRjcDVkRFNjMGhKRkFaR2xsOHBURGNDMkFweFZlT1lfM3Y4cFdpa0dVU09RWTl2MHFPcUVhZExKMnpRNjFOWTZvRmxHcEsxZzRlVWpCQ291dHR5YW5oUGFUQXJvbHFaOUhEeXdjX1BsWWlleUZCQUJ0b19H?oc=5",
+      "published": "2025-05-23T18:17:04",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Calendar: What investors need to know for the week ahead - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTC1zbkF5Zkl0N1Bfc1RzaGFMOTFrUktob1M0emxneHhETURVZy1LUUFEdGxQNDdmaWtaQkZMTUxfT0gzZHFNVGxaNmtuV2dONW9iQkhfYmQ4SWhxRzVIRW5HM043WUhzQ0FTRFVYNTZmS3AyOTJSc2gwYTVKRGlzRGtaUkpoYnZHdDVVeDNyR29PdHB5QjFZaU1fSUFYRUFna2dha1VucWZCbzJlRGQ5S1lUM01aRTlLUTBtZHF4RUI3azVPRk51Z1E5MmFIYmRs?oc=5",
+      "published": "2025-05-23T18:00:39",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Author Margaret Liu Collins Presents a New Edition of “God is Good” as an Inspiring Resource for Personal Devotion and Study - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPRGJyZTIwblZ1dTczSnBwT2tmb3BPNWVZR2NQNUF3RUVvR09IVGdGUnd3dVpoaUVJZ3JtTnpJNnpVejhTR0hnazUxblNJLWtKSjFNXzFLZ0p5ZFltOXpIVnotakVKdGl3dU5WRzhsMkpfUXRTR3lJbU1GTFRXRzZBcEJicDUzektKVERGTExfdi1QQS01aG9uSVQ2RTRaS1gxTURxeWVtYU9wVWlVcWVtNWl6SkVya0xsOFZ0TXhlUVlRNUlPUDh4cVFCTjJfeWdFUk5vMS1TWno2Nzd4S25HTFhKbENjWjZ5UUhLN0o4VXQ4X1ZPYmw2TVdna25vc0E4Wm5LM1g0YUx0eDM5QnFFcWh1R2xiTWVZUVV6eW1xZk53TXplTW9NOGJGWQ?oc=5",
+      "published": "2025-05-23T17:59:23",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "With uncertainty around life on Mars, human visits present an ethical dilemma - CBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40dTlPcFdMNkh6WURIQ1pwaFJDYWh2Yk9tRUpwbjFCd196WFB3Ny1lRV83NFJLVFdTam1NZ2d6WXM1VHpsbWhzcHJ6VnhHNllNN3hSNlZVQkg4TEpyXy1lcDBNUFVFX0I1ckJwU1ZtX0MyZw?oc=5",
+      "published": "2025-05-23T17:58:35",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China’s Open Door Amplified: the Upcoming Eighth CIIE Cements Role as Global Business Gateway - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUG1vUW9PcEY2ZUdQVlBVcXkyUVF0ZHpMYk1mcjVHc1dDMUd6UkR4RFA2aUJFRThUWnJ6b3pMNnh6QkF6MDNVVEVHVjlfV1JKMjRFdFNwZnBuSEh1RHJTa2xkbmoyX25VaHVNR25XTlYyZnhKVzlhV2pCZW5hUmloZkRkY01tR1dLMHhFVVQ2a2p6UnI1MHJUMk5rb0JaRWhIUThuUjJMSExpSWV1eHhLQnRNd3ozOEc2TTZUY3ROUXBMbFdDdlI1QW82TlNBTnBzUmNCWnhtR1RfV2lOYUhJQ1ljRTFTejNlbm8zeTFvV3FvYUx5SXNESW9xSFphRmRxWVE?oc=5",
+      "published": "2025-05-23T17:54:23",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "What's preventing you from buying Canadian? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XTXRCTkRnaGhvYnlHMW00eURrRjZyakFXM2dkTTNQUHNVXzEtemE1SzdJd19kT3h4NEVoVU1aOExHajQ5LUVTQXZGcFl2OEVE?oc=5",
+      "published": "2025-05-23T17:54:15",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Trump threatens 50% tariffs on EU and 25% penalties on Apple as his trade war intensifies - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNXNHV0ROckRlV3phNFFmVVlPVUIyOEJPZ3RtYzRDWmN2Q19Ob2dGRC1lTnlUcDByZ203YUJPdklJaDFpUXk3TWJYZ2ozd2VWSTB6SGVGVzhDUXRfUVVfOXcyX3pwQm9tcVdNVFNXTWpxSUNseEJQWGNmck1TMktRajhwM3NrakpEVW9nRERVRlZJWkpTdC1oc1p3WWs0LTRBbkh1M1JWZ0R3MzNSaUlsZFU0V1dIYTlqSFZpWjVPdXFQMW9IRFd1bGQ3WW9sRHBzV21JcDBPMjdHLXg3NnJYOWpHX2Y2RmJkVG4zcHQyV2hfZFBnMTRnNVRPNmRkSjNsaGM3cm13?oc=5",
+      "published": "2025-05-23T17:48:41",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "This Chinese Robotaxi Stock Could Be an Even Better Buy Than Tesla Before June - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQXy1oODRwLW9zTGJGXzJUclpmcEdsdk5ZRldXQTdqTXJHb05PaWFGVnJZd1JvNVRmaHlhUzJyN2lsWmtJYS14VElUeDIwV1VUUUVDdjZkaDR1U25kMEoxMURHWlRjdTM0NndUSHphU1g4SnNoYmZadi1OSU5UdUJ5RWx1ZmFQYTVkUnFiWXdKZzZacE1UTlB0S0NjeklBN1d2ckFHVkxucU44eWIyUDVmVkN6aXl3am1kVkI5N1VxOWFSenJUUGdFVEpGVjk2Z29HdElmenhUdnlQejFoak1wRjdHbzFlSWNNQXQ4bUxKdFl5QTloTmNz?oc=5",
+      "published": "2025-05-23T17:43:39",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump threatens 50% tariffs on EU and 25% penalties on smart phones as his trade war intensifies - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVF9EdU9DZGloMk1pRDVvdGNrRWJ2RkZFMmFvZ2gtQlBhdDVlekQ2ZDNHdjE3QWV6WjNPbzBYMFk2S3NPNGZQaDc1NlREOWcwN2ZNWXRtWUREbkRxU0FEbHVQQjlVel8zakJPUEp2b1NwdHFoemNIUkRLSnBiRGxXenM5OWk2OS1IcE1MaTlNUFlEaVViMDJxbjZ0eFFYNEFEOWZLZ211dWc2MW1RV19zbmVpNmxhQlpubWJ1RE1xNldrb3o3Y1RCUllSa2Z4Y0pueFJ4YUZaMA?oc=5",
+      "published": "2025-05-23T17:31:02",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Trump threatens 50% tariffs on EU and 25% penalties on smart phones as his trade war intensifies - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkNBUlYxbVhxSjdRQ3dPRzZ4VjhZTzJkMWVZczFCd1hzOFU5cjZfV1drb3hwMXo5MWgyRUdOMXBZTnhlMkgxdzRyWWM5bEFodnFWSFVxbkthcjh6LXh3MEZSc1U1SXdKV2tUc0M5dkFGWS1QVWZWaXpENWFHckllakFFU09RSFJXZHdneXhfRWF0RExOOGhxQnY5clRKNW01RWxXUlgwQWJhRWpvck1tQkRTc0dNV3FQWllUY2hHYVdMc25KUWFGTkhVamhFU3pWT0tIX2Y4WkVPZw?oc=5",
+      "published": "2025-05-23T17:31:02",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "viaim and China Philharmonic Orchestra Co-Create 'Philharmonic Signature Sound' to Bring Concert Hall Acoustics to Everyday Listening - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSGJYZjY5OVlJU0hQaEhqQmpIeTRqVUx6SU1MUm1sMjMydDRMMEN6a3hLQk9VNGQzVVJKZkREcUs1WDZfRmJHMWJJdjFRdUFURGVMeUpQSjNqMmJyS0N0TlQ1VXE1amtVaEMtaGZMbUI1aXoyVmdjVGRaek5CSFFkZDF4N0NhOXV6M2pVdTFid01qM3BVcExGVmJlbjU1OWZadWVRelRuSEJsSWFCaHIwZU1Rc3F6TGpvMDk0bzV5dHFwMUZxVVRCWWtMRkt5aXJfRDRncWhEQ01XQlNGTXprekZvLWliTE1tOUpCbmdGeS1uQmJxZGJYZkxSckFCTVZXQnFvdWlrSEJRUm1KM2Z6WEtJZ3ZxWDBiLURhYmR2MnJvUTFpYnZvUjBHaTRhSF95WUtEOWVRamsxbWNXOFIw?oc=5",
+      "published": "2025-05-23T17:30:16",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Corn Bulls Backing Off Ahead of the Weekend - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRW9GM3RDYk9QQVdLeEZYR1JLdGpIWmJCLU1oRmVwcDBobV9JcFVNTkpsVFdrYXVuZWgyckZjSHlDdVplWDZQQUlTT09fdnE2NnhtUmhJa0pPNURsS3hPUzFfSWxta0Zzd2RxRjFuaGRmUUNvajRUSUhwa2dweWhvNzBNS2hKdDctS20xNFVBT2dXUzJFaDVPQk1sWHFMcU5jVGctbG9GTy1TSGFTOHNEVURjR04xOUdhZGlrZEZtWHgwWjNqVkMzRUxaS0pQYVNo?oc=5",
+      "published": "2025-05-23T17:28:46",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "What's preventing you from buying Canadian? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVIwVzdTMDhVZGVBX0V3ZnJMcGRjSVM3RWxjbjNObUZyYklPQVFkaE0wNk5XRzdQcWlCVWNFNm5xelBRdUxrUTRQSnJhVktmbnh4ckE4RFVYb0R6S1I0bGd0NFdpQU4yZHRnRHo0SmV0NFpidF90b2JBLWFuaW83a3dVVzdNZ3hVZzUyd3Bjb2lPMnNfS3ZWczRnVWlZMXJMVG51b0ZNdU54cThaNW5mWkgzSVltRndUY3Z1S1ZXWjREQQ?oc=5",
+      "published": "2025-05-23T17:23:48",
+      "date": "2025-05-23"
+    },
+    {
       "source": "Global News",
-      "title": "CCP pushing people on outlying islands to get IDs: source - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DRGlGUjhmTVpIbGYyWjVJSFptTktUM3ljb19pWjR2ai1fb2RoN3l0VnhQNDFfZHl1SW9KZE1DUlRwenFCYnQ0Zm9RS2R5Z3B6TlZxMXkzdlROenBQcEFRellkT25yMlNPMTFQUTVkanB1VDd2S1luTzV3?oc=5",
-      "published": "2025-05-23T16:00:00",
+      "title": "Israeli settlers attack West Bank Palestinians on a ‘daily basis,’ locals claim after arson spree - Global News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjFxXzBoSGpTaFZ3T2xfSmtEaHNvQ2xlSUJOdWhuYUk2a3IwMW0wTW0yUmdTbVRWRGxNdGxuSkpidTV1TEVRV1ZYTmZfT0xXS3ZMMDRDOEhTeGcySFlvRGJIbUo4NFlzMS1zUjFpRzE1dDFpQ3RpaDNnM0xPTWotakZuY1o4TzNRbWlNS1dfdnpVNjJLRlhnN290bTVwdXhVUmctNlhuMVMtMndBWW5KMTFkRGxIZUFxeEpqODJiZjgtTjEyUWp4X3ZXM1HSAdIBQVVfeXFMTnVVRWI5dkxVSWlPVl9UNkU4UjlmWkxFSThoTUM2N09TV0x4TGpYUlc0MTZTbnNlb0FUdnZGQUlDa2JiU1JjY2FYa1l1U3RRMjZ2Z2w4MXlrdkZKQjhKTnQyWXNHMGdSMGpFNzlqdmVOQW1oeU9kOFhpZkJMMmtYNHFmc2FUQzBLQUFVRk5iSklsdUVGaGtaRWpGMm9rR1Y1VFphQWJMR2FZaUphU1hrSXNEOEllU01ZR3RGdjVwSW9tLVp6bTVqUHo0elpfSlRiTUFB?oc=5",
+      "published": "2025-05-23T17:23:43",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Judge issues temporary block on White House plan to bar foreign student enrolment at Harvard - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFZBZXM2ci1XRkJSTkpaZXMzejFsWHEwam5fYjBKTENsTXlfQU9QOTdXY3Q2TWxSaTAzNHpsY3BSU1FxWmNQUi0zamp5UU5LWHZqOUUxR2hVd3p3SlpfaEhXZkhucEhZTi1Wd0JiWWN4TmlBM1c5T3FWUzJMd3BNNTNR?oc=5",
+      "published": "2025-05-23T17:09:13",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "U.S. judge blocks Trump’s ban on Harvard’s foreign enrolment: reports - Global News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwcHZFSGQyMlpOeEZrV1VMVC1LTlhXNjBzUlVJb3JMQ2Y3REtLWmlIMmp4Skd6a2FCMnVubFZaWng1S0t2TmhFZWpDc1FFSFRuOHJ3cHdYSGpHTzFwVmlpSUFBbldEUFhsRU9PX0xKZEZ2bjhBQUxqSmZHNNIBgAFBVV95cUxPR05IU3NrTWtVY2x4OTBUWTYxZk5iQW80RzN2S28tQnUxZHlib2dMXy1zRDFGOVZPYk45d3UySTBYSmthQnlOZEo0RUxYZFVLRGdZV1pKekNra3BkWGZuYTJYc1dIaFhvQlpFaFBhRGpFZnoxUF9QaVJ6UVZPLUIwMw?oc=5",
+      "published": "2025-05-23T16:54:27",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Trump threatens 50% tariff on EU, 25% levy on Apple for iPhones not made in U.S. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0M0QWZUR0FMTXlCaTN2OW5UVG5CY1NyYmhRMjIxOTZkazNlQkhQSmlSQWxnV1hjeHVIcTF4dGVobi1kTE9VWEZpc0Z4alRUbmYyMDdUTVhXOEJ6dFdUWTVONlVQM2JiN3BFYkZ5VE9wQ05KVm1xdEdRdGJrZUdGRzhWYURxamhqaEU2Qk42MDd2Z1otbTBGRUx3RlFYYUluRmtj?oc=5",
+      "published": "2025-05-23T16:44:06",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "European Officials Urge 'Calm' Facing Trump 50% Tariff Threat - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjhkMjFIZ1NTS1dxak1LeDgzQTRLYklYRWdWWFRRaHI3cDlxNHJncVFweC1LZF8wY1JQTDM3Mzhwc2xrMmJ0MzBkVDNNM0xIS0lUVjJDYW42S1JfUGFBU2tfalY2M2lBRnRIZVJ3ZHhEOEhxbkRWSkJXRnhpNkxINDZnNkt4SElBUUlpUElwNDh5bTVWLUtpeE01NjljM2pkRFk4?oc=5",
+      "published": "2025-05-23T16:37:28",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Business Matters: Carney meets with bi-partisan delegation of U.S. senators in Ottawa - Global News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjJOWDhIODdVdE9saDVwNVF4MW1hV3JXSW1ZOVdHc0pZaE02YklFTVVQUjEzLVJNbzJzS0ZHMHBUeTJoVVZyN1Y4cnhMSEU4eHlyNmRiSkRFajZQcV8wYV82MEdCLVpxcEFVR1l3R3JBcTBJYmpDajdqVC1lTTdpWUdSc1luYTBGZk5LNVB3cmtfQTY4VFpTVml1Y2xlQVhyYkdDRUJNYnI4UHBwbU84VnFFR2MyT19ZaEpYTXlR0gHDAUFVX3lxTE9JVU1oOWZsX2tqUV9SS2hBd0VoVFNtcUlCUHVZNG9TcjlWQTNzM3EzV2lSWmg5SUhkdEhLX0NHLWlTc0tvNGFvU1hRTGxodlBkSG9URUpBQkRLVjJIYmdRYnlXWUNuZWVxNC1IMmctS01ya1VFSHByN25BV3RtNk94bFRpdHE0N2g1c00xRkVVVDhNM2EwZUwwMW5oOGhEbWxEN1pwRVlrdkh5LWJ4V0dQZkc5V25RekdLMUt2TnFSSnRmbw?oc=5",
+      "published": "2025-05-23T16:35:19",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "National Post",
+      "title": "Hundreds of Canadian students potentially caught up in fight between Trump and Harvard University - National Post",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVWhiTGg5cER4SjRkUFpMT2NxdmhwU0JwQnZrMkZNLWkzVS1ZY2VKTWJaVUF4ZmNnSFZiT0cyalFqWmVKcmtKSFJSNUIwWE9XaUNaSFZJZ08zeE80WlpCd0p3Wkp6VnlGZjBpbkVYYjltYzRnVF9mdVlCVlMwbjVlY3Z1a3lHLWE0RFV1MUFjcFhYQTRMdEt6a3dSSm5EWW1UMjQybmMzVDg0QzBWZC1Lckt2bElHY0dLaVlnWjJhVzhDbERseko1QlFnOXlpSWs?oc=5",
+      "published": "2025-05-23T16:33:48",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Thousands brave heavy rain to protest Serbia’s crackdown on universities - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRV91Q0VkSWxFbW1LY1c1MGhINGNJR05NNU5DZlhOVEpGZFV4SkJxLUJ4bzdrTzI0UlVTekVmSG9Fa3lsbWRuZGU3RFNsZjlNSzI4SVNZLWlyRWFCR0RVTnlCR2VXSHF6b1dUZHItNGZVUGxOdmxHbk1raDZlLThHMXRnRFVyUTV4eGdRQVlQVjJndU5kMUhwQVkxWkdBSTRyaWpQdnc5cDlpRGlmVjdIbtIBtgFBVV95cUxPak5CekM0MlQ0cGRnOGRKY182QndKUjBpZE5ETldjTzBRUURheWRDSDdMeHJmaWhhZm05eUlYekcyZC1GcWpyRm9EOU1sR19mNzlPa0F4blBlWEh2cnBEanY1Y1pBdURzMEI5eEZpN3U0YTk1ZVNaVW4yZ2xvX2dqWlFodHNpMkRZZ2Q1SUswSjNuZGRKejNSWmhQS3o2TDdVVWlkbTNid19sUW0tMnZKNkRvZ0Ewdw?oc=5",
+      "published": "2025-05-23T16:33:42",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Canadian Harvard student says Trump’s international student ban is ‘anxiety-inducing’ - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORW9NaXdHbTlJYW5pdnREWWNLUjFEWllRdGF3ei1RZ3hVcmxxWWljcUFOZmw5ZDk3UThBZnZlbWxoaFZhZy1fQTJRTXRhQ0pHckRoMEdFQkdtSWVINGFWVnFCTk1IM3hybVBTZTZLXzBHelJDZ2pEQllrM0JDckRDVHdtMF94dDVpOThIZHBrWVo4Xzk5MDlfM0xLWjNteWdybi1aenNsMTh2VE1VamdWdUM4R0lJYnF6bVVjd3h3?oc=5",
+      "published": "2025-05-23T16:33:22",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump threatens 25% tariff on iPhones, 50% on EU imports - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlR3R6enM3ZGgteFRJZVlEeDctX05wSk56eExxZzRGWFR0V0ZfQWs4Rk9WUF9QUm9wQ2tacDZreVZBVkhibEhVcVNZTjFsWG5nckU4NExjV2wtQQ?oc=5",
+      "published": "2025-05-23T16:29:04",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Former Saskatchewan Broadcaster pens gratitude roadmap - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3lsV0Ixel9FOVRqTk5mYWYzNE1oakdRZ3VNU1VQTVpGTjlVVTQ0TWlYNVRlVmxaMk50NE5WWmhXR2dzZFp2NzEzRkhobjIzazlSVDNiaEY4aDVvU29UcnlCQXFYbmE3MkpvVkNTd2RDSjJ0RmhLaUJEVEowUXhYWG9GRkxSZ3VZd0JncnZtcnRYektFLVNQYWVkM3RZVFVBZ3dHZ1hSYnI?oc=5",
+      "published": "2025-05-23T16:26:01",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Communities in Focus: spotlight on Winkler and Morden - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmxfbWZCVmZaSjhlUWpmYlBBS1lGRXJ3R01YcE93TTgwZzBkUE5CeEExa3hwOUppejQ3cjNUMlh1a24yUm5JS1ZVNktLTU5CTUk4Z2Rsc3BKZkozaEx0aE0tXzUxMDBHWFI2c0stNVdYQmN1azJoMmtmUFppU1JwNUt4Tko?oc=5",
+      "published": "2025-05-23T15:58:46",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Oil extends weekly slump as Trump floats 50% tariffs on the EU - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VQktTM2ZCZGY4TmZUb1l1aDRKcjRWN2RIbjV1STg4aUxNZTBKY2dkMXZ5SU1JNk1tTmR3cTRiaUd5a3RucU14Y0tKdGpicm5IUHY0VDlYcVozZnFnRXpzLXRaRndPSGNzUkM1VHJjWkZTcEd5ZWF2NXVR?oc=5",
+      "published": "2025-05-23T15:45:37",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump administration investigates border shelters for smuggling, then sends them more immigrants - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0hjNkZzeGZHeEV5TFQwOEhiQVZabTdodTFBWGJtSWNzOXpvd0FzQXJNRWo3SnI1bnVZZnJJeDN3QWptLTI0MTdUTFUzMkpPaE9rbmMwOUhRQmRXWDc1NmZteWxGWlZ2N01kZmVraVBlQUo0Y0xTWWdSdnhaSmxkeTI0Zk5OMW9BdXNqNHQxczZWMkR6OWJvWlVoZFZmeWd0SHEwREVxRk5aNGdoWjNTSU1JZ0lOQVlqNmpDck5KbUxidFk4U29jal8wZXp2OG5S0gHWAUFVX3lxTFBGb3pmVjFqT0xqSDZRNkNfaFExa0hlcWRMOVQ4cGZ2VE0wMmEwOWZKakJKRXM2alNyOXVUaWhYVFE0eUhlb3B2MFdYcjRxNy0wVkltU05fYnphd0hsZ1pUeVduZU53eGZiTkg2RlV5SUc3RWRSQWlnOThwX2JiR05SLUtaZEw4cEtHdVBoc3ByaXllN3h1NUd3YzJQaDhxb2tVRkdudGtzb2R3bDR2SVJjNkVYTXVYRTZtX1NFc1FsSnV5RkROZl9hZ0lPd3hSUDd4bHpDT3c?oc=5",
+      "published": "2025-05-23T15:35:06",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Canadians’ future at Harvard in question after Trump bans international students - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHJ1QkxDX09tbDhnbjlNQ1dBRHNMMlRiZkFWVnppY25qNHNVWE51VTlrTElMTmw1WkpqdFhHbUZTT3drS0luYmJpUjBMLWtBMV9LSUdVV1F2bF9WTTZSVDlXT2JRNXBTNWhma2VrbERoeV9zSFNaakZuSGVScGRKX2hPUnVzdFc3eDlmTF9NSS1mT3liWi1XdFphcFF5Nk00eDdKeTZ4UEhvUnFMdEFVNWI2MUppajhmYjRz?oc=5",
+      "published": "2025-05-23T15:35:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Canadians’ future at Harvard in question after Trump bans international students - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2NuQWxxeUp0X0laRV9iTVBtZ09wby1fVWpIdGNDcjRFNVJHOXJvRXNfRFlKVExaR0E0aHpmWGV4WS00LWVtc21obk9NRGdTWlBrakRxM3VZWWZWU1lIMklCVDJhcGRZY1FhQWw2MFhDUlM5Q0ZrSExKcUJ2NlUwNGZGWWwxV09GWEVjOTlXSk9iYkllWlVyLU1VRkVTYXdCOFc2Vld5ZHJSY19fWXBXZHBKODMySEdBQlhV?oc=5",
+      "published": "2025-05-23T15:33:30",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "How Trump’s trade war is upending global economy - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckFGTVhpOGdySUJPd1huV3I4ZGZSVmFMXy1xVmxzWFJGaVVxYlVsZlFIMW0tR2t3bVExOWMxZFBOVzg0bmp2QnhvcjB4c2xyNGd5SkVnUVd2cDJKVURXRlNKXzh4ZUN6dHhqZE5ZbW53TnU4cWUwMHFHczJCb2VfQ3JpM1ZOa3poVDFyb3oxMU9PZw?oc=5",
+      "published": "2025-05-23T15:31:41",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "How Trump’s trade war is upending global economy - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUm1hWXNTOWVEdXdHZTE3c24tdWcza0VZUHUxelZac3JjaVNPd05jWXR4YW9XZk1haHVwNzl6RElDRVM4eDlWZ0sxRlVTMGw3MXQ1NlBIMmpjWmZaS2xPNGRmcHpKeHdqeW9JZlV1X0xkS1dDbngzSy1leVR6Y2JRQy10MmF2MVR2bEdITGlUN3FFR0Y2em5GTlc0UQ?oc=5",
+      "published": "2025-05-23T15:31:41",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Harvard sues the Trump administration over ban on enrolling foreign students - CityNews Winnipeg",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU1qVGUxTWljbUFvQmtRbWNaOWEyUHlKaXRzdEdMTUQwSDRDREx5UHlXa1F0cWlySVg1NjNGd1k1Uy1SVHBWbWpqemVJN1RYVHNEOHpxQWtLcTBkS1FNLW5UMmRtWHJxbWVYa1hHQ3dabE04NXYtMS1ZQ2I4bV9UWm9sRW1VbldZM25HNkpxMjdTUVFiYXVtTmZEQzZEZnlVY3lIUjlJbGo2S0FEWkRQYU9SbkQ2Uy1i0gG-AUFVX3lxTFAzT3VGdEg4X05GZDAxQURLb01FUlFGM0x4dlBrTkdZWm9kc1k1Y1lxa1k2dlh1R2dKSjFuRUExVzllbFo4Z3NoLUhoMFM1OUhYLTUwdVlXczRqNG9IbjhfTDdRUW5CSU0tRnVJNElFSmt1dTNERnh3OWVIODRQU2JhdjUxbkNVMGpYUjZhNzZEdFJrTENQSUxscHNNMFpoS3NsaEhRdHlvWXAxQ05vSnlUNDM5SlpVWWV4Y3Uyenc?oc=5",
+      "published": "2025-05-23T15:30:39",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "National Post",
+      "title": "Donald Trump threatens 25% tariffs on Apple if iPhones not made in U.S. - National Post",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2dEbGJLMUdSYk1XbmJIMzcwcFExdDd5SHVubE8zS3Fja1Jzc29fSFBMQ1JYZnBCNjFXamdZV1NyRWZ2aS1UVWs0WmxLZmpieWcyMnlycXNsbVFJOXlrMHltQnNSNVhsVTdydE1qc0J3Q1RsclE1Y2dydzFMejhPa2tjT00?oc=5",
+      "published": "2025-05-23T15:18:08",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "ONERugged Exhibits Rugged Terminals to Accelerate Industry Intelligence Worldwide at COMPUTEX 2025 - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTFJJazhfMy1yV1pxUlh6cDlPbHJMYUlMRE9FVkFNbmdJVGNMNFdZWVJzY2xPUTIyVkxWczV1VDFLb2dKMkJqbEZ3Q1B1UEQwX2RIOWhYQ091a3NVVllUS01palpMSDNlajBPRm92YmpndHVGSGNOZ01ISkhhaU8yNURMdm05MlpqU1ZlR2pBaVJxblEwcnRXcGt1dkdqN01LVTdCemRXZHQ5aEtxNzd6YzdsN1dLcEFybGt2WHZRMGhEOGlkb3hBc2QwdENyOTNWQ0Zjc2hhMERtMVFMNXFRTnVoWjRMNUtCeTNsZ29UeVh6dw?oc=5",
+      "published": "2025-05-23T15:15:51",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Inside Out 2SLGBTQ+ Film Festival Celebrates 35 Years - Global News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYThscHBHZ2J4V245YU40OFp6U2pTWnBwQll1bml0bm5TejlwNlRuWjVSTksweXZoaTB1VG5NVjdUN2xVODZHSmZiLVgwaEtoMUJuaExPMk04bEFkbV9zV25vQUYybWctbkRfRkIwdkFmT01mOTIxTVE4aEIyM3M3NkR0a0dxelRrMUJHYVVTQmpqT1Bj0gGaAUFVX3lxTE1HVGJVVEFMcFB2eHE4Z3kzSTNJaHhWaUtyMWQxQmduckNFTUIxNURDRlNXM3ZJNGU2ZWdvY2ZHNmtaU01pblEyWVZjMHBaclh3UEFVcjlSeFFVT0daZTQ3T1ljOEFvbkNicHJkWGpqaXNNV1FXWDRmZDN6RFdGMTVVUUhKQUl4ckZ4ZGNrbng3SDhrODR6a0ZQU3c?oc=5",
+      "published": "2025-05-23T15:08:37",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Helping Hands Jamaica kicks off annual Jam Walk to support education - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZk04NEdfcVFKZy0wekMtbFpuMEZoS2l1WnZQZmREdVVGZVhrNGxsNTY2aUlMdGxCZnlUZFZ2OUlteWgyellUQmw3QUI4UkE3Yll4ZUpiOEE1OUVnYjc1czFsREJnWUwzRl9YME9vcEFoWkp5djJPVHBIRDBVZVFQaVo0RldHTndlRllOcVFCNm1SMHJvQ2xIb3lrMU1GU1NybnFHdWpraEN6Z9IBrwFBVV95cUxQUlUwTjFSOWowYU0ycXlEWWhXcFpZdzY5cEtWc0VEZThnTjNZZUZuYWlXM0tkNzM2WmhrenBXU0wteEZ6YTlmaEw5SXlvNlM5cG9qMVhrUWcyX3VwdnNyYllVWHZRSWVza3R5MFU2N1JUdjVETTBGRjY2UEtxVnFZMkJxR3BLcE42QUlHRkgtUUZWWl9EZXpWMU5VSHBIRU9YVmljeEp4ZncwdkdTSGFv?oc=5",
+      "published": "2025-05-23T15:07:54",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Canada Post Strike Averted, but Overtime Ban Begins - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3FhSk1TaGNjYlp6dzNOUVZRN3p0ZUhoV3U4aEhHM0tvUFEtbkdMMnc0VTRXSnVCUEpnVkJ5REpXUGRBT2tadDRzNF96X3pDOTU3aldTNHBrX1ludEppVkVRVU9jY1AtdFk0S1BFdnNLV3pMTGt4c0lGRjdHWk16MlNiVENlVzQzTWw0VGdjdlFpUdIBlwFBVV95cUxPREdkZG5MbzZmeXlsQTFhenJJWW1pSV9wclp0TEZGcnVlS1FvVnZqSW9rNjZ5eEZicGQtcFNYY0RiRnAyVEpMM2hyNVVrOVMtZFYzcV94TE1nVWdvRG1mS3dGeGViVk9PSVdCY1IzSUpKdTVCekp6WkxPanU4cVJYbFEwUnFFWTUtVTNFYldLTldXSGZrZnFV?oc=5",
+      "published": "2025-05-23T15:07:09",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump threatens 50% tariffs on EU and 25% penalties on Apple as his trade war intensifies - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DOHFiWGNFU1QwNk1lUzI2NUk2ci1qNU5zYU5LR0owYXBPSVRSX3A2bEdIbFN3bjJYME5BcHZtWm1pZTVwVmdPN0x2d2Nrell6alo0REJ3WjFGbC1GSzRnM1MwNExGRkhDRFR2eTNTLUJreHN2eXfSAXtBVV95cUxNMHVNUzB2cGx4VHRlUzdadkM4cDZhNEo1OUo5SmpnNlV5a0haNlZfQ0dfVFpoRTAwSDFuR0VmdDY3ZmlvRy1qQmxHal9Xa0w3M296QjI4RWlwTUNkOXpJZllhaDV1Y1k1LWwzNHdDcmY0ek5oYVZNNlhqTDQ?oc=5",
+      "published": "2025-05-23T15:04:20",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Hot Picks in basic materials: Nutrien, FMC Corp. & DuPont - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUFYSy1jTWFZSGZKOXJ2QTUxV250dEZrSURuT2FWWktna3JhS09nUXg2dmdjQnozQUlWalJCRjJZeHgzcWlaNmJrUWxaYi1Vc00tQ0paTVdfZTE4SG5fSnktanN5NlJwbU0yeGR5bFZaMEJFNzJub2VyVzhzQWhrM0djUDRVOXlfVldPdUNaUHdyRzZmU0FIZF8xSi1qZnRQSDRqMGhTbXR6dmlBTkJMX3NyMA?oc=5",
+      "published": "2025-05-23T15:01:10",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Trump's latest tariff threats knock Wall Street, European stocks and Apple lower - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbzBRbFZmV3ZwZVIzSlREMFlycnd1VVBUb0ROcUM1N2R3MkJiWV8yMlA5Q09zNlAwYnlNVVZoby1sQnd6WXVvaDZsMmtSSnctdzgyMTlzampZWUIyNW5EQVlNQVRnNlBheV9SZ09JT21BRGQ2WlhoVVJvTlJkYU5iNTFjd0R3ZTNpNGJoNXZmeGRmZHFaSklFbl9za0FDSHg1dXJ3YVBxSEZ3T0lPUnFfVEEyTjFiUTlzRVZtMmd3cGNnc0tob1FTdTRYZ2V4WjhPLUxRTXlZTktZRWw5b28ySkJGZ1JMQQ?oc=5",
+      "published": "2025-05-23T14:53:21",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Trump’s latest tariff threats knock Wall Street, European stocks and Apple lower - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTVaaXYtR3VUM1VpZHUxTmIzQUE2Xzh1Wk5OdGkzS0pFdkNXNjJhbTlfT0hGWTY5N3hzNW5vM1YxaHN3WWJvUVJReGp0MloxemR2Y21lTWVpWXVnUG9uQVp3Z0dPc053V25rVG04TTByeWk5ZGJFVzFQaWtwOFZvWGl3cVVOdGZtQ0YwUkVDb1NTcmNPeEhaSm91b0pVZTZTTmVmOE5HVVg5ejN3VEJxcUE2cEFQd2ZhdlJQN2E3eWpLVUxycTVDV1R3?oc=5",
+      "published": "2025-05-23T14:50:58",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Nova Scotia makes changes to temporary food permits - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbllZZHk5SHljMkxGTk53UTJ1RThNTmhoZkNkTlhCbjV3LXhTQXA1b3g5S01Ia1Q4TTctX24wUlFyNWs4R3dCdzRSZWpqNVh4ZlFIc3MwSnNvX2JQaEtUc3N6VVlGSnJ1Z1FBSVh3Q0l5U0t0VkVsMnpRWHNNUUZqd1hhcUhWX21Fam5laml2a0lTMzRqTTdVVk1lbUd1Qm93LWJYM3YxSQ?oc=5",
+      "published": "2025-05-23T14:46:04",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Can Apple move iPhones production to the U.S.? - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2l0N2RxN2ZVMHlrZ1F4WklSVXVrdk5tUGNkZ28wN0xuRjhiT2hHTm54VFlWMFFjVlFiQzludEY1MHhPYmhmeDh3N01BaHNwNXpnMTVlLWRCQ3QzMlNubkhaNDN1Zm84V1Bycng5UktMRnNnMjFTOFljaGVtSzNJdV9CbTJDUTMtbmtvLXpCMlVMaW1OZ0FGN1g4Sm9vLUJWUE1FNkxHTQ?oc=5",
+      "published": "2025-05-23T14:44:48",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Chad Morganlander's top stock picks amid market uncertainty - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHBiTTh3LXc0NmZIU19SOGNGTU9FT09xRzd6ZEw3MjZJTnN3bWRYQWVUOEk1a0NMNlJScVF4UzZ6TkxkMGJ2Yjc5cmoxZDRndzliYVVsX0pIeG1qalpOT0E4N3ppZDRVZEc5d21ZQmFFY0JJRjFnQXBtTjlCaG00QXFKQmdXbzJ5MGxVX0IxVWw0NjhhcFVtRmRaYjQxdVQzYTNuSXJ1WV9CODNDUXVDSHJyVDZfY1dRZ2pR?oc=5",
+      "published": "2025-05-23T14:26:04",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump threatens 25% import tax on Apple unless iPhones are made in the U.S. - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UbnRuRHdaSnJWa2U5SERTVjZobXhFdjRrLV9Id2pUblI2QzdyR1NEU3dELXFuWnZrNXVqOHRaWkZBR2VlZGM1YTdxbjY3Y1MydEpiNVQtVjhBNmFUdHN6U0dUNWx5X0w3a2h1NW5ONXpsRVnSAXhBVV95cUxNdW13R1A5TnFEa1FlbHRFRldxTU91RGF5S2pTdFB2d01IcDRUaUpWT3RlX0FtQnhQeDRkV1c1RlltdzM4TmVrS1JxN2tkY2swOHhmb1JsWDZEREVCVW9JWU5PMDlIYmVsY2RrazlKNV9Sby1LWUJmV00?oc=5",
+      "published": "2025-05-23T14:21:16",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "8 world leaders, including Mark Carney, who went to Harvard before Trump's foreign student ban - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGsydzRJdVFmQ19UUUdEcVdkS3VhbXBSd2V6U3YyeWhPd0ljRHpIcGJ0bnNkNzQxR3FiT21yX2cydndYeUlDSEpVdm5qM0k5WHplYlhOQ0NiQ3JzT0RwNWhLT0hzeVdVeVl0bHFRanB4UDFSaUxGSjRaNElpQ1cwY0wxSTM?oc=5",
+      "published": "2025-05-23T14:19:55",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Cathie Wood Goes Bargain Hunting: 2 Stocks She Just Bought - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc1JpYjNOOWRxTk9HTEpIU2l1MzFIY3NfX21mZnAwOXYwZGU1bXc3QVFmV3ZCQ1A5WkJveFZSMkdwdzVSYUhCVEtwWS1Wd1FENWZ0bkw1YndOM182Q1lpRlFmT1JTR3NjZHJOdHdpbGRkZm84RlE0REdFWFA0NEVJQ0U3VER3V2kwZmlQc3Awdmtlb1RndlNkY0Jka3h4WldxWElic19ScnRGaUtVdFNxa1NISXdLbzZ0dXViUk5tSE12OUNVdDl0OG80Yk55bDJiYTVRNFpPUTRITEVv?oc=5",
+      "published": "2025-05-23T14:17:22",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "US Tariff Countdown Heats Up Race to Turn Talks Into Deals - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2xIcjk5Tmd5SHJDenBPcWVxRThlUkFQRXRhbjVlNmhweFUxcDdhR1c5ZVE3VGMyeHAza0pjOFNhSkNTUFRoZEpLeS1RZ0pHREV4VkZscktXQjZUeFhhbU1qWFFSRE8zS0JNYkpfUFhELXNhN0JxMkN4Sk1LeXF2VkEtUHBBZFNJNWhDWUo1aExQSzI1R0JFdDBaakFPSlVQVXVPbzAtRlV2Zw?oc=5",
+      "published": "2025-05-23T14:15:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Harvard sues the Trump administration over ban on enrolling foreign students - CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnRtWDJsWXVoeExNb2o2X1lpdVlreVlwbkZUZXZfWU1IeFpNbm90TWFSblExNTlCT21sbE5zQ0JmbXBoUWRQbXdneXVyb1VDWFo4aVhldGVwbWdCT3hPQ2NMZWpzbURtQnZQb1hyaVBQZlhXNEpPM2NQdEUxakxXLUtXYmpMRzl2U29ITXEyMGRlX1ZIbUpBVXF3SGF1cUFVZmNVYlpobDZsc3VUS3h4a011VU5tdjBM0gG-AUFVX3lxTE1XWFdZY29HbDdwQVp5VGJXeS1FS2VuTnF3b2JQaEtyaEFMZ1M1cE5PVTRwdmMxc2FzMkl4aHVmZU5wVUxxdnRQQ3lsV1pYQXVfaHdFR0FiMEUya2JRZ2l5c1FjVGFnOVVOZTc5TXdKS0RqZklDWUJfSWptQUJBQVRmaGNOUEllUFFXUHJqR0RkYnBadmd0VUxCNFRWeDd4aFQyUWd2UVZKQzFLWFBGaFJjMW00X1RSbGp2ZHBzYWc?oc=5",
+      "published": "2025-05-23T14:14:52",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Apple under pressure following Trump's threats - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkxxTmhQUm1yY3poZzZ1Z0VjcU8tTzBXYTMxYlNLWWZDejE4TWlZeEFndEZ6OXYzSzdkVFhMWGdpLVlSVTNtamRiaVlrQ1Y4eUNVdF9EODVKYzZjWWcyVWtncHJpSHRpenRJOGxBa1JtWFJxeTJ2Tkg5cjAxT01TR0t2TWhGVks3em1zVm5peDBFLUFKU0FTOXJTVXB2VkhqWTFOVlBXb2prdw?oc=5",
+      "published": "2025-05-23T14:01:01",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Brookfield eyes more Singapore deals from REITs under pressure - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHliWklZcmhtUXotYkp4S0NwYjJlTUtFWDlPUV94TlYwYkFJVXFMeWRPbmhOT28zLXljaDJYbGQ4YmhLMGtEN05pbnJHeGVxQUJaeXlJUlVaMVp3YVdma1hkVDBzWkN6aWN3RjhOSjlBcjlFUERjaDUzSmJ2Q0ZDbHhJSzZqWWM5VHZiQg?oc=5",
+      "published": "2025-05-23T13:53:10",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump rattles markets with fresh tariff threats on EU, Apple - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vdVR2aS0xSlVIQ2hwWWJHdmU2Mzc1ZlYtMEdiYnFJcFJMT2VnR295Ul9KeU10anJkNUxNaEF3VlQ0cWc4RFRsendSdnRlamZGWTNIbVJRdm9NeG1ESjRaZDRxTE5mSXJ1YTN0d1hQNUd3QUE?oc=5",
+      "published": "2025-05-23T13:50:29",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Stocks drop as Trump vows tariffs on the EU and Apple - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1pLUEhiMGx5Y1l2MGw3NV9oODR4dDNTNEdoR0trRlZ3UXJkdDJpTzJxRnl1RTFwblNQV3dJTUF1dDZlMEVtR2NEUndLVElYTnZFU1hHU0RQUUFFYnhFclhGeFpqLUY4ckJTbUVJQ185c1kzTVpwZXNJeHZUMGhDOU4zTno1dmppSG1McFo4eGotd3ZROGQ1bndXcUV1MzFEUDZyN3hneEF5RzgtcWlaVjFaUTM?oc=5",
+      "published": "2025-05-23T13:42:34",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "What a spike in bond yields means to investors - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTY1ZTRiMXlIZzQ1ZXRnbUNnbU9qOFFHaHlxTHhDX1lVUWU5M3ZxN19zMDZVSDd4Ml9aeENzbzhyUDczNl9jeU5RcFZ0MG1yS0JoZUZSYkY5cVZYb2VzVzA4YzRjLWVoNTd5ZUVEUTA2RW1HbDNwanpkeUxsZl9qUzFTR2hPdjhrdXdQNGpuUkZ1NThvRGVrMG0wVFYyeUtoWW5MSTYtUU51ZUU?oc=5",
+      "published": "2025-05-23T13:40:45",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Why El Salvador President Bukele’s foreign agents law is fueling democratic concerns - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUk3VTJRek4xMzlmTGEzckxXQk9xMU16VHpnTURWX3Y3bWQ3T3ZNR25OT3p2dVJjUEQ4WEE0X1E4RmdDZ3JDQUhTS1JxQkVJUHpJWFVzYVhtX29pTXNvZW82N085cVVoVGZ5QTNNSGJZVElOM0dzU3dNRWV4ZWd6V1Mwcy1MNTRtS1EzX2wtaXM3d245Y1NoZGh1anpzQWpoeDRjMVduUERvbm9qNGhKNG5iOW1DYkdJNU1lNEdTS2fSAcYBQVVfeXFMT2duU285WjE4a0dYb3Y2ZGExaEZzOFdSQ0hYRlNuVjlVUUh2ODRPLWJfLWVVLUNnblcyOU1CNlRabmNocTNMRkJTZTZqNXVQUnpIVHFmV3loM25RM2o0OVhMUnRpYlZzeWZiMkhsa1VfaVZPTFNBVmI1U21mOENBMkRxMTlxMzk2S2NMZ1hKbnJaSUhuYlVvZGZzU3pSZklKTEw5WFY4NnE3czI0QkVaOG16UzI3V0tKREtheXdQeXZXZkZPaFp3?oc=5",
+      "published": "2025-05-23T13:36:59",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Nvidia Stock (NVDA) Teeters as it Faces New Chinese Hurdle at AI Olympics - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS3NDNm5VMXpqV0VsNklwVk43WVgzVEd3QUFsWFFlWnRpemQ2YlM5WjJ4NkptSGpCTTJmUjZfc2I5V1FfU3VPc0F2Y2dId2pycEEzQlNiWm51ZmFsa0g2N2hET1N0YlRsdlpka19TamVrVEhwaWd0Z0t0TW84dFpYaFZUeC1tc2ZyN3FDcElMT2FpRkRTcXB6d3RtTmNXUnMxVmMySTNveUNOUlo3bVpORHN5ZktxYWttWENTTjFPX0FrRklfRnE4X0syam9pU3ZuZjhtLXV0Ung3Qm9XX2o4Q1lrUGpqVU5JQmJuelZYWTc?oc=5",
+      "published": "2025-05-23T13:20:43",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "The AIH Transcript For May 21, 2025 - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkluVG5GM0RDY2pYZUV6SUxsMzdQN1JibXVIMmpQQjA3UHIyNWZOY1BnY2pxWXVheUxWaDhQZzJCMk1kbklnQ2p6SEt3cFN3NVFrbVFxVkEwWTRFa1pORzBSSDFxMHY0cDhCLVktUDNiUU5WcHlZWkhJU2xPRkN1cndYcFdaamV3?oc=5",
+      "published": "2025-05-23T13:18:57",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Harvard sues the Trump administration over ban on enrolling foreign students - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEdKVllfRWRZRDVKSDlPZHlaUjVNazRiYUdzNHRjY3lvZVE4WEJKNUJLT05JdnNrVXBLU2MtdFloU1N6dUZnTGxHWDRDTm9DcHQzaU4wel9YcTMwVl9YWEc2Y1dXbDIyTG9kMy1PdnY5cXhGb0tXRWphb3ZzVm1vdEpUbUhzUnNUaFc4RGJTYU1iWC1FaG5JcWZEZ2ZXWW4yUi1fTG5MdWJiUHZpdXAwc1Y0a3JpWldTbXfSAb8BQVVfeXFMTzVqVklfOUwtU051YnEwZ0xHcEZERTFLQkc4dTlUUkQ1b1F6T1JGbHBOcFdIdWJWZ185Smdxd0VPU3BSQlJmZXpmdnAxMm4yTV90WkFRVWREQWNjUXZuUW5hODkzVFZua3I4dXBBQjlWN0h5RG5hT0pOZFc5Mkd3Y3NJZlJfTmpkbC1veWYwLUdNVXRERTMwV0pZejYyb29UTXNycW45QkEyMS1Ob2Z2aEpqVXdTVXZwMXVSN2p4OGM?oc=5",
+      "published": "2025-05-23T13:17:23",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Tariff-fogged markets leave investors flying blind - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOME9zbjQ3clBwNmJIUUpPUmR0V1l1VkZMSHpQNjE4cUNhMGhoYTRuXzlNaGw3U3FQVWVLbXYwdS1HZVhKQUo1MlNEb1QwemsyNHk3Y0ZjM2lZZWpTamd1ek9MTUp2ZzJYNUVjNWlPbUVFSkNmTDAxbGhVOV9SX2xpU1dTbXBSZVVzOVFpNDdUTXlsTGVONjktLWh0dmw3Um5uQUpz?oc=5",
+      "published": "2025-05-23T13:15:08",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Jamieson Wellness Inc. Announces Redemption of Series A Preference Shares - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHR4RVVmN2k2ejViRTlUQzVDc2xpVGptekN6MXJZQ3RuZDVxWEhadnRRbVNsTUVXTmxUUlVldDRtSmlJdm13ak5aeFJOY0pHZmhyTTdXc2FBdEc2SndySEt4LVZBTUNQOVdZX0VDcnU1QjBGbWVNV2g4REpKWnduX0xCY3JHTndXMVJsaF9QZnEwaDhrZ3F6Z081S3BqUDlGVFNkYUs2eVFZbkFMU0t5TWNKUFF5RHROeUEzZEdqMVJkWHpZOEtpQlc2VzJjZDA?oc=5",
+      "published": "2025-05-23T13:14:56",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Harvard sues the Trump administration over ban on enrolling foreign students - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdy1VM0g4OE81ZGVtVDgyeDN4YlNMblk1YU53NkhDUnp0WVZ6RXhNQTdqNm9SVm5VWTlFS1dYQjhvbkhyWEFQSi1sQjhRdkFLb1lGMVJiY2hXQ3pEWDBMR0Rqa2tJeV9qQi1vbGZ2bmhUR2RUSmMyYTBIajRNem9adnNkREhXeVZvd0JKQTcwSVBoVlJxOXZXRmpJLXNud2tweHljQVoxTU5kWVlnMjRVa2FlbGxXODIx0gG-AUFVX3lxTFBXdHNMcldITWNTejVacXBwSWtWWDNYVmFZdThhdnppdkZCbVN3dzNYZXVHS1VSQnpTVjZCd2NaRVkwZVZ0NTZKN1hhQS1oZkFfa3F1Z2dOd1FOSEY1QVJJeS03REpQd2t4Qi05WW8tQXBmTU12TmJkUlBwQkpJclZta3kxb0NOQ1Y5WmFJVTVjWjNUY2ZISjdIZVJmOE1RVFVLaDQ2OGVya08xbGRtcmswUTJla3lvMEliM2dmWHc?oc=5",
+      "published": "2025-05-23T13:11:27",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Pollution & Pain: What this Canadian endures in pursuit of the fastest 400 metres ever run - CBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEo3YXJCN1Z3RnJiTldKUHZJTnR1YjVNcjBsQ2loZS1UbDEyUUhvVlExUU44QzE3RHlzek5ERUNFc0l4SlRFNllEblFtMWdrdk8yZTJVMG8zN2o1aTNKXzR0NEtESFFwUnoyRVd2Q3hzcElvdDBQZXh3TmFkNm8wOVBqWl9NVGEzdVEtX0pXQ0pWZ28?oc=5",
+      "published": "2025-05-23T13:01:31",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Harvard sues the Trump administration over ban on enrolling foreign students - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjkzUl9RcEtwYnc1cTd1MEV0VXN2UDdYejlSUU1DS1dDNDB4OGUyYVJCUTBza2J0YnBMLXhsRVpMX3U3bXJXMzA1bFNQMFBDNlN6T1dhQnpEVEF1QlZSN21zcG9WVlczcVVES0ROaEMwX3BNTWl0Ti1lQmhBaHNuNzFzWEhGZ2lmTE1oN3pDeFE5U28zTlkwVnhuWlpkeGFkRDF5Vm9oWVF5Q2dYQmlHa0lxOF92ZEnSAbwBQVVfeXFMUDhfaHJPclFfSVBpaFQtTGF6eUg1ZE9VY0xROHE2RER0eDhRVTczOERyYXZCQ1J3aHFDWWo4S0RXMmpBbFZRanoySXNfMXJrUFpYZ3BnNlREbDZ3aGlSamc0VmZPTUF2U0hsV0F1eHNySlg2elRoY01zSXhaVWhPZzlXM1FReThuLW1mWl9KbHRmVDdBaEJDMDliZUhzSEhWTjVHU01tdnFOUFBOUG5MWXBMN2p5VEFOMU1XdkI?oc=5",
+      "published": "2025-05-23T12:52:41",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "National Post",
+      "title": "FIRST READING: Canada can save the planet by feverishly pumping natural gas, report says - National Post",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjBjY29EZDRRWjI4Y3pGMmV2WWY4ZF9RU2MxXzJVR3hkNFd1dDNoWmVXQk1nQWo1Q1JKbWluc004dnlLRkxXcGJGT3ZMOGY5VWUyZzIyTXRPaGFFSHdPaWhkcG9tcmRIUU1rUDk0NExmeFdfSUhDbFBCNzFoZmtCY2p4X3Jici1idzlPUVY2bw?oc=5",
+      "published": "2025-05-23T12:52:20",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Federal judge blocks Trump administration from barring foreign student enrolment at Harvard - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONlFyZHNjSXRTWll4UDgtblhiTm9vejQ5TENneEwyY2o4dldiSlhGejNZdGxyNEw5V1dUQmxJX0V0R0NMeGk5Y29yLXRlWFJ3R01KVFlTZlJRX1EtLWV6c2hBc1VXa09UWGdkX0wtck54c1VUMkNySThKRG9KNVNnSHFia291SldxWVBLLTJwazlueVF2U0cyUW5JNGgwdTRza1NBY0EySGVneXBnMXNmNks1a1RSMWRsNDNjYWxUSGRlTjE4OFdPVQ?oc=5",
+      "published": "2025-05-23T12:42:59",
       "date": "2025-05-23"
     },
     {
@@ -19,6 +523,83 @@
       "date": "2025-05-23"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Corn Post Mixed Thursday Close - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmRaVzBIamNqWjR0WWFKbTlOOElyTmN0aWo0NlN4dDFNTGI1MG9SZV9LWVdlR2x3OG8zc3Y2dzN3VG9vcWVGX3hyQjU1Qk1sRkM5VUFyanotTk9UajZINVdyMjU1bmNyejFNNkl0RmRLVzhXdEZiYkJnQkJlNmlzNVd4Umc2MkdyN3N2V0pPNkpCeElXZTVhaDd6MXF6aDEwVmtGSUQzTzg2aVhEd3FuTnRhSW4yTmVucFFhc09zTQ?oc=5",
+      "published": "2025-05-23T12:37:28",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Harvard sues the Trump administration over ban on enrolling foreign students - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFNRTFZrZ2hSN1Vpak5WZGFlNkhGNDdubkg3RG96SkJCN0pOMjFiYzRQdkRmOGJVc2p3aWswNE00aWJsZld3UWtMeno2bUwybzZSODVGOXcwNERwTGt1WEdkaTZLbjJZM2c5ZHR5ZmJIdlhWNEM0R1hEeVN3V0dqNHVwVEVTVWpyNjJyQUs0QWdxWFFpek92NzEzYnNGMGhWZFBCS2hOUE5fTlBfYUg5V2ZtVXpmbnc?oc=5",
+      "published": "2025-05-23T12:35:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Hogs Look to Close out Week Following Thursday Losses - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFVDU1kwRnJPZjRKVHprb1ZtQUxYQlpkaEI1SjJTclhNWFNkNHJidFBIdjkzTWc1SXBDaklXeWw0N0xYOXloR3h6NVpEZXRiQmpIRTEwdVRuZTI1SEdybnlhdmhDNkY2c0RJZ1ozd1FrZXJKeUFjTzFwTVNXenNSOVRTQjNNekw4bE91LVBuMWtUWUw5V3NvaVRWMnRpMEFlc2lfMlJWc0Nhb3Z2Rk1VaDJEb1VsRDQ4dmR5cjIxc05JNnJUWDFYdW5Ya05wc2JpTHByZ2tETnZSVXhwMEE?oc=5",
+      "published": "2025-05-23T12:33:28",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Suriname Elects New President to Navigate Its Impending Oil Boom - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmxDa2JWelJPdG5CT3B0Um9rT0tmaUhTZ2FoTmF1Yk1aZ0p5bzNWQzdUUG9TOTcxYmNsdnBlMVNDdWU2TnVYb1RoVWV6eHhGbnI1U0I0MGU4SjZWM0ZmUUVMeS0xZWRBa21ERS1lMW5kMWQ4YmRDVjV3Vm8yV0VEVm1tOFU2Y1VfVkd0Tm1BQlc3Q252WEc2MVA3NHQ2NGRUM0ZBdWxmLXJmb2c?oc=5",
+      "published": "2025-05-23T12:27:25",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump threatens 50% tariffs on EU and 25% penalties on Apple as his trade war intensifies - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWVFSU93YVNHcjZLTmM2TGVTSjBFME5EUTN3QWZibUJMNVA0R0hRTnNDY051TmQ1UlRqNlgzbG83S0VSa2hOWlZ6VFUzWXdmNE9CbXlJWTBlT3dLT2NBN2o4eXFkQlkzSjFFNG9FalZJc3c1WXdNR3lDY3JESEp6RjVR?oc=5",
+      "published": "2025-05-23T12:24:53",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump threatens 25% tariff on Apple unless iPhones are made in the U.S. - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2o3V3JGaFNiOEs5SGRmWkotZzZYREs2MTB6UG1jVm83VkNlRUJWc05yd1Jab05MNTlSczZmNGxWeGdMWnVMTFNNUGZOUmx6cGl3dXZuYTRiZ01YUS0zZDJYcmNhdUZRNUV5ZkhoN0dqamFFWk5pR3k2ZDhFdHdoUVVsVlQ2Y281R2JUQg?oc=5",
+      "published": "2025-05-23T12:24:49",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump threatens 25% import tax on Apple unless iPhones are made in the U.S. - CityNews Kitchener",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5RXpkLVNEX3RIZDZtUkRiYmF4eFRhV3FTSFNxbjZEMm5YTV9VaE1KQzBCQ3lhdjN0UEtkSERrcEJ6bUFYOVR0SVFMTUVUN0V6bThWaEwwbGhmdXBUN2JhSktycFpmMFJ5S0ZTY3g3ZHdsOFFWNFhz0gF8QVVfeXFMT1JZcHdrcEtVcTFUc1AtdkdtSWptQU9mbHUtOGtQWnFQcFM0emxSdmxzU3U5ZjFfSU1jVkhiVTNrcHRfU2U5eGMtekJPLVZYM2dOVkN3ZzN1cXM0RVJoYjJmd2ZjVHdqTkY3RUZ5RkRIRDF5bkhETHBlQk1hSA?oc=5",
+      "published": "2025-05-23T12:09:14",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump threatens 25% import tax on Apple unless iPhones are made in the U.S. - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yZTRBbnBNbnpUZjBLVDM1NGxEZE9fOXFRbVp3SFBvZFZGNjd1aldxWTAyYTlpdVNncUJDcTM5WnI4STZ6WWxNVm0wVW44YVczYUNMYlJXOHdnajVoNlZ1VERzRjlWRGF2eE1BQkxZTzFjRW0wM1dn?oc=5",
+      "published": "2025-05-23T12:08:41",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump threatens 25% import tax on Apple unless iPhones are made in the U.S. - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNaDg5bDRIOTI1NHhKYnhRLVpiZGx2MTZCWUJYVUxGRUREaEdtYVZDcVVtWlRZWEwyVkFmWmdKeVRYZmZGQWpMdFQ3THpxZ2w2eXpSUUFWZzJPVDJQQWI2d1hMM0FyRXhZRFZNLWgtcEVNdG43?oc=5",
+      "published": "2025-05-23T12:07:32",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump hosts $148M US crypto dinner slammed by Democrats as 'orgy of corruption' - CBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BenRJR2x1VmFOdlpfMFFLemUzaUVHYXJVYk9GVGZzQWxQd0hqaFJaTGx0NS13Y3Q3SHBBckZOT1NTS3BNQ2paV0JzNFBVX0FRcEpldmNYQjBTWFF0TkxfVkppSUxJMTZYbm1yQTJZOFVVY0pkVzBrcg?oc=5",
+      "published": "2025-05-23T12:01:48",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Trump threatens 50% EU tariffs, 25% for Apple in latest trade war salvo - Global News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zVWloQ3ltS2ZSelVPSU01S3o4YjhFekFpSEFWRHQ1d1djMjF2V3NFbF9TWmRKZENzTmFDSXdPVktJUmo5bFZzYVM4aDQ1U1hGWGZVS3hNdGU3Q3ZrRFpVYmVEMTg1MjdMRS11dDZqOXJtX00wNEZnZktWSFZOV1XSAYQBQVVfeXFMT20zNjloaUw2R0tWQmtfZ1ZGdEJacFloRVpEYlRoSy16RkpFQlZKY005RWR3alhKZm5fVEFFU09XaVlReXZZelFtR3hSai10V2V3amlrZ0FPLVQ3X0hMQWo1cG9BM0pLeUQ3bTctYmc3eE16cU5IUF95c2IyS1pRdnhtTjBQ?oc=5",
+      "published": "2025-05-23T12:01:47",
+      "date": "2025-05-23"
+    },
+    {
       "source": "CityNews",
       "title": "Trump threatens 25% import tax on Apple unless iPhones are made in the U.S. - CityNews Toronto",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TbkJwZlhNdHZPTmNoazc2MjVlR3JydjNaMFBNbGJkelFaRS1DaDI5T044cHlIbXpsZEF4cUpGeWxiWWJpWFo1QnlTRlR0WlJLYkdTbnkxdm5xUGZybjdkaVg1dUZIakQyNEZIYVlCcmxFZVp6?oc=5",
@@ -26,17 +607,199 @@
       "date": "2025-05-23"
     },
     {
+      "source": "CityNews",
+      "title": "Trump threatens 25% import tax on Apple unless iPhones are made in the US - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1RzRm9jZnFVQW9SazlFMGhINnptQzNQcDFpOFNUcHJSVDFyRV9BTzZsY0ZaSHNBTnJUZERqdVJRV1VEemhrNWRJQTdfZUd5RzNrNFpJN3g5eDZWWk9FSnN6VGk2OWVYWGRyYm9iTDZqdVhGa3B2TXIzU1haSms2RlFYeWd4MEF2U2g4bzUwcnFLcTFKTTFXSHJwdVAwcjlHblBfc3RjVldIOGJpNHdZRFln0gG3AUFVX3lxTE4wVnRrS001enZTaFU0dmYzcEpqWFU5dUZUaTFtWUN4WnRPM3k0bnltMVBpR0pLV1BvaVpkOHVPMTlaMTVQYTJsSDRMdk1rdVg1Q0w1QVU0cDFpZjFacDNoYkk5aE1YbXF6OEpudGdJNldsczBKMnMyTXJxQlBGY2I5UVBWTFRhd21USm9YTmstNnRRYVFtV091RTdpNWNZdTRHQjBycEx2RmxfRHJYcUs3SGZJcHZQcw?oc=5",
+      "published": "2025-05-23T11:47:53",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump Attack on Harvard Students Reverberates Across World - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlk1MVpJeTRsMjZyRGp4T2Y0eVRYcWFYWTFYOUtGR0dmcHFueDB1NVJKdWxfUENCTXEzUGxlQm5VNXhBdnQ1SkRQR0ZQMEJlSVNaWFY2YVJLMERJSGE3eHhUZ2N1N0xvSnlmRElHSTIzVEZfZm9YQ05pM1BvdUczbW1zdWdLZzN3R0Qxejd1MHliTlp0bGNPbWtPX0E4LUZ0VV84a1Y2Z3Y?oc=5",
+      "published": "2025-05-23T11:37:13",
+      "date": "2025-05-23"
+    },
+    {
       "source": "Global News",
-      "title": "Canadian PM to Taiwan President: World leaders who went Harvard - financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEJlbHl3VGVYc2x2TllhcldsVndKX1hDSTlUek5OVzNBSUhOamNZVS02U2hGSERrTUFkLUxTVy16Y1VFLXpTYWVQTDI3dmFlNDhQZVdUSmVDZmFfanVIcTQtVEctR3VBZmpjNjlPTFdPMUhDT2RoeU02RDZGa29XbnBzQ2pNM1JuT1Y1bGd3VUxwSG4tSXM2Vy0xU0F5bWhBQXBmWXlIRUQ3Tm1OS21HVnlHTURvQQ?oc=5",
-      "published": "2025-05-23T11:16:04",
+      "title": "RCMP, local police say security planning underway for G7 summit - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2V6Z1laX2l1SGlCMkRXc2xndzN6V1FIak9JMTJrZ1RjTEUxWllHVGhWREM4U3p5VUhqQWxadGNYUEZIWU5OWlBDOXVQUHo3YTJPOHR4Tl9RcDIxTFQ0VnA1Xy1WZ2NNc1MyQTBwWXRjZG52NHgybVFNeVFMYk5jaVlpWXpPQdIBiwFBVV95cUxNQWdlWUdBeVVhZmZyQU1LYVF4WUx2MzZwXzA3eGktNWNrQnQwcHBUaDZmVS12M1hTWGZJbGs1OG1BRFE1Q2JnWGNuUkpmOXpYZ3BfUG9GSW5XOE9YQkMzYndheWdISXQxdkxZLTlZYzNtVnczc2phZ19IVEhKTmpnTzYxUE1UcVFfaXhj?oc=5",
+      "published": "2025-05-23T11:19:03",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Homeowners spend on renovations and repairs despite the uncertain economy and higher prices - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDVNYlVCRlg5eWxKbi1jSnBnTllfVVM5cnhkdm5nOVlQZFBJVk12ZUJGLW1IWG1QME1wSzJIanFfb1NNazY1TzJVN3ZURXB2bVluNEhFQ0cyc0FMSjh0dG9ldGxjZUttUmM4SlBLQWVILWstMTNpMnZFM1JPMURfSUUydzFjYnNfRkRBOU5sODdCdlVfRk9DWTVDazlxM21PaEJQQmpENFpDUU5yUmF4X2dtanNNSDhVRENBUk9sTExUdVFnb1Q3MmpyRdIB0AFBVV95cUxNSVFvbjNxclJuRXFleW5sOHhBWlJuWXVuek50TlZrbGdOYUdRb2RuSG1MOEpzbGVmWkkwNHVvYnRZa3ZFMGJFdkdydkFxazdxMUN2bWhDYTNWVU1udVY3enJYTnNIaUp5c1hWcE5TZjRsQzZsWHBSQmZselBrWEROZ1g3SzlzV3N6aDY4MFdOT25DN3kxV29oQWpuLVBtSk9ydW1HX0JsSjByUlpPWEgyWndoRnU5blA0VnIzUWlhZlQ4VFEzUWIxM01semo3OElR?oc=5",
+      "published": "2025-05-23T11:17:43",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Homeowners spend on renovations and repairs despite the uncertain economy and higher prices - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0EycWxJVEFHTExRbmVKRWE1akg0WTNyQ180cjF3OTZFTzgzSWZzcTVOaFk3ZVhsNUZSYThBUlJCa1VMR1JHMlBKYlZnbkNBMmlBSDh4cHVIV2dRT3Q4alVTdlo5Y2lxTGQ1TmpjcFZoTmVQWklLU2R5SURHVko3SFVCa2h1cmVPOGhBTGhxSVlCODhjMGlvMmZ3cE54dTFpNlhyMl9oZDFVVTRXWmhheTAtd09id1pwRFMyaU5R?oc=5",
+      "published": "2025-05-23T11:11:47",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "3 Mighty American Companies to Buy as Tariff Uncertainty Lingers - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObm05NmpzeHBYdjRGbG8xRFVqWWhvY2RDOTdLTU90S29tT0xONkZqSnhpSERZVnA4a29rdXV4cFRlYTdMQ3JOUU5ZSnZEQVgxTll2XzBESjEwenh1bDNMU2lGSE1MMmFFMW5nNGs1N1JkQUNhZERzRlZUUjVzY3VBWTNwRlZpNzNkb0ZQeFo0UldyN1o1T2dJQjZVWlV1WXVkdXk3MjVRYVJCQVFvUGpKb2p0N0ZhWWcxYVB4SWZub0xDelM0TUF6QVpjVk82NVhWMGdoQV9qYU80bnNIamQzcld1UQ?oc=5",
+      "published": "2025-05-23T10:40:08",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRkFOYTE3Q2tfemU1U2Iwb3c0cVZwNGVQNXBrd0RJSE9kbDg1SWZrMTdTbFRxRllYTmZueXhOVmtJUGpTdEVxelg3d1llRm5ZRl9nTXh1VnJhY1ItYnVoU3QwX19BX3pPUnl0WjBnYTRNX3djdUNIY3k3aFlyaGFUQXdDUnVXT2JDcndiYlVGanpCRmZCWkZJbUp0UzZzZlhINTUxZThlUEtCYXpRbnJ0bWhUSUtNdUdXOTdRUHhRNjlRYThUWk9CTVZrSkdoRnhWdVhsb3ktRTlTV3ZvZGRUWlNqOUF3TmxKeEljTHpodFhScC05RlczdkpR?oc=5",
+      "published": "2025-05-23T10:39:21",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "China criticizes U.S. ban on Harvard’s international students - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOanRxRVR5RloydkktNHZKbWlaeF9QdFltalhjVjl0TFdaSTlnYXBjWmdSdHlKcGc1YkRkbW1Ga3ByOFdWUEpTQTdhZ2owZmxfdkU2d19pTG9FbTg3YjRKYl9xTXlRV1ZjZnRuT2ZLZm05ajNNa2puUF9URDRLMkJ4anFIaW1CWUFmUm90QVhUV056YlJvT2pER2Eyd1I?oc=5",
+      "published": "2025-05-23T10:36:20",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Jack Mintz: The King will have an easier job with throne speech than Carney - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUtmQTBTeGdFamo4c25peDBKZlZiUnFURkNicVBZaWoxbmxJX0JmRkUwc2N3YzFBdUZGOURjYUpnbDRadjlybEc4bVlSd1JOMnY5OV9kakhvTWNadWJrQnpYZS1oU1lrY2RHeXMtNWd5cDVEWFV0Tk9QMXB5eUNZQjNKY3d6cWQtVmpjOC1pdw?oc=5",
+      "published": "2025-05-23T10:29:21",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Terence Corcoran: Is a plan to build an all-Canadian EV the key to our auto industry's future? - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdndQMkE3THNaRFNkVm9rWjRvRHBReV9YTUJ5NmUtSFRrQVNZa0U0RFNNdWoyaEItNVd5SVhaVnFHSUMweVJKSFJNLVFGN3M0Z3hodEFHY0VsczBlV1Q4b2VqS2tjMEQ3cmhHdWlhcnh2Sy16Q1cxMlNmYWZhZGV3akVPMThjRngwUzMzcmhXaVhZWUhWa3E1dEwtZUxtUUZFQm8yam8zUHF6dVdrWDJTQzZubmRBUjFiUk13ZmhLcTdYMEE?oc=5",
+      "published": "2025-05-23T10:27:12",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Billionaire Investor Stanley Druckenmiller Just Slashed His Fund's Stake in Tesla by 50% and Quadrupled Its Position in Another AI Stock Up 2,800% Since Its IPO - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOckxVM1MwMjR2QTF3WFNTZFlvb0hNRnZla1lEOVpEOTV0cFpJRHNPaGNCZ0FQc0lHR3J3QloxSVpsZlJsOElVS2dNV2xuTlY4RldoZ0pjUXpJbHdXbzRVMHYzUURiT0JfQXVPOHVrYWlteGFqdHlEWWhfYlFfc1pyenJrcHNYeHZFc0cwOVJWelJ6YWdzRTdEM0hwbDdQM0R2RTVBQzBnQ0FYdUpDUXFEZGFZTURRcnZieTg0RXlldHBPNWNuSU5Ndk1TUEpDMFZPcnFtWnJ3UllqNkpKOWUxRk1aZ2pNOGdTMEhfZGh4N0dEd0sydW5Oc3IzT0ZHUGV0clFhLUszVjNEV2l3cGRQRk0tdVlYTERKMTlQOThydVE3QlE1OWhaS205b2pIT0R5R05zZUpqWmRDOUNweUl0UndCZkhDc1RobHZnV19hQ0tKczJzRG9oaDdtbVZWSTY5dHc?oc=5",
+      "published": "2025-05-23T10:00:21",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "BYD Stock (BYDDY) Bounces as it Snatches Tesla’s European Crown - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjRQdUFwVUVlNlVRSFItbHFtR2JpVnMyM2t4blExaERjVmRVcG5tWWVqRVJKRzlQUnpCV0FkdklqUWR3S3N0RGt3amg4eTFVdFdjMlJRYWRaSWxnY1RpdzdILVJhNDhVSDVMMFFCUEZHZVpsTlllUFVtamk4WWZ1LVRhN2VxcUtjMElQT1Vpa2lyRkRiVjNXX2hMQkJzY0xxejgtV2dYcldOa1RJRFEtekJFcGhPVVVKbThVYlFMRS1qb2JSYnZGdUpMM0drSjM2UnNMVXFqd3BZWXNlYUdJ?oc=5",
+      "published": "2025-05-23T10:00:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Morgan Stanley Says China May Have Already ‘Won the EV War.’ Here’s Where Analysts Say Tesla Can Win. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYlJGSUxvS01paUtmQzk5Z0ptY3A5c0Z0OTl6Z1lZSmRQYXFhRDVGLUpiYTFNS2xaRHNGOTZtU3dQWHZLSkF2Snh1ZnJHZGVyQ0h4SmQ2WUJnSUw5d2ViVUp6VHUtamtEaGE5WVRPWUxUSE5IYXFiVVcyRlAtWVRVRnVCVEg1TkwwWFZxVWVheHExZXBBUnBJVUpsZk5icE5YMm9VM0tRNmZZaGhaYnBrdXg2dll6MkUyZ29OTEFuRnFEMTkxWUtBNjlWa0h4SXNGVTMwYlZ4cExmYV93amoyWExLNEFFbXp5ZmdYT081VUlJTHRqamNCaWo5ejJMM1VSS2F5TVphVndKNDBwTDVB?oc=5",
+      "published": "2025-05-23T09:45:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "China criticizes US ban on Harvard’s international students - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3pibm1uQ3JFbmFBLWxwakNtbEF5QS1waE5wbWtyMThSZkpEWGRQQnpIbGxGb3RIbjJad25nMEZBakhVMlNxbFZTdm12Wk1vV2ktY1F6N1R6MTVkdzRfRVd3M1h5SUFVNGZiTmlmRjFnV2hUc0o5dy01N2NyZUlqdTA2ZkNLVVpGLWQ5MV9lVlhqdjI0SHFyV3hwLWZyUlU?oc=5",
+      "published": "2025-05-23T09:44:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "RCMP, city police brace for ‘largest domestic security operation’ as G7 summit nears - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHdjc1BIQ2Z0M3ZHVlVKMnRFVVJ5eEQ3UWNpdS1VaTN5dWdITTU1bWdZeFd2ZVFOU0swYVVac1psbmJqcjVCYWpzSGlYS0hyekNFekc4Wi1JN2hqZUFNTUIxWlZLbXVzeWZmamZvbm5WUExNZWxQclF6TjlQQjQxdGZ3YjNWazVOY2hGY1l1TmtJSnJ3cTd4V1RYa29RMWFnbVBlV3g2OFRpTFNnU1FacnRYYkxtOG90bTVKalVtYw?oc=5",
+      "published": "2025-05-23T09:24:02",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump’s latest tariff threats knock Wall Street, European stocks and Apple lower - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGI5WlRBOXBCbGxZaWVLdnhJbXRVclk1TzJBOGZVOXhmdFBZT2dDTF92cTJOUDJHUkJWWS1XNVhoY1hsZTR6VDhGem1ZcUlkS0QtUnExUVh3enRSUlZTY2kzbDN0cTNPeXNGRDh2Z3VtYkhkaXhVZ1g4VldUSGdMVUtaNmZaVjFoMGNoV0RORHhLQ0JlOXZqZFExQlJfM05uZnFsemx0c0tWOGp4ZF9lN0J3TQ?oc=5",
+      "published": "2025-05-23T09:20:46",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "CUTERA SHAREHOLDER ALERT: CLAIMSFILER REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Cutera, Inc. - CUTR - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNQ1Y5SlI3bFVRZmcyWXF0Ykp4RHdka3l4U1VOLXllMzdmQnVONVFkVkpzQVMyNF9TQ3d0QUFBdUh6cTVrb0RsM1Rpd3J0a2hpSk1ZWDBDS05LZmhqQnl4bnFMZ3h4WEczQTd1ZFNuT05keU8zYlFvQWhTNy1RVnVYb3l5enpobkZONllTY3NGeGU3Ym9BX1B1eHlEbXhPSXVqRGJRUDQzRUtIN2o2a1libUZFejBHbzJ3UThZbkhwZjBVV1FsMGVZOEV4ZE50TTdlNDNrR09UXzRoWHcyRTFweEQySlMzeW1oa1U2XzEyTUFZWUdXSm5UYnVFVE5XZVBCaGZ5NFNiQVRTeXFmdzV5OXB5dEhlYkVNalhPYkpsMnVHYVRDaEVkb1lmYmRMbk1PWi1QVGd5SmJXWXQtSE5tV1NjUkpuZlJPbFVKVmFKWEhTMEF1MWpJZEhIdXljMUtOWEhiS1RvMnFSdw?oc=5",
+      "published": "2025-05-23T09:02:53",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Alibaba (BABA) Eyes Global AI Dominance With New Data Hubs - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYlBJUndneVhpdVhQQUJBeDBqeFNhVEtwZnN5N0RCMTctWmlLNjRNemxneEVYRm0xbmxBeGRqVmRIUzRTNVdEb0dBcy1odmJYTEpiTk1ZVTV5MkR0ZkxZOE1VcDRfbWFXWkdiRFltQkVmTnBXWVZaUkZXVU1Ed0ZaSTF2V1A2ejBNUlhycHNJemEzcERUU1pFMkRYZkxqLVVoWXdQa0xYWldxSnEzNUF2ODA3MFBIQWtpTzlTS0dHR2VfeEluZzRzYXMyVzdMSmYzUVYwckhJODVPZw?oc=5",
+      "published": "2025-05-23T09:02:06",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Closing Bell: BCE Inc Pref Shares Series An down on Thursday (BCE-PR-N) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRXFkSnh2N2tHMUFyMzBDUWFiSlFEMDBFV0dndjk4Uy1pNVFKYnZzQjNncXlZTHkzVGNCZndiV1RURDl4UUtGbzQwOE9xalQ4QlZDakRtMDV4RjF5TTFnMkRtMDVWWTYwMm9vc05KaW40d0xtNlV2UWQwbzlzY1dsM1doZDczTmRVX0F0T3FzUnA5bVpBbXJVcHBwY3M5QVBoTktZU2dFM3gwMXhQY0FmblM0XzU2dlZKUnVNTWxYc2ZRU3V0akZlUUJQZHBnX3lBM1cwcFpxX1dJbERsSjBkdnpJSWRGZG1WWC11SmM3bnNjUQ?oc=5",
+      "published": "2025-05-23T09:01:12",
       "date": "2025-05-23"
     },
     {
       "source": "The Globe and Mail",
       "title": "This Is My Top Artificial Intelligence (AI) Stock to Buy Right Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOU1ZUEtVZ0dyUUNVSFJ0QVZNT18zX0M1a2cwQ3hoU01kOUVrLURSV0xiQ2duZ016ZGNwNTMzV0tvUThTY1hQWktkNU55RW9CeFBqU0ZGaXFLRVE3ckVqOEg5V0xDcjZRUHZpMlcyVll1dUV5NWh0aTNMRzhjX3NtWFFRXzRUZU1jRkVOV3ZxaUhLaVhJdFNWY2I1WDBXM2pNUUtUcnM5Qzh6TTc1R0g0bG8zVWJLWnRSTVRCZUFJcW5aMWNFQmpfZ3BwRUZoVkRRUzNjSl9DRUJteFNpOWNpakllMC0?oc=5",
-      "published": "2025-05-23T10:14:29",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnZNUHNjQklKbnlWS2FVVEZoVXR6TzQ0NTVheEJ2dWliWFdEdDBzcFNheVRPLUY0X2ExSVh5NHlpU09udWExaUlCNk40WFNVYkFxMzF2NlpTZ01LSkQtMUhZcVBvdk52NlBfNFBxdmdMN09PcHhoRW0tcE9TR3NaU21NQkFaQUJJdUMzdkw3d1pVZTEtOTdaQTlqRW1SVGJuXzRtQy1NNWduQzR5elZaUVN2aTl1NGduT2loa1FNMHBmTkV4aHd5N2dpNjNKcWIxbDh1ekd4S3Y3eXVWOHc3TE5lYW9nQQ?oc=5",
+      "published": "2025-05-23T09:00:09",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Investing for the Long Term: 1 Unstoppable Vanguard ETF to Buy and Hold Forever - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOXy12UnZaVWlseXRqbFN5MVBZWlN0VXhHQkZVUEdwRUpqb2RFZW1kd21QLWozay1EaF9saFBiWXpna3Nnc0g5clJqaTFuNllRV3VfRElmdFpndG5PYlAwQmNESG4zQ1BQZk1jZjBVVzRlTjkwRHZIMWJNRTgwM203QTRIeGxDa3BjS3RwUXFOWWVSQU80NVdqM2htVEpLejl3QmYwYWR0SDdwR1NybU01djBVUEJERUNEUkdIcmthMG92WWxoOC1pOVFsUEpIemg5VEVxcU9NV3p6clZMaC1pVnBLZTdoMDUwQURCVlFFRnZoUmtaT1BMTA?oc=5",
+      "published": "2025-05-23T08:58:31",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "2 Growth Stocks Billionaires Are Piling Into - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0Z5ZlNTcWxPaWVacDVfOFNvYWoxV0RfQWxRb2t0a3JKYXNidEdsOW1OenZuWlpiTU9YVWUzajQ5YlhzY2dCSGxTNWJEemExTVNvUXFSRExpekJtLS1qaHBOV1k3ZjNSOHJHMUkxR3FUMTBDR21VY0tJUGJLYnpReWQtTWVXaTV2RkNpNGRnTkpjblhQZGgtYzd0aWlIcVl3N1hzRzZhTzBqU0lhbnM5QmxvZWlGYy1RR2xDYldteG0wNTZnbzRlTnpB?oc=5",
+      "published": "2025-05-23T08:40:06",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Marcos Keeps Philippine Economic Team, Replaces Top Diplomat - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3ZzN1l4a2dMdUdScE95Zi14ZUxpWVN5YWF6cS0tcDZ4bFgwZ0k5bmxwem0wdFUxdTdCOFg2akgtRlFSMXZKSl9TeldBM2hHVVU4X015UmtCUTFpZzlPSEs3RnpZMVpldFhKNWVKNW1lcmRNR2Q5dnJMS2JhZXVpbkZ5R2d1SVUyN2I0OUtIWVBmUTl2VFFHLVpjRXR1bFdqYWJzbA?oc=5",
+      "published": "2025-05-23T08:37:07",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "3 No-Brainer Artificial Intelligence (AI) Growth Stocks to Buy With $250 Right Now - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSmJRbWprQkdBZTcxYWp2RkpSLWFfcml0NzI2UlV4UjFsQnM5R095MEthQlZRSmxFUFRhOU50VlpXS2gxVW9mZ3JxNUsyOGxTcUpMTy0ybTJPbFpKdVRucGl6NWdUOHRsRDRxTE9oekVoN01wZDIteDNUckVNVXc1UUFMZFFDd1JRVlQ4UlhFUE9HS3Zma3VnbXZlX3o0cVp3SmNXVm83bGNtc2Q2LTU5eVJ6YU02UnRVSkl4MHpBcWVpeGUycFRvMzlON3RhbXVpdTRfdnVCX2FKS1NuN3BNSXpFQ3ZQVHJUc0h0dmNwUWdOeERBX2FiUGN3?oc=5",
+      "published": "2025-05-23T08:30:33",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "OpenAI’s $6.5B Deal With Jony Ive Hints at a Post-iPhone AI Era - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZTNEeFF5a0xxWXBjeVJGeUM1eWJ0T1hOR1lTbkg2a3dVbndqaHU1THRVcktQcDdqYklhdk96elBqNkIxelRYWjJLcDNpbnRGdmZZNEhIdnFPOW1QRWJQN3h2VVZzZXBHVFkxMm1qRFdKaEMwaWZua3BTMEpQTXl0S3BpUGVvdWJacE9TSFVPdFFHLUZ0Q0NWbngxcU1KNkR6RDBENU9aOHRoSV81a1dZWGIzNERrVlduNkw3UHFqdVVlQ3h2LWhRZXpHai1ZMVIwaXIyYkVQRkN1Y3V1Y0FJ?oc=5",
+      "published": "2025-05-23T08:24:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Where Will Walmart Stock Be in 5 Years? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkdMNnJWNEY2aEc5Y1FfNEl4ZTI1Yk1MX3VSQjd2SFdjWlh5MHUwVWczU1I0aGtFYUd2a0RTZ1RVZGUyNHJwNFpUeFZidHBMdlFCZF91Sk4wb0Q0VnFVRElhNGtESjFoa25IMjc3MmZURXJLSVh2SEZELWpsMUllWGNwUmR5VjU2QnRsbGNrUnVTSkdlaWdENWRtcW5TOUVyMUVOS0lnWE5FUnE1bWE1OEpRbVQ3U0c4X2lzaGdrRW0?oc=5",
+      "published": "2025-05-23T08:15:01",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Where Will Walmart Stock Be in 5 Years? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOazYtZ1RINk02b0UxcU5aYWJpYk0xU1diY1Uta20zRWxodHhYQVUwSXZ2VFBaekRjeWhTR1JXQmp6ck12VHQ4TW5ubzl2OU0tS2ZSYjduMFBEa3VOemZaWnN5c0JfaUkzVGlYUlYwZmZXcUk3VXlCbERmUEFvOWVoSWhGS1Judld5WDRsb0d5V1NSSkZUZzhYc211ZDNlWjVOOW9nek1qT05LclY3Uy0zTEZtb2gzelRFd1JYZ0RxVllVZw?oc=5",
+      "published": "2025-05-23T08:05:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Canadians were promised a foreign agent registry — so where is it? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ENXZuYk1QYkEzaVdNSXNYTzNzRmhqQVNIYllWSEZSMEpKV0tuYU1MTHBZS2FBdVpoYTUwTWFHQUVEdEQ5dW1GR0pqbkFiQ0oydkliM3h3a0VFMFg5RGpRWEdFcExWZGJjLTJGWEIya2dXbXM?oc=5",
+      "published": "2025-05-23T08:00:00",
       "date": "2025-05-23"
     },
     {
@@ -47,18 +810,389 @@
       "date": "2025-05-23"
     },
     {
-      "source": "The Canadian Press",
-      "title": "US invites Asian officials to Alaska, eyes $44 billion LNG project - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUlDWnBOS1Z5UWdCRWJCNjczRUlOVHRkZnVzanhUYnVzbm1lbFQxOUFYZTNDYi11aFk2ZmEzVnZ3d0ljQkt0bEVMLU5UZkEwMl9fMzV0T1dQUGQxX2l2OGE1cmVIeHVzalNQLWZpcGlWelJ6cUdaZTRtMVB1ME5ZVUhyRlZhWG10S2c?oc=5",
-      "published": "2025-05-23T06:52:00",
+      "source": "The Globe and Mail",
+      "title": "Nvidia’s (NVDA) Q1 Earnings Could Be a ‘Positive Clearing Event’ for Investors, Says Top Analyst - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeDFUSWZzOXp2RVgtWW81ZFNEUmJ1ZUEyNVFlYXR5WUNiUklVdldYUXJPWFR3azhoR2tKX0pzOXhXNVhxbXdTNHlHRWMxaDZ5MUVoUnlXMDl4WlFVelJHQUl1ZnF0SlV5eUwxUEpKR2lod2E3VmNGeGlFY2REcXh1c2NQb1JhTTY2V0xhbjZ0bU5aYWFWcGY2bXpMWTRKVFl1TFpkX1lvd2FkcEFQZnZfdFp1VFAzcldNQzgyUUVpT1ROcHpLNTBuSHFkM0FYMXdDSm5sMEE2QkEtb09UYURwb3FTenRybEZGbnJsZ0VTRkVlU1VIZDdEWFpoTmctYWxWTDhqM3U1NDJfZw?oc=5",
+      "published": "2025-05-23T07:20:59",
       "date": "2025-05-23"
     },
     {
-      "source": "The Canadian Press",
-      "title": "Forget China's navy, Chinese small boats landings on Taiwan are a new source of concern - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRXREV1d1eC1fdld1ZVMyWjRXSmtycEV1Z2padVdza2dsRjhYZDduQTZYUzNMN0RsT0F4Y2I3M3FiREdtcm11MFJXZ2pSeElXa05lUGd4WFFWMmRTY08wd1pjRHhBamlBR19BQ3pNOFVDOTBCdTQzSFZDWTNMcEdkRnk4NTR2NktNaHA4cm9TaEVEeUpGTnpJQW4xY2dSdDRTMG84Tml4NmVqWlNqZkRrU3YwUml6YTRDQjRPaFNjd1UyT1FVY1dFSTBHazlwWjQ?oc=5",
-      "published": "2025-05-23T01:18:16",
+      "source": "Financial Post",
+      "title": "Australia Pacific LNG Cuts Price in Massive Sinopec Supply Deal - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLV90V2ZnY2NQaDhjeV9DbUtmRjctTjhNTkRfXzdaNVBpSHlIRlRJRkRfVjdVam9pakRuN1p5ZnBUQnpHNmZ4bjRqcVdTcUduSERjNXNIYzd4RkxJLXo0d1FrWmxmVVlmTnlaVVR3ZUhGa1kxYjNhVGNHNkhobzBzeGwySXlrYVVrclp3QkU5emxGT3VVbjY2NmVlWkZzam1PeHNEc2ZidGw4QQ?oc=5",
+      "published": "2025-05-23T06:33:14",
       "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Iran and the US holding a fifth round of nuclear negotiations in Rome with enrichment a key issue - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVmxmZFFPY21CZGhuRTcwT29sTnY5SEpselR1cU5LTlJqNXBvTFlHRVhlS2puZ0phV2RfVjgxRllZZjNRYWtfQ2lYZTBoa2VSYjJOdkNnVm9XRGRyczVIM2JzeGtBcTZBcHh3M1g0Q24zY05vdnJCcHBvdFFFR3cxbXl4ZExjRVhEaHUwNkQtSU5xQXBUSVk1Z1JPVmlfVTlFV2tZdDd5bTdhUktJR1VFdXpBVGVhZ05oY1d0TzhUNFFXaklhNE1BR0Q2LTE5WHplRlo40gHYAUFVX3lxTE9oYWJaSU1rdEkySDd3Tng5Um5UMF80cUh3cHg4UmR6QWVxS3JaU3d1dUNlNExQb2IwSVdab1I5Z0xiaFdEcGpNRHhDNXBpV0lMQjNDaGxKOUlwSHJsdmlEZDkwbXlaWjgzODhlUWFMM2MzTkNXQi1kVmhqc0JoZUpnb1JLb0Rka054cjEzSkNzNEhsRzR4amZkVHY2TWlQSV83VVJ5ODd4OUtzdjdINWdLaXpQbWgtWm0zYnhOUjNJbXVtc2V0STBkU3BBMlNrZVhDUzdsQkFESg?oc=5",
+      "published": "2025-05-23T05:48:50",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump's latest tariff threats knock Wall Street, European stocks and Apple lower - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnQ3RmhLY2tOUVhjMlJPbFNIenhRTjU1V3ozRFVvZmcxVkFZWUdwYW5BaGZvMXZWNEozeks0SjRGYXkwRWxyd0VKTG45YzdvTFB4WU8yX0pwaF9ESHJPZEJzRHZKdU51Q1VnYlYydUo5a3JPcEYtUENzVmRzWEJmUTBsbnZDSFBCRUt6bkt0SDgxSzM2U1N5T1JB?oc=5",
+      "published": "2025-05-23T04:09:13",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Baby animals born at the Toronto Zoo - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkp5d2xsQlVVUHpoVlRJbnA3NW94cVpHX0VDa2ZrTnh0UGljSHhOZGVRc2xNNTFHMU9zQ0xIeGRNYm9TMmRGTXJFOWNkU29rQi1ZenA1TTlHWHhWRFFWeW9PM2dPMkt5ako3OEN2OS04NGhNZHNpR0M2TnY0WHdtS0hNZ2RlZlZzYVhpV3VEbw?oc=5",
+      "published": "2025-05-23T03:55:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump's Harvard visa threat could wipe out several of the school's sports teams - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jeExvOUUwLU1mUGFYQVNCQlBfZGl5c3V0UGtwUUlqLVNjWWNjalVGLUlwdkJ3WWN4YjlnaU05akJMWjBVUGdvMXdEUEJ6UlhJUk9iWnFMYUVWMzc4Mk9SMU5ESHVYWTA?oc=5",
+      "published": "2025-05-23T02:14:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Energy emerges as major topic at Western premiers’ conference - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGRNdEs2aXY3NnFwdmhoblpTVzQ5amxCY01SSGdUVVV1S01WQkNvUkVRR2o5bkpIMFg1M3hXT1NCQWxoajZqT3AtN0tQblk0cXRFSkNhcl9pMFotQ0ZhRFpTQXprd25hTlF5c0tsZlZjUU1YWFB6a01BX3Y4cndVaXBQM1RyQ0Q1b0wzT3IxSWRFNmpEcjlsXzUyNkhiY1NYUks2Vg?oc=5",
+      "published": "2025-05-23T02:09:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump’s Harvard visa threat could wipe out several of the school’s sports teams - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNczVteE9oMTFsX0dEcHNyUmZfRzgyN3haN1JmbVY4N0IwazlyUmVkMU8tXy10aUt5c2xjeU9wZ1RhOUxiTG5BOW1LbXpiOFctbkRKbWllcUFNN01mQm9Ca0VZcFcybnBzeGZBdk1qOXJocmd4UldHNmRlNEJpUHgzcVJCb0ZLb3EzNTl5cTNjVDB3cU4zM2N4Y3VZaHd6RGVTVkcwWFRzc1V3VXpadXZseWRBUkhBOFBU0gG-AUFVX3lxTFBER2NveTNMZ1JLX1pSN200YlRSVHZvMHptaG03amFrZVdoQWdYcVRLZDdwb2JXOXl1aDYzT194a0w5VlJVa2taUzcwc0pNeGdGNG9qVEdrQW8zTWt0OWlxdkJMTTFMUWs0bFV0Z3dVVEJEUks5RFpOdmt3dTlzMTR5c3pfaF96dGZXVm8xSHB6Qk14U0FiWkk5Vlg2cjY1eXJLLUxHTnhrbnpqdFR4bU4wZ0J3dldPQjJKV1NaNkE?oc=5",
+      "published": "2025-05-23T01:52:31",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump’s Harvard visa threat could wipe out several of the school’s sports teams - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlZuVUdMYXR4MEdsd1ZEU28zbThUeHhFZDVwZk1VaHp0UDFxbTItSEFKRE9pdEtGTjVDXy01LV84UGRpQWJLVHpta2Z4aFQ0RERleHhVRDVrQWJnbzVvbThMUE55N0FBSzYzNVdVTU5wTkRpRWhpQzkyMzBQTjJTX2FPelBndXc0YWsta3RXTDZMSmpncllTVkJNeXNhYXJ5elNsNUlXWDF2OEJKdnU4X3VmS0NmVzI2?oc=5",
+      "published": "2025-05-23T01:20:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Fatal Surrey hit-and-run sentencing reveals shocking new information - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3FFSVVCNHFIYWRfWW9VcHNRMklzdzZ0TkMwdU44cjZmSWpLZjVXdXFRV2JsbHVNNkVDdUFMQ01aUzdhVTh2RzNreEdmcEh3Yk1mQ0ZUUm9QNUotOGVXZHppcC1yRzB1S1Rib0wyY25GREtHcUY0aEF4dUJrYUlOTTZDNERCMDFYcVRuZTRCVnFHQ3dTVi1PQUJQaFRXSGZZVHdmQ2xSSTg3QdIBrwFBVV95cUxQclVDWVpWa0tOLTBTUWxiRTRaclZ4SC1pakdubmJ0WXBHMUtYTllPR3BGS3AzY2pka1dBLXU5aDgtTHhXNjFuMW1heG9nRUxNcFN3ZEZ5ekdHV3VIYVlPQXhIR2RBVXl5U2p5Wk5ZRmxHeTJUc0s1eWlOMGtpRm9zZ3JZZG1neEhMcUNTaVd3UGM5RlZZS0tJVjJyNDBvLTBNWXBZalFOVll1NzV1U3lv?oc=5",
+      "published": "2025-05-23T01:11:49",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Dog attack survivor seeking accountability - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkl5MGJtMkJqYldwMWlDcVMyc0VmUUR5N3lFSnlJTEZZMW9TYzNZWVpvaHdQY3ZzWjRESWt6cEFzeTd4RU9OUFhrVURaV2ZCTXdrSWI0dHU4UXpUYmpHeXhDeFdibVRUMVlVTWh6TUtubE9EUDZWZ0UyYW5hOUF3QjROd25sZDTSAYwBQVVfeXFMTTRqY1duQXMxcUJhRnVzLXBXa2lieEZGRnVybURiNDRwbmVxTTRRTExLNGxDNTdFVTJMMzhheEpWV2tJNWdVQ0pUbjZxZnNaT01DT05BTkhIdXQzTk9yQnVXalI3dXlGTkUtWk16U2NfYlowdFZ2TGZnZG5zWHBhLWdHT3pRUlJDbXlKcFQ?oc=5",
+      "published": "2025-05-23T00:55:49",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Calgary ski jumpers have eyes set to 2026 Winter Olympics in Italy - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2dtT2ZjVjQyZlZSLXFaVU9aRGR4NjAyY1lWWHNvb1A5bmJxcTVseHZoNElMWlpKbW0xSFV4Qk5nSjRqd3Qyd21RVjBuRWhZUXFBdlh1bzdKRTRuWUlYSEJNR0l2NDJseFF1TU9uNlFBR29SN2c2dUZFbW16U2lsa0RjUVRSRWhIRzNrNmhGRzR6d1E1U2JycmZCeVRfU0UwekZ5a2V3Z9IBrAFBVV95cUxOcGpubWphbG9veXRpN0dHTXZxOUFNb3VPUlFJQUJkc3pRdDdsWWc0UTlHYVhPOXFvOHNfMUhMdUgxRGhXaE0zdld6T3dPalVEbWFIaHZQTld2U3FZUmNOa1E1Mm9USzZNVWtVWFZJM25sZE9UUzNCeE44dmNESVQ4YTZobW9pTmVVRHlWMUNCdWFUZW9BX2NNQUl5N3hVOHN1anJGdXlkUUY0aXBP?oc=5",
+      "published": "2025-05-23T00:54:13",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Violent crime in DTES dropped in first months of Task Force Barrage, police say - Global News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWS1kenpZRU9Zdm9BNXpxX3dYbnB6SEMtWFU4VC1UQlBXZlItZl90UVlwR2pkMHYtYzRIVkFBRDlTYl8xQ1RNYmtnRk00aDdwVm1iWFlmQ0c2bjE3akRxMUpPTUxIYzVDeHB2U2d4dk9pZVZ0dFdTYlJxb0s0V2VLR0p1d1UzcTZ2NUV6SFowS1U5eGI1TWk3ZGw0Z1BURmxQTzhTUWh3NVRTTEhIdnczbUVGQkZhVjTSAbwBQVVfeXFMTlFzdDRObUlTY1FheGsxVnhhc09TSHhkX1R2R1Z5cmgtd3pKMWFBd1FBY0FrUWlxWExyN1NEaXgwbzhfOVRFcDhJNmNMYXNzTjF2aFhjYm1sUjg3VGN1eXJqZVpobDBUM3hYOHNseXA5Nm9Zcmx5ZHdUalVXMWVqM2pkSVJQRHNKZFFCZW5wSmRObVhrUXA2UFBzQ201MXBOM0RmeUh4WWctbWREekVienF0c3M2bzlhdFBMVjM?oc=5",
+      "published": "2025-05-23T00:53:16",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Pre-evacuation alert lifted for Candle Lake Resort village - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUZHcE55bl9acC1nT2pGczVkNFp3ZDFyMTVmU0Z2SkJIWWRGTDdCUnNuUTk5Yy1PeS1RZVRNOHZSQ0ZHSVBWS3Z3YWhOYU9BUmxHTnJjckdfYndfVXVRVlVzaDl4QnNtUnBzaEJJWDJQbUo1UkYxSk5XLThWaTRGUVcxejgxZWZNS2ZWaFkzaHJZWkphdU9EZDAwclhBNjA2LVhpdmpTNHJtd2paRVE?oc=5",
+      "published": "2025-05-23T00:52:43",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Kermit the Frog gives commencement address at University of Maryland - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzFPUzd4dUZUME1HTjkzZkFYZUZiaUl2ZnpXdUdLNVpvOXpSWXcxNFVvNklmdnhuSDZSTHF1bWlTV19uRVR0V2VtREZzdlZrZmJQUU9WRTYtejU0X0EyOE5GVWdhMTZ2REJBMGZzeDJtcjAwa1R3RlU0UzEtdmw3bEh1aGFZaVVRNUFRcnN1QlJLY3AxWHMyblhPUWZmQlZpQUdCTm93YkJmd9IBrwFBVV95cUxPWWtva19sdERpazJDV05waXNQVjBmdGdsMWlzSlZja0hxdFJXOGhxaHlMbFRaX3R6aXl1UUNkaWRtVzROcmdEdU1YRy1lV1M1c0JuRzJyeVpKR2R0azlVVFBOX1NCUXpKdHc0MFltQkl3NEY5czJiWDNaWFA1ajFtOVNXV2tTOGRpQzBWd0FGS0JmbFNQeGFNS2hzTzhIMF9DRlJ5ZUdpdGtuZVVMV3hZ?oc=5",
+      "published": "2025-05-23T00:51:27",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsT3locDNobkhDNEZDNUxINHFZdVl0aWhpRS1oWFRZdkFRSUJFWmt3ZWx2UDdqay1UR3RxNms0VHJSZllLRjBZZGl4Y29SX05aeWNZWVR3?oc=5",
+      "published": "2025-05-23T00:49:16",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "- CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNajdwemlWQUNjSEltZzQ2Z245cEZ5OXV4MFBwcHZhUDJOSHhlTVY2b180c3A2RG5NNmJ6b1VvQi1aODlxX0taZ1F1TXdjZFpsNUJfaFFNeGVNb1JMS285S3p0U0VDeE0tRW8wRG54LUN4bzZGVTk2Qnd6YWNWdDhYcmNwcVdFbHlGQWJuUEdGa1hOSmV1MWJqVlk0SXRxeEFST1R4bHI4WlFhZ2xvN1hEdUkwS0lUM3R6dE4tZkxBdjUwR0I5SW9FNEMxTzVMdGRUWGsxRllfWWZ5TWxIVWc?oc=5",
+      "published": "2025-05-23T00:46:44",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump administration bars Harvard from enrolling foreign students - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUo1UFNFTVQ3cnJ0anBJWFZRX3RveHJnYlFpWVNxM2RieDc1TkZUcTVDNnFxX2g5WVVKWV9YcDM0Wnc1QTBLajc0bWYxZmR4X01kT1UzNW9lajBYTmRNcWNvTDJjZ0otbi1Kc0I1RVpIX1JCXzczdnowd3NQdVc0cXE5VkpHWkZSbDVwb01GS2g2T3JSczgwZlFULWVXWDVmYWF3UjlNTXhsam9hV3c?oc=5",
+      "published": "2025-05-23T00:27:00",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Ascentage Pharma Announces Clinical Data of Lisaftoclax, Which Shows Therapeutic Potential in Venetoclax-Refractory Patients, Selected for Oral Report at ASCO 2025 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOWk5iZjRjcGhqcnBBVEsyaFo5ZEozQnRvX1hNMXBhZ0laT1RvUE5INWRmcXBMdlFiSGZBc0txaDAyQlRWUF9QLWZ1N1phNFFqU2lfenBrTEVMeTRGWm53ZlJjSVRKX01ZUGVRLXIxVjJGMUUtV3BuUHJ4aUMyWUxqSjNTdzNBamtjYnNHYzdiX0Q5QjhPOUFua3BNRFF1aUJ5WV8tSnpUNk15YzFCRzZyVE9SMWJCME5abWFqeWNNbUkwYjV5UmVGMVJkWkFOSmg0aXdNRVBrbGwySWZ2UjBiS1ZVOTJJeXF1dGxud1dHYWx0Z0pWVWxZQ2VKbHdFZzR6Z2ZXTndnY1h1TWtNaTVpcTYzVXVKaWFNZEloRkZzenRlazg5YklnemZyenlYQm9JU0psUlNnWXVzZV9zZ1BNOS14TUpYMjg0VWZGa3pneDhMcXhoXzNKLXZxYVRjVkJwMmtrWEFGZw?oc=5",
+      "published": "2025-05-23T00:15:55",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News Hour at 6 Calgary: May 22 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWE4MmpDTVNfbmxPaWFuSGtiUVQ1SFp2ajVLdVNiZ0ZTRmUxTHNnRF9UVm1ZMWp6UkNObXpmNEZOM2NyZXM2RXhVVHJTR21FUTRNSVk0MVJCcGZHY2tIODNhc0dUQ1lPZU5VbUlWRjZmWF9ELU5tRk9EU01VVFlRZFJR0gGLAUFVX3lxTE1sMmdmQVBsTldScjJvOTBXVnFyMjdtRDFvdzdCa3Z5XzJtZ0ZzUGtIQkQ5WUpMTW5NU0VnRFNlVks4eVJ2amRhbWZhX01OMGNQWEtpQzJZNWF3YWZ3c2V1SHZiSmt0empUUFk3MHZXZDVlU0h5QTZqNDVERGYtU250cW1DNzA3aGVxWFE?oc=5",
+      "published": "2025-05-23T00:00:02",
+      "date": "2025-05-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump's Golden Dome raises major questions: Can it be built? Should it be built? What's Canada's role? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KSTNJSmRBQTVqMnN0RXlZNzFJOFpSeXRLVW9fRldPSEM4RC1tbmFfQXZKbFpuWGtvLThJbXRZRGZ3OTJNeUIxUGhyRkdMLTY2Q2dFSFhGT1dCZGxqdzVINDRwT3QxcVhnRC1wdzln?oc=5",
+      "published": "2025-05-22T23:47:00",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Totally T-Ball! South Calgary Little League 2 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXd5UkpUTzVPd0h3eFViVG1VQW4tMDRNMEF1TUVYWWhCZURYbmt6MEZ2enV4NVJwY3lPSzZHeVJtM2N6ZV81X2FyOHJLbHZmeXVHRDhXRDZyTkRkNjVNOGdXZHdGeFVFeEZNaGV2T3hDWHlkQzBMZURnVTZtVU9LMS1MUnlXbU9uUUHSAY8BQVVfeXFMTlVQOHFHM0pnNGZpOWVvLTVLdGMyZDVld3A0eHlla2hxU0hqdE9qTmNuZFFmM3lFQ1NaLXV2NjVxbURRS0JERkM3THl6QlJ2bFU0c0RjSG9mQjhEdzRwQkhKNE9KWjl6a1M3YlNiQmUxQlJxV1Y2dTJ6dDZrSkFUcktQYUVHcHF4Mm93bnJVQ3c?oc=5",
+      "published": "2025-05-22T23:39:51",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "Saskatoon hospital ERs 'bursting at the seams': Opposition - CBC",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYlo2bTBWUm94SF9YZEZuZHdHakpUNnp3NW1Ma1YxUnhlMnJFNnE5OEhIX3EzelE4dzRXcG1jWWZrYTJEY0ZTUlhCYW1RZjh4dXAxS1lid1Z3WFZEdWxOM1Q3TW5JNFZPSzRoNDc2TGhRd0R1QlpZUEpXeEtkd2k0cWpTUjZTQU04NDdaWkpLNEJybW5uYWNZX1B6bUdNc1NjOHFKX2k2OVFpSjBxX2tPY20zYnBucVI2cWx5clVJUkVSRzBqRlhBZTVwSHlwWjhId3RTcjNiNU4tekVTZGJVVg?oc=5",
+      "published": "2025-05-22T23:35:09",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Lagarde Says International Trade Will Never Be the Same - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNGlIdnVEUHBtQ08tampTVGVTU1ZBSjRZUHdvMDlFcFpIZzhTclo1QWFLR0t4NXBDZG9fVS16bWo4U3ZCSWh0RGh0ZnpFTjBYS3NtekdjU0s3Z29CUWpmZEQ2emYzTFQ3WDhRYkg2bTY5RzhDRmF4Q1ZxMzNYTHYwVU9tbkdxMXBfc1huU1RsWk84Q1c4eTJHX3A1UmFiYm8?oc=5",
+      "published": "2025-05-22T23:19:42",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Calgary mobile home park residents facing massive lot fee increases - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNU52eWxGYWZIUDdncDItLWpHOWJQY2NzQXlVMTBYelFzdXIzbVVQcDFRdUhHRWpCNklfOXFmc1pHdGhQZ0ltRFFKYUo3aGlfcUVxNy16X0dfbW5ZQ0ktbUdGUHl1UlRLSXcyb1VvV3lJLTkyWVg5VHUybUNRTlJ4Y2JVY0NCbUlEMXRXTExub0dIQW5tM2puX2lvdGgxUHl3VDdNVjdDOFDSAa4BQVVfeXFMTjduSGNQLTFHUHN0ZlptTE8yb1JHTHAwZVVHZXRYYVNmdFhFMF85eXdBRll1cmdLR00tZEFRQ0VrYVNyR0ZzSFljU0V3RFhuLTUxMTJyYkE4clVNU3psbTRLNXJjUVc2RzRRM1ZDSm5SSU5NZGQ3SXlrWGF5bVZhaml5anlJekdxbzBRT3JjMDcwSE14Sl9YSVZtVGQwaXE3Qk95dmc3Y2VQRUlxcHBB?oc=5",
+      "published": "2025-05-22T23:18:32",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Calgary quality of life rebounding; faith in council, taxes waning: survey - Global News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXlpeVV6am1sdVRmcktueDVkaU5OYng2b1RJcU1VazdGQlM2X1dqeVQ0MmRiNnY5YnF6Zjk5YnREcmhVRmZJQjZVTjY5ejNRYTctME52VjZkbGJiclFFZFQ1NTdkajhfOUgwQktHNG1jUXRyZUpLNl8yWU81eUc4TnVRZHlzSzRMVURKTTJmcmlVRFB3Z3JjNHc1VzhVUzB4UTdkOXlndTNBQzRFM0HSAbMBQVVfeXFMTmRybGVxc3lyZzR1WjBiemt3UGlKZ3NnSmk4bFdPY1BMSkNrbk04QmNNeXdfOWY1UHYzbEFvVF90RmlKeS0yOG5lRDhXR1NleURFX0UtejRPS0dIdDVsemFTeUZYbUNEeGY2Y2NoUy1XejFUbzE2Z252M1JDMDJFY3VyNWM1YWZlMElvektBSk1vdU00UGFrUHcyWjFQUlhUc0ZnMk5ZeERsWXctM0JwMVcwQU0?oc=5",
+      "published": "2025-05-22T23:16:47",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Financial Post",
+      "title": "ECB President Lagarde: International trade will never be the same - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb19sRXJITm5FTGUtMnRGRXZSeFloV2tKcTBTR2x0QmpXM1l5Q2hNNEl6b2xncThJaUlqLVpIelBKeU1EOU5zNGU5by1DS2NkbUxWSThwNmZYUU9xZFMzZmxFSGh1OGZQX3dqYWJlZ0tNT0JxNHEtSmtWaXllSjUzYnJ6RQ?oc=5",
+      "published": "2025-05-22T23:15:00",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Western premiers agree to develop new economic corridors, call for federal support - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlozRU9Ndk9uSndLdEVSaHQwd0tPV0FWUl9HcXp5TWdPSk90ekFCRGF5TDJ2X2FRTmtyQWlxejFnRV9qV0drRkh0aXVPX2o0ZTBHWlpEM2dmMU9fT2tMTldHRzNma3pPNFRRMWZmalBIa0FDSXNESko5ZUh2SGpYX3Q1T3TSAYoBQVVfeXFMUFFfNDk4SUJGYkxfSWE3WkZ6WnlqQTRqMUF6Z05GSEt3d2lEMjQ0TXZwc05DblBWaV9mNE5nbzlPTkZacjc1UG9tQnZXdTVucE1EOGtHemY5TmZpWjZES1Rhamx5OHRGNTlodVg2Sk8xVjFlQlZRT3dHUTgzckx3UUIxakZ6QjNsNlFB?oc=5",
+      "published": "2025-05-22T23:09:35",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "How Manitoba youth are teaching adults about human rights - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYkEzUWx1WFhkd3lfR280ME0xQ3V0Y3ROZXVDMkF4cktBQ2NPS0RsUkpYRXNaRVdwTkxETjU4RlM3YzFhbkdpdUx0WDJzNThsZHNOWWhSRktVQQ?oc=5",
+      "published": "2025-05-22T23:01:55",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "The Latest: Administration bars Harvard from having foreign students, says thousands must transfer - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejhQTmstU3MtQlIxcWpxaU8xQ2RKVEhIR1BpQnhjVG8tcW5pUlFQNVp4Nk9ZZTkyeXlDTlhmbzZ3aWlnZ3V0V3kzOTRzRkV0R1pHbjdVYWZJdWVqZ0tBcEZIbDdwTnpnX1g3NlpzeGE4VzNIYkctWnNlWXRDd0JLU05vR2dVZEJCUzhaVlVUODlsTlJtN3kwNFdqb0VaMXd1MlI2d2pTYmNzcjAxaktWX1hwU3loWUdTOWpEUGxwLVNkN2FxSU9aa2E1cXI2bkdOTFHSAdcBQVVfeXFMUGZlb0k1NU9Ub0J4QXhZdGI1QjNxVVllUzFabWxQS3RKRHdmMlpyN2ZYODYwQ2tfa0lMLUpSX3NHR2xGSlMtTURsTHQzU2RkNDBYZjFjOG94QlY4a1hHMk0zekdmN1U3Y3lEQWFQYW54TTBXY0ZJTC0xRFJMcEs0MFV1aEFWQ0sxUnBPd2tsVTFmZDR5VE9LYVJwX25INUhMLWNXd0cwS0hqaVBYYXdrY1dUM1RHR3BKVkszVEdCSVU5LXNwc1g5V1hwZDVuaFFHVFRQY1o1dUE?oc=5",
+      "published": "2025-05-22T22:58:09",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "In the Rings: Highlights and lowlights from a curling season to remember - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjRURzFfZ2dxLXJmcnhBMVNUYzRqaUhKQTVELXdRN3RqTDF4cUlwZGtfVnZ2UHdxbkZJWFFiQm8tdHdyeGlSTnlaaXpldXFPYjRva2JXT01PWVROUnFXWnl0RmRDcjYzT2haU182NTlDaFVmZGlFOUtjbVVtOE1FWGl0MzBwX3dpLVFMQ1ZuOUMtejNOakp4LTRtQmYzczROSmU4cVJNTWQtdlM0akVR?oc=5",
+      "published": "2025-05-22T22:41:33",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Kanzhun's Profit Surges in Q1 on Cost Cuts - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeVdOZkhENWJEZno2Nnc1ai04QTNJdTlCd3FUeER1Z29HVGdESTZjd1B6OWFjM0lnNG1NQjhZd0JZekx1MmVJcHpFOFNUY0J6TjJXVFczMmJYMnhvY2ZTVUhQZWJqRHExS2FxRk5wdnRRQUdYVnByV2dEcW1RWHE0aDZVbXFHZGRJN1VwN2NmakdldjhBX2RQenhmQkZBSVJuQlhYeGNOSVJ5Q0RWQ1dHTE9kTkhBNjlRYkNUX3dxdkRFTWRrNG13?oc=5",
+      "published": "2025-05-22T22:31:58",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump’s Harvard visa threat could wipe out several of the school’s sports teams - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQzJ0dHBHZ0otdFNpRXVCdmNVWVRVS3RkX2VrRGRIREEwWTdCUlhPd3JJaDZ6MEk1RTI2bV8yOV9nVGIwSG1HYl9UYUxIai1NdmJjTHNXX0xUYUtzcHBzN29NRklmNTNFRnp1SFF6bXZMbWFMUDZXRWdGb0M5YURyM19yS0c4VkFMbTBUcEw0WXUyOTRKVFJXbktsRC1NN3B5eW1oUTdNWlR5TWJGUnM0VXRiSGM4enlvNHM4?oc=5",
+      "published": "2025-05-22T22:30:00",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "The Logic",
+      "title": "G7 finance ministers decry anti-competitive trade practices, but not U.S. tariffs - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekNwSmVkMGZVVDM4Sm9mcVR6bFpIaUFsWlNfRUNEdnpxN2lRc3podnF2cjAyLTlZdUZkMXFOYnNiRkRBVEM4OS10RERDTnJmVW9jTnhZWFUyNWpUZDRvTjk3MjVIb1hmXzZBbWYxLWJWbHJHQlhCVV9ieDJkV0hxcFZ1ak1QaTY3SGZXa1pXMTk2VmF0NndMaTJzRi1lMkNqWXE1aTdTdFo?oc=5",
+      "published": "2025-05-22T22:19:00",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Cost of Canada joining Trump’s Golden Dome missile defence project still unknown - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmJ0dVYtTFFUV1o4eXpuV3VVLWR2Mjh3NDJaaUVxZXZncmZuLURRNk5aRThpMjdnWlJ6Q3FCaUZBSVZUeVZDdEt1SDJnU0ROejJLYnkydUVTXzNmdFBNa0lRbUlpclZnSm5HYk8xWEpOTTFNM04xTHFmNW5XNHRkYTg5WFc3T1loTWlMZFVCUEJNSkpUNEU3UGN4bmt3UzQ0SzAxeHg0eXRtSGRvSjhEZmgtWHRoU3BuTEhEWNIBwgFBVV95cUxOVjh1bi1UM2taSVNTbVdRVm1HTjhaNmJEVzRPUkdZVnZsY1BEZE1BYlc2WXVuQUsxa0VaVWJlY1R3NGFDcjlPTVducjNqc2VZVnJSbnZ5Q0RKUDItVVR5ZDhZN2Y1VEVXSG5YWGUxWE9rMXB4WDhLU2kzaWkzSUJmTWxSN0k5bjRiZXBvNFY5WE9PQXBscktqVnh3eFp2VEMxOWQ0ZF9RTnVtZnBVMll1V2FiU3RkNU9XZ2ltNC1oeHhKZw?oc=5",
+      "published": "2025-05-22T22:10:13",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "Why these sisters from Fisher River Cree Nation hoop dance - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vTzFsdkR0S24zdjloQUQ0QjcwNmhISXRjOXYxUFptVGw5TmhkN2JtZkxma1hta2xFNkFxZmNzWU9Qa2RfampSYmgyNXBTMTMzenV4WmI3M1FhZw?oc=5",
+      "published": "2025-05-22T21:59:02",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Suspect charged with murder over death of 2 Israeli embassy officials in DC - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXk4TlZTUDdoVWRVNVktNWVwRkhxRTlRUUNPN2pSZWpJN1RFcXMxajYtODFjalg4N2MzU1JOUHIwN2RXTFZGSjdISFR6dkpXUE10WkR5R3ZlbFNqcFJfSjdTdXF2VFZJM19YYlJOa0lzZngzN0RBNENic3FkOURFblVlaFU4dlJsNmtub1R6cGhIOTVKQVNJeE01ZGVUd1l5X1pxcXU5MC13ZUhERXE3OGJ5c9IBuAFBVV95cUxQTzJzYWVvcjZrMmRuWWRFT2tKbVRIU283TWFEQm1yWmNaVmR3b3dtXzM0NnRfQTNxamVTYWlYeW1yN1lZbmJjczZxamUyYk5fMk9pTUlnMGRsa0RQRlZQUlZoZW85UFllaGItQm9OaUluTHRmQ05oRnozbzZUcExlWmh3UkViMUVlcUVmWW5qT3E3b3NPRkgybUpxejhrZzVGemlqZlVQdHhwc3M1dEZwSEtkU19TNFBB?oc=5",
+      "published": "2025-05-22T21:34:52",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "This 12-year-old just swam the fastest 200M IM ever! - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xUm43SWN5YTJkdFNsa19xZnpFbnJTZHRWUGVBSGo3YlE1NURuTzAwaWMwa3VpQkV3a18yMC1zNTBFODNuaW0yRzEybmtLejM3bkZQTkRaaEpqZw?oc=5",
+      "published": "2025-05-22T21:19:54",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Cost of Canada joining Trump’s Golden Dome missile defence project still unknown - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZJV3cxSTJjck94TExfRHE4NTlDTnI5bFE4MmZHS0YtREgxcWVBcWxBeGJfcUVoRGphanJZakVBTnk0UXVBQXlhVEZpRXpRUTZuM3NNY2VOQXEydDlrdHlOYlRKcVFrRVU2VGhTV2tjRkFLNFlNN0h0eENPTDItczRRQTFSQ1kxeDFUeTk1eW9MdFJIOF9kZTVmdnYybzJEZWhnQm9KVVBxS1JsUjdmTWFYMC1fM3h5eWtnaHRn?oc=5",
+      "published": "2025-05-22T21:19:41",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump to attend G-7 leaders' summit in Canada in June - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQ2Z6ODIxYnFxTUJtZWVpemdIaVVzdC1jeXlCZnRYVVgtUFBnSXNxTWtmcEhpcFYtNzhadzFvVms0THh6cHdfNlU2MU5JTzhHZ1lHNXRpOG9FNnVxX2NlUDZvOWhnd0tiRXNIbWlvY3kxUEx2ZEZHLTRDZWRHYXM?oc=5",
+      "published": "2025-05-22T21:08:20",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "The world's fastest 12-year-old - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBM2ZTWG40RG9YX0NaaDU5ZUg5LXNZNDlzQklrY0ljSWd4VUFmbmM1RmE4RnZ1VTM1TkppcnE1RklSYnVjTWZhQmNwbUR0NlJER19NY3psdWE1QQ?oc=5",
+      "published": "2025-05-22T21:07:58",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "iPolitics",
+      "title": "Cross my heart and hope to die - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwOU9OX1huYzFWS0NmeFQ4UWdlUm4yLW1xUjVOLVRxbDdNZW1BTFlLSmVZTUowRlhNTXMtOEpNV1VxN21iMjhqSWhNOGFwX2lPUS1TeTZRbG96NHpPcXRPWUFQWHB1X3Y1UGRwalVNTl9Dd21qTVE?oc=5",
+      "published": "2025-05-22T21:00:11",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CTV News",
+      "title": "Canadian women’s ski jumping team hopes to continue to soar to new heights - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkNtTG9fZlJjSkhpY3A1bUJhYUVrY21yUmFScF9FM19HemE1Z1I0T2owVXhtWTljYk1RZGd1WlVPLTRKMXV3UTJnSlQxNjAtbUREVnhwZVJ4VGZtb0t1TkZWWVdNeGp1V3RZenBfcXk3dkdORXpuTVhSeFp5NDlWSF9OYWI3eEktbVBNd0lLUjZIY0dTRlMtSmxLWVBfdjk5WXVqMGZQM3FRNFllYXFYX0dKaw?oc=5",
+      "published": "2025-05-22T21:00:06",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Honda, Stellantis promise no job losses, continued commitment to EV sector: Joly - Global News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEx3ZVR6cHVlc3F0VXROcnFOWUwzX00xN1gzUzVYbTBza1ZtWW5IdWhwekxTdTZwS2dxOVc3QTRqZ0EtSlpUTlVWZjlWMjBKR05WaGNmcmRmakVDN01jNlRNcGZTdzM2QnRRck54U3N6dGJPRjJFalhRbFdya2hpWFZzdGJzVXN0d01TdmR4UXhtSmVsSnlOcXBCSWRWNGZzLXBINWdFWnlfZnhIYmJRS3FEU0IxUdIBuwFBVV95cUxNek9VOUZfQVJMMmFHZDBtbjFRWFZ0OGs5bFlIX1l3TGRiRWVSeEdpcnNiN1ItV2VtQ09wODZNNlU1NjRUMWJ2MHZ5YjRYZFlrNWMtUEppSjFLckFqekJzcUZfM3lIZHRFZVgwT1k1Z1oyUmVzdXVmc0JtV1Jjc2cwYlkyazJsbTlCeTlvMXQ4TEhkSGI3SDJZcUVyb2ExOEFuMmlMX2pQYlFqay1ueS1KUEtjRlI1WmRTdTU4?oc=5",
+      "published": "2025-05-22T20:57:51",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Some businesses are already ditching Canada Post as strike looms - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHlZUjYxODhISG9wQU1XZmRqUWxmbk1tdFdWaTdqYW9zZnZtZVBnU2tiUmpLc1paSE9zUE1iTnlnSFY4TFc2NEpkUHN0YU5KY1lVbVdUMkZ5dDZadEgtV2dhX0hZVUVYUW0zZXItNXZrbGVGS253NlMtbGxtSWhkRWppcVllN0YxWEUtblR3X0VRRkd6V2p5cy1UVWJvSEcwUzBrcdIBqgFBVV95cUxNcktBOFBTMk1HWTBvZ0ZwbnlDaWxxSWE0QkdyTXJTanZJcnNNWDV1V1FpQklBWWZRM1VXT3BiSzR0V1BYS0ZBZjFTNW5GNV96WUhZa2d6RTN3SWN6aW84Q2lHd3I4djBJTFJNSzdObkc2ZFdwX0NfMXN2NTJPR213clpuc1JqRlF1SjZfMEM3ak00TmhhV3FVd241NkRWOGQtN2cwSm85Rjhpdw?oc=5",
+      "published": "2025-05-22T20:56:32",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "National Post",
+      "title": "John Ivison: The election was a hotbed for disinformation. The next one will be worse - National Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0ROZ1A3UWN3Wjk5cFpnSkpNS2NzZFpBSDRqZjhyVlE4eEtoYnlwU0FsN2p6eWN5R3BmV0R0RUNyaHNuejFZVHlBN1J4NGR0QmZCc1Y0dnNOb05UaDNwVWtTdEpoeE1LREc1ZkdDYmFYNTg5clo4RmhxVmhHbFJSYkd6dkxTdTJGMHNOcTdKTHN2WDhQQ09Wa0Rqa3VUTjRVUzRIOGRvRHJSVnJPX245SkxLWEJFUTg?oc=5",
+      "published": "2025-05-22T20:52:11",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "3 'diverse' historical fiction novels that transport you to another time - CBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy1vZXBqVS1tTEJEZXYzSkN4Z1ZjaTVwWjM2M2RFUF9mb3Z1SUM1S0VKUjZHVVJ4Z3NBRUFTT18tVnN0czllaVBpS0E1SUg5b3VPNXJ5bUlReVl6QjE0LW5QNG1NTXdWaHJ4QWQ4a25kREpkTmtLRDdzSXRzS1ZRSnE0cWVtZm9TR3d0cm9kbGVuSTJObnZBZHdqUjlEalNiZkdEVGhxME1mSGNKbnB4QUpFd2xOWlRsTkhpUA?oc=5",
+      "published": "2025-05-22T20:48:51",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "National Post",
+      "title": "French chef confesses to killing man, dismembering body and cooking parts in veggie pot - National Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1RKUVRBbVBJT3ozQjloNUE2UWZhZ2pPMm1Ta2ZWRDFoamFpVmNYTjA1QXREa3g3c29fNkViR3FLaF83VUtNX0Vta29nQnFVMFBORWpWUnpoZm8xTHRpbmFpZW8yZnZLMnJlSW9mVDBjd21PbE9Cc1pBOUpBb24wY2pNb09OeWJ4VkFsSnN2QVNKN3BfUUhtdEZIdnZWd3RYLUliSlBKbWpwamJDR3ZONHQ5andKRktLQmR6RA?oc=5",
+      "published": "2025-05-22T20:37:46",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Financial Post",
+      "title": "G-7 warns of 'excessive imbalances' in global economy - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHFqQVk1QXlFSzZlTzRsYlZ2elA2RlRqYl9CLTB2U0h1R0xGX1FpdUUtNTFWeDdEMkdFY3ZxUjdNRmw4UHBVTkdhbkJRV0J3cGFuN2pLQVVHZnhRV1llOHFyZmI3WEl4eDBfd1Q3Tkt1MHJ1R252MnlwSjZHV3F5WnpzN2RrZHVNSGdjekpuSlRzaHBJWVNfTQ?oc=5",
+      "published": "2025-05-22T20:37:30",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Analysts Warn on TSLA Stock: Your Expectations on Tesla’s Auto Business Are ‘Too High’ - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbGlWdzA0UzlpcVQtZ3RkWUtMUEh6elRlbEpyLURJdFVUUWFzZG4xRnZaMERIaTYzWlhKTjliWlRGUUJxZWlyOXJPcU9YOEY2T19xRXYxR0dWb201VExJWXAtUE5EZlh3MHVkeXBvRjN1VWlwREtvMWFWYTZUYmlvdTdnTWlBaWw5REw4eVZZQXZseFBia2VIbWtMQXpCU2ZKOTNsRTB2bExpbjdTOEhKZkVqb3lZQ0lTLUppVXQ4RVpOdjl1T01hVWtCSThidnFicTFmSmQweWhZVG40VURIRHhMeTRkQkdPRVZjOWZsNlczSWJyLWEtejFXS0k?oc=5",
+      "published": "2025-05-22T20:29:00",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump administration revokes Harvard's ability to enrol international students - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aZmpXVnQwYzlSMm5WUXVPemNnXzBScURCUFlLdExNbjY4aU1tczBSbVZDZ2tyeTRzUGlldU82U01ULTB5X3NoWGp1QV8zNmJ0bzVRLVpqOGFuN2FhWERQMG12WDdKdlhmV0ZteGhkNklPWDNUb2ZPYjlB?oc=5",
+      "published": "2025-05-22T20:06:00",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "U.S. Treasury yields climb down from recent highs - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0FIN0VUeVQwSzVLOW16V094Q2RUaDdfaFZPYXdnOVVCV1lKZEVhaWtwYU9mN2p0U09VeWpIVWFIWlh5cVBHR3hUZ2Y4ZHpUQjc2WmdqYU1RLWVpemw0SVhITjgxcTd1Tl9PcXV0ejBxdzEtcGlaWTJvOTdfME96RElqTGVqd3RVN29XOHdtcDdyalZWUGVfa0N5M193TGhNUDJmZ2RaSjNVZ1Zu?oc=5",
+      "published": "2025-05-22T20:00:56",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "Global News",
+      "title": "Trans rights activists unfurl mammoth transgender flag on Yosemite’s El Capitan - Global News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTF1Y016VWtEa3FaSmloWlV6V1VsaDFBVUNVQl9WeUN0M29IV3hiMDRnVG9nbERPZnpNRFdkMDQxUHUyc0JjOWlKQmNPZDk1V0Q0TUd2ZThHMHhVbmhDbUlRcTY1NkkzTDNyczlsb0lUb0RwaThKUGQ5NWdnNWJXbjFTVWlXV1ZoZkM2R3BfMjlvQVp2aGlyN0hnX1U5NDhHLURzZW55Y09mQ3UyRF8wdDF2bngxTTDSAbwBQVVfeXFMTjV1VXU0SUJUbEdrdTh5VTdpV2x0blBjRWtPY3pERGZxRzRFa1NyM3NZYVZyenpkZVVPWXRJbk1OUEtheFE0bWowclg5Z1A3WGF1bExtd19iWFpTR25VcEpYb3Y5Z3VScnZoRHZYa0dyMW44UmhvTUFMNTYwdXdoYjM1NE1BMnNhakRZc2pic1dtQTFqc2RyX1hPSTB0X0trX1pGQUVjTUpsamd3QTMwZ1NDam5Kay1nVEktbWk?oc=5",
+      "published": "2025-05-22T20:00:19",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump administration bars Harvard from enrolling foreign students - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXdvX2FUN1FmbjZCcWp4SDZOTnhKQ1NMUW9ueVlmcmgyTzhrUHdSNWhtdkpsT1Q0WE51X3IxRG9pZWF0Y3VUZTNfQjJ1eVp2Rk8wYi11Q3BWS3N5RF9kVDR6T2RYOEwtc3JnV3hNeXFnc3NGLTVjX0ZvSzFmVWU2R3R3azkwSFo2b1UwV2ZpN2ZpQUY2YXdpWkN0UHV3X25ZNmxERHlzeUk5NmM?oc=5",
+      "published": "2025-05-22T19:59:07",
+      "date": "2025-05-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump administration bars Harvard from enrolling foreign students - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnJxS0ZrNUJCNEE5R2U2amRhSWt5TFJSU21iSmliT0RYRFloNW5rVFFVcXBOb0hzTWpVengwMWZ6T1UwWVpTaFJQaHpmYjhZZmFyWnNGOC1tSENHVE1MYlhhU2JDS2xLYkUzZGc0ZFJvUHg5cGNmYVVBRUo2ZXYwZFJySElYdnUyWTFVTUtFVkxEOEU2NWZBRmRsQW9qTUhFWWwwei1yeXc?oc=5",
+      "published": "2025-05-22T19:57:05",
+      "date": "2025-05-22"
     }
   ]
 }
