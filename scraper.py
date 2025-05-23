@@ -1,65 +1,77 @@
 import feedparser
 import json
 from datetime import datetime, timedelta
+import time
 
-# Google News RSS feed（搜尋 Taiwan，地區：加拿大）
-rss_url = "https://news.google.com/rss/search?q=Taiwan&hl=en-CA&gl=CA&ceid=CA:en"
-feed = feedparser.parse(rss_url)
-
-# 加拿大媒體關鍵字清單
-canadian_media_keywords = [
-    "CBC", "Radio-Canada", "Global News", "CTV News", "National Post",
-      "Canadian Press", "APTN", "CPAC", "Ottawa Citizen", "Ottawa Sun",
-      "CityNews", "Hill Times", "Ottawa Business Journal", "Daily Courier",
-      "Penticton Herald", "The Intelligencer", "Brantford Expositor",
-      "Recorder and Times", "Chatham Daily News", "Standard Freeholder",
-      "Journal de Québec", "La Tribune", "Le Nouvelliste", "Le Quotidien",
-      "The Guardian", "Journal Pioneer", "Western Star", "Evening News",
-      "Sault Star", "Sudbury Star"
+# 加拿大媒體清單（可每分鐘輪流處理一個）
+canadian_sources = [
+    "CBC", "Global News", "CTV News", "National Post", "Ottawa Citizen",
+    "Ottawa Sun", "CityNews", "Hill Times", "BNN Bloomberg",
+    "Canadaland", "iPolitics", "The Globe and Mail"
 ]
 
-articles = []
-now = datetime.utcnow()
-cutoff = now - timedelta(days=1)  # 限制為 24 小時內
+# Google News RSS 建構 URL
+def build_rss_url(source):
+    return f"https://news.google.com/rss/search?q=Taiwan+source:{source.replace(' ', '+')}&hl=en-CA&gl=CA&ceid=CA:en"
 
-for entry in feed.entries:
-    try:
-        published_parsed = entry.published_parsed
-        published_dt = datetime(*published_parsed[:6])
+# 解析 RSS 並擷取新聞（僅限近 24 小時）
+def fetch_articles(source):
+    feed = feedparser.parse(build_rss_url(source))
+    now = datetime.utcnow()
+    cutoff = now - timedelta(days=1)
+    articles = []
 
-        if published_dt >= cutoff:
-            # 判斷 title 中是否有出現加拿大媒體關鍵字
-            title_lower = entry.title.lower()
-            matched_source = None
-            for keyword in canadian_media_keywords:
-                if keyword.lower() in title_lower:
-                    matched_source = keyword
-                    break
-            source = matched_source if matched_source else "Google News"
+    if not feed.entries:
+        print(f"⚠️ {source}: 無資料")
+        return []
 
-            articles.append({
-                "source": source,
-                "title": entry.title,
-                "url": entry.link,
-                "published": published_dt.isoformat(),
-                "date": published_dt.strftime("%Y-%m-%d")
-            })
-    except Exception as e:
-        print("跳過無效項目:", e)
-        continue
+    for entry in feed.entries:
+        try:
+            pub = datetime(*entry.published_parsed[:6])
+            if pub >= cutoff:
+                articles.append({
+                    "source": source,
+                    "title": entry.title,
+                    "url": entry.link,
+                    "published": pub.isoformat(),
+                    "date": pub.strftime("%Y-%m-%d")
+                })
+        except Exception as e:
+            continue
+    return articles
 
-# 時間排序
-articles.sort(key=lambda x: x["published"], reverse=True)
+# 去除重複（依 title + url）
+def deduplicate(articles):
+    seen = set()
+    unique = []
+    for a in articles:
+        key = (a["title"], a["url"])
+        if key not in seen:
+            seen.add(key)
+            unique.append(a)
+    return unique
 
-# 結果格式
+# 主執行邏輯（模擬一輪所有來源，部署時可改為每分鐘跑一個）
+all_articles = []
+for source in canadian_sources:
+    print(f"🔍 抓取中：{source}")
+    all_articles.extend(fetch_articles(source))
+    time.sleep(1)  # 模擬「每分鐘輪流處理一個媒體」
+
+# 整理結果
+final_articles = deduplicate(all_articles)
+final_articles.sort(key=lambda x: x["published"], reverse=True)
+
 news_data = {
-    "source": "Google News RSS",
+    "source": "Google News RSS + Filtered Sources",
     "query": "Taiwan",
-    "updated_at": now.isoformat() + "Z",
-    "article_count": len(articles),
-    "articles": articles
+    "updated_at": datetime.utcnow().isoformat() + "Z",
+    "article_count": len(final_articles),
+    "articles": final_articles
 }
 
-# 儲存為 JSON 檔案
+# 儲存到 data/news.json
 with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(news_data, f, ensure_ascii=False, indent=2)
+
+print(f"✅ 已抓取並儲存 {len(final_articles)} 則新聞到 data/news.json")
