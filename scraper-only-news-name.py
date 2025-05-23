@@ -3,44 +3,26 @@ import json
 from datetime import datetime, timedelta
 import time
 
-# 設定來源媒體對應網址
-source_site_map = {
-    "CBC": "cbc.ca",
-    "Global News": "globalnews.ca",
-    "CTV News": "ctvnews.ca",
-    "National Post": "nationalpost.com",
-    "Ottawa Citizen": "ottawacitizen.com",
-    "Ottawa Sun": "ottawasun.com",
-    "CityNews": "citynews.ca",
-    "Hill Times": "hilltimes.com",
-    "BNN Bloomberg": "bnnbloomberg.ca",
-    "Canadaland": "canadaland.com",
-    "iPolitics": "ipolitics.ca",
-    "The Globe and Mail": "theglobeandmail.com",
-    "Financial Post": "financialpost.com",
-    "Maclean's": "macleans.ca",
-    "The Canadian Press": "thecanadianpress.com",
-    "La Presse": "lapresse.ca",
-    "Vice Canada": "vice.com/en_ca",
-    "The Logic": "thelogic.co",
-    "The Conversation Canada": "theconversation.com/ca",
-    "PressProgress": "pressprogress.ca",
-    "Ottawa Matters": "ottawamatters.com",
-    "Ottawa Business Journal": "obj.ca",
-    "Ottawa Life Magazine": "ottawalife.com"
-}
+# 設定要搜尋的來源媒體與關鍵字
+canadian_sources = [
+    "CBC", "Global News", "CTV News", "National Post", "Ottawa Citizen",
+    "Ottawa Sun", "CityNews", "Hill Times", "BNN Bloomberg",
+    "Canadaland", "iPolitics", "The Globe and Mail", "Financial Post", "Maclean's", "The Canadian Press",
+    "La Presse", "Vice Canada", "The Logic", "The Conversation Canada", "PressProgress", "Ottawa Matters", 
+    "Ottawa Business Journal", "Ottawa Life Magazine"
+]
 
 search_keywords = [
     "Taiwan", "China", "Lai Ching-te", "William Lai"
 ]
 
-# 改寫為使用 site: 限定網址
-def build_rss_url(site, keyword):
-    return f"https://news.google.com/rss/search?q={keyword.replace(' ', '+')}+site:{site}&hl=en-CA&gl=CA&ceid=CA:en"
+# Google News RSS 建構 URL
+def build_rss_url(source, keyword):
+    return f"https://news.google.com/rss/search?q={keyword.replace(' ', '+')}+source:{source.replace(' ', '+')}&hl=en-CA&gl=CA&ceid=CA:en"
 
-# 擷取新聞資料（近 24 小時內）
-def fetch_articles(source, site, keyword):
-    feed = feedparser.parse(build_rss_url(site, keyword))
+# 擷取新聞資料（24小時內）
+def fetch_articles(source, keyword):
+    feed = feedparser.parse(build_rss_url(source, keyword))
     now = datetime.utcnow()
     cutoff = now - timedelta(days=1)
     articles = []
@@ -63,7 +45,7 @@ def fetch_articles(source, site, keyword):
             continue
     return articles
 
-# 去除重複
+# 去除重複（title + url）
 def deduplicate(articles):
     seen = set()
     unique = []
@@ -76,18 +58,18 @@ def deduplicate(articles):
 
 # 主程式
 all_articles = []
-for source, site in source_site_map.items():
+for source in canadian_sources:
     print(f"🔍 搜尋媒體：{source}")
     total_found = 0
     for keyword in search_keywords:
-        results = fetch_articles(source, site, keyword)
+        results = fetch_articles(source, keyword)
         if results:
             print(f"  ✅ {keyword} ➜ 找到 {len(results)} 筆")
             all_articles.extend(results)
             total_found += len(results)
         else:
             print(f"  ❌ {keyword} ➜ {source} 沒資訊")
-        time.sleep(2)
+        time.sleep(2)  # 每2秒處理一個關鍵字
 
     if total_found == 0:
         print(f"⚠️  {source} 沒有任何資料")
@@ -97,7 +79,7 @@ final_articles = deduplicate(all_articles)
 final_articles.sort(key=lambda x: x["published"], reverse=True)
 
 news_data = {
-    "source": "Google News RSS + site-filtered sources",
+    "source": "Google News RSS + Filtered Sources",
     "query": "Taiwan + China + Lai Ching-te + William Lai",
     "updated_at": datetime.utcnow().isoformat() + "Z",
     "article_count": len(final_articles),
