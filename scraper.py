@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 import time
 
-# 設定來源媒體對應網址
+# 媒體來源與對應網址（for site: 限定）
 source_site_map = {
     "CBC": "cbc.ca",
     "Global News": "globalnews.ca",
@@ -30,15 +30,20 @@ source_site_map = {
     "Ottawa Life Magazine": "ottawalife.com"
 }
 
+# 關鍵字（逐一查詢）
 search_keywords = [
-    "Taiwan", "China", "Lai Ching-te", "William Lai"
+    "Taiwan",
+    "China",
+    "\"Lai Ching-te\"",
+    "\"William Lai\""
 ]
 
-# 改寫為使用 site: 限定網址
+# 產生 Google News RSS URL（site 限定 + 關鍵字）
 def build_rss_url(site, keyword):
-    return f"https://news.google.com/rss/search?q={keyword.replace(' ', '+')}+site:{site}&hl=en-CA&gl=CA&ceid=CA:en"
+    keyword_encoded = keyword.replace(' ', '+')
+    return f"https://news.google.com/rss/search?q={keyword_encoded}+site:{site}&hl=en-CA&gl=CA&ceid=CA:en"
 
-# 擷取新聞資料（近 24 小時內）
+# 擷取新聞資料（近 24 小時）＋過濾無關結果
 def fetch_articles(source, site, keyword):
     feed = feedparser.parse(build_rss_url(site, keyword))
     now = datetime.utcnow()
@@ -51,6 +56,12 @@ def fetch_articles(source, site, keyword):
     for entry in feed.entries:
         try:
             pub = datetime(*entry.published_parsed[:6])
+
+            # 過濾不包含關鍵字的標題（防止誤抓）
+            clean_keyword = keyword.lower().replace('"', '')
+            if clean_keyword not in entry.title.lower():
+                continue
+
             if pub >= cutoff:
                 articles.append({
                     "source": source,
@@ -63,7 +74,7 @@ def fetch_articles(source, site, keyword):
             continue
     return articles
 
-# 去除重複
+# 去除重複（依據 title + url）
 def deduplicate(articles):
     seen = set()
     unique = []
@@ -74,7 +85,7 @@ def deduplicate(articles):
             unique.append(a)
     return unique
 
-# 主程式
+# 主程式邏輯
 all_articles = []
 for source, site in source_site_map.items():
     print(f"🔍 搜尋媒體：{source}")
@@ -92,7 +103,7 @@ for source, site in source_site_map.items():
     if total_found == 0:
         print(f"⚠️  {source} 沒有任何資料")
 
-# 去重、排序、儲存
+# 統整 + 排序 + 儲存 JSON
 final_articles = deduplicate(all_articles)
 final_articles.sort(key=lambda x: x["published"], reverse=True)
 
@@ -104,6 +115,7 @@ news_data = {
     "articles": final_articles
 }
 
+# 儲存檔案
 with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(news_data, f, ensure_ascii=False, indent=2)
 
