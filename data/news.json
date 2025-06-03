@@ -1,9 +1,23 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-06-03T19:21:54.562762Z",
-  "article_count": 165,
+  "updated_at": "2025-06-03T19:42:27.478641Z",
+  "article_count": 163,
   "articles": [
+    {
+      "source": "CityNews",
+      "title": "The Latest: Ex-Homeland Security official fights back against Trump’s investigation order - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVQ5V1c2aDgwb3dreTF4U19uTU9udlpXX25jdGlIdlo3VW1YQy1ETkpjc1g5SHByTy1WX3FkdnBfS1JzVmtiS0h2X2ZjWGFTWEtuMHB0WmJCWEp2TkhvVFR1YVRQMllzcU93QTd1ams3bk5QMGpHcGM3dWVLajFucm15SGdsc2VWVUNYUlRzaWNLR0JnSnRYeXFGS3ktTHotOV9ybHlNQmhBNkZuUlZJSWRuMXdSRGp3ekp1VmFsVXBsOUd1d19fZ9IBzgFBVV95cUxPQzkxT1RmZm9UY0RVMjNyM0dvVFdFRzV6SEtzNWZYRklLMW5nQkczS19jUEZxN2FSTFlsRnhwOEhUVmlaelEtYURFa194b0lqUmgxVGVwZXBJLWkyblU0TlJsckJzcnBJT080NlNoUlJvejBWWUtWUVZmbGdyaHNBckx4NUNUU3k4Q3lIN1FNVzB1c1VVQURPVnhiWjcwTGVuM18xbGZXUnZoVGZzQmZqWWg1MjJ1MVVfNTZsOHZ3Umk5WVBOY05iRkNBTkc0UQ?oc=5",
+      "published": "2025-06-03T19:28:31",
+      "date": "2025-06-03"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Peru Says Large-Scale Informal Copper Mining Exists And Could Grow - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjBSajZmY1ZYNXhJTTRCRmEwcUh0NHZ1OUVacElBMHd0N3NaSzZyaEZwNlJpVk9BNWNsTkFnMU9lZEtwS2VoR2ZqWFRJRjd4THVSMkg3Sm40VmtCaHYtQVEwZi1VSFhQLWVMWjlpZEJGQUFwTnVsUFI0WTIwTzg1UDdJUlRDME1VcGlyUnU2aFhuRF9iaXhhamt1aWE2VUNMMWhGU3ZrZG5oQVdteEE?oc=5",
+      "published": "2025-06-03T19:22:29",
+      "date": "2025-06-03"
+    },
     {
       "source": "CityNews",
       "title": "Noteworthy and influential people who’ve died this year - CityNews Halifax",
@@ -26,6 +40,13 @@
       "date": "2025-06-03"
     },
     {
+      "source": "CTV News",
+      "title": "South Korean media say liberal opposition candidate Lee Jae-myung has been elected president - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZEpsMGdFU2J1U1d4bDhORVpNWEt5cXBlRmp0eUlYbHhJVWhJUnRyQ21RT2liNDMxcmhCbC1mNWxaeW1xc1BBbjJxU3Q0VjJoX2hsUzhLdmI0QVJMcWEySmhRQWMxTDMxLWtIcFpFbkVIX3pNRkM0eWlkQkhCaUt3SExBaFJYbzNXeXZreWtrXzVab3BKQlVVY0dhVmxoM0cycmgxdjFaRFVIMzlCRWtQaWRvcFA0cW15TWdXV3dMN2JmMUg4aERINUI3amg?oc=5",
+      "published": "2025-06-03T18:14:23",
+      "date": "2025-06-03"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "ZTE 5G Powers the Next Generation of Railway Connectivity - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXJXdE5BTlFucEVxQlFNNEdib2wxMjNISUZuY0hJWlZ0ajRITWhVYXF6YzZFal9FaUlPV19uTkZDVFVtRXVBOFM5TnVkcUYtTk5aYTdTLS12UGpZTlQxZ2IwY1F2NFJTZk5lb1dmdGg2VEoxTFFmdDRPOFowR2cteDBNSGJ1aTA4bXY1amRaSGhUR0syMnNkZ1RoeEtYSTBzdEJTUnpGQjZBZDlPQXVGZGxUY08wTXR1TUcxekQ3VVU1eVNPVWV5R21IU0xXTkpnVXJmYQ?oc=5",
@@ -44,13 +65,6 @@
       "title": "European Stocks Tick Higher on Easing Inflation; Miners Decline - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2J6czh5RGsyYVJCaXBIcDl1VjQ4Zmo1dFlWRnF0SWZnMkR6V0lmNm5uWUNsRm5zbjEyb19NYi0tWUluTy1UNklVUXRDVWhMWGlMYm1WdlBiUWlUR042VURpcGhWbnBXZkRDd2dVeGRGcWxIZkFNODZQRFpleDIxbEtFVl90M0h3Z2VyTEJZaVJDc3NxRmlZaDIyZjhNYjdUa0NibnBQMmE?oc=5",
       "published": "2025-06-03T17:47:23",
-      "date": "2025-06-03"
-    },
-    {
-      "source": "CTV News",
-      "title": "South Korean media say liberal opposition candidate Lee Jae-myung has been elected president - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZEpsMGdFU2J1U1d4bDhORVpNWEt5cXBlRmp0eUlYbHhJVWhJUnRyQ21RT2liNDMxcmhCbC1mNWxaeW1xc1BBbjJxU3Q0VjJoX2hsUzhLdmI0QVJMcWEySmhRQWMxTDMxLWtIcFpFbkVIX3pNRkM0eWlkQkhCaUt3SExBaFJYbzNXeXZreWtrXzVab3BKQlVVY0dhVmxoM0cycmgxdjFaRFVIMzlCRWtQaWRvcFA0cW15TWdXV3dMN2JmMUg4aERINUI3amg?oc=5",
-      "published": "2025-06-03T17:45:45",
       "date": "2025-06-03"
     },
     {
@@ -348,6 +362,13 @@
       "date": "2025-06-03"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "This Top High-Yield Dividend Stock's Exports to China Could Take a Hit. Should Income Investors Be Worried? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWUc0TkhxMC14T1R0NXJpOG5XZkVPaEpBeHFXT0VOODRPc2FZaXZhV0FzMVY1NTZMaVJzTVg2WUJnYVpianZINDZLYWdxRFV1R1k0YkVjNUxfNGgwTXlXQk1COXZCLWFYWFg2dGNkUjdDcjVpX3RTS3hFSEpqR1ljY2tqSGh3d2ZudDF0S192MkI5X3lSZEtjUmhCdlF2ZjNyTmlPVjZmVTdzZE15TENJR2d3aERPRjFtVWc3alBvR1ZxXzNIdFVWN0pSZ0hlYXF4ZlhPNlZMREFYeHEtd3F5X0ZsOGRyak02czNLZnNodk0wOU5xQTdYdHcxc0JVemJmY1MwcXJNSldhdUpHcmFqOXZ3SWtYVFMtX1Jqbw?oc=5",
+      "published": "2025-06-03T11:18:38",
+      "date": "2025-06-03"
+    },
+    {
       "source": "CityNews",
       "title": "Resource-rich Mongolia faces political uncertainty after the prime minister resigns - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTJxMU53LXdmeXM4NjhEMnFWcWoxVGRHZk91eGxXRVVNLVlKVWpKSGZsTS15c3dhb084a2lCRk1VSUNjTUFFRUZNTEdEQ093RTBIem9lVGcxNWtJRDNqYXM1VWVvN3dJREljbjltNmtNOHZJTDhFSnkzMmxOVW5lSFJmalVDdDJSdTZnYXlkMEVHaEszZ2lxODJkcTMwNldkOVhkXzV4TXpnM3lua3FYbHlzNnYxbnVKWjNNY1Zmc3bSAcYBQVVfeXFMTWRVdmFlMXhvQ21LMnVBRjBpRG9FdHhQYzBBdjNLWlFXb1F4N3pxYmkyY2xtRF9HRzc5eENRQ2o3MVVnWnVPd2VmTmd4ZXZ6RjgxRlVuODVVTXh2VkZ6Q3lpRmljMVZzWlUtS25NOVlsR1Y4Rnd5eEtxcnhuWmdmbjFaOUZ4Z21qTDgwS2h0SUZQa0tId21Hd2JfV0thbnhHUmRLR242UFgyRUNFUmZad2dPZ3VjM2o4SGhKaS02S0U2VTdnbkRn?oc=5",
@@ -359,13 +380,6 @@
       "title": "Conavi Medical Announces New Grant of Stock Options - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWY2c1A5ZS0wRHVHVEk2c3NMeklFX3FLcVIzejBBeFdqRTMyYlFSS1V0S20tMy1hb3UxUENua1AxdTFlWElRM2VxRFhOSmVsaGU2bGtlTUNNUmt4cTVvVlJPSmFCM1A2RnF0RGczMkNvTnBqaU5fT280TE1BU203cnV3eUw0eFJ4YTJCQlVDMGNKTVlxOV9v?oc=5",
       "published": "2025-06-03T11:07:09",
-      "date": "2025-06-03"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "This Top High-Yield Dividend Stock's Exports to China Could Take a Hit. Should Income Investors Be Worried? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYVo5bHJFa0pDUTVGc0tGNTU5RnMxZTNDVXBxRU9kbmtHelFJWDh0YXg5d0hBWEI4aFlFRHQ3S3JvN2M4bXhyRGFwSnR2dzdJT1VtbnhjemtzZkRDaV9nNXpKNl9VU1hENjZOZ1p4RGttcDdPQUxBZ2thMDk5cVBkTENHOUp5MC1zQ0NVZUlqeVNSd1lxbG5xcEJPdlFzRDR2SjJZdFlsSzVYeUNHOG9jLU1qd0d1ZVV3NE81WlpDbUJ6VWdoQ1Bpem9DclYtaDk3b0NfMkJlTEI5eUZ6MTJsbEN6Y1poaFNCYm9VSXdEbUt2R1lrTURDbU5VR01mWTQ0MlFvQjhGNDNGZlJoXzBtZjhHYUZ0anhs?oc=5",
-      "published": "2025-06-03T11:03:00",
       "date": "2025-06-03"
     },
     {
@@ -551,13 +565,6 @@
       "date": "2025-06-03"
     },
     {
-      "source": "CTV News",
-      "title": "- CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjBPdHVMd0I2dmZONzI0RXBUZUJpTGRhR1paWVE2UUxlczdreVpEQzhra3dqOTBoaThQa0ZCYkxMeDUteW02bjhIRUFTXy1MRllScHBaMUQ2MWZBcjZjYi1zWjAxU3lkUFZnUzVhcGVRLUFnX25BTjNsZFBtdS1KOFFYNHgwSG4yWnhFUDNUS1hQeG5JNmY2amN5QmF3ZVZvemhPRVl4TFp6MjRKQUg5d1N6TEozeEJ2M3VrWGgxTjJvYzJiZzk0VGNkQS1kaXlSakt5WUlaSWc?oc=5",
-      "published": "2025-06-03T03:20:38",
-      "date": "2025-06-03"
-    },
-    {
       "source": "CityNews",
       "title": "Asian markets rise as US stock indexes near records amid easing trade tensions - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZUVxeUliN24ySlpaSE0xakhLSk1MT2N1UUNTeGsycTJyOGJXTkIyY0FYb1VwLUdPWHdaWkJ3bDhWdENHRjZPeE5JTUtUeHBYVXZ2dUxsNzA4My1vNWlKZ3M5dXRnNk45bWNIdUNTdVpITWFVTjJ0cktzUTJ4WlF1TDF1VzZ1WFMzSkIySHdlODhQWTROYWdPSHU1c1VCdEQ3c1A4eWd5NWloSl91X094UzQ4a01GMFVxcmfSAb8BQVVfeXFMUGwzVFZrXzA3c3V1SHJRVlZTa29oS2JqV1FJQld2bjI1MWlzVFhMLTBjR3NqMmhhVENYWXFHRTg0LXYyZzJGNjRVZ1VaZmNHN0ItVDNtenBySXBsLTlFb2pCeUFjeTVtbFJ0MEF4cDJITTZia0dMeEpQRjhBTldxM0haZFhyVElYanp4SlpUYVZyVXZndUVVeHBVajZTZmRfUG5SYkRRSnE3Mk5NOVBGV0FuNkVkZEZfTTV3eVktaVU?oc=5",
@@ -574,22 +581,15 @@
     {
       "source": "The Globe and Mail",
       "title": "Asian markets rise as US stock indexes near records amid easing trade tensions - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONTZwRm02bll5bTVJSExSRUpfRGhfSHVvTTAwd21YeGFPTmNiSXBUcDhoNGVnWFNIUnpKQjNHUlpmV0hLc0FCQ2FwUXlNaHRYcDFodnJoWHpkazNTcklaVlFfNE9jYzJBYXg0dWpLTGRyZUs1Tkd5NGdXbTlBVGJjV2dscWtXcUVLem9qT1lPZzRlQ2VyenhaYlVWQjBFckg5ZmFvT09EMlVCajJEN2lDalNBZ1RfNEM5MkVXX3hXa2tXdFZvekRiT195OEFkSm01Ynl5MW5KRkttVnJ4UnRmb0tHdU1kV3VCVlRYcVViMHRMa0dWVFE?oc=5",
+      "published": "2025-06-03T02:19:57",
+      "date": "2025-06-03"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Asian markets rise as US stock indexes near records amid easing trade tensions - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYldKckh5NVhwOW8xXzg3djBUZWpnRmNOc0F6RzBLdGdUZHdyeW1IdGtXal8teUxCblVvQndTZk1Tb3cwZjlJeDlXSlFUNW9FU0tOZllmY0ZLWVlUQTdoaDhIZTVadllDZTE4UXVPQUtMdVV5Tk96MHVveFg1WVQzTEF3YnpneUlMS0NOS0RQYVpOa25qT0Jhdkl2WmFHbjB4NmxjRHVFbkVHOExXRVRlaUFpWGdoNnF4Sk82MlZNRlNNSzRpQ0c5OThzOExWR2VVOExVdVExcmtRNFRHV1ZQdEVURkF6bzdONF8wcW5DN2dZaTNsUko4SE9R?oc=5",
       "published": "2025-06-03T02:19:56",
-      "date": "2025-06-03"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Asian markets rise as US stock indexes near records amid easing trade tensions - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeFhncXJLQVp1VkdJbWduZFJkVWhVXzVtV3FadHNFT3lQeFh2S1Fzc0tRM1dIMjBzZzFuYXlBTmp5b3g0ZEREYjRVcEUtaHltUzc2bTNMU2RHZHUxc0d1NnlLajhtRTRDZDZyRUhJZ1NZRVI4N2YtLTNnM0RqcVFMaDVYRUQ4VXBveGV5RGZPdGtuOGdPbWwxLTVVckZIeVZ3cW92d1VYNm5yVVZfcndZa2lRUHZheGY4SDc4QXNkNjllVDFQYjcxczh3V1dTOFZTZ21zZVlueHVwRnBWa09SeVBKSWxrdzhMaFlmQnduYm5zY2tZNWNR?oc=5",
-      "published": "2025-06-03T02:19:37",
-      "date": "2025-06-03"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Asian markets rise as US stock indexes near records amid easing trade tensions - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPM3JrdUd1dzQ2VVJPeW1QajktcEphZXliQUdiM0oyRlhTT0JBOVhUMDJnNVVNTGpfRVN2R1NReEwtcWpZbXZ3MGM0dl9ZWmpvZkNJWmdWVHdiMm0yR2t3REIzc3V2d3NXWENPWlpJMDJzaVNBbDBMMHlPV2FsZ0g5c1dWbVJoWndzTmhWLUJjN196MkFWbVExQ3dvTXRiRjA4eEF4WXFITmpneGl3TmE2ZWV0MXU4cjRtMk9FaWE4M0JlcGJLZDM5MG8xZkl4aHdXNVRyT2xZd3ZJSzR0bUlZOXdvbndvaTlHenZpalJKMVZ0UWp1T2M1U19vVmw2VFk?oc=5",
-      "published": "2025-06-03T02:18:00",
       "date": "2025-06-03"
     },
     {
@@ -873,10 +873,10 @@
       "date": "2025-06-02"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Palantir Stock vs. Taiwan Semiconductor Stock: Wall Street Says Buy One and Sell the Other - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0ExNm5jSGdfUHUycXV0UW1zOXZub0R0ODUzSWtUMWJRU1E3QVdYVXNzMHItMW9UaV91angyNHJ1eXdqNnM0MGpuWjUzcDFEdVN2WXdONVo4TDhRSThJaHBmX3lQSkhQeUx1MnJUWEpuOWtyRkNGcE9FdDBYQUpZWmdsdWVONEoybmlDS3RRcENzblVKOFZ5RDA5YjNsVXpjY0Fval9qeXNtWnBjRk1MbHlPaUhlUkVzNDZiZ3MtTElyMWxkbUtQblVzQUJjaWxlam9GeWQyenJoMnBLMlJubVpOU0t2NnJ4ZWhhUWtqN3BVdHVQaWtXcHdyZXVaZ2tHOGtqOVF3?oc=5",
-      "published": "2025-06-02T22:23:02",
+      "source": "CTV News",
+      "title": "- CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd09DN1hNbUx2MTZySkFpYUpPSXdCYlQ5ZVRDazdvNlJCZGdVdktMZDBzdHBhOVZLMURMa1UtWWs0WF9JaFBsbGlWZmlEa29LTkVGN2N3cjlibHFoWk9seFp2Wm5Kb1FJSk1hUjIzMVd5V0NFV2ZPaHVOLVEyb0tjalp4SWJlMHVGdXVvMkhubU9raGZXaGJjc01qNFNYdzdiYXVDbm9DTjhVOWVWR1Y4Zk11MFlza3dCWmUwU2pKUDJldlVtZXR1c0EzbFE?oc=5",
+      "published": "2025-06-02T22:27:38",
       "date": "2025-06-02"
     },
     {
@@ -898,6 +898,13 @@
       "title": "Business groups say they need more time to comply with Quebec’s stricter language laws - Global News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRE1ueUlSR3VZcTV4ZEJLcTFpMG9QeFN3bUViMnRRZXdvaFMwVHhhTW9zVnA1SnEwczNnWE84ekh3X3VZR3ZHTkFvWTRieU9JdUJ1cVRRT09ZbHVXRFJGbVh2YzR3aGNsbUJQUjl4MkR0Tl9Ib0t3WGE0RHFlbDdZb084bDQwam05QWtyQmkyd3FWVnV5aVZJbmtqNmo4ZWxLcURiLXJ5YTgwZHM2eVBuOGE4eUFKb1dKdU9BUHNweXbSAcYBQVVfeXFMTThwWlJJV2lTWDlSZUdsTDRtVngtcVpHOXpKUXo4X3JETm9TT2E2dnpFM0VNdVJhZzF1aVFSNFJKajBRS0dGcTdhc21oa0VHMnRRR0F2bGFzcHg3MlZVcUprdExVWEY3Y25KaF81QW5yczFXMEZEa1QyZXZVUmRScTdJYjdqTkVQa2UxNm0tRGNFTVQwUGRBcFhpWU95NVJjclFZNFBJVThBOHJqWTFlbDVEOG1vM2J5YjRhc3VsZTkwQmhiVHJB?oc=5",
       "published": "2025-06-02T22:00:34",
+      "date": "2025-06-02"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Palantir Stock vs. Taiwan Semiconductor Stock: Wall Street Says Buy One and Sell the Other - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTE10OXNuODVaTjgzSFIwbl84NnJiNktHTWlYRzYzNDRjSFFFUDl6ZXNtWXhlYVhqbUw0dm5WZnBxZ1hXRng1YV9JbU5VM1ZXNms4U0RqQjFZZUg0UGFoQUVrVW0xNDZGczgzOFJxcDdreTA3TnY1aG5TbERkdXNhRXh3ZWwzZU9wNmJZcWZkTlplU2plQUl0Ukd5OTBUUDlFSldKS0dBenBULTk3WWdrSU91Z0ZPdGV5NlJoUDhqa1NPbDlNVExCcUJKbDgzOC1CZWlnNE1QUWdGZzRabmxkQm1NR3JscWJyc2ZremgxeFBOUk13MFpYcHhITFdNaC1TVmZYUHRfVQ?oc=5",
+      "published": "2025-06-02T22:00:00",
       "date": "2025-06-02"
     },
     {
@@ -933,6 +940,13 @@
       "title": "Pride Month kicks off in Toronto - Global News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05cllRYnVPRV9UbXh3bmpOWVEzVkJnN0hWMzU0LWdLa3FWeUJJU1lxNWxZQXBYMnJmRG9BNmp4N2lsUTl3QlZJU3g4cjFhc2VBUXNIVzNhVXVaejlvdUltTUFaMk94RmpHRmVESW5FLVUwS252TWtvVTZ3R3fSAYIBQVVfeXFMUFphSGg0WVJ0VVFBZDAtUXVjWTZJeko0ZTdIQzFHTHc0WFRTS1NPMUNGWGswNkk5OGkxNzBYMDVSY2R6UFJVMENWQnJYa0hGWU1ZbElrakg4VXYtbkFSWGQ2aHVqYXZ4NWQtTFIyLU5wQjJkVjdHX3lCS0lHaW1vR1hXUQ?oc=5",
       "published": "2025-06-02T21:50:57",
+      "date": "2025-06-02"
+    },
+    {
+      "source": "Global News",
+      "title": "Winnipeg woman drowns in Whiteshell Provincial Park - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkhwRmxBRVM1aEhSLUZ3cXZnc21pbWcxZGtRYkpGaFFZVGVVY3pxY2IzX3JHRDRtV0MxR0tOYmdOQVpnXzVqQW9obi03ckhWSnUtSUxrSkNjcUkyb3VPLWRBb080cWNZaE5PNExvQXFOb2J1TVdJaWo0U1owd0tqeHJmRmhQZklmMnhBWlB6WHRMZ9IBlwFBVV95cUxOd20xVnJvQmZ1WnBqWWNDVGZHQnkyNnVIbHVyelpObi1PeGZQbWN1Nk1tOXBTVWV6QXdoZEdLUWdaSXFldnBGRDNfTEFjdzEzM1B5elNLbExfWlhLR1Q3Z0UtRzBtX3ZjMjhVdWFXTTFPSDV3MzhPUTFnM0drNUNLazNpcmNHQTEtNmZFNTBSd1VjMXR1b1Uw?oc=5",
+      "published": "2025-06-02T21:50:04",
       "date": "2025-06-02"
     },
     {
@@ -1062,6 +1076,13 @@
       "date": "2025-06-02"
     },
     {
+      "source": "CTV News",
+      "title": "B.C.’s Buck Pierce, Edmonton’s Mark Kilam to meet in their CFL head-coaching debuts - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYU9NSHppM3BOREFmNU9iRHZNZ01wTmJLb1pmc3ZDUE15Q0VmT01uTi0ySjNxVE0tVkFNQzlBUlUxM1dJUmpKUEZHQi1lZUhNdTNYcExpWlNSMWg2d0pmYkFCZExQdGVOZklFcURmWS1zazMyblhGOGxSYTZDb0lRTlFQcERYTXJQRWxMS2paU3gxcmZzRWlCRXJObGwtYkpZY054Wi1IUkZJQjNhSWJQeW85Tm1qSFlQaGdn?oc=5",
+      "published": "2025-06-02T20:38:32",
+      "date": "2025-06-02"
+    },
+    {
       "source": "Global News",
       "title": "Manitoba wildfires: Firefighters making process as over 17,000 forced to evacuate - Global News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDRsLTZDUEhVbVZQbzMtdTJ3Uk5sOEdaWVI1WDR5XzA5cGtwREx3eEZ1MHh4NW42RlJvM1pBZm1MVi1YN2Y3aUV5cVo1T2YxdnhnV0hyUkxqX2h0UjhlZVE2dUNNMUN0eWxGZGh5MVdsamNfSmZhRFppNmVIc1JpR1dHd1ExLWZWQXh1d3lURk82SUd0WXQxdlhlM0RaY0x1UEFaWS0wVjl3ZFhmR0tWQW9INkZlNjll0gG-AUFVX3lxTE51akpwRXY0OHEzMUF6US1tRUx4UWczQWZJSWNFQlNnalJmNTBKYVdEaEhVbjRIVWNLeGVEN0E1R2t2NnJnRVZhME5LLTJkanhZYkl0UzhhSDV6eTNWSkpBdmt6S2lvS1ZYRVktb3E2QnhJYWtUYXNPN29yMWpIWmNrcVlkR2hiSmZOUDBXLUNoQWQ1OUtTSEVId2NMQVZUQjlJclY4YjlWU0NsNzJrazlkbFJkT2NIQnNKUFVxT0E?oc=5",
@@ -1122,41 +1143,6 @@
       "title": "Flying High: Toronto Blue Jays on upswing entering home series against Phillies - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXh5cXNHTVppbEJ0ZnVYWUgzX01kT2drX1l6VjBUYktQOVhnT095NzVPRlE1d1J4OEVjamZXczY4SE13ZXhFejQtWTU1aVB2MzNBem9BbW9KWXZtdzRtbDhuZ3hXNGdRLVFKbkVqejh5MkdsVFgzZUFnZ0QzRnU3cFluVkJYY0dDdWMtZzNINTRrMkxSVHVSYjFWNGhqMWNPVUZfaVZ3akRiR0xHNkVDVEZyOUZXMTVOaXZua1Vqbl9nNzQ?oc=5",
       "published": "2025-06-02T19:46:22",
-      "date": "2025-06-02"
-    },
-    {
-      "source": "CTV News",
-      "title": "Police still trying to identify human remains found in Caledonia fire - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHVwUEowTjQtMHQwZk9iVzJNc1lEU3FjU2VMTWhxUUFWWU5HLWgyZEt1ZGMwMXNEQjMzNHVOOU9kY3BuVnhCVm1SQVU2UDN1OTlmXzdhSk1tWXdxd2pLT2w3d2NJblpMNDBGZF93dXc4dEhqYjBuOTJwTUM3UjEtbG5pYnB2dDV6VGNfQ05mQlI0NXVYdFQ1Rk9RMVE3QXdMWndSYjVTSlEzblF5dG9RbQ?oc=5",
-      "published": "2025-06-02T19:34:05",
-      "date": "2025-06-02"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Dollar Slides and Gold Rallies as US-China Trade Tensions Escalate - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUnYtdnBoMVQ5aDVYdlRzUzJvRVNJSmJYZlBKcHBJTkJmbUI3SzdfZFJaNlotcmtoc3BHY2hhcjd0REpSZlQtWmg5RFlKUmVyaWh6bm9IMUNscHExOWdLbVZTaWxtbVNWSGRvbVR0R0dNTXREbEdqN2h2TDItRGFKVURVM1RQVjlnX2VkRlZ0Smx3YXdxREF0YkF5Q0FVT0ItdFhUMHBaY0hkSzRFQzZHLW1GVnEwUG5na1BhXzJPLUJ3WkJjNjdGX2dLZ0labkNUT0JkSFB1UkxDVjhsNDJtWU02YlZNWkdtdks5T3duWQ?oc=5",
-      "published": "2025-06-02T19:33:00",
-      "date": "2025-06-02"
-    },
-    {
-      "source": "CityNews",
-      "title": "Book Review: Michael Luo tells the harrowing story of Chinese exclusion in America - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjVBRG5GZ21JcXA5aEduYzBLSXNiWlQ5SW1acVc4MzVrUVBsQWVyeWl2TXI1cmZROEdLM19NV0lzTlBYWXM2RHpSOGtsTzJNd0lob1RfWUJWdEJ6M19yUFZ4Z3hhNXZiSVk4TXkyMHloZnZrejFmQkNwanVZRDBpYXBWWUtmaDBwVFB6Qk9VV1ZyT3ZDNlNqRllVd0tROWNubGtWR20zRE5pbGI5dWR1VTRKSjlwc2tNbVpUaUFR0gHDAUFVX3lxTFBkdXN1eGhRb3pVTDhEUUJicnk2cjVCUHhqMS1MNjB1S28tSlNSZnEtbGE2N2M5eGhTMksybUIybmt6RUVLMVdBM05IbmNzdm5HVm5RSnFNNzZwVksxYUhtVjFnRE5lakplWFA0Zkh2VmxoY0NxMm9lNHJnNk9NcVdPUlgwSTVHM2x3R3pWQnNQRHczSThha3RmV2J5LWNvelBGWVJRcHNDNktkSEhJM3RidkNXaDhGRTR0MkVUV3JHX3JLQQ?oc=5",
-      "published": "2025-06-02T19:28:20",
-      "date": "2025-06-02"
-    },
-    {
-      "source": "CTV News",
-      "title": "Syrian government and Kurdish-led force exchange prisoners in a step toward easing tensions - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnlSZEhwWEpRSTBYRjhXLUtwWnRrZUg2NHVVWUtvVndLSkl3cXJ6QWFWa2pCdENVUnU0NHh5MWZHd09Sc1pSd0cwZGh6eGFmTFd1dHhDMnV6b3RvX1JkSWZwZG44OXBTa1NsZWsxem11R3NwV0RxZXZzdUZpRVhHUFloRFloTXVrSF8yNmpEbWpFV1djdTZPTHFwYmNsT3A3OWJNaWN3X1EySXl2VlgwR0dUT1liSGdYUk91QXR0OGNmdUJ0bjVaZA?oc=5",
-      "published": "2025-06-02T19:25:23",
-      "date": "2025-06-02"
-    },
-    {
-      "source": "CTV News",
-      "title": "Ivory Coast’s Elephants look forward to facing Canada, New Zealand in Toronto - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3NZdktyRjNzRmdYcHE1dUlvXzhNTEs5LV9JWUhMbm1CS3hLLWpBWWlRZlBFLVRULWNUdUZremY2clo0Szl5cFVZN2tlVnZTLTFkQ1NiOWJrbzNFeW81aFhSOTVvOGpxaWRMeUV3a2dQSl9XN3FEaEwyY0dQVU5KMkh5QVJBTWJ1MEhRS29NMjkwbHV2WWRxZk9UOTA0aFVSYmVYeWc0Q094ZnBfQk40djlMejFIeUZDa05uQXM0bw?oc=5",
-      "published": "2025-06-02T19:20:08",
       "date": "2025-06-02"
     }
   ]
