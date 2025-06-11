@@ -1,16 +1,9 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-06-11T22:25:37.630761Z",
+  "updated_at": "2025-06-11T22:48:07.534537Z",
   "article_count": 304,
   "articles": [
-    {
-      "source": "CTV News",
-      "title": "What could a Canada-U.S. security and trade deal look like, and what could it mean for tariffs? - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbU85YTVSUlI1MUI4dmdzb1oyQ1BuTVNCNWQ1RXMzSkJJWXVmSnFiZ1NNVmVNOGZrRFpad1Y2NW5TRmlYSUVjTDU0MnphUTQ2eFJ0N2Q2NWw1Ukt4ZjZLXzRRM0FKVGNrMjhIUVlwc1ZxbURLbXpJMkZZS2ZfUXVZZEhzRXhzRnVVYUhzRnpBWDhrajk5VU1TNmwzVm5FR3UyaHJ4ekppUWpiUHdnLUd4SG4xVDUya1kxbV9IYTByWjc3NDlOM1Y2azctRHR4S0RpRm5GMUNfTk1kRmltNUwzS2t2T212Y09W?oc=5",
-      "published": "2025-06-11T22:19:05",
-      "date": "2025-06-11"
-    },
     {
       "source": "National Post",
       "title": "Liberals reject Bloc proposal to split Bill C-5 to pass 'consensual' lifting of internal trade barriers - National Post",
@@ -23,6 +16,13 @@
       "title": "Invitation indignation - iPolitics",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTG1XY0p2ZGdvdjJYXzkwQXRERGo2NTN3d1Bzell1M3d5cEVMMDRIZDh2UTRjemZ4ay1zejBiV3FmZ1NGMW5ZZWdKMFNnWnRpZ1UyblBGemhmd3BVbnNELVhLT1FjRmUycVZB?oc=5",
       "published": "2025-06-11T22:03:04",
+      "date": "2025-06-11"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "PACTL and LCSLM Forge Strategic MOU to Strengthen the China-Mexico Air Cargo Corridor - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNN0xNSzJCUmFaYzlkalBZbDd0UWsxRFpfOHctVGNsZVMxWi02MjhNRDdhNjVVNTRaRWxqYUQ5Y0plNzdtS1FHTXlBWWpUNkxvc3pzMS1uRWQ1Z0JONUNiLTVmUXJHeWxVM0pLTUZhaVhJcWcyQXl0WFRFZWthVng4ZkNBMGZxVDBmRjhxRVE5VHByRTRhd21kZWVSUGhIVnowSjZfb0hLOGNnZTVGbXRvNy16VFF1MHhYMDZiR2p5TDFZTlRFdFFKM05mV3FpZnE3RlNpN1VSVDFwdXJqZ2VSUGNHQkJDVEd2Rkx0eWpPc2gzU3U1MXphOTZESQ?oc=5",
+      "published": "2025-06-11T21:59:04",
       "date": "2025-06-11"
     },
     {
@@ -110,6 +110,13 @@
       "date": "2025-06-11"
     },
     {
+      "source": "National Post",
+      "title": "'All scenarios are being considered,' RCMP say, as search continues for missing N.S. siblings - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0UyNTMxeThkQUtFeVdfREVLT05DaFpHNnoyUXlrWnBxbGpyc2VBR0R1UEd5ZG5tNGJFZ2l1LVhSNWg5dTdtNE15VEZmcWdkZURlU1d4cExZMkFzVTB2OEhtNXVyQ3I2M1NKM1lfdFA1M1lsWlFkdldWdmFsOERfRHdhdlhhSnlx?oc=5",
+      "published": "2025-06-11T21:11:56",
+      "date": "2025-06-11"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Oracle Q4 adjusted revenue beats estimates - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjdwMDFDa3FHaHRsVEJXaHJYemdFTkNNbFphQ1VxUWxyalFlVUhCYnhka2Zpb0FSY2FUREJzVUcyYnFNVGtEUWl3V21uaU9WU1VtR2N2V090SGNTbXV4bU1uSTJ3N2prRDVfaTh5X2ZaRXJ2TmxlMDNFUWU4UUVHUUpiOXJBV0c5Zk1kcmNyUFROY0laaE9TbDMyRTdCM0ZadkI2MnRlOA?oc=5",
@@ -184,13 +191,6 @@
       "title": "Wall Street's rally stalls as US stocks dip for their 1st loss in 4 days - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQczFaX0Y4ODhPZWNLMnlXbjNCYXljRTVRQUFzVHA5Y2NrQTd0VEN4XzRHeEpFc1BGUThHeEZ1QUFsNFZIc3RzOHNma0JrNTJhd1k2Wm1LT0k1enBzcW1ITk1PNXNVaFZvczRNbzFFU1RlT0xKdWZESjZSaVlfRFM3UTJkSVpacEZ2SkZ5T3Q3MERkQXVtalBYamJkSGtKV1hCTVdaMmlCVTBsY2hZeHVxNkpnMUZWVjZXdG5BcFo0WjR1Mm94SVhpdncycEJBZUhIdElqXzRrNXg2WnZxamZFTzdSQmUtUTZzRlluMTVoSlk?oc=5",
       "published": "2025-06-11T20:25:54",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Wall Street's rally stalls as US stocks post their 1st loss in 4 days - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdnU5Yy1pSWZweDg3djltUWNncDBGYWg5dnh6Z3JPc2tkNi14d3NBQmNvZXJscl9BcWppbnlzemUwOTZhd1EtODJjVTg3bWh5RnROLWhVTkEyTXphZGNzYURGbzY4VW1pZkN0SDlKWVk4WTVobWhQcWZNV1dURVZKdWJidnNTckxQelVtNnhOcVljcHdxTndvT28teHBpa1BmSzNfVzl5cDFONENnSEQwMzAtdThtMFdoakNwTzlyM1RRN2VkRXplMmVOWXlfQ3BBSjg3VDF0VVNpODVhb294N3E2S1Npei1JM1dNeV93?oc=5",
-      "published": "2025-06-11T20:21:27",
       "date": "2025-06-11"
     },
     {
@@ -306,6 +306,20 @@
       "date": "2025-06-11"
     },
     {
+      "source": "National Post",
+      "title": "B.C. man's ‘relatively modest’ child porn collection doesn’t merit jail time, judge rules - National Post",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1pKb0drSmN3c3o1Nk5CR3JUV1JnYWQteDAtRjl3bXJuYlV3VHJDR2VGVm9EYlh5T0xXZzluSHVZc3VRUFBZbmdJRFl1WUR3SjgwN1kyRVZMWS1Eenl3T1lyNE9jcVFfc05OSkF1dHdyX3plMHV5eFpOMmUySmd4VkFFRC01cDhyc1JzTWVWUW8?oc=5",
+      "published": "2025-06-11T19:33:27",
+      "date": "2025-06-11"
+    },
+    {
+      "source": "National Post",
+      "title": "'We lost touch': Former NDP MP Charlie Angus calls election an 'unmitigated disaster' for the party - National Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXJJUGUwQ1VYdllNczllLUVCeW8wREZZeU9OQjh4VWJ1OVB3bHRiZThvVF9GbVlKUWVFZWV6U19YLVlVM0c4MDRldnd6MXNnY3FVaTRuQ3FPNlYxV3lSVjEyOVg5cGtMWGZJOFpCeHVUalRQZ1dHbzBySmtraE53T3FuVkM1cDFOU1NXMHoydHFiRFlBOUpGM29oNEZhZnZHU1QtU2JHMWViUS1EMllUZk5jNEM?oc=5",
+      "published": "2025-06-11T19:30:00",
+      "date": "2025-06-11"
+    },
+    {
       "source": "The Logic",
       "title": "Cyclic Materials plans Ontario recycling plant for rare-earth minerals - The Logic",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1JwMGY3dEV5QVlwVmgtSlhGUFBkdkhQWk1BUndTYkJIUlJpa0FEYVZXWlRvMHhib0Vfa3h2SWp2RnVWTHpaWnFfc3BvSTBTZDN0bzAyalhOY3MzQXdZbXRUdE45WkFaM1lmU09yVURSS3ZfT1pCYWdMN0NmcDE3LUNLXzZady0xQm5Xd25JczRxX1IyZXJxMmV1ZjJxMlh4ZkE?oc=5",
@@ -355,17 +369,24 @@
       "date": "2025-06-11"
     },
     {
-      "source": "National Post",
-      "title": "Ottawa’s GST rebate on new homes would save typical first-time buyer $27K: PBO - National Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1VPX0kwZWliRm03eXZSYVgtSmQ4NlVLOEkzTTFxVklIYUpPRlJYclkta1kxS2NPRFZtMi1pVUs3a2phUklwRHpBU1FMRWplVHhCVnV0ZVJlUzB3ZWNPMlZuRzc0dDlIOS1QZGk0OHRuWEFSWkZ6M29kOEdFSW5hU2swaVBkX1BCalh4QkxzVEljWTNOTTdqY3BLcnlEQmZiYVZEZERZcmQ1NzBTOVdKazh3?oc=5",
-      "published": "2025-06-11T18:48:33",
+      "source": "Global News",
+      "title": "Trump’s mass deportations will continue despite ‘left-wing riots,’ White House says - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlxU3RKZkhtcTBXYk9yM0JZdURFdE16RHBzSzNkc3k3ZDFhSWFWbzRqdVhnV19VdWNxQUFYeWEwdzBTT3NGZE1kNGd0RFU0akpZQTF3eW5YcExjcmFqWGFhalpaV2pJWS1ENy1KOFBCTS03eG5XVjNWaUxMcjF6bXZReGg2aHVfUkVFM1VNVTgxS2pQUFdyQk02RGNTakZ6Ym05TTd4cUhnSWhUcVZIZXJvZVVOQTJn0gG-AUFVX3lxTE1oWlVGZE1sczZvdGZ4N1F6azU2V3h4OEdQQnBpVFhJcGRyXzcxMnZiMXRsR1gzQ2R2Q3NTdTdEdmVjVTNzVEppR3BjVWFaRUpPcXA5dnAtTUxXUUFOR0JkUzFjajVtVmZrSHczUWlqajlKS1JHNHV0bDdoM05rTVVadGtFYnBIcTFyTE54d0oxTVBRYXIzcmU5aDd1NUpmdkg0VmtsWGgzYVpzUlVaa3lCcEVWcERTSjB4bm9iRkE?oc=5",
+      "published": "2025-06-11T18:56:08",
       "date": "2025-06-11"
     },
     {
       "source": "The Globe and Mail",
       "title": "NIKE's China Recovery Stalls: Can It Regain Its Edge in Asia? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFR6eHppa1NldUtvRFNtcUk4VmN6NFNPMVhxaXkwTWVzWXgxRVd4czNSMkc1Ql9zZ284S1ZMeXJNTVRtazY3NjJ0c0k4aEprX2hueXJkUHhMYzZWaTVHWlZQZGNkR3d3OXgxWlEzcUpIU0hXQWxyQVJzRU9KcUk3dFE5SzFGalFiNEkxOVdwVV9MNVdZWWFRUjMtQWlPemlvS3lnckx5aEJyVW1sZndvckdSa0w0Wk02TWx5c3ozVXFvZ2tQclJmUmdTaElWRmJWd0E2LWlqb0ZxYTMwNGc?oc=5",
-      "published": "2025-06-11T18:39:17",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZUxzSjR6TjlQd0o2MTlLS2xWM2NTUW1YSS1WS0VhcnEtQU1DY01mSno3akZSWERtdVl2VkJVVEhiZnQyalVrZ054NF9ncWZPV2NNaXNPQmxZVzEtSWtIYS1VSUFhcHlsQi11cHkyTFdJWVk5TDNfdnRaT0ZVQlBrQWgzT1pzakpSRHBoZ0o3MlloNDZJc2lKaDhiXzBDeFlhT3lrWEtTN0hzNTRHYnlQaHYyNmNtVkhxT2NzRmhoeUhnLVlUSWZKREZ1M09HVFZQMnllLUZsY1pUcXNr?oc=5",
+      "published": "2025-06-11T18:56:07",
+      "date": "2025-06-11"
+    },
+    {
+      "source": "National Post",
+      "title": "Ottawa’s GST rebate on new homes would save typical first-time buyer $27K: PBO - National Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1VPX0kwZWliRm03eXZSYVgtSmQ4NlVLOEkzTTFxVklIYUpPRlJYclkta1kxS2NPRFZtMi1pVUs3a2phUklwRHpBU1FMRWplVHhCVnV0ZVJlUzB3ZWNPMlZuRzc0dDlIOS1QZGk0OHRuWEFSWkZ6M29kOEdFSW5hU2swaVBkX1BCalh4QkxzVEljWTNOTTdqY3BLcnlEQmZiYVZEZERZcmQ1NzBTOVdKazh3?oc=5",
+      "published": "2025-06-11T18:48:33",
       "date": "2025-06-11"
     },
     {
@@ -401,13 +422,6 @@
       "title": "Montreal transit strike leads to record numbers on city bike paths - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFBISjg0cm9RZ0wyVUQ4Qmp6c0padHpxWUF5alNHSkh4Y3lrZllHOGZsN1F4Ty1LcWpUc3F3RlpwYk9RRlJadGpJSG1xUVFxMVJCY2dmS0F1eTduRnRGMDBDdFRfOEVxZjk3VFNmanB4T0M1MkhVUmlVLW9zNEJRQ3U4WkltYnBQUVlKeS01aXFyMGd6RG9pMTFtNkkxRlZqcXV0MTVmVW1hUHM?oc=5",
       "published": "2025-06-11T18:25:51",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "CTV News",
-      "title": "Colombia considers boosting debt to cover growing fiscal deficit, sources say - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1RoUk1jcjVLQVhTN3lJV2NlWGhsSXp2Tk5oZlJheUVXczdfODhEUVE5UTZmVlYwX2lWaHVmc0VJandlRi01X0JQRnl0YVQwVllxUUpUM3ZiT21KUE9ycFhuWGxNbkFNNGlMc0VuaXZJYVFJanVsY0pNUGNkZkQ1NDFmLTF1aVV5X0FQaTBvREZId01iSllIckw1bkk3WGt1aDRlN2wyTEJycG5mUEdxMDZLaUQ?oc=5",
-      "published": "2025-06-11T18:23:53",
       "date": "2025-06-11"
     },
     {
@@ -478,13 +492,6 @@
       "title": "Canada eyes further moves to counter foreign steel dumping - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42U2VJU0tvekJSTFQ5Q1ZockNiZDc5YWROT2I4em03b3Npb0JMSXhsM2tvbThSTnczcldjMVB4R1dJSHVzQUdEVVRRbFFfaUpNeHp4VkwycV9pZ2pRdWVTMExIZkpLcnBMSVlUSkJrTVQ4NC1NZnc?oc=5",
       "published": "2025-06-11T17:52:36",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Buy, Sell or Hold the Apple Stock Post the WWDC25 Announcements? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3U4d0hfSG14dUtBM0JmM2RQc2E3eHB3bU9ISVNTSDRRNVRVM0ZQRjF2cFBHajFVNDVEUzdpWU1LcGMtWk9kZFJIMFI4TlBfb25nNEF6NHktT083dFpOZlJyaThFM2IwbHdvcjZMVTFGNGtQcHRCdVB1R1AtOEtxTW0tRV9tampXMUtkeEZjV2VuNnJFOVhZZHZ4UVkwa1padFVyUzBUR3Q2WFdQOEVjdGJyMThjb3pnVjBVYlphbjd1LUlNanp5Vms1N0xBcmdLamVtSWhLT2hjZlFidXNGMHVn?oc=5",
-      "published": "2025-06-11T17:45:00",
       "date": "2025-06-11"
     },
     {
@@ -572,6 +579,13 @@
       "date": "2025-06-11"
     },
     {
+      "source": "National Post",
+      "title": "Geoff Russ: First Nations let down by David Eby's anti-oil dogma - National Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2ZqMXpBRmlOQVdBSGU2ckdUc0lYUXVRZWxjNDlYM01BeTcxTzVfMi1fWFp3RTRDWmxyeUJsd29iSmVBaUsyV0xvTEdDTmVoYVVYUW1oOHluWEQ5WjNtT1FGcmM4ZklBcU8wLTB4VlRqeGttUHR4V0hPNThqaWZidzczY1JTcGNYVmQ3aDhabk5NTG05YVRENk0zZw?oc=5",
+      "published": "2025-06-11T16:43:40",
+      "date": "2025-06-11"
+    },
+    {
       "source": "Financial Post",
       "title": "ARCELORMITTAL - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tMHAtWExZbjVUTUtuYlRNbFF3ZHRxYXV1WEdmYXNsN2dsZWhpZkZiOXh6NXNlOG5uWUN1V05CR1hyODZfcGpFMXoxNmpMRnp4MFN4ZmM5aw?oc=5",
@@ -593,6 +607,13 @@
       "date": "2025-06-11"
     },
     {
+      "source": "CTV News",
+      "title": "Major projects will be slowed by court challenges if rights are violated: B.C. chief - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmY5NlJpanZjWXE4LXZmSzc3dEUyb0ZHdHdzNk5uS2R3ZVB6YVp2VXc5ZzV1NmFwakkxVU1MYWlQTmVFZzdTZlRHY3BqYkV0MHJnNG5LOUN2YWFlbmVILVhhTWFtVWJraHNaSjhqal9pbVVMc1ZpR1BhV21HWFRfQkNscW1DdWdWd2Q1d05fRnpQYXRuWnlfZjVMOWJ4ZDhSbFBURkVvRE1GSzR6dl9DTjFDUEM?oc=5",
+      "published": "2025-06-11T16:33:24",
+      "date": "2025-06-11"
+    },
+    {
       "source": "Global News",
       "title": "Health Matters: Some salami products recalled due to possible salmonella - Global News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXdheEhJZm1yRHdCQ09ndE5hVkNoNVVBRzNOYnV0MHpoM2M0c0s5Q1Y5OFA3eUpMdlh3cWROeWhZdDJ4VDI2WVFqOU9uTUpkN3NxQl9aM05NZ05PZFdJVWppbWtvU3pRanFkaG1oY21MV2h4TWttUWM2QS01LUZ6b3laOWhUWlRkeTdKaDd3QzFYNXJyUEc3M2JHa2lOcVBTVEQzQ1dLQ3phNHduUmfSAbMBQVVfeXFMTmxKMDR1VGNuaWZfdWxNbG9sWXVNOEJuTzZGdTFPbjl4cXZFYjJHRWVPTWNVcmpVNEoxam1heXVDN2hZc2s3ZmQzcWt6QndzZVlRU0xuY2NxZXZia0FMbWlzSDVQRkhHbDFCM0xUQVlBQlhMczVaTXUtb1JlTmMwMjNHMWlhaWRDZUVXR0ltWVpOUDlSMVROYi1MY3ZJZUNkQnRJV1VvaUVwbUpQdF9haFRqNVU?oc=5",
@@ -611,20 +632,6 @@
       "title": "Former MP Charlie Angus says NDP became too focused on leader, TikTok likes - CTV News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM295VzhBdk9fTXNfUHhBZ3dxcm9KSTJLWk5uWVVzRi1xcDBma1lDMG5UMmVDMk0wVjJQcFBGUmJ3cHRBcHM0M1hmeWlJZXdyZzFpV05uLUU1c0p5d21aM2RFbHBiZEdUdFVtSlN6c1dIeUxyRlVwQzlPSDhLcDBrRkU4azhSWHVOM1p0bmVmTFhKZDNVYlpFeEdtZWlQbVpR?oc=5",
       "published": "2025-06-11T16:21:08",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Disney and Universal sue AI firm Midjourney for copyright infringement - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVdxT0drdFQwRTNIaGJsWmE3bVFaQkVMYWRib1FESDc3aGRmVjBJR0ZsVDZiV2FucUg0Q2lfYVZqMGxkRngtV3U0OVFrdmZLREkxaHMtWk9aNHRoTWUzRnU1T1BNT2tOYmxqTF9mdmtVTmpJOGVmTUNwbUUxVWxodFJESm1xT3JPYWdqT3V4NDJIWV9sVHJNcS1aN1Y0NFhPam13OVVTWkVvMlFadUxYejl5MzhqSDIwZVFn?oc=5",
-      "published": "2025-06-11T16:19:19",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "CTV News",
-      "title": "Government rejects Bloc’s call to split internal trade, major projects legislation - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGdaTzExTXk3NW5UMVo3YktQaXd3NTRUVk54N1BYcnVSazlQVkwtSkNOTVM4YkFjaXdCMFhDVWVPS3ZoYmd0bXZKc1JYRHU4bzd5cGllZEQzZ1ktb1ZwQjJYd0dFOGN4dWxsc0J4SUNNa0tNUEZmRHUwejNndDdiS2pYXzZyMXJwQlQyc1RXbVhTZ0dtTEZJOWxhMC00Yl83by0yU0hhOTVwTzdUV0pOOGZlanNnNFhpODdMZVZn?oc=5",
-      "published": "2025-06-11T16:16:16",
       "date": "2025-06-11"
     },
     {
@@ -796,6 +803,13 @@
       "date": "2025-06-11"
     },
     {
+      "source": "CTV News",
+      "title": "More smoke warnings issued for parts of B.C. - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajEyX0tWTmZiRERub3c2ODZ2RkVBZ3FrX09VVjhJcWUwLUtxdnR5T1NOV2lNMVhmYy1EVEFKTm1peHBvQVhLLXBINzdMZGhLWXhmcUVZdmVueG1IVk1mNlVRNDlJd0ZKUzR6QXpNUGlpSFFDWEVLMEc5cWNObmFMejhaQW9oSlZ6ZlV1S1FrM0NlbVcyWnVFZg?oc=5",
+      "published": "2025-06-11T15:01:15",
+      "date": "2025-06-11"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Hot Picks in industrials: Eaton, 3M & United Rentals - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWldLVko2dUhidW00Tzh0UnlsOTlUVjZpdEhhdHpZVGZZVndNMF93SFJaUFVXeHNuQjdlVTRnZUQ3d2tHUkt5dTY2a3M2NEZnMURBMTI5NGc5VGw5SmNVYUZycjBBaVdFdDlvNGxrTHNobEdubFhWYzcyUnJ0NTRDaXJKaldadTBUQUFQZG1XclRoMl9DdVNxYTY1UHVFcFpxaVo0cGZ4QzBrT3ZhZ1E?oc=5",
@@ -961,6 +975,13 @@
       "title": "Luxembourg opens Ottawa embassy as Canada shifts its attention to Europe - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORG1Ic0pTdTdiQnJRUFNna2pySGhPZVp6Ukt0dldYcHZ3aFg4ZzJxdm1BUlk2STRVSjZEN29iM2gwTl9YZ1ZrWmxZU0Nfa3liVUY3ZXlWOXJManJsb2NZLU1uclN4MmNmdE9oQXFWR0luYlRyX0NlVmhXREUxZ1hTbHNwc1NYTUp3b0tsY2FqNWJnSk5BRGlYOVpuckNHcDQxMHZmYkVfSnVXMTY3THZndUpuZ3duLWh5MHV6LTNybktvR3RsbEFxVTBfVTJ5UDlf?oc=5",
       "published": "2025-06-11T14:14:27",
+      "date": "2025-06-11"
+    },
+    {
+      "source": "CityNews",
+      "title": "Vancouver hosting FIFA World Cup matches is a financial mistake: economist - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9Zam9VN0FiUjlKOWJ3RkxUenhLY2oxVUh4RkFlS2dvMmJTd1dpaHlzNEJJQUMxeDZ4YzF1b3BaczlhWExnV2JVQjMxbXdtNnAzblhuREpSTnViRENFUkk1bDRQdDlDd193TEp2M3JqTzd0ZmRsRGpSSDNfODJNRXdHNzhab1JiUlluR2JNRUpJY0t4bENpMkRB?oc=5",
+      "published": "2025-06-11T14:11:37",
       "date": "2025-06-11"
     },
     {
@@ -1244,6 +1265,13 @@
       "date": "2025-06-11"
     },
     {
+      "source": "National Post",
+      "title": "Musk says he regrets 'some' of his social media posts about Trump: 'They went too far' - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpZnc2N3lfMG1GRkxvQXFfWXZHNHJTbEdkdGhxWUxvdmhiZWVaTlBpS3VPRDNuOVZrUENpX2hMdkZWLWZPTC1TZnRzYXQ0NEdQc2QwYktKU0FvUV80dWd2UC13?oc=5",
+      "published": "2025-06-11T12:02:37",
+      "date": "2025-06-11"
+    },
+    {
       "source": "CityNews",
       "title": "Taiwan struck by 5.9 magnitude earthquake Tuesday evening, USGS says - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVVidU1lZDh3NzJkQnFLSjhiQ0pLbXFwVmtYUTdmS1lqY283ODc4ZVktelZpTVplRW5OWWFZMXhoX3VDak91RUtPdkZqcFpheDJ0QU5UTENsT3pQNF90M3V6ZU1yTGNUanp0RmVIX0g0UDM3M3RMTWtYRGFraXZNZl95amRRbGgtNkhOQ3Bxc0JPcDFUMzF6TzdFN21ycXExTFN2eU4wYUlsYVHSAcIBQVVfeXFMT25HWWNBdXFsSVAySXp4Zld5RVJodXg1Yjl0UTBBbXNvbDBoclVudFVNWGtkN1QxQ1JNcTExRVFQTG55OTlNMXU5enFSU2pTbXVETGk2MjJaXzVjajRsYkRnb21aNWxNNVVOb3l1VnhsSElCS1d1cEpubWFKTzVRaEluRl91RFVnR0tvMWpwLVBhU3pLaURIcklncXdSMFB2bTcyNlNYOHhreTNsckQ3V3h5WGYwdVlNaGZBY3JqUDllTVE?oc=5",
@@ -1276,6 +1304,13 @@
       "title": "Poll suggests half of Canadians believe Israel is committing genocide in Gaza - CTV News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVldoZzNvQ18zcEpfSVVVNndqTkN1bFlOWnpRdW5pLUNmOXBPcDdjeDRQQ1FwZkdkdFBMcFVyWTlJQkctd2oyaTNfRUM4TlI5YVI4b1ppMzlUUjMtSTJCYVJuazlsN3JjOGNzbVF4MnBYTUl6S1dhRmlWSm5JQ1d6bkxrRk45MVJlQUpWVTlYbHVIbkFKdkY1VkU5UkRhRlBxSUFMdnlDWElrQ3lIS3E4MHNrZmNlTnRMbHF6ZkJ1cTBQUVhxMU9jYjV0NlY?oc=5",
       "published": "2025-06-11T11:43:16",
+      "date": "2025-06-11"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "CRTC hearing dives into home internet choice, proposal for standardized labels - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmdzb0cweHliZHJ2U29xX1ZwLTdvV0VVSnNTSXBLYS1SRHhXQ01IYThvdmxqNnJnN3ZWS2dtVkhpVUdlakVfNTF1Q2ZsbDc3V1czaU9RY09OS3I3WnFHUHE3SXU2dWk2Z3lEUHRaR1dVZVhDZDVwREtVQmc0Wl9ydDE2UEkzTmxQeG9WamFnSzZ5M0RTYXRwdWc2dHF0M3A1X2xIYkx0R2tIeXVOcXlOVW9jakxJMUJmU0JIb253M0xNNXp1ajJoQlg3LTg2N2R6d053?oc=5",
+      "published": "2025-06-11T11:40:41",
       "date": "2025-06-11"
     },
     {
@@ -1381,20 +1416,6 @@
       "title": "Canadian court orders Nova Chemicals to pay Dow additional $1.6 billion in damages - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUlackh4MFZWZkRQTVNaeHRxcGpub3dtdDVEekFGNVB1YWQ0dHhuNVJUUU94VU5nRWMyZ3dlVVFBYWFxdjM4cWM0SmVvS2xORHFnYnU2M3hNLVh3dER5cVJPcmRfMmxNX0V5QUVqb2RCVFhFdXU1aEhkUG1IcmNUVllBVGtVVXprdVZlcDdVSS1fQ1FoREJjNWdfcXFRaW85TVJCcnhzLTRTQWxBZkl2bG5oUWZCOU1sWWFTWU4ybmpnRGtMRjB0ck9tNm5mcVRiVmtaOG5fTlY4dw?oc=5",
       "published": "2025-06-11T10:44:25",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "CTV News",
-      "title": "Zara owner Inditex’s early summer sales disappoint as tariffs fuel uncertainty - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2RXNVh0TGllSnowUlpfMXlkSl9ZX0d4RnVteVFOOV9FRWt0dmRkdWFGSDFTNDc0NnJ0TjZxMFpjNk1CTUE0SGg4MGdPYThoSzRTNWJ2U3hvM1c1aXFCeF95Z1l2WjA1MGJqRGhmbzNiS2JJSU8zbmsydU1VUl9HZC1uZzEwME9qV0pvSG9WT2s4TnVFMXdUdkZBaGMxdU83dXBlRzFOV0JvMkM3ZUw3M1ZXX0FWVHBaQVd4WGpGR2RrTGMyNW1ObGp3?oc=5",
-      "published": "2025-06-11T10:32:51",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Zara owner Inditex’s early summer sales disappoint as tariffs fuel uncertainty - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT3h0VzhrSGR1Z0h2WXdNeUZVMWJuY1d5NjBvSi1zRTZ1ckZXaXdVRmFnUk5XckdZUDNXMk1vRUJFbmE2MjRTV2J0SEd3TE5jZEdiMzd2OF9YM0RxMzZIbzl3WC1VS1dDVnlLVjlHMVAxZkZBUTI1bS1oaW1rNWUyREtEakd4X0Z3Rl9qUTdNN1JlTHVoZm9aTzJvVmVIZWNCT3FJQjVHRHhNUk51cHVmWmhrWUFjYTZudWNRUkVvenpfMnZFMG45XzJjam9sNjVpd0VDZl9n?oc=5",
-      "published": "2025-06-11T10:32:51",
       "date": "2025-06-11"
     },
     {
@@ -1526,8 +1547,8 @@
     {
       "source": "The Globe and Mail",
       "title": "Global shares climb after China and the US say they have a framework for seeking a trade deal - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVDg4MVBDMEpuVWhpQ0g1YmVtU2VMS0dzQm1CLThPOC15dFpHSlQ2S2ZsRS1XQkFfbEJjOVJmd194R0N5QXdFZjlTZTBGYnVBZk94ZGZfNHJ2RkZOQXZPMUZhMUkwc012ZGVTLUJQMWZiVHZKaWJJMGI0MzE4aFZWU0dRS0h3RHpFdi1DVUVScDlNeHR4OHRkWVo2VjFUbU5wc0lISUtmU1Byd2pCVURLOVVFZEp5UEJDMF9BLUFZWW1tLTUwbTFqRGJjLUs0RExDX3F0dHNucWNyVXBtRTNDLWlIWktDcW44NHpXQXRPVmVZaEtxRGczbVBuOG9jR0Y5VWxfRnJyNHV2eUxG?oc=5",
-      "published": "2025-06-11T09:39:52",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWlVFazNBUTdNLW94a0pva3ZtMGZFd2VIODc5c05TNHlPaDNhMVplWnhJckJSbWdQNk9KSlk4WVpZa3RYd1JZOURMamZZclk2RnBQM3Ezb19fZWgzdFRSY3R5dHdBY3Z6bFVGd0t1d0tvVXBtaGRVYVNURDhIN2M5RGpRUmJEaXlCWkF6VFJnN2JJRHRGSmNYN0xRVWNhWHBwUnkzMjRwaUxqZWdFdHpxdEM5cjlPd2s5dENma1hRVVBpX1RYWFJvOHcyQW5FOV91WF9zNnhfUXRwck5xb3V5UGdQbE9ERFRjdmt5d3RpTGpsbDlxUXU2ZFNuWGtRQ0JNVnNyTVpqZkdtZ2F4?oc=5",
+      "published": "2025-06-11T09:32:00",
       "date": "2025-06-11"
     },
     {
@@ -1588,16 +1609,16 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Asian shares climb after China and the US say they have a framework for seeking a trade deal - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUzM1S3pYaG1ncXZTM3BCMUJMb1Q1NGl0Y19JWEdvenJHdEppcVpRNnA2TVc4UW5qRms4bmF6b2Q1VnlWaUpwb2ZGSnpQSENpcFhhcmZyaURoY3hKdUlreDlHTEFFMFE0WnNSZGZuemlST2xaWHBtVmRQYWEyQXByT0tsazVDY21GWDhuNllyT1gwc3Y2LVZKWDRYUXZubmZLSDUtQ2FreWFHOTVISHlGYmk3NFpoZEt1SjliWFUyWHRTMkdaekg0MVJVblJyNWtuaVJRZnpBcXZuYVg2VnZPbWhVbkQxWUthbUYwOU80aFFSUzlvU3NxVmtCV2MyUFpKbi1EZWVxSjhJb28?oc=5",
-      "published": "2025-06-11T06:06:27",
+      "title": "The US and China say they have agreed on a framework to resolve their trade disputes - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZkxYZy1YLUh4VVM5VjNWZ0QzZjJrUVlwSGs2ay1ZRjVfSWQ2cEpGOGtyUjRjZVdiUkQ5MkpxWjZ3eDZpUlcybDZPMEE3T0hoMWRTSkJpYVpuSmxzTFJxVTVXRDBwRTJpMF9OOGVOelp2VGR3eS1HSjZWQkU2eDJZZ3VGQVphNU1QQVVyYVpFUjBoemVzM0ZESFdpS2V6amVxMFpLbEJQeUU3UjZ5M19YU3o3S3ZPMUZUcS0xM2tyVmZzckNFMjVYeTN4VVVUX2kxMHpTTnM0c3JSU1U5ZFE5V0o4Q2U4S1pjMGVrQ2gxTWd3WkxzUGdqNTVUb1pRdWFX?oc=5",
+      "published": "2025-06-11T06:20:38",
       "date": "2025-06-11"
     },
     {
       "source": "The Globe and Mail",
-      "title": "The US and China say they have agreed on a framework to resolve their trade disputes - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbk4xSDJPZ0NyOERnWXp3YnNJVk9xdnI4NGNGOTNYV284cVMtVkU5UTVhcjNGUWM0N2hpRVNSbjdRT1NvdXZLc2lXWTRySGNIWjFQQTN3T01DTTcyRjVHdy1pMzI0dlQ5YmMzakdnaU9NU3hVYkVOYnFhTk9TbnNZRnhRdHJDWnJOOUFYN196VzJGQ2VneWh0NXBud0JmVVQzTDdKYjNFX25nNGxScnEwRV9FbEdVMDNDNm14bU83NGhDeTRXbHdKYjF4MElXV2dpbW9JU3A2Y3FuQmZqZWl3R0dZWUtkbmtkcUxnVm5fN2lPY2hkVWN3WVlRWmNuSDZI?oc=5",
-      "published": "2025-06-11T06:00:55",
+      "title": "Asian shares climb after China and the US say they have a framework for seeking a trade deal - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUzM1S3pYaG1ncXZTM3BCMUJMb1Q1NGl0Y19JWEdvenJHdEppcVpRNnA2TVc4UW5qRms4bmF6b2Q1VnlWaUpwb2ZGSnpQSENpcFhhcmZyaURoY3hKdUlreDlHTEFFMFE0WnNSZGZuemlST2xaWHBtVmRQYWEyQXByT0tsazVDY21GWDhuNllyT1gwc3Y2LVZKWDRYUXZubmZLSDUtQ2FreWFHOTVISHlGYmk3NFpoZEt1SjliWFUyWHRTMkdaekg0MVJVblJyNWtuaVJRZnpBcXZuYVg2VnZPbWhVbkQxWUthbUYwOU80aFFSUzlvU3NxVmtCV2MyUFpKbi1EZWVxSjhJb28?oc=5",
+      "published": "2025-06-11T06:06:27",
       "date": "2025-06-11"
     },
     {
@@ -1619,13 +1640,6 @@
       "title": "Enlisting Coast Guard to buoy defence spending expected to hit choppy waters, say analysts - The Hill Times",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM0JuZ2kxR193SlZXeTZ5UVhkc19oSVp0c085bFc5V2JNeThPc2d0N29nVXdPRE1KV0U4Z3puUDJfa3c3QTFlRFFja2h5Q1V6QmthMTY4SkRQc081MTgxRTV6MXZjQW92bmw0UXBhRnRpeERkQmRqc2c3ZkRVV3BzTGZjczk1ZmszckNPUW5yNnlFZmVKOWVNeUszSUlwTFZ4TUEzRDd3VC1YV0JhS0hxYTZOSGplVjE0MnF1TzhWYVBpWDhPNUJ5TXc5aDVkRVh5bWRCRHRkcGJFMDlsd3JqU0drOFhjZ2FEV1Z6eXk0ZWpYUUJfTzJjWmNFNTQ0QzdzX3ltajd0Yw?oc=5",
       "published": "2025-06-11T05:00:00",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "The US and China have agreed on a framework to resolve their trade disputes - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTDVDbFFKalVYSWFDLXhRQlVsOWd3UjA3VFpFeWJZb21NMXlvei1JdmcxOThCU1I2bldLdlRaUWVfNWcxbFptS0ZzSEpPNEdrb1BlNzdQQjhnT1BUMUthUjEzSmJiLTB5ZzNxa2JsdlhILXVWRjZpT1JKQTZzc2FlYlJGbkRYQ3ZTcVh6RHRHaXpyTmdvdFF6VXJnenlVeW5KRWJ0cDZvNElWQXZxT25MSDRJTEdVeEQ4YzFLdm03UjkzZXRDYndfVDRyaThLU0VHRlhjcnA2UzI0aU5QS0trZFpSdlVBUklFVjJiTmRYX3hPc1ktdHlVUkgybjNtZF91?oc=5",
-      "published": "2025-06-11T04:51:42",
       "date": "2025-06-11"
     },
     {
@@ -1678,13 +1692,6 @@
       "date": "2025-06-11"
     },
     {
-      "source": "CTV News",
-      "title": "U.S. Court rules Trump’s tariffs can stay in effect while appeal proceeds - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1R1UjczRVd3X1lhSFd1V3d2VXVTdVZZQmItS3ZRdEt3UHBJakxlcnA1VWQ0UVgtLVFZWU5aZ3gxY2VXX1VDZTAtS3ZBR3otYS1mRDRoZ1Z4Y1Bnbk4xQWpCWXBkMlNIb3VuaFpxbW9majlrc29fMEEwck9ZMGxweFpkd0ptWElfaWt5eUxJb1lLQ251bmhTNlRZMWYyWng0SElTb0ttR3FjcWJZQkNzWVF6aC0xUkdBOUxfN3RuTll1WkRseFh2SHpwSTBEOXE3OGM4aUdtTnByYWNnSEE?oc=5",
-      "published": "2025-06-11T03:28:00",
-      "date": "2025-06-11"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "CGTN: China-U.S. trade talks in London receive positive market reception - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZHNmaE9INUhXZDhnSDhxMm5LdWE2QlM5bS1kTDBfaXdRRGJVcUxjWGJEMjdXUWtGeXdNUVdBdUpFOXlVX0xVazBwcmRMMzA4TUJJcEpCSERtaGtQS3lOUzhYVzFNbjJzMFJBUWo3VDBGaW51aVBpZ2NyU0hpZGppTE5Rbk1rd3FZU09TNkF1NW5uWl9nUzB5dmJ4NWhIU3ZBd3AzSFhqanNUREZxXzJtWHBXNUxPc25aWmdBdV9jVFNxTHpJMERjN21pQmFvWUxOSmtXdUJyNjRBV2JrNFB2ZFhUdXRBcU9fa0ZPV0JR?oc=5",
@@ -1706,10 +1713,10 @@
       "date": "2025-06-11"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "The US and China have agreed on a framework to resolve their trade disputes - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNVJnSERjeWxyVzgyOE1lb3VJY0pYbG42Ukd5ZUs3amVpU2tQZkRDY3FhaE1yb3ZvWFRVeFNiakhIa3Z3My0wdldIRnpibndYMmJOMkdOdFF6UnhKbDdlSHN6aDlzaEg1UHVhbFd2R2M0OXJNQ0RfczlhQzlBeEIwTDhCeldCZklURWhCcC1qclJGQ0JsZTVEdEF6M3FXT1pDOEVqWkxpazYxbXg0Z3ZMUkJqNTExWmc1VHRNUkY3ZUVzTGFDOFJ0MWJpR1ZGV1BBdkxEYkdpekV1cUpERDd0emN1a0t2NXpDek1UVHdqNDlBNmtDUXB0R2dDYw?oc=5",
-      "published": "2025-06-11T02:37:45",
+      "source": "iPolitics",
+      "title": "Policy Archives - Page 1174 of 1337 - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CZlRtTHpXM3ItYTRtQmpWQVF3VHdxU0NWZEdHN1Q1aU1ZbkxETjA4N3d4TkFiY0htQkF1ZVhvaHZ1YW52ZllhMlJ6eTRNRFgxVXQ2UDJacXpDdlY0R0ZOdQ?oc=5",
+      "published": "2025-06-11T02:28:25",
       "date": "2025-06-11"
     },
     {
@@ -1839,6 +1846,13 @@
       "date": "2025-06-11"
     },
     {
+      "source": "National Post",
+      "title": "Canadian resident accused of plot to shoot New York Jewish centre extradited to U.S. - National Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1ZYSVQ0NXprSFVkbGZ4QXotaG95alVuWnh2a3NqTkNxazQ4LXd4OTQ2TnI3M3hxQlJ0bEFSYU4taEpLRjBuY3BLakNwT0tLVnJTOVNGQkxHaEpRbDJXNWthUmdwYkREVm1wSGZWeWxwcVY5OGpHSlBQSWRDOFhjU3B2RjdsazRUeXRUc21MT0hyMEZIUy1RUzd1bVFuZXNTbGpEZDRiUUJWcGtpcmM0czh3VEVIZThPYlgtcA?oc=5",
+      "published": "2025-06-11T01:31:54",
+      "date": "2025-06-11"
+    },
+    {
       "source": "Global News",
       "title": "Global National: June 10 - Global News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HaUFBd2Ytb1lMRmVJQVVNSEhTb2JrZWVmRElybjJ6T1l3YnpORUVvY3kyd2VwUzloZXNMUkRONEpmNFJFZi1pb1VCUE5lbnFSMHhqUkdBY0pLekFuVVNRYWVfcUNjQzBibjlOaVN3RVjSAXZBVV95cUxQY1lXbjh0aDBrcS1ieWFTelMxNDNpMVNRaG4wc1hOLXFCZ2U5QXJHZUItZTRIaVVTLThKQzJ3SFYxUUNrOW1jOXk3SHJpYzNxNXZ5eW5CVjVyU3BpTW1qZDFDOVA0RHNSSUhLbnI4dEZybmx1ZlJB?oc=5",
@@ -1861,13 +1875,6 @@
     },
     {
       "source": "Global News",
-      "title": "Global News at 6 – June 10 - Global News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wRzN6ZzhTZ2xVLXdnTFY0T20yeFROMm1VdS1sMlFrOTc0cXNBb2RZSUFaWDB0VF92QUxlSDJldG1YQ1N1U21SeTZ3dHhOM0VkZkxnYjRXbXIzR1hncXZmMGFrbnZOMVZpRmx2UFdNSGVGWEHSAXhBVV95cUxOdWg5ODBJaE5mdlpWSUd2LW5MTTd2Z0dlNFNDdEoxRHJBWkdCdVQ2amZDeVdBYllRWUdaWGkyYmhBWURheHhsaEZQRkZFMF9tSnRfNXhGNlNqRkZJTEQ1Y1BaM2Q3TW1DMVhzeEpvdTVxQkFldFlHcmE?oc=5",
-      "published": "2025-06-11T01:09:56",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "Global News",
       "title": "More than 100 Squamish properties now under evacuation alert - Global News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFlNOEpmRVFKZUFBWVlxT3JPYmtrTFJnTzMxWVZDZjc1dWR3anV1RHRjT0ZmUVlWS0NQWmd6U2dvcFkxMTJTN3Y4NnRkak9QVGJ6c0p4QS1LcF9sdDVxelRRNENSSWliOFRaN0N5RFoyVmtLZTZfMi10WmEzSEZEbjZPOHFHY2RLTjM2VjVIWnBaMDJBcHRmMEEwTjctWVXSAaQBQVVfeXFMT3BOa1JNdk83VWVnRnN1MUtOUVd5Y2ZrZjB5dlZYbnBENGpFdXY4dGtzNUc3RFMyeEw5V3ZTcks5aW9uemM2cXlPLWdHbDFaTk81MVMxUmZFel84SldTby1XaXJGNEUydXdPWWREOGZ3UEFTV1hEU2Y2ZVYyNVI4RkJwY3dVbFBsdkVOSWFIN29jTjFDV1h6Y0ZPVWlNdklQbWlIT00?oc=5",
       "published": "2025-06-11T01:09:05",
@@ -1878,13 +1885,6 @@
       "title": "Andreescu disposes of Taiwanese opponent in 74 minutes to reach Libema Open 2nd round - CBC",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xd24telhIUGp6Z2ZFOWRQUmZtUXpKS0VyNm56bDdDLUNyQ1JBOXk2bjZIdGllVHNucnpxeVE5U3JJU2FCd1I3N0xwS1F0ZEhnbEctR3dxQURldU9qc0M1d2w3dm1udXBxcVRTeA?oc=5",
       "published": "2025-06-11T01:07:30",
-      "date": "2025-06-11"
-    },
-    {
-      "source": "CTV News",
-      "title": "B.C. landlord took too long to replace carpets after eviction, must pay tenants $36K: court - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0Vwa1Rxcm9aRmRVY3YwQUtpXzVlZml5bTE0UWo5d3FfYVdaNmlkSE5QTllncDlrVHFXbTZ4SmswSjBwdzFBQ1lHa1ZxdXByZUxjNWNHdUxGQktyaXFZUFRaWFVTZUNIV2xEYm12M2tGRmJRZ0JObUE1Y2hjSnNIcVppNHZaLUlPa2R6Nk9TZzhvUGFwcHhVTWlfZWRKUnZOb1R1ZVByZmY4MXcyaWpsM25rRmZTNVFMMXVMVDgwVTM2Q3hmOHpz?oc=5",
-      "published": "2025-06-11T01:06:00",
       "date": "2025-06-11"
     },
     {
@@ -1986,13 +1986,6 @@
       "date": "2025-06-11"
     },
     {
-      "source": "Global News",
-      "title": "Kelowna General Hospital staffing concerns - Global News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWnBLVHRKalNHM1E1Ui15bng0Vm9ySjhHYjZ3eXpvTUlCc3RqcGdKVVRKWk5EMzJWTnUtelpCbFUzOS0zdXNWQ1lZZkFzX0Z6OWF2VHRaOTJYUlFSMTIyMXppcU9Da1BsRTZpdmJ5YmtwTTY0c2JSMFNkNDhuWlFLVURjLXJ2MUHSAYwBQVVfeXFMT2Z0VTlRbld6NnUyQ0dJT19DQmtjUFJOdm10djBTSnFlNmtCTmFURGVlRWJIVkdtZkNzS1JCVGVqcmFuY2xyWF9tQ09CdXQ3NVBUWEVXVzByUzRSQVQ1WnV1ckV4NVo0RjNmczlMWmFuVU54WGhsZkdVZG5Ba19fZTJITEZQd0pzMWpoYWU?oc=5",
-      "published": "2025-06-11T00:17:47",
-      "date": "2025-06-11"
-    },
-    {
       "source": "CityNews",
       "title": "BC Ferries picks Chinese shipyard to build four new boats - CityNews Vancouver",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0ZQNk1pOTRsbWFfOXBUeTQzZTB0QUhLc2xuZWYzMkk3VEE2TEVTMWVCQU1fbTczUzlLaXJ4aVNVV0hETHplU04tYUhlOFhyeGdfT2wtSjRJU2hyVEJURXg2aVBhRHY0S1pOOW5ZMWtiYS0wRTdoSjJISWdWZjdUY0ZBa3ZTNU1VeFcwdTE4N3oyWEJTN012cWptTzFfREda?oc=5",
@@ -2039,6 +2032,13 @@
       "title": "Record-breaking Summer McIntosh inspires at Canadian swim trials in Saanich, B.C. - CTV News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWNNbXpuS080SkozUU9HZVMyTlNXczhjMVFBeFAtVFdkS0swMGVKNXMwRG9CakxMN0ZyQkNjLWJnMnE5M1JVT3JjV2lSOUJicWw4WHotN2pyeGttY1E1U21BRDM1UHRhQ1pCbzFyWDRLRHBDcXJRWmZxQjFCd0xhVk5uZDJlMWo0MXpWRktSaUt4ak9pUm80RWZ5eTJkVHdXbU9JdHhNZWhWb0xPWDRxLWhzZXBsRHpoblRDSg?oc=5",
       "published": "2025-06-10T23:53:13",
+      "date": "2025-06-10"
+    },
+    {
+      "source": "iPolitics",
+      "title": "Policy Archives - Page 1172 of 1337 - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZTAxWUVDdG4zTVdZbDRKY2xyRlhkcS1UUy01cU9ZQVhxUXo0UVE3NkRPeDRTVmxiMXBQX0xZZDdvQmZDMFBmYXNneFg2QmhTNEEweDFjSi1HNldERXRMSg?oc=5",
+      "published": "2025-06-10T23:47:49",
       "date": "2025-06-10"
     },
     {
@@ -2119,17 +2119,17 @@
       "date": "2025-06-10"
     },
     {
+      "source": "CTV News",
+      "title": "Cardinal with close ties to Pope Leo XIV travels to Canada to support peaceful G7 activists - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFE3N2poUWZLeE9MTDZtOFd3XzNMT0ZVUkJOQ3NCZWlhT1hfUHpMaEd4YVVyRHdDVUlkZVhzRXpBNkdrREF4QVB4ZTBjSGQwN3BlWC1VZ2pWQXNuX1lKYjZlREtLSF9vRTNDXzRiWjZjS3FqMmxyZVVhRTN1Y1FvRi13S3VNcWRBWE1kTFpfdkhlQWM5Z1MwNmpUVVAzZEo3TG5aQzhEbVA4cDVKREhuUjFZOWo0ZzNBR1JoSV9BMUJHTERDVWt6MjZn?oc=5",
+      "published": "2025-06-10T22:58:10",
+      "date": "2025-06-10"
+    },
+    {
       "source": "Financial Post",
       "title": "The US and China's High-Stakes Diplomacy - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYlJkYTFEVHhYUkVGcEVxV3pneXp3VTgwc1FudjVaUXBDQm5UNHJPVVMxNmFfZzFuS21FTGlqbk1CcnpuTEhkd1h1RTZ1Zklhdy00Mnl6MlcyV1VVQ2JGODhSUGg3aXJBdGZKcDdIcXJPQi13c1pHRm56eXFlUU83WE1JTVR4VE5KSFE?oc=5",
       "published": "2025-06-10T22:56:29",
-      "date": "2025-06-10"
-    },
-    {
-      "source": "Global News",
-      "title": "Goat grazing project returns to Toronto for second year - Global News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjdMWV9mSlcwS01DOXl2YXUxSVdvcWFieEVkUmxRREp4bUluVzJNSEVXUENOUDZGMHMtRFJNZmplZUlNeXExUWRjQ05BY2ZBcDR1SkZsZHpHSEg1RmFxRS05QnBVMHZjOG1fTjkwQ1RYTjBKVDUxZ2psVFQ3VUVqWHJTUWNrZWJCRDRXN0M1ZE9QMTdhS1ZtMtIBngFBVV95cUxOaU5zT2pWS2taNFNpSGhqaXktZVhlZGVKbGdKU1UyQ1g5aHNKa21UT2NUcWVIMEJZX1RLcjNWUnRHM1NBczFpbVpadXNDZkJORHhQWktXZVU4VF9YU3pINlFnRG5nQlEtN1pTam9BemJmNzJOU2Zrb21xVmRhVWlCeFV2a00ydm9qN2dzT3dIYWNvSVhQR180aFZHOUVsZw?oc=5",
-      "published": "2025-06-10T22:35:32",
       "date": "2025-06-10"
     }
   ]
