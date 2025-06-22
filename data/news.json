@@ -1,9 +1,16 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-06-22T20:27:36.623539Z",
-  "article_count": 57,
+  "updated_at": "2025-06-22T20:46:00.814293Z",
+  "article_count": 58,
   "articles": [
+    {
+      "source": "BNN Bloomberg",
+      "title": "America’s economy faces a potential war shock: Surging oil prices - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGRkZTZFNEQ2NEVKWjlUd18tWmcxYm1NVU5sWjR6M0F4NUxuXzRNM3BmUGtNaHFFYzI0QUJhVjBkM2hBWVFqbkIwWW5WNVJpbHhiWXhCeVFnYU5hamFmOFljZVNfMXFFalpyWHoyaGd2ZW8ydGY2N3AxVU53MHd3VmZUVlhXUm9kVmsybGhuR0xCLXByUUduM1hFaEE4dFFKXzRGUUNfaWs5TS1YUzVGSUZMOHpUSWVxRDRESWN1dC1WeFlS?oc=5",
+      "published": "2025-06-22T20:26:03",
+      "date": "2025-06-22"
+    },
     {
       "source": "Ottawa Citizen",
       "title": "Non-violent crime rates up, violent crime rates down: police report - Ottawa Citizen",
@@ -37,13 +44,6 @@
       "title": "CP NewsAlert: Former Liberal minister John McCallum dead at 75 - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGtPcnB3ay1YS1IzT2FTQzlsSi1SYkNqcDlnTkJTZzlvTXNCSFoxWXEyc2cyb1FqaDlNd3lCSEdneHRfV2QxUk95VC10ZjJBV09ZX09LTUx2QzJjc2Q0ZHFRTTQ2SkV5UGI4dTR3U1E2emcyNThvdzVpV2p4S29OYzRUbHhkUzF3RWxocGJwX2ljR0lUajhTdzlCZm5XTE13UXk4?oc=5",
       "published": "2025-06-22T18:05:13",
-      "date": "2025-06-22"
-    },
-    {
-      "source": "CityNews",
-      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnJ3Q3p0VDBpSDlKcXdta0YxeXVQaHVFRGdGUERqVDEtSXFaUzE1MUxkem1fOUo3Q0xReDJnYWpDRFdmeU41VjMweHpqYmNTR2pLc3Vta08tXzdGeFR6TkQzUmNGT19Deks0amZrbWUtWXNaS1N2dTRZVnhGOGgtSHUtdk4yOFFPM3FUWGxQY2Q?oc=5",
-      "published": "2025-06-22T17:54:20",
       "date": "2025-06-22"
     },
     {
@@ -224,8 +224,8 @@
     {
       "source": "The Globe and Mail",
       "title": "10 Reasons to Buy and Hold This Semiconductor Stock Forever - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJzMlVSSU9QTTdWY1VRbjk0NlR0UXU5c1M4RVk2bzFYbXYyUmZKZndqRXVvRWZBUzZWLVZ3alNCV1N4UHZjS2hBUkVxM1MwQjFuWktOT2tBaXdEbnlOMzRlOW5sMmdHMGx0VlVfaVFuOVFoWVQtS2g5bnphdkJuNHFMaHBWdG9tT3o4LWtDd3RxYUVVVFg2YmJadDhFdk9EWjZLVUxsRlp6VVoxSVRaZEdvQnoxLUQxb2s1XzJCSnBqNFU5dWlIdU5vUkFnb29IVGZJZ3dCM2pYdUg3Vk1n?oc=5",
-      "published": "2025-06-22T10:42:45",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTG1zTWY2WlNzMzBBeHc2SlBOTFhwRGJ2UmtRNzBLWk5tSG9ibWo2WlFVaDZtQVdTRURJMGxEb29KX2lpOG5sNUYxdUphWWNhNi1sUVlUZzNOQlpGbHZvVldHdGMwUXpDRnp1N0dHQXhhNDRtV09BejZDQ1Myci1aTWU5V3hsRkZ4TnZjbzloejZPVHlKQzlJMTBXQW9xX2NZYVhHYjZjZWRueG53Z3NBdENWcGtYVVY0ZGQ0TnZkV3RzaGpRNExPNWhjV1FIemNGRERYNFJuZkdWU3gwY1E?oc=5",
+      "published": "2025-06-22T10:45:04",
       "date": "2025-06-22"
     },
     {
@@ -268,6 +268,13 @@
       "title": "10 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTHR4b0xQWENEZXZ4YTRLdE5DOGJHeGMyV0NZejFNWVZCc3BOQ3cxSEl0UGw4UVo0YmU4ZnROMml0TmJQa2dyem4wbVdISG9OQVdGQmQ4QjBNMXcwbTZPWDNsVmVsNkxGc2tOUVdYUUhtVmZMdU9lTjNRN2VWdGVKSFJDbFVzUmxVaFZIOU1pNDhYcUw2cXFyS2RES3N0Wnk3ZV9wcW9Sc0NSRjA2SkRGMlhKSHpMYnIzM0JtM0pqTmhFWThGRmpJX3JIckFzal9JeTZlbnlHRGRhWjEtcE1qVDlUbUdyUjA?oc=5",
       "published": "2025-06-22T09:30:24",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "iPolitics",
+      "title": "Uncategorized Archives - Page 926 of 927 - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Salp2LXVaZTdvekZZZ3JvNzYxMDlzbEVyUC1hUElmS0p0TFM5RFhJei1rclNLSmwzQm5KNTdJQnBqQkxaSXgxdm8wWVdxTVBUak1VNUx3WGVXZ2tqV3AxbTYwYzVma3p5?oc=5",
+      "published": "2025-06-22T09:17:00",
       "date": "2025-06-22"
     },
     {
