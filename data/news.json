@@ -1,14 +1,56 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-06-22T17:23:33.714868Z",
-  "article_count": 40,
+  "updated_at": "2025-06-22T17:46:39.077858Z",
+  "article_count": 48,
   "articles": [
     {
+      "source": "CityNews",
+      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0g3TlVoczliWGowOHlKQjJOOHVSNlhlaXJWb3MyLUVNUkI5bUVRcm5DVnB1S0syRHdPeEVTbHZ4MDNibEdmLXBNUkdmNlZkVWVHVGxBQkc5ZjdZXy1hSHBDMko1VjRRR3BObE53RWJIQXVtRlZyZFhsM09yVEszTTNVZHUzQ3JqT2RtWlhxckV5dw?oc=5",
+      "published": "2025-06-22T17:38:27",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDhXMVFNalJ6RlBxRmhsT0FiT3I2MFZuM2Q5dldudzluTTR1REJvZ3RHSmdzQWxCU2Vmb2JHUnNaS1lFY3NGQV9xREVkR282MUVwaHRtdTFyVjRQUEJsXzg0eWZCT3hwYXJsX1gyNFVhVEJSUzgxbjRqT3REdmFRLXJrY2tzTU90MW1SU09iN19KZE94?oc=5",
+      "published": "2025-06-22T17:37:21",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHg0LWRPaXVUOE41VkhaOWJSUGduc1BMTWdZWFJENjNDSmdxOEIyTDd5Q2c3U1BJd0xzRlNCTzg3aUtqOUxPRUx1UmFBSTlGaWxrU3g0YjhpblNiYWp2eFBQQWdjWFhvbkZBRGJtRnllcUdMSnBaMEFKa3RVemNHcEgzZ3hpNXZNOXE1bE1HMElIcTQ?oc=5",
+      "published": "2025-06-22T17:36:11",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Winnipeg",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlM1MVVtbG5qRlNXYWRqTENzTEh5MEdnci1GQmVqbTJTWnpteUEyTnJ6OHVzWHRYUUpSV1p4UDJxQ19zUk1KNEswRWVlY0lCRm5rb1ByTE1yeWpmbmxpaTJfRGh1WGVyYzhWcGU1djBoSTBHZk1jR3o5cVZFazVNWVNoWkM4X3ZSWno4TGl4a3FjUW8?oc=5",
+      "published": "2025-06-22T17:35:35",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzNZN1lYUWdtLUZJeHdRVUI2b2hEZFN3MkxfcS1ZdkhJV01BaV9pQWZianF5TkhfN3hUSEk0bjdqSTN2Wng4UXdoRF84Qk1USl9HXzdhaE9JMkpLa204QVdUSUdTVzluNFFSa1VmN0VNcUxFTDB3czRwZngzZjV0NllPRk1aOGlmdnpBQVR4WTcxZw?oc=5",
+      "published": "2025-06-22T17:34:42",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "CityNews",
+      "title": "Former cabinet minister John McCallum dead at 75 - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkpBY0tmOS14b19CeFFaWUUteWQwNzhFLU00VXBwNHh4Q0JIYkNhTkdLU09VZElmQTMwQzN2eVpfTEVYa19tbkxkX1BMbjVhUllJMS1NTGpUUGdWdlFBMENWUWRGVDEyS0F5YlVpZHpqWEVaanVXLVBlOUl5MGkzbWlRdWZvZmdqcnhrd3c5OGNCdw?oc=5",
+      "published": "2025-06-22T17:32:00",
+      "date": "2025-06-22"
+    },
+    {
       "source": "CTV News",
-      "title": "Zach Collaros makes season debut, Winnipeg Blue Bombers thump B.C. Lions 27-14 - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1BPamJOb3lfS0dOWk9HRlU1TkNfLVRNWUY3QzN5WjBLZTkzQUN4amhHOGhMZThuWW5zb0owaGZqQS0yRHNhSmQwSmpJNldvYkxMeHpubXBVZW5aQ0ZTUXM4U3l0RWZvT3doUldocmVPWVNaSVByR3UtZ2VweWZubVNNR0dYRXhTUjFiUUl5UGxWWFBGdFBQOWRBM25VamhSNmg2dWJMTHVxVUlqTFh3b3ZvTjA5NEk?oc=5",
-      "published": "2025-06-22T15:49:43",
+      "title": "Former cabinet minister John McCallum dead at 75 - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNy1OQzM3WUNRa1dUVFB0ZldUc3g2ZExlNWwyOTBsUTQ0VkZqZzFuZzR3VjhwUlotU0RFWVdlekpfbkM0VGxIVjlZbkxhVkVGYnBmLUhBaGpsZEkwbUFSYXN5YjUyT0VYVkc3emdKanN6dDBvRUZJclR2OGp4SUx5dS1Va2kwTk85UDlabEVjTVBwRGc?oc=5",
+      "published": "2025-06-22T17:19:55",
       "date": "2025-06-22"
     },
     {
@@ -51,13 +93,6 @@
       "title": "Five things to watch for in the Canadian business world in the coming week - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYy0zSVd5ZFhQbUFWcktHWnJJcHJMd3lld2dIVHZHNTN0c1lCY3FrLVZnRzc3dFFDbHFfTm9vVVkxdmFDYVpfaWVuaDUxQ0Q2OGlVaVNLQTIwQ3Frdm1wMTEwMGVLaktpdWxvZ3NVODR1Um1rOXdudkY2a0d2YnZ1cG5HWTlNSTh2NGltcXl2YVNhQ09GQlR2cDRDVFNJSGo4Q0VlZE1aM1lTNHFyQmI1UDlzbFdaaUhZZGc?oc=5",
       "published": "2025-06-22T14:05:46",
-      "date": "2025-06-22"
-    },
-    {
-      "source": "iPolitics",
-      "title": "Uncategorized Archives - Page 917 of 927 - iPolitics",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOMEpLOWhIWElrMnhEbFdFbWJsR0s0anpCWU1iczZtUGpscl9uZnpoRHJkTTlJNDdXVHJ0V2stbGRpa0JObUY5UGM2bXRuQTRobHhVYWwyQ1ItUDNHR0N0SGZEbjFLREY2?oc=5",
-      "published": "2025-06-22T13:47:58",
       "date": "2025-06-22"
     },
     {
@@ -166,6 +201,13 @@
       "date": "2025-06-22"
     },
     {
+      "source": "iPolitics",
+      "title": "Uncategorized Archives - Page 926 of 927 - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Salp2LXVaZTdvekZZZ3JvNzYxMDlzbEVyUC1hUElmS0p0TFM5RFhJei1rclNLSmwzQm5KNTdJQnBqQkxaSXgxdm8wWVdxTVBUak1VNUx3WGVXZ2tqV3AxbTYwYzVma3p5?oc=5",
+      "published": "2025-06-22T09:17:00",
+      "date": "2025-06-22"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Canada's Lobster industry continues to navigate tariff threats - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGk0c29zaWdVbUQxSWRwX0RMMVc4eDhPX2pWNW1Cbll1M0hUX1NZaDc4RzFhR0oxT2tlLW9lcmE4dlF3SmhLWXQwOEx5U0lkSWJTRDlSUUk2eGdSMkpCSUZNdXpwUXhuVjdCVDZnU2x4QlVTQ3pJWVRxMzlPVDZSUVdyRVU4QzNyOVJSNk13U1R4bThqakRMSHppcENDN1lHWWdN?oc=5",
@@ -184,6 +226,13 @@
       "title": "Prediction: 2 Stocks That Will Be Worth More Than Medical Properties Trust 3 Years From Now - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUUdMb1VjaDhreHIwcVp4NlRPTGF1X0xOZHliZm9YWlhPSWhpdG43TjZ0ZEt6a01NTXIwNFpvUk51SjFjV2FTWGl5QUJnWlI2dzBQajZPa1pUV2NEWjZHSExGMzNnenEwODZjX2ZnOW5zRDRETG5QcHlndHkwUnRDM21lZ0NUazdOaWpWdWZJQmVGTWFfZHlJRHZpbjF0eFAtVFVYeUdFVHNHQks0c2tuSHI0YmI3dDFzZm1fX2NUYWpaMmFjdllSTTE3d093VnhmRndQZHJLVWJxSFowUkhiMDdjOGVxTFo5QmpFU0ZsU2NXX1l5QldkWTFuRVdpbVcwSXRIaVd3?oc=5",
       "published": "2025-06-22T08:05:00",
+      "date": "2025-06-22"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Best Stock to Buy Right Now: Realty Income vs. W.P. Carey - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFUwZEJCSnpXMzN1Y29IRGhaUERNNjBNdHplQ3ZKTjFkQm1NazV5QTRscEhhMHZfTTRqNWZVb3E3MWhERU9ydXRNdFJwZlVyVFRkV0JLZV9IcUQ2TDhFZTVRRElESGN5SEJZWE5oc3E3SVE2SU5CdXlxdzNBbFF0dVdfbHlnbnRiOWFkcndYZW5xUGpremp2ZjNqV1piT25WTDhEZjJiaURuZksyeVlXR21WaEc4dEtDYnNUT3FIQm5oV3QwYjJRZUxROU50MHJVbFJLZQ?oc=5",
+      "published": "2025-06-22T07:50:00",
       "date": "2025-06-22"
     },
     {
@@ -250,6 +299,13 @@
       "date": "2025-06-21"
     },
     {
+      "source": "iPolitics",
+      "title": "The Canadian Press Archives - Page 671 of 675 - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZXdfc28wdUJ6cEVCTF80RG1fd0Q3d2RmV29NMUFRTnBBdEplN0FzWXpyLWY4VFdqR1B5SVZYbWV2N1BZZVloX0tCWGNEUndMcmdQdTdSaF84Q2JESWhnbUxQVXhCMjI2QkE?oc=5",
+      "published": "2025-06-21T22:59:07",
+      "date": "2025-06-21"
+    },
+    {
       "source": "CTV News",
       "title": "What’s causing Canada’s education quality decline? Experts chime in - CTV News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUJEZlVDM3FLWkhvXzVCdmNWYlVuOVYtdDdPX3ROQ2dZRjRXZ3U4bzNRc3VDMEpZT0sxay1udTY4a3ZjVkE1NjByLXRKVW1Id1lIYTNSajBVRHV4SXo2Q3pyRUV4VE4wZzlCRUtOWVpqai12eHUyRGI0SndIcTNuRmJ3T29ZTGhTajFENW5WbG96N0RSQmNDVExOWGxpdw?oc=5",
@@ -273,7 +329,7 @@
     {
       "source": "The Globe and Mail",
       "title": "NVDA, TSMC, AVGO: Chip Stocks Fall on Reports U.S. May Further Restrict Exports to China - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRGJ3MW5SODZuSF94T194NTdNQU5fc09ISldnLVV5b2ttVmxDNE1TODA3NXVxamhTSVRUbWRreDhCNndFcXQtOW1sTFZHSnl3akdXSUVSYlF4Wkd6bWRna2prZV9mUUIwWmlzSGc2NzFXTkE5Mk9ta3BDMnp5NFZ5ZnZXNkg5cmJ5X0FwSEU1ZTNpOURfN3ZLcXhMWFliR0RWNy1NV2tUM01JaHZSeF9nZURzeHFSSWRLYnlfbWIxTndJT21YbHYzam5FQzlQd3otdzFCemFYNzgwUXF6VDJGaVh6bzFtdjZFQ0RPWjNGWFNoblVaTlBrUUp1b3hYTExDblE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR1pmdHJhX0ZJSzZHeGhiT0FEWDJQLU9yZS0xdVZsRVNmWUhhWW90c3pIQVhObmNtaGk0YjYzcWdpSUxQNWFYWFlIa0cyODJ1UC1ja3RTNWhYTmxNQWlQUURJMzVFZ2NiMko5Y2VINzhBRUFNYmVvMkZDcHNrY2FIWkF5T2NUcF9UbVFzcjhOeVI3QVFhSjVpdHlNcVFaaFZJRV9RWWhIZFlZT3V4YVBab1lMYzNGSUNxMEo0UnFlQk9CeWhxLVN5WkY0U3p2MW42RGZrUVVrYWsybDRqVU9EYkttRWlZZXpXVEY5MXlrLWo4a1dBZEVYNWlISFJMZjZW?oc=5",
       "published": "2025-06-21T18:36:00",
       "date": "2025-06-21"
     },
