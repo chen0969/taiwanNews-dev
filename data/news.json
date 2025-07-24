@@ -1,21 +1,77 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-07-24T11:46:14.451902Z",
-  "article_count": 210,
+  "updated_at": "2025-07-24T12:56:48.569619Z",
+  "article_count": 206,
   "articles": [
+    {
+      "source": "CityNews",
+      "title": "Plane crashes in Russia’s Far East with 49 people on board - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUC12N1dxajJLbGtZSVBEWDhTMGtjWERiOWxwaUpRNE9heVBvNjI3a0JtZkJHNWdQR0NySnFkOGRKY0VUclI4aEgyOW5HdzJuaFlFbVZ5U0RSbTQ1Y0FkaURJTjBaMGgyQnFPUEJRVUU3b1dGOFRjUTRHSFRNT2FnZk1VeFkzOU1HRGV3?oc=5",
+      "published": "2025-07-24T12:40:46",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "CTV News",
+      "title": "48 people die in passenger plane crash in Russia’s far east, officials say - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT29jZE42SXBFOFllY21RSS1WV21xY1RBX2dMTDkxNGUxdVNKejJRVktJNnV2MjdJNlQ4UEpKamFiUkthd0ptd2pBT0RpdXc5UU5ReTkzU0xYdHFsWFpyVTZsY3kwcXE0eUJTTm1LM0RkTEJWdlBvcFRWM2VNWk1BYW5vbE8ydXNNWmppT0Q0MA?oc=5",
+      "published": "2025-07-24T12:34:57",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "Financial Post",
+      "title": "ZenaTech's ZenaDrone Partners with Eagle Point Funding to Win US Defense Customers - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzhQaHFpN2FVX09FUXNkY0JXY09nd0JnUnhMVGJhNUFpU25xbW1Sak92c3oyMXFXbEV5YURhSnRnSmV0YThzOFVpang4ZUVJbWRKZndSRW5pVGw1cnZuVkJkNWRUUm5lUnBUYjFzOEJXNHZwUXVMOVZyM2dmYXZ4SFZfMTFlM1JKbTg3eFFSY1NkRkdKT2c0dkZPNHVhTHQ2TVlVbTAzT19WcEE5WEtLU202N2ZIMC00aWZjX2ZUYw?oc=5",
+      "published": "2025-07-24T12:32:57",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump tariffs would hit Hungary hard despite warm relations with MAGA-friendly Orbán - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUozUnJCSnBscUNjNG90SEM0bUViQkFjT09sY3dHdEVyZzVpXzZvM0RMQ1NMUTN4TmpCeTZPMy1zVDk5QllWOWhyUDB6RGNRV243SWEweTRhb2FDZm41aHhkV0tJVV9EY2puYW1TZEMyeWhFRFVtZTRqeHY3cnBGMkRRNUd1YVFIdWszM3VFVWZvTVU5bXBYUzB0Yi1ZQ081bjIxUDVtcE84cVhkZmdlRl8taU5OdU9GajFNckRuSTk2UQ?oc=5",
+      "published": "2025-07-24T12:18:21",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Trump tariffs would hit Hungary hard despite warm relations with MAGA-friendly Orbán - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX2dMZl9PbFhLd3M2QnA0bFV3VnUyYy1iRTJoOWRET3IzckhiY0FCbGZWc1F2LU5aVm5LdVE0dmdjUWtwajB0b3A2RmFNTVljN1JKTkN3TFVrWEhFMHdUY3VDNDU2SlBGMUtOUnpLZ2d4WXZvUXNGeVZDYmdWdkk4OFZYeGN0NnNZYjlseVpURm9HT1BvNjQtdkxNaXh4clVIbFQ0UE1DT0hpMkYyQkhDUkdPcFBCSk1kamFBNDllLWhveHV6YWJPT2NZOEh5eEk1RktHc0h6UTZocVJ2VnBpM3c3OE9ERWktMVp5ellVQWJtX204dWxHMnZ2c3NoZzZv?oc=5",
+      "published": "2025-07-24T12:16:14",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump tariffs would hit Hungary hard despite warm relations with MAGA-friendly Orban - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0hUX2E5OHo5OG5VdzdNdmpfVGI3M0dDV0pSWVVPaDE0UXc5TmJrZEJyNEEzeFc2bEc5RTItTlB0YTZ2Z1VkZWQxc1I1VFlrZGhDV0xDOWdjWjlqLU9GOHJ0TDN0dl9za3dlUzJoRVVPSXEzQmg0bWozMEIyVzRlRXJBZVR0bFVQVXp2ZllfZndFUm5lLTNlRFpnajZxV04xRXlHaHJNQUNuNUJMdDBOVXduSERYZDk5ZmV0MzJpVVY?oc=5",
+      "published": "2025-07-24T12:16:02",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "National Post",
+      "title": "Plane crashes in Russia’s Far East with 49 people on board - National Post",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTm9qd2lzWkpkSldtMmh1MUxmWW9UMG9uUEd6UkFQVldiUWdRRVFRZ2psUzk1UEZocFZjcENGOEE5X09JYUxBaXRiYU8wTFVnbWxnVmVUdEQ0cDdXaHVpOFcta3JzSmxxZER0M204LW1ZNmUyNUpUNkdIVnh5bE90eEVRMWtsZVRlSS1oOHBQeUE?oc=5",
+      "published": "2025-07-24T12:14:47",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "CBC",
+      "title": "Detroit 3 lobbying group criticizes deal favouring Japanese imports - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGpoWWNOV1c4eEQ5UDZ3MG9DMHZoNzRGYzVHLWZEc2g3QTA5OHVrMTA3UDdXTWhkSERyZ3BkbmdsV1ZoUXl4M1NqZjY1dWRjeW15VVpfY1ktdWFvVF91OHktaEhrTkJRbm5aaENlWlBmTWgzUXRDREFObERQZWY0MzJuRUg?oc=5",
+      "published": "2025-07-24T12:12:29",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Tesla shares fall amid delays, distractions and fading EV dominance - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkctVmliVkw5c01LQVJndFFYdXBQb1JPUHZPNTFObnlRZ3Z5YlpoV083cXdUcXdzRmpyaGhtRDEyT2VDd2dkZWxEeGgyR21nYVpHdWNmeTFnSVkyR0NHZmpRSGVhbzhEWEJKQWI0cGxGYzdPUkxNZU1kMWZaR29KUy1KdHQ3Y29Nb0RUWlFBQTlpdzEtWnF5VmhERGRSRmhuc0ZvbWZXSlBHcFMtREF1ZFFxRUQxdw?oc=5",
+      "published": "2025-07-24T11:41:47",
+      "date": "2025-07-24"
+    },
     {
       "source": "The Globe and Mail",
       "title": "LKQ Corporation Announces Results for Second Quarter 2025 - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0NGek95WExmNVNUVkcxN0Q4T0VndlhCMGUtS0lWRmk5OFBFVnJ1am9ESlR6S0JuR3pteUN4a1MxVVB4cVpyR2pYb0gwRnJOaEdoUlhzN3BTanNJMnBRTXpnWHoyVldyVkxqWXd4aEUteW1tdDVVa3I3Z3lxRTVidExhNXdVZWVwVmFjZWhIVDdfXzQyZEN1eE9GVUhkUDZLTmdXNDA0dFV1VndxVnhRN1YzYV8wcnRwLXBXcXYtZEoxaXI2elJvOHotaUpXX1JSU3NrbFIzcXRYZHo5?oc=5",
       "published": "2025-07-24T11:16:03",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CBC",
-      "title": "20 blue-green algae advisories issued for Alberta lakes this summer - CBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdF9lQW53eHFFejVLdThERGF1WUhvWTZyOU96eVV1R0d6M09wMkY2MDRHX21JZzd2bkxZbXMyNlowSElZNFZHQ01wbXJ2TE04X2pfQlVwY2tLalcxcmdYZEpHSFZyZlp1LW53SXphd1BfYTFEZmszWWFkeFduUEpUa2txbXNKTl9nTmNKUDIxYVo1bEI4VFQ1VWJnUUhmTW1oUERNRE5KSUhhMmRjRUlYNW5BajFvY00?oc=5",
-      "published": "2025-07-24T11:00:00",
       "date": "2025-07-24"
     },
     {
@@ -30,6 +86,13 @@
       "title": "Nearly 50 people feared dead after plane crashes in Russia’s far east - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUlnMkJ3b3dtV2xKNnlka1VMSEt4Y2ZGMFRha2o5NWNCYkFKMlBTcE1rVjQxVUI3TEh3MjN5U3ZoV0FXb0MwVklSdGJ3N1hpZFJVN1NIT21fZXRoTE02MjVEakI3bVNZTzJyUXU0ZFFjZENpN3pSaXdnNE8zVFE3RUJNU2o0Y2E5ZW51X21xaTBXd3RuaTF5dndSbEVrR2liLXNxcG8wRzBxZGxZaXh4eW5SSEJ0dw?oc=5",
       "published": "2025-07-24T10:57:37",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "CityNews",
+      "title": "Plane crashes in Russia’s Far East with 49 people on board - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlplUV9tR2pfTGlCVnkwbTFMWm5VY0NjbnFodTRCOHNlWWpRcjJtTEg2QWt3NUI1RUZON080MkYwaXV5VWtJMWdJeFZjTHJGdVM4UVhRbkEtbU5Da0Exdi1pdWVITy1rbzh1UW1TdXBXc1FSQ3RkRW4wZG8zc0EwMXI5anpVekVta3F0Ng?oc=5",
+      "published": "2025-07-24T10:52:30",
       "date": "2025-07-24"
     },
     {
@@ -54,17 +117,24 @@
       "date": "2025-07-24"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "I'm Downgrading Taiwan Semiconductor Stock - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXJGaUhaR3BQUUUxZFI2aWFMNnJyR090RWxSYlNCT2dOUi03XzJMWTBDQ1dvLV9fOGZKdHFSSnZZRzgxdDdxSEczVVNnMWFXbDlPWG5pejBxbzFGZmlROWMzOV9SZ1lIN3BtWDhpakpGR1RmTkRJMGgza0ZLNVAzZTU4SHNtVkFyX0tObU13ZXNETENWV2dDYkxUdW1lOHdzWVh3dUdaQ3RDUHRmYWpfcXdBM2NxTWJkSGdjTUxjM3U3U1NkOHc?oc=5",
-      "published": "2025-07-24T10:41:15",
+      "source": "National Post",
+      "title": "PMN - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BR1R1cHkweUlQczZxTzRlQkR4Y2E5Nkt1QWpLTDZDM0dSX3ZNWWNpQU5xRjlDZ2JzZi01cWstb1JFQ25jdXBkM01WRTl2cWc?oc=5",
+      "published": "2025-07-24T10:47:10",
       "date": "2025-07-24"
     },
     {
       "source": "The Globe and Mail",
-      "title": "4 Artificial Intelligence (AI) Stocks That Could Soar in the Second Half of 2025 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDdQY1hOMVJCcDRNcDZ5MHh0dWpPRV9xM2VFYnpDUmJOQ18ydXR1Rkw1eW40dlQzUERGR1lvMGVnNkNVWmFaaHRCUEJ6eDNBRFNRTTRaR0hueTZBN2w4X1NaZFBldkhvZGNOMVVxejczWWVINEtaWTFqQjRrWWxUWU5SLUtxd2tEOHdHd0VCVUVick9PREtibUk4dTgtTGsxSktxeTVNZ1ljanN1T1k2bi1BM096OTQ4Z0RTRUNZUVFGdGViZnpsVGR0NHNhSmgyUGJWUWFqR2czZl8wWkJ1MG44elRUdENfV2d1Y0VwTERTT2dWaWJJ?oc=5",
-      "published": "2025-07-24T10:25:39",
+      "title": "I'm Downgrading Taiwan Semiconductor Stock - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNktTSGpZYVkyc0syejZIMXNJRlR1UWl1QUZtY2xsRzRzTGJPLVpaampNcWd5b19vTFBKOEQ4VFlKQk80dERnU2FGc1RDQUZETjBscXJFY0pqOERQaFcxV2xGbUd1QXNyaHM0RUFVaEtxUjR5M05YbFhaUlRQeTdLaHNjdjVVcGtXcml6SVlKTnlBR2hhdjFtZzlCZDJNVS1ZWm9mcXN1SVVINWNWckR5Q3IyNndKMHZRUmpDZEIxQ0ZSdHB5ZkE?oc=5",
+      "published": "2025-07-24T10:30:00",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "Financial Post",
+      "title": "EU and China Pledge Climate Leadership Role as US Retreats - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXBnUktWUG1nSXFjaVMyanpiYlRSbkp3d083Z0c1RjFOV0drMnJQcC1JMm14MlQ2X1FiY2QwZklNZ0VOYlR0Zk1USmdQdkpRZUt2SGdPaXVxaEJMVEZHd3FEd21YQk00SmdQcWd4Yl8wQVNRanplb3REX0NvbE9yOEN3bThzVVMya28zVHZnMHJpUVV4NGJkczZMMHoxOHdVa1NwWmt0OVgzUQ?oc=5",
+      "published": "2025-07-24T10:26:47",
       "date": "2025-07-24"
     },
     {
@@ -75,24 +145,10 @@
       "date": "2025-07-24"
     },
     {
-      "source": "CBC",
-      "title": "Wildlife rescue hopes blind, baby moose can find forever home at Toronto Zoo - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkhtQWppcHFWNHVvN0tFamtBS2xCbi1RejQ3LTlQRGlBbTlZN2M4TTAwc0UzRnlhckJLWFZNTThxWmg0ZnJaWHVGR0FCbkFVQTh5dG9rYWJiRDdMMzdlRWpfTm9QUXNfY1piTjRTdGNwaXZQVTFveW5zanMybXUzMXF3?oc=5",
-      "published": "2025-07-24T10:17:15",
-      "date": "2025-07-24"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "World shares rise, buoyed by hopes for more trade deals after the US-Japan tariff pact - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORC1NOGNELWV5RnA0SmpFSFFkNW5UUnJqYWdHbjRMVHIxV0xoTnk0RGgwR2NoLWdGUXkyN1ZtNV9ZdDBxVFJvemtvSmRoZ2pJN2FLMkNGUzBieVBwc1BVX1BBSDVRcC0wTk9mTUJFTkQ2UUViQzJkQktMX3FIUWo0QVd6aTNmX0tJc01BaGljX2dQYmJLaVpSb3EwaUV5VDBOT2JiUWt0TDB4YVVrb3gyd0VTblpjbnViaEp5SFRlU1BGVUdXZ1dfZjBZOHBYRFhKb29ldjl0dUZhVThvOUh5SmU5dnducWlhODN3THRBTTVOM3p2OGMyeEozTk1kcDJ0SWc?oc=5",
       "published": "2025-07-24T10:17:11",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "National Post",
-      "title": "PMN - National Post",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BR1R1cHkweUlQczZxTzRlQkR4Y2E5Nkt1QWpLTDZDM0dSX3ZNWWNpQU5xRjlDZ2JzZi01cWstb1JFQ25jdXBkM01WRTl2cWc?oc=5",
-      "published": "2025-07-24T10:10:24",
       "date": "2025-07-24"
     },
     {
@@ -166,10 +222,10 @@
       "date": "2025-07-24"
     },
     {
-      "source": "CBC",
-      "title": "Sydney woman, 85, 'ached all over' from climbing stairs after airline didn't supply ramp - CBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDFiYTBaSlBXR05UMnJPb0pmM3phNkRTWGJ3MEpQdUZJX1h0QnNITkdkdU4wYjBfOENMY19sUE44cWRfWVd2UUM1RWROamNwd3YyYkhLRU45cmo0anJRVzcxYkx2TWx0UjRVU250bDI1Wklxc05aYWtLaG9GZHlBT2tGRlVGamcwdjV6bS1zNA?oc=5",
-      "published": "2025-07-24T09:53:56",
+      "source": "The Globe and Mail",
+      "title": "4 Artificial Intelligence (AI) Stocks That Could Soar in the Second Half of 2025 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDdQY1hOMVJCcDRNcDZ5MHh0dWpPRV9xM2VFYnpDUmJOQ18ydXR1Rkw1eW40dlQzUERGR1lvMGVnNkNVWmFaaHRCUEJ6eDNBRFNRTTRaR0hueTZBN2w4X1NaZFBldkhvZGNOMVVxejczWWVINEtaWTFqQjRrWWxUWU5SLUtxd2tEOHdHd0VCVUVick9PREtibUk4dTgtTGsxSktxeTVNZ1ljanN1T1k2bi1BM096OTQ4Z0RTRUNZUVFGdGViZnpsVGR0NHNhSmgyUGJWUWFqR2czZl8wWkJ1MG44elRUdENfV2d1Y0VwTERTT2dWaWJJ?oc=5",
+      "published": "2025-07-24T09:30:00",
       "date": "2025-07-24"
     },
     {
@@ -183,7 +239,7 @@
       "source": "Financial Post",
       "title": "Von Der Leyen Says EU-China Ties Are at 'Inflection Point' - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTctdXZtbnlmOFhmVkRQcEZCMDRzRHBqdzVkdDNDZndNV2loWmpEaU83UEhNZEpWd2JvRGpSX0UtajIzYlBCZEhkaEhZdGF3NTQxZ0h2VmQwaC1WLTdTNGxTeHN1RHFRMklkTFdvY3FLSHczR0hrd09LdnpzamlGb2FaaGhTeHZETWdvcWZieXpwMmlCQk9iMGxiLXBramVS?oc=5",
-      "published": "2025-07-24T09:21:52",
+      "published": "2025-07-24T09:22:11",
       "date": "2025-07-24"
     },
     {
@@ -202,20 +258,6 @@
     },
     {
       "source": "Financial Post",
-      "title": "EU and China Will Pledge Climate Leadership Role as US Retreats - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXBnUktWUG1nSXFjaVMyanpiYlRSbkp3d083Z0c1RjFOV0drMnJQcC1JMm14MlQ2X1FiY2QwZklNZ0VOYlR0Zk1USmdQdkpRZUt2SGdPaXVxaEJMVEZHd3FEd21YQk00SmdQcWd4Yl8wQVNRanplb3REX0NvbE9yOEN3bThzVVMya28zVHZnMHJpUVV4NGJkczZMMHoxOHdVa1NwWmt0OVgzUQ?oc=5",
-      "published": "2025-07-24T09:07:07",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CTV News",
-      "title": "Plane with 49 people crashes in Russia’s Far East - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT29jZE42SXBFOFllY21RSS1WV21xY1RBX2dMTDkxNGUxdVNKejJRVktJNnV2MjdJNlQ4UEpKamFiUkthd0ptd2pBT0RpdXc5UU5ReTkzU0xYdHFsWFpyVTZsY3kwcXE0eUJTTm1LM0RkTEJWdlBvcFRWM2VNWk1BYW5vbE8ydXNNWmppT0Q0MA?oc=5",
-      "published": "2025-07-24T09:05:09",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "Financial Post",
       "title": "Rising US Coal Consumption Set to Help Seal Record Global Demand - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeU9QWE16QlJHNFZjRWtHZm8yWXFiMHN4MHRqWWFuSk9HMnVzdUg4clZnWUM4SXNTVjMzVURybEpqZjIyRy04ZmwzTmxQY25XQ3hZNlJETGpPazFMVlhjc2JxODlLWmZiX1QyLWlXNlNKelZCVTNxbW56Vi04QXdkMUpMSjVhQzdjQk00c1RNXzJVNHRTeGlzcWQxYXJmeDgxOVF4ZFlCMlk5Y1k?oc=5",
       "published": "2025-07-24T09:01:48",
@@ -224,8 +266,15 @@
     {
       "source": "The Globe and Mail",
       "title": "The Smartest Growth Stock to Buy With $10,000 Right Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTHJMZkcwSTlBNWpCZU1DU0RqU3BLMHpHMEJKbllKbTF3cEMxQUY4eWxkMGdJNEFpRjlXZmxleEgwSmNsWUxOMEhIaTlBZzlWSHRTZTJJNi1ZdTRrNXZxdnltQmhCWFZ0NzRkOVlvSDNlVXBjOVlMcUptRkJENDVXZGFoNVJlazBYelBpUFlCMmxYb2RvdXBJRUlOaEdGb1h4RkxzaS1NZ0RlbTJTcDV1eks4cnM2SXF0ck5oZTJhMGd1dzNoQmRpVWFxQXhRTk5KNkVsWlJfLUk?oc=5",
-      "published": "2025-07-24T09:00:52",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRl9rT0VTQlJwOWhrMVpuMl9XUTV2akZ1WS0zTHZyQl9YZmdOdHNwQkVaRXVELWxsV283U3Jzd29kSzV6RWRfZDN2Zy1QdzNBdU5odlhld3ByMmRhZjZxSDBZQmlwR3dMT29EU0poZlUtR3doTWJuUV92RkUtWnNuTmllZ3kzdFgzSE9fb1ZxNVNnSGtKNnB4N2N4ekx2WFZmYTZoOFdOY3BWNkozajQtV1BmblNsRmo5Tll6QlVmVE93RWVIdEozS2UwbkVEdlVBSnVuM1lxUW0?oc=5",
+      "published": "2025-07-24T09:00:42",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "HKTDC Research Report: Exploring Opportunities in Hong Kong's Proprietary Chinese Medicine Industry - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQ1BKMmJienpFTkdHY1FSclV5cDl5OUJRSE1mUWFGc1hwMXR4aG9BRlM1MWwwd1BTcWVNbzNjbWxObVhENXJKSjZha2RJWG4tVW9UZ3BuU0t1STRDWjBlSEMySU9HSmFWbHF1QjlIMHhCX3VPLUk3ZlQyNmhqM1h5anljZTBQQ21jcGFCZDhrNXVlSEk3ZU9VQTk1T3UxZ0JWdFh4eXM1T0lhSi12b2VJNFdsYXZoRFlJbHhOcjJIenk0ZTVmTnE1SUN5aEZxNEdiZXFYQS1FWGwySm9USHVaQzBCMWtGNTRZLTdqQ3pCV1FXajgxdHNnd3UwMVJQRThZWnduQzZFTzJ5YW50WTFZVEg2UEM?oc=5",
+      "published": "2025-07-24T08:43:00",
       "date": "2025-07-24"
     },
     {
@@ -244,36 +293,8 @@
     },
     {
       "source": "CBC",
-      "title": "50 years ago, rocker Kim Mitchell's guitar was stolen in Hamilton. Now his biographer wants to get it back - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTA5Vml0dlZVbVZfVmZDb3l5UUVseXNmdFFMLVZSNDl1Yktsa3o3d1lyQTJKeWJWM0wya3BkelgyUUlHZWN1OE5reGF5M2NaT2NUV2tUMkFFWmdiUmlCR0d1VnB4TndnQjdBM0QzUDBFSVdISDJBTTIxdTVaN0RBeEVzekF1dzN4SEE?oc=5",
-      "published": "2025-07-24T08:00:00",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CBC",
-      "title": "Jasperites work through mental health struggles amid anniversary of destructive fire - CBC",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHpoYmc0Q3NtbW1MVkE1Qi1CaUhiZ1U2RmFyVjcwdXI0VXNyRzYwb3pDcV9vcGV1c1JqeGdEX3dwNmMxVm9ZMkROa3gwblBIRmwtdkVadlI5WVowOTR5ZkMyaDRCNkd2emJWUGhOM3hMeVhYdmFYTWR0TUtNU2gzSGFLTWlnU3hVX21mUnJnaEo3UDVheFlxY29NdGVtRlVOTG9ZZlViNktMdFBhZnA0QUQ1WmR6RU5UUFVzX0pBZnJEYTFENHJXcUpMV3I1NUU?oc=5",
-      "published": "2025-07-24T08:00:00",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CBC",
-      "title": "'Hallway of sadness' transformed by patients' art at Ottawa hospital - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3lZNHpmTVo5MkJIRmhHN1AwQWxfSV9kdlBWd25ITUZua3ltNVlzY05EakNwZENWSDBydFl5Y1VTZ2thbThfSkZKcGVYWGdEVHhCbzJQZFhCXzNKWFNHNnFDOUhhMWp3S0Z2YXlEVHVzVmc4M3dqM1V6MWNENHRfR0lB?oc=5",
-      "published": "2025-07-24T08:00:00",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CBC",
-      "title": "Summer McIntosh vs. Katie Ledecky: Who will win the 2 biggest showdowns at the swimming worlds? - CBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFPLXRHbWNFdXFLY3REU1ltSWRCQmQ1T0oxYXZrWnNuUmszM21ueTdYNF9ZMjVFMXVhMkZ3OG1HMF9WT0dqU0VidkZGYzhuVnpwZ182UDdtRzhxc2FvWVI1Tm9IMWdZNDR1dmI2VWNXVGVoWGV4Smt5NW1NQ0Y0eW9QNHFsb0xvMW03ME96dTZTa2loVlBOcFFPNm9xU292?oc=5",
-      "published": "2025-07-24T08:00:00",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CBC",
-      "title": "Quebec's anti-corruption unit investigating scams targeting students from Africa - CBC",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGpib0g3c0NYX1UxYk5VdmNJLWtyQ1kyYW96NmNMaG4yd1RJWkhaeElEQW5iTW80WHdDVS1hbkdkdzVmd016MHVPNzJ2RmdyMW5saU0zWUp4OFhHeHBCNThVVzkyYXdHTGxmNHF5UllEd2ZoRWtxdlBIb0ZBU29ZLVZKMmU0YXU3SkFlX3Nldk9sX2hfTF9KazRqVzFtVWoyQXZDV3N2b0RjV2ZDT2lHUE53?oc=5",
+      "title": "Several local lawmakers told of alleged NextStar EV battery project issues months ago - CBC",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzNBd0szaGRPQmZleWVmZVJLZ3BrUmpRTTZRQWVSamc3TXg1a0NvbDJ6d2FNZTJDVTRkVHRScGtlVnRxdmNxSnQ3b2N1N0F0R2VabGRKSmphS0dRMllVWThVNzFrUE1YWjBvSjZLYVFMUzVmaVRFb0RzZ1FiZ3Zpcjg5Wk1fUEl6ZWsxM1NOWFZGdUV6NVFILUpEMTZDZkxtcXFwb1czXzFsOFVxa09FX3U5aVN4OTQ?oc=5",
       "published": "2025-07-24T08:00:00",
       "date": "2025-07-24"
     },
@@ -299,10 +320,24 @@
       "date": "2025-07-24"
     },
     {
+      "source": "CityNews",
+      "title": "Plane crashes in Russia’s Far East with 49 people on board - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2FwRGpXNW5Zd3RtZmx3OS03ODRvNDZUa1JMR3ZNVGZJYTZMaTFNeGZRWHB0c1JwN2Zac0xhYU0yNlZ6bkJ2aDRwenlETl85ZGZ5MWdadVlpQVBsTVQzSjlweG5EaFNIZXhxYVlzejZpaVNpbXhmdVB3Ry1JZEtMT211TlJQT1hNbEE?oc=5",
+      "published": "2025-07-24T06:52:00",
+      "date": "2025-07-24"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Why Taiwan's 'Recall' Election Risks Raising Tensions With China - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFNCSXpfdHlxMGkzZjBQX0gwb1lpX1RLeUpQMU9UY0duN2k0N0pnT2toZkkwSnVrVkxKWFJOZmxjNkVqcmo3emZ5SDI1R3JKT1pDSG1Ia05NWmx6d1g5WUdEd1lvSGNIaGlYMVFQNUtCMFpseFQ5OGxRTFJnc2t2Nk10OVhYOVhiaE1Cd1Roa0F5d3RkVy1STUYtcTBkNmVSQmVOSUdha3dRZURCZDdhaFp0UQ?oc=5",
+      "published": "2025-07-24T06:07:56",
+      "date": "2025-07-24"
+    },
+    {
       "source": "Financial Post",
       "title": "Why Taiwan's 'Recall' Election Risks Raising Tensions With China - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHJCbkxyby11Vy15eTFGb2tGeVU0dnlQakVKbXA0YWNXSjlmTXpsWWxpRHlScG1fMmUwYjBYaS03NFJHb2FWVS1zOFN5UnVTUDdha1pXMml5VkdYT0pUc29uMnlWVGhOU3podmIwNTExMjFURjg4Q0dMY2NkLWJkdEJLVGpDZ3dlVFhlUlRkYk1XUmxBbGpzeDFGNFlvQmQycHVBeWNGdw?oc=5",
-      "published": "2025-07-24T06:06:44",
+      "published": "2025-07-24T06:07:00",
       "date": "2025-07-24"
     },
     {
@@ -334,6 +369,13 @@
       "date": "2025-07-24"
     },
     {
+      "source": "CTV News",
+      "title": "Ottawa: 'Highly probable' China targeted Chong - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2hIc1FOd181UHR6dUhHQlVJX0FleHBfb3N0MTJqYm85U0RPOFJCazBGWk1lUVYtYmNWMEJyVzhOWTBRV3RxcWtNY19fUDJabXpQcVRnakhxbHczNjJCaUxQMXptVXZmeUs3NVhTZFZWOGZIM2xObVBIR25QOXc3SUN4NzJDd3J5Wk0wc0dR?oc=5",
+      "published": "2025-07-24T03:47:00",
+      "date": "2025-07-24"
+    },
+    {
       "source": "Financial Post",
       "title": "Some Canadian Leaders Want Thaw With China to Offset US Trade War - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVERRLU5ZT0J6NncwUVVkM19vT28yWUVfQlBzU3gzT2UzRElwa2VmeTFIaXYzX3VzUjlqZE8tMXlmX3ZCOFoycmV6cS1VVlp6eXdGX1BwbWkwUFRTOGxHTmNiVXBCcnF5SDdUa1RHN2hrUEd1QVdaUXkxNmNrSFV4OEZxdkJXa0Y2Sml4RjRTNUVGYmFBREY5N1VRcGFsaDNob3o5Tmx0Y0NlS3J6?oc=5",
@@ -362,10 +404,10 @@
       "date": "2025-07-24"
     },
     {
-      "source": "CityNews",
-      "title": "Bondi facing Democratic calls to testify following report she told Trump he was in Epstein files - CityNews Winnipeg",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVkdmU1Y4cTVSWEVtNHVPaUZHTmJKR090dUhQWXdmcFAyVFhqd1QyRHROTjQzNkJJOXhKaUtZeWI5YllrS1Z2cWl2SU4xMHMzOUZRaEJiQ0swUzhZbmV1UE84UV9McGNDNEtLM094NGJJZ2xlTjZzd0JHT1Z5dXZvQ01fa3ZhQ3p5cFJpSHFQNWxfNmhDZ2ctdXJSVUdVdUQ0U2dtam5EMTRRYThzRjkzZmk3b2t0MGNyaEZFeW9WZE5ZUHVVN3JhTWxUMHM5a0FiRXlB?oc=5",
-      "published": "2025-07-24T02:48:20",
+      "source": "CBC",
+      "title": "Ferry fire spurs national investigation by Transportation Safety Board - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jT1BvWlY3U1BoOTRBZTlqMzFoN281eXdQX0p3OXJKVVRhRVhGTWdXQlktMUhOaFlJdDVEbnU2UXdKTEwxR3ZPbjYzdkpUdEQxSHNrdUw0S0k1Zw?oc=5",
+      "published": "2025-07-24T02:37:23",
       "date": "2025-07-24"
     },
     {
@@ -387,13 +429,6 @@
       "title": "China's Key US Energy Imports Near Zero Before Vital Trade Talks - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmNxVmJ2cWROMDJIMHlha01iTUtEdFZXU2V3cDBacnF1dTNVeG92UDZhN2VOTkxMa0xtRUFQbXc3X0k1UF9fRjhKWG5UcG9Hb0pYU3FIdjRQV25XMlMwai0yUGkzWE5GdU02VmEwLUpLV2pIZ0c2by1lQm1OUEhGSmJXTUN0OEV1ZElXTEtfODhpZFRsWm92QnJGUW9QZ1IwbU9wcVBwcGJ0dw?oc=5",
       "published": "2025-07-24T02:27:08",
-      "date": "2025-07-24"
-    },
-    {
-      "source": "CTV News",
-      "title": "Will B.C. lower the voting age? - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTRmbFNuaGZmTEpuRUVhUDVDNmR4NGIyVkpwTUdETWZiYmVxZ3lMT0thaEJkR3p6UURNMllvby11dTF2d3J0ai0zckE3VmtqZmY4OV9yLWV6UG5QOGRhb3VKS2M0RmJDQnpZY05SbEd1VVpSTXpPQTl5RjZuU2tEVHpVMVdTdw?oc=5",
-      "published": "2025-07-24T02:11:54",
       "date": "2025-07-24"
     },
     {
@@ -446,6 +481,13 @@
       "date": "2025-07-24"
     },
     {
+      "source": "CBC",
+      "title": "Yukon RCMP charge man with kidnapping - CBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUVNdDkycEZCTk52V3dRRENPaTV0VTZlYU1kMjhVYkpSbkVOVFhhUEFGcVQxOG5ZN3JRMU8yREVtSWdFOXpDVEJwaWRfc0RMdEUxV1dpQmdjX1JoR1AzZThnSExTUzNZTnRMU1dnRWJEWWs2dWFCazE2RURGOVhDRlRjUUhna2hNOTU5TQ?oc=5",
+      "published": "2025-07-24T01:18:00",
+      "date": "2025-07-24"
+    },
+    {
       "source": "CityNews",
       "title": "Europe and China holding scaled-back trade talks with expectations low for major agreements - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzdPdk1ONElPbjIxZl9HYUh2UFNhMktIR0VDY2xLVmpMR2Rtb285ejdxVDJDcU1XZ1ZER0NYRWc3UmJZb0NwalJadWlCdXluanFNenZYSVFWZWEtLVNES1c4dGlMSXpxaE1ESEVldFl5aUR5X1d0bUx6TFVYSW1scDhkQlpCbW0wakFzZTNqbDRodFVTWU1xWWdjMGNkSzFYcEE5bTB5MGRLUTNRbGRFcnJ5NDBpc2JyQ2JxNkYxcE1MSHNCMHlwRmZuUQ?oc=5",
@@ -488,10 +530,10 @@
       "date": "2025-07-24"
     },
     {
-      "source": "CBC",
-      "title": "Beaver Creek evacuation alert ends - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkVfMmZTd2I3Ulp5T2lkaXprcGNjQzFsNjdLZ3dSU0lrZ1dXbGdTd0tVZHdkRTd1MVpBWmllUE9zLUJSRVZIZ0hoSkh3NE9FVlRFR2oxUGpqWmN1akpvWnA2eENCRUkwSDdIQ1QxdF90ek9icmFCQXh1Wjh6RHF2bXpFLWsxWXR6?oc=5",
-      "published": "2025-07-24T00:25:00",
+      "source": "The Globe and Mail",
+      "title": "GM’s Earnings Call: Record Revenues Amid Challenges - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVW1NWXFJYm01X2FzWXpVVUZuWXU3dHNDWmlERzV5ajJtLWZVVWx6YzZyQldlTy1fRmMwbjRJWVpuSVNSR0x2R3ktV2tMQnhheV9FUHZMMVBaY2xwQ2xpRW53YjI3MF9PVGkzZUZ3QTY0QXFYd0lxSlBScDM2cHJEU2xROXdsV3dtVXA4YjVRcHhNVWU3UlRhYXlldFJsRXpYM0xzRUVWME00bXZiTHpPdFJlTjVwTGhSMFpFa0xncjQyQW8takdTeFZiZnRQbDQ3?oc=5",
+      "published": "2025-07-24T00:24:00",
       "date": "2025-07-24"
     },
     {
@@ -527,6 +569,13 @@
       "title": "Tesla profit plunges in latest quarter as Musk's turn to politics repels buyers - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeEFXeHVUakhabmVKV0R5RXFhS09PZ1RNZWd1OGRXN2tLekZzaGE5OUZ3eGhBaVpMRHJIQnYwR2NOV0IyWFlfUmxEUHZaWUZPMkJXd0xBU3BhUGMwU0Fta3lwZ0RiZXJJbkVrSWkydzZVRjRPQi1uSWJ1VmJERHRfdlpzVnY3WEFWR2hUYzNZOU15eXludmRzY2Q4NmN2c2ZieTlid25LYWh3b1NodVhhUFBBckZnZEZPak9GQWdWcHFHUQ?oc=5",
       "published": "2025-07-23T23:46:45",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Chinese President Xi Orders Biggest Regulatory Revamp in Decades - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWktjOGtYbmdpOW1VRjRjb0Y2NGx1VHExYVdudUtjX3F1elprdWVHd1RMdGQ4R2wycDY1VVhNSmhvVjMtZ1pCT1FNS05vWFI3aFFJT1B2OVFQMVZqUWx1MFk0aEYxdkVlN0VuMFV1U05ROEpJV25vMFowNFlNeW1SelhITE14ZEdZTEZmZTBYa2hwNHdOQVd5SW5Ma0F4S0l5eDd1SGNwV2NVU1RwS1JCaHBFeEZhdTBNUUE?oc=5",
+      "published": "2025-07-23T23:17:07",
       "date": "2025-07-23"
     },
     {
@@ -593,6 +642,13 @@
       "date": "2025-07-23"
     },
     {
+      "source": "CBC",
+      "title": "Over 100 aid agencies call for Gaza ceasefire, warn of starvation risks - CBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zWkt1WVMtX0s3NWdydjlTNEtsU1RUd3FRWng5ZmFpbVowQWlLNDVPck1ZSzViTHNja0RRT2RCMXA2QUcwZHh3dVJwdWNHLU9fcEJNMlk2MVIxLTd1Q2twdElPWHMzMm11MUFacjB3?oc=5",
+      "published": "2025-07-23T21:42:30",
+      "date": "2025-07-23"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Las Vegas Sands (LVS) Q2 2025 Earnings Transcript - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0VIQzhEZEFWTFZ6VWFfUkZ2S3Jhck41clBWYXgyQmJmbjdiaUZxOWRIdlRjZ0VVMUxaT1Fza2pLN1hGeXkxZU1iX0JhY3h6Q1NtMmVoalJqZ0JvVFNERUdaUi1ES2poVjFKSW1ySVUzRVZSakNkdmtDR1VWRGo2Rkw2cFdHY2x2ZkJNQlpYSnp0VTBGei1sR3g3YW9aSl9tT2VDTmdBS1czY0VZa0lRZzBneWRza0cweG9tUVNteUdRVnRZNDY2c3ZxMzVFb0U?oc=5",
@@ -650,6 +706,13 @@
     },
     {
       "source": "CBC",
+      "title": "Hockey Canada sexual assault trial 'reinvigorated' talk on complex issues of consent, sports culture - CBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUdtOVo0YTA1bUs1eHVnZ2puR0RUYTVHUlFPa1NnaFpGY2tORUUyeDU5UVViYWdHZW1oeENSa3RDTHdmNmJoek9QVzNGNE9TS25BYVBNM3N5VlV2ZlZVbVVtenlSVG5WY19tVDBzcHRFMmhJZVBmMmNKaUt4cUltcGhpZl9aVlpza0lwWFRZSmdhMmFE?oc=5",
+      "published": "2025-07-23T21:00:00",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "CBC",
       "title": "Calgary parents get 6-year sentence after toddler dies from scalding water in diaper - CBC",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYnVERWFZb0JVdDJKbW9vaF9GeEJuOURfcHpJODZTOUhSMGhNTXFvRzF4SXh1a1kzcjdPWExkMFYwMWpsenA3TTFmWlBsYldsbV9lUjNJSEQyZEhCTFB5eXJJTnR4V2FlZ0NfampJakNZeldkSjhaRURrdEpTRERGSEQ2TzNvQUVoc1h2eGRMcnUzaVFfajJOVjJQQkdsVXZQOEtFSlcyUkxzaEhhc1BlcXdXbDYxSktiU2pzWFN1QUhYT2RZYVJjYVZvR1lRdw?oc=5",
       "published": "2025-07-23T20:45:50",
@@ -677,13 +740,6 @@
       "date": "2025-07-23"
     },
     {
-      "source": "CBC",
-      "title": "Native Women's Association of Canada former CEO dies aged 61 - CBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsX1RPWl9WdDRqQjlnYUg4ckJpbFp4dE1OWVkycXkxUUluZm5NWTQtSWlEb1pwYVR4OFFsR0otT3VuX1MtN2R3aHdZRUpJcXo4dGc3UEVyWWg1SVhQcDg1UHl6QjJFNG93TjRNRjBYa1kyd2Vq?oc=5",
-      "published": "2025-07-23T20:23:35",
-      "date": "2025-07-23"
-    },
-    {
       "source": "Financial Post",
       "title": "Critical One Confirms Howells Lake Antimony-Gold Project Details During CEO Field Review - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHRWdXJUMjF2T05Jb0N6ZFoxRkNkTk5TUU9WR2hvQzVydV9Hb0hQMU91ZFM4TlpRdjBoTjFkRkJtT1dLMXd1dWQzdXVlblhjWXRGb0JoUmoyWUV3cDZiczVJanpRM1lsR08zOUZibjJjbVlJTGRQemZ3QURXQWdiaTdNN3hxRWxHNXU5OUtfSFp1YUdMQTd5LW4yMmZSMFhDSjBxNnl3RFE3MzBZXzdhSTBsdEJZTWpXNnd4bkN0NzJEenFLbTlaNw?oc=5",
@@ -705,17 +761,17 @@
       "date": "2025-07-23"
     },
     {
-      "source": "CBC",
-      "title": "Republicans help U.S. House subcommittee pass vote to subpoena Epstein files - CBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDcVowYmY5T3paY0lIX0VCT0hPNTNOSUxVUDN2QXpFdlVZUmEtZS00VFRCMGw1aFNDT2p1YjkyZHFWX0pNamE5T3ltWFhZbHNSS29LaGpNYmJXUTFGNXUtRjZ1b1NvSzVVXy1GNFFxa1NTNU5a?oc=5",
-      "published": "2025-07-23T20:09:00",
-      "date": "2025-07-23"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Why Tencent and Other Chinese Tech Stocks Rallied Today - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM2J4MWI2YURpSDFmS0xieVp4THlUNTRtOUt1MzFLWlh6eW1YdTVDWmtZQjBsSUlqcDhSWmZ2SS0yU3dTMXhsWDZYSDNCTFhHeEF6NGxIN084NlZzZ3JndGlEUVJOTUZTajVnMGlGSmstSXNnOVJhWmg3RVo1ZDZKTjMyYlE1ekNXamxSUjNROE8tci0tQ0dvVkJGWTNsc2Q2NFFVSFNtR1ZrOFlrZWJOMWp4dzRBOGpwbVpCNU9MZGxialp0RDhveDBBSlJ2cm5hclpkbk1kZEJVZw?oc=5",
       "published": "2025-07-23T20:08:05",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "CBC",
+      "title": "Permit revoked for MAGA musician's concert at Parks Canada site, but show will go on - CBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUF1NGZvNnJBOGxiLUNiY0VLRlh0OHo5bDNTelRVN0NQSnNZWHpDOEJXOU9VSVlEbkMtcG5pVmNrLWNxVEJTTkxjLXQtUUhtalhXY3pkZ1l1NUtZeHJnTGJScEU4RGUzcjV2VWhXRXFVdjU3bGNfRlJScVdCWnU1RlFMUFczY0NxM2hrbkotc1RaQ3hsc1d3?oc=5",
+      "published": "2025-07-23T20:00:28",
       "date": "2025-07-23"
     },
     {
@@ -761,13 +817,6 @@
       "date": "2025-07-23"
     },
     {
-      "source": "CBC",
-      "title": "Military police watchdog calls public hearing into alleged civilian detention at Montreal base - CBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHhwQ2JKOTI4ZFNJSHpUWUk4ZFh4aGFvT1R4SnZyZTJzajRuSEZnczBtR1lJVk9PQS16bjh5Vld0Z1M2djZhQWFoU0VSRWZEbEUxcTZDaFZtX1pXOXhpWlVac09scm16Qi02SWEzUHNyZEhMVlpUSk8wLVNXbHluOVpwSTk?oc=5",
-      "published": "2025-07-23T19:26:39",
-      "date": "2025-07-23"
-    },
-    {
       "source": "CTV News",
       "title": "CTV News legend Jazz Sanghera retires - CTV News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkxvWHNIdzJ2dGxUT2hBcGtBLTV6YjBXLTJvUVlyLV9XTEttX3otXy10WmJOY0xUM3hNOTUwdnluRFVPZmJtM3EtNExqU0hNQS1HSU5GS29uenM3RWtRSTZaNHFJNEpBQWw5MVZXeV9hNUd6aVI1VnViNE9JTG1CUVZYQWR6Q0ZGVWp6ai1rRk9Hdw?oc=5",
@@ -786,13 +835,6 @@
       "title": "Russian drones used in Ukraine powered by Chinese engines shipped as ‘cooling units’ - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUdEMElJM2xiNkhDYjM0MHRmVEhoMklVSWV2d05CLTcxcjZxUjFnSTR2MGxXbTBjTkxWREprYWp1bEhWSThpUm9YeGlBT1hiVTY5U0tKajNuU2RrMEFSRWtOQzlaN3A2NVVWVE55UHV5RGh6dXktUzRDdkxnU1dMY3pIX25fSnlmMEhob05vM3NwRHN2dDJvUGkwTThFdFEtVTQxZjVoNjZNVUY1UzJv?oc=5",
       "published": "2025-07-23T19:10:37",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Scotiabank expects $61 million profit from KeyCorp holdings this quarter - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkJUX2RNSHZmTEQtcjloRU4wWHJITjB0ck1NYlU2dm1TcGRYYmUtOWN0WlRhVHdsTnZhUFhxRlJzQVdrdnM0MGVHMzgwa3Q5ak15dGE2VXd1MzMyX2dPRzJKTGVuYlk0NDUxRGRWMm1Zemd5aXRPWC1GTGZ5bmR4bnM5Q01STUVXUzdvb1BoRTBfWEc2bDVhdnpUNmM1RnJHaUFqSkRHbURkSVpqZ1NtYThyZDVJUTNTYnltTA?oc=5",
-      "published": "2025-07-23T19:05:20",
       "date": "2025-07-23"
     },
     {
@@ -835,6 +877,13 @@
       "title": "No need to panic about China aggression in Taiwan—yet - The Hill Times",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejB3c2UteFdRbFV2RFlza0p5MnFhZm93dnJ5bzFoX2JqQ3B4d2FoUDB0TGNIVWJRelFmTWdtd2pzSnlTOGxneS1PUlRvd3MwMl9obTZVTW5TMGg3VExtNVNndnA4Z1NWeUNKRTQtMHFhOUZvZFgyT1ViWlJ1Mk5YeUluSDFNZFF0NmRBWFFZekNYZmM0TE5jWjRhR05vZTBBOUJlWkhWUQ?oc=5",
       "published": "2025-07-23T18:30:00",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trade, Trump and China dominate final day of premiers’ gathering - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazBrZmF6Umo0WXJaOWxQQkxJb1gzYkE1Z2pBRmYtNFg0TXVYX0k1b1Y3Ykh0MmVsMWhFYjNTeW1yMmkxNUMwVmkzRk1peHoxYTlmdjJZTW9lUXcwM255VW5pX1BBZ3c2bTIzR08wcFZ0NXZnallGMkVNLUJaaHZMQnAteEtSUW80MWNmTHBYMGp3NGZCZUI5ckFGblk3RTgzekIxcER5ekF0YUcyb0phOGo0Q2l0a2JoMTRpRHlHSQ?oc=5",
+      "published": "2025-07-23T18:29:13",
       "date": "2025-07-23"
     },
     {
@@ -1000,13 +1049,6 @@
     },
     {
       "source": "CityNews",
-      "title": "Sprains, strains and ACL tears: What to know about some of NFL players' most common injuries - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeG5HZnJhLWNtLU0xTlU5NVA2anhOemptdFIxTTBZVV9HZUtNMDNXQWotTDhsdGRTUm5RcVpSTXhNZzFFOFo0VjFJRjVlU21yTzh1VDlMSDJ1eXNSUFR1YmttYmcxc3lOY3pMandyT1R1YlQ1NlNQclNLbDFKVS1HandOSUFBeHMtTklGQlIxWlV4X0pRNFJUYU1HRWhaS0JzLWFBeDJYeEpwTW1DVzg2cDZwclB2eDNkVGpGd0k5V3JaZExKV1JiYg?oc=5",
-      "published": "2025-07-23T17:15:14",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "CityNews",
       "title": "Military Police Complaints Commission investigates botched shooter drill on CAF base - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVBBWWpTUkJWdElxTjZhTWpfaGFERDdvZHVtNFNOdXpaTnFySmd6NFZyMWM2Rlc2SnpOWmhXV1k2eC1sWDBITjFXdXNmRVlheXhtaldQaFRfQjJNTFFqVEVDQWVkdTU2OEJTUi1HeEx0akk0VkViTlVjSWw1VlpJZnNscUdNODFoVHljTHA2RS1MTnUtYzRhTGFTVGNuek5obWRMeUlWYlJkSXpobkFxbFFKVzc5TXpKcGxCX0ZkOEtLclZy?oc=5",
       "published": "2025-07-23T17:12:08",
@@ -1031,13 +1073,6 @@
       "title": "Ottawa set for midweek heat wave before rain arrives Friday - CityNews Ottawa",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjbF9vcjh6TVFsTHhZbnFoWGhiUFJIODdBUnJwMXJJT1llWFNFMHhkMUFEMHBJNzRkaFVkdkpvMnk2cFRvYWtiTmk0dWxZLThVaFZVcGs4UWFqbjlyLUJHYzhBZ2RKcmxfQ2V2R0dsWXNLSmhWVHc?oc=5",
       "published": "2025-07-23T17:07:11",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "CBC",
-      "title": "Rescue operation underway for 3 miners trapped underground at northern B.C. mine - CBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjZQVi01cUR2V0xWNGdpc0M1ZUo2ZzJzaHh4Q0xiNUdkSDJIMVhxQ2tSaEJyeDdTb2pPRXF0ZGpycy1SalZhNVdXYVhILXNHSldQdHo4cHJtZUVXS1Z1SC1ROXVDaEdMNTltVm95c0hCckVWNGR1aGRiQWR0eDBCX2t0SlJPX1JFNV9RanlrLVp2RjNWWWdEZA?oc=5",
-      "published": "2025-07-23T17:00:00",
       "date": "2025-07-23"
     },
     {
@@ -1195,13 +1230,6 @@
       "date": "2025-07-23"
     },
     {
-      "source": "CityNews",
-      "title": "Trump announces more trade deals as deadline looms for higher tariffs on Canada - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGFURFZremhRdnhMcllUeTNJWnJ3YjFkOVVsMEJnczNVY1ZUWTRqQXdFb1dxbEJOaTU5QXVFZXZneDNfMVN2OUFxRXl2blQ1NGh3aUV1TFFJQzFPMG1qUkdDX19SeVBRTXZSSHltaW1TS29aZGdNLTVLbG1nVDFpbFNWQVN2SjZzNmpsVkd6TU5QS0dYcjc5cHNWb3BvZFg1Y0Y2d05NQTRLZGhlSFBuM3BfaG9mMjR3NWc?oc=5",
-      "published": "2025-07-23T15:47:53",
-      "date": "2025-07-23"
-    },
-    {
       "source": "Financial Post",
       "title": "Oil Holds Steady With Focus on US Trade Talks, Cushing Gain - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGJXa0JFNDBXengtRXNzV0VxYkFQM2NvUHlFZXFUa3Y1RG42U0JaU3Y0NmdOYXZCZEktR3VLRHdJeGl4WHFkNjZMSVNaTTJZVEZMWUwzSlAxOU16ZW5BM0dFQmpWVlBRQVRCc2FlaHJHaVFtMVVqckNBRWF4alMwcXZWYTJaQmVEQ08tYTd6X1NTMjZkT2wwSGNtSmJZX1R5MXBuOGdB?oc=5",
@@ -1294,9 +1322,9 @@
     },
     {
       "source": "BNN Bloomberg",
-      "title": "Dollar Resumes Drop; China's Offshore Yuan Slumps - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMU9qNEJzbTZEblFsNDgyazRleWQtODFoc3RzNXoteGVnRGNWWTMySVhkUnF4bGV5OHpLWGxJX01xcHVVcUF6UWZuQWdIQ1ZzNGpNbzJKVFYyQ1QyUy1sa0pCMUpfRlRsQ2EyZHBtc1RvdFRmSVlHWEZSU25STWxCM196WVV4V2VleGltcGRQUGE2U0FDSkJJbndYR2FMVzI1Zmdn?oc=5",
-      "published": "2025-07-23T14:57:37",
+      "title": "Investment and trade will be key to building back trust with China: CEO - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWtreEVMT3E1VVVVVU9UQnRyTU9NUkdGYk9fRjRVMDZ0cE5rdkNQV3VhSzJWbGpmY1RBQVM0Ti1rLUY4M1k0NDE2MnpsLWpMTy1Obm1zQmdoYVowUFR1dDV1c1ZBNzU1NmtKc0VNTWF6VUFoaUVNLU5oX2JiWThVZFFlRlp5UTdUMWJSc2FXVmxHQmU0djNma2VrcGxBUWpiYnhZSENIdFJQTEE4Y1FHY2l1aU1DM2VsU2ZJYw?oc=5",
+      "published": "2025-07-23T14:54:00",
       "date": "2025-07-23"
     },
     {
@@ -1349,6 +1377,13 @@
       "date": "2025-07-23"
     },
     {
+      "source": "CBC",
+      "title": "Face to face with a perfectly preserved dinosaur that looks like it was alive yesterday - CBC",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcmNxYUlqejlQdW9XcFZBQjdTR0ZpejNSZFF0ekw5b3lUdFR5RUZKLTlUT2JJc3pRbFZHU3lmT25TRnNYTkF6Q0F1SHJKTHZLdnFMWG9ScWZoNkE2YmhSd0pfR0JXb3NIQmVwMEJOdlFWaWZwbjNraFQ5enY4d2JQNlAteWR1RVFRNTAtbWNleEdHT3ZTTU5QSFFEMWwwUjNHdGQyQnBEX2dFRjZIZjY1T2xxOW55RE5EWmlLZkdsbUpEek9EU1ptaTcta24tS0lmY09jX29GMWFQLWdjTk5LWk9jMjkzZw?oc=5",
+      "published": "2025-07-23T14:16:46",
+      "date": "2025-07-23"
+    },
+    {
       "source": "Financial Post",
       "title": "Greenland Resources Provides Update - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDYtY0pqdzdsU0daMzhFcDBoeFlCZHdGMHRxYjkyYWs5d0I0NjdQUXR5dDVkY1BuMWpNUkJZUVZJcmZySVdFUG9OSi1oaE5WY3dJaHliclhrbjBBMEtsNmhEYnpEcVBuTkhJaWQ4U09wTkw1QXhMT1dSbVNTbUZPWXRhSkRCeE1sNGQwUGtuLU9ISHZ2QlNET3hDVEZDNFd5?oc=5",
@@ -1392,6 +1427,13 @@
     },
     {
       "source": "CBC",
+      "title": "Only 3 wildfires now burning across N.L., as rain helps quell blazes - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjlKWElCWmE5SXQwVDZna0t6QmtOUVJqQWpkbXpBbHRYWUFHVXVLc2wxcXNnRUxiLTREeVhBc1l4QTViem0zYndUek53QkZvWTRWZnZ0Rk9pN1hHODlxRjhnWUxkSUhqb0dsZnc5aTdITjNwQ2FOLVlpMEtBc1QzNnNDcFc?oc=5",
+      "published": "2025-07-23T13:11:51",
+      "date": "2025-07-23"
+    },
+    {
+      "source": "CBC",
       "title": "The AIH Transcript For July 21, 2025 - CBC",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWViZ3cyUkNKUDRLMzNNcGxxY0ktaHZwUzVvZmNpMU04MGpoTXMwSDlpM25xNlJKNVV1WmxPSm55cWlQbzZSQjF5UUpzdUZLMHVBdUQwV2ZKZmFFb2JMUDVESzFjdFhHcXZ3MnIzQXl2ZFE3M2pOcFFTck1WcDNXWi1aNDJQa0tpRVE?oc=5",
       "published": "2025-07-23T13:06:59",
@@ -1402,76 +1444,6 @@
       "title": "DOW Gears Up for Q2 Earnings: What's in the Cards for the Stock? - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeGhBVzJDY0pFaEstdVBDQnR1QnMyUVpNbzBxWlJXb3NqSUdNbzR0RExzMGxqUDR5NGltRVRWRE5UcElKd3dmWm0yQmJ6aEJ2emtOZ2V2R1VEdjM2NzJwRTdGcllOS3plZ3lNTEZQSGs3R3JlZkhtVEstS3dpM0xncmVXTnM5SUEzakYxUlQ3eEMzb19aS2hjMWxqdUw1MG1SMFNaemV1TjJzU2FyOUJMYVphTkxKRTEtRDVFaWVFQ0ZDNlVacjk1SEd3VWRldnJYYzA1dGpMcnk3MVk4QmlJ?oc=5",
       "published": "2025-07-23T12:57:52",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Applied Materials Appoints James Anderson to Board - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUp0U1U5RzM1VENJRHM1clhMNTVFODMtQXZFSmRPa2p5QjdPQ3FBQ3IydmxVTm1VQ3A3X1g5dWJkaU5ldGxHczNDTG9idnpyNDBvQWpsVUZkQkUwRlhONmM4U21BTEJpaHdSZzhYcE1tbkRiRDJKNnFwMU12WHlyRnVaX3VaVUxPTHhhUWR0bjBZXy11VUI2WVh3UXZsLVkwdXdmMkJUNzJ5aDNMWDBwU254VGVnZ3R3dW9aRTNvQWRkTGVpZVdfck5jTDE4U0JKcTRmRQ?oc=5",
-      "published": "2025-07-23T12:24:00",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "CityNews",
-      "title": "The US decision to leave UNESCO again puts a spotlight on what the agency does and why it matters - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEEzYTVidV9qQjMxQzlxQ2s3anAyNXNMeTYteXgtcE1KcnRTYnFUczloQ2p0Y3RWS21TVHVDX09nbkFfMDFHSTVXQ0FmX0xUdW54S3o4cnMxZ3p6SzNkRHI3a0MxanVvV0IwNVFtamcxYlk1MHNleUN2X05uekxHZzdlanE1dGlVbGZUUkNqNUdJNUZ3N1JTbld6b0VhWWMzTWlPcmNsS3gyT2VfbklPMWl3elNlX0VNSk5BNXBUNlQ0RFZBT0hyN0ZUVUpDYlV3cWlJ?oc=5",
-      "published": "2025-07-23T12:21:40",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "Financial Post",
-      "title": "NevGold Announces Up to 92% Antimony Recovery From Positive Metallurgical Testwork Program at Oxide Gold-Antimony Limo Butte Project in Nevada - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQUMxN09UVWQ4LTNsUHdlYTM4R1N1d2h6STFUYUcyLXZobE1BNklGb3N0aFZ5VnpCRjV0TDdzS0NJYi1uS0JLbkJDcWdoVHdDb251Q1dPN0lRUHFla1h0X2d0Z1NQOXgyampwWm1hMEdkb1pBYVBOWWtLR2plYzBOS1YwY0VsWmdTMXE0eDB5ZGlBMkdxN3FJRVpGLVF2dXByWjJrMWxydkNWeVMyMzdVWjhZVU9icmFZdDY4bTZaY19tQmpLdS1veUpQZy1JYnVlZ21qOUVNbmxlaGRJRTRfNV84R2hKaFVfanNwWGtNQ3oyTm1pckQwOC1fV1VzNHlXMGFGZFVWd3BaOUJrRUxF?oc=5",
-      "published": "2025-07-23T12:12:27",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Amazon shuts down Shanghai AI research lab, FT says - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnhrZ09LYjZ1TVhCM25ILVNzYVNYSzRZby1ub0pibTVSUFptX0tTQWNUaUE1RWhFRDVHYm1tRTZUQnZFVG1JR05QUzRoY3E3OUN0TWF0QVJZQ3dXSGxqQVBxSllIRWRHdFdsTm9kZjZHTzdodVRHc0lsMkYzR3ExLW55dU5hcG9uU29aM1g3cmJ3eWlWYTcxQUVvWEpXSHdG?oc=5",
-      "published": "2025-07-23T12:09:33",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Highly shorted Krispy Kreme, GoPro jump as meme stock rally continues - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcnBia0k3dGkzcWR3WlVGWkEzLXVWM1M5UXF5blA1N1RPWjdmRThkVlpkU0poN3JBaVpmUVhkRDBMQ2ZqS3BVWjlvLXZSa3pTcHEwMkpsbkNxWTlyLWdEVDhST1cxa1QtWmthRFltbnBlZWdTSXZGeWoyMF9EMXcyMnhoTkEzM1pXTERtaWRpLXpEMnVSY2VPb3dobEprTnJaSzFSRVcxSGlRdFUySXhCczBMRGx5M3BD?oc=5",
-      "published": "2025-07-23T12:05:34",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Ascentage Pharma to Participate in BTIG Virtual Biotechnology Conference 2025 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRFZqQkd2UGUzenNuTXM1Y24tWnkyV1F0Q09yVGVVak9tN2t6OWUzdE94elNfajR5YUFmMGN3NF84RTdCSEQyWG5RUXpmQXhnSWwwTjBiY1NhdnpRTUd6V0ZwdjNGelVhbGxQemwtNDI5Wk5Gb2p6VnIxdThVR3N0Y3pFS2pwVUJLSEwtcDRuUk9OUVQ3MUVRY0FqR1FUYlY1NEJUYTMzSTVhajZvQTQ1SkhXLVp6Z01HV3NDZ0lkOG40V2gyYU9IcUp0b3RsN01Ld1BDVnFJamZoMFJpYnNUVTExb1FSNnFpQzhNVDBQcEZUd1BZX2c?oc=5",
-      "published": "2025-07-23T12:00:08",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Texas Instruments shares sink as tariff risks cloud chip demand outlook - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1UxbFNRWkVUNElWdlJVeHFtblRsTXNKUFhUMDJrV0paUHZDREVLY0hkM2tYN1RRYlNyYUF1TVV3RHBJdndTOHZzMl9fOUQyREZETUZhSXdBRTQ1b005OHhlTU83dExGcXcxV21OZW12NTJCSmZqaWRtX1g2cW0xTE1QR3pIbGxETUVPN0pXSmZBa3k3ZTZCRU53ZTRrY1kycHdId2M4clZ5b2ZJWjQ3YVhTLUN1TFpBM0ZWbHJkX1R5MTR4SW1vdE8tVHltdw?oc=5",
-      "published": "2025-07-23T11:59:56",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "AT&T’s bundled plans spur subscriber surge, tax savings to fund fiber expansion - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWFnUi15bWpoNjByLTlZYlZoaFI4UENHT3lSamVxeUxBRFJSVjlQT0JoZkZhSmdYM3U3Mlo2cWhyQTk2aWcydU1Mbm5qUUZOUVdHdjBqbTV5Sy02U3pQTVJwVzFlYnFXVG9XbE9mZnpaMUhfRjV6ZHh1TXBYNC1pSTV1RWdveFpETnAtLXh6eFE5bE9vNDJySzJ0ZjBuaVpITXVLWHl3cS1jUjlGWUNHaHdUb1MzNVVLOWt0VzJqNGVhU1QtYmZXV2FqSDU2cC1BN1BYcw?oc=5",
-      "published": "2025-07-23T11:53:29",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "CTV News",
-      "title": "Trump to outline AI priorities amid tech battle with China - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlNiNVpyN2N5aHV4Q202cGFxZV92cXJkbFNoSGFjX2duTnVsZ2pZMlF4Y1Y0RExlUWRVazZ3QS1rbWE2MTBaMExoczJ1dXpJZHNTNzJMdjBidlZCeXhiUXlyemtJYjE2LXlRVm9zR3h1U1lPajJrdDJLRUZZaGU3ZWJsVTRTNUFpNmVCckdOcy1Vdldaa2VudDlrRXRQUG1q?oc=5",
-      "published": "2025-07-23T11:49:05",
-      "date": "2025-07-23"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Trump to outline AI priorities amid tech battle with China - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBSUWhtblplNV9CR0N2S0R6NnQzNDlERm4wejRHTW5iUlktM3NGMTdsdjgwYXVycUpVM3plT1lRcHlrT0M4WlR3Z2VrWUNCeFhibTY0WEowaXpJY2VrOHljZ2lFbXJieXVKZEwyc0JBbWtFVF9QQ1dIWHZ6TExlTmVVTlljdWJwN3NSWC1kRmM1LUxxMEhYUEhXTmJDb0piUjBUU0UyNHY1cWs?oc=5",
-      "published": "2025-07-23T11:49:05",
       "date": "2025-07-23"
     }
   ]
