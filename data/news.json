@@ -1,13 +1,13 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-07-26T07:26:38.387150Z",
-  "article_count": 114,
+  "updated_at": "2025-07-26T07:44:56.969995Z",
+  "article_count": 110,
   "articles": [
     {
       "source": "Financial Post",
       "title": "Germans Are Finally Embracing Air Conditioning, Even Renters - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeklFZVlSXy1KNWN3QWt6eXdPVjYzMmtOM1VNQ0NHVktoVHNoWVAwRzFXb1ZBeU8tSWJLSFdEMWt4VUZSN0xyazNMYUpROE5ManY1WEpvSl9zQkN0QXY5d1N0MUlJNWlmYXFpdTh0RnNXTzlwSHVmdWlldjFWZjFHNkhFWTVLNnRJU1lRVDVKeWFrZlFKY3U3Nk01SUlsNm1XVHdIcjl1N3Frbm1WSV9LMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVlRqTG01WmFUQ0tQdXBNVkhFYUE5Y0JpQTVuVnduSDRBSjZjQ0lOOFNyVTNCMnBPNGpyT0FGcTZyaWtiQmNrVUpRa0VMUlRWUGl5OWdSVHhFa2YxbWtPNmktcGYweWxOV0t2Q1hubUVEZ0dsZG1qeXFCcmtBVFZMOVgwRzZqcE9oRk04Z0hwdkdYRjJvaTJtUmJINS1RRUE5Tjdudg?oc=5",
       "published": "2025-07-26T06:08:02",
       "date": "2025-07-26"
     },
@@ -111,6 +111,13 @@
     },
     {
       "source": "CBC",
+      "title": "China's electrified economy | About That - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOTZ5Y01zM3BoUmxuV2JnS2xvaWZCZmt1Skx0eHdWWVZvaldSRXZtc0VUTHFNVk9QMnZNekNKWklzQkVvR0JSeUlPUFlDeFpsVEEzLTd4YnVOZw?oc=5",
+      "published": "2025-07-26T01:35:04",
+      "date": "2025-07-26"
+    },
+    {
+      "source": "CBC",
       "title": "Trump on trade: 'I think Canada could be one where they'll just pay tariffs' - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94ZGk4ZkJYWnE0dl8tV1ZBODVpQjdXNER5bm4tWFZzNFpOOEpjN1BCSC1aWk03MXFsVWd3aGRrNXNwRHJIZF9PelpCSGlRZHFNOUNJbHF5T0d6UQ?oc=5",
       "published": "2025-07-26T01:20:32",
@@ -121,13 +128,6 @@
       "title": "U.S. Christian musician’s West Kelowna tour date remains, amid backlash - Global News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzQyVmp4SXpRdnRDNFJ1OWlWRlFqNnV6a1A5Q0wwRm53OTFTRDFPZzlLMjkzTEc3UExPMWpLNW9XblhaMlVJa2hESWVNenFQeTcwNS1PbHVrV01KYmFVd3hLbmM2Z0VYSG8tSWE5eHIzczhUaEVGS0lxU1E1V2hDNjA2SnNuRVZRUnRMbmVCd3ZnS0XSAZgBQVVfeXFMTVExY1YwVTNXVFJidWJVdHQyWlpVNHA2Nkt5U2pITFBnVlJ6U3J1MEpoRXpsT09lTktobDVMaW5PUXJZXzUxaVNRc0xwMldMcVpVaGNVMU9OaU1VcGoweVFLaktRUmRIX3hOajM2MnhoMDRDNngwcjdOMnEyOUcxbUUxcVBxSGhfRFg5ZzBPX2ZwcF96VGRBLVQ?oc=5",
       "published": "2025-07-26T00:27:43",
-      "date": "2025-07-26"
-    },
-    {
-      "source": "CBC",
-      "title": "China's electrified economy | About That - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yOTZ5Y01zM3BoUmxuV2JnS2xvaWZCZmt1Skx0eHdWWVZvaldSRXZtc0VUTHFNVk9QMnZNekNKWklzQkVvR0JSeUlPUFlDeFpsVEEzLTd4YnVOZw?oc=5",
-      "published": "2025-07-26T00:05:04",
       "date": "2025-07-26"
     },
     {
@@ -320,13 +320,6 @@
       "date": "2025-07-25"
     },
     {
-      "source": "BNN Bloomberg",
-      "title": "The issues with using AI to drive dynamic pricing - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlBndmpaUUt2Q1M5X2RHYzdMb2hsZlVBN3h2cXpiWHE5bk9GNG1lMzlSb01jRnlsX2dzMWhUZzZSRDZjb3pHSmpRUWs1SmdydElCZ19ya3RCWm9jbHlpMHFrN0hQeldvQjR6WkxwMzZNOThiRG42ZDF0ZFF1TEhJaWJBSDBiY25QbkdwNTdWcE9WY1VUcnhLRkxUR181S3h4NWE5Zy05YnM4Y1Mwam04TTBRaEI?oc=5",
-      "published": "2025-07-25T16:31:25",
-      "date": "2025-07-25"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "AstraZeneca’s Selumetinib Study: A Potential Game-Changer for NF1 Treatment in China - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeHJ0andTdFpub0FicW9TVHhwUEdNc2NSTFhBT3p0TUdrd0N5cy13LXRxVUNvWngtSmF5aVJrdjRrcjU1b1ZkYmxUWmYybEpSam5OZDI1NnA2RzJBS2JWNDBSOUhkQl9UWThzZmNfdjNDM18xYWRtN3lNMkgzenhuR0d4WG96cEhTTTk4MnRJMFg3NEhfT1hVSFR1OWlnSkIzNVJzMHRycVQzQUJtTVFQVjNkbFU1dzZQZ3JJUW1FTi1BR21PTGFSTGRKZnVtWDBhUExNVTFxQmhSdllya0JpNzdkdVhjZkpkeFp1YlczSU9Kal9lQ0Rybl9FRQ?oc=5",
@@ -439,13 +432,6 @@
       "date": "2025-07-25"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "The $30 Billion Quarter: What TSMC's Blowout AI Demand Tells Us - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNzVZUXgxdzNId19oNmtWRVM5Ny1YUGdHNi1JdTY3OFYyWFBCbTlyZUhTZnVUMGE3OWhUWFZ3YjBfTXRfTE5xMkdBMHJRVjJ2ZjJnTE9DQ2pQTTlRcmJhNExWaHZFRXRGQkg4WU92cnBKUzg0aGlTRUZaZ0hzcngweDdyQUYyaVRwei1SX2g3MVRTck9pcTlHN2RudEFqZDBNRXZVWjZxQVBVd0JZRDduOVlaUUhhel8yMHNoRGFab1kyVGNkYnR0QkNTOGk0b3NRREpVWTF5WWlKc21XWmc?oc=5",
-      "published": "2025-07-25T14:08:31",
-      "date": "2025-07-25"
-    },
-    {
       "source": "CTV News",
       "title": "More than 650,000 electrical outlets sold at Home Hardware recalled due to fire hazard - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0NQUXVNelJ3RXZQVzVMTXQxaWJRaTZaV0ZfbldzcWpuTk9xWVhVYW1fZ21XUGZrNmcyZWRwajhkbXhkT0lPeHBFVWlrOFkzaWdZcFJwZTBvYXJ5NkRRcUNoam8yUlVnWTZSX1lEeDRkRTdlWDRpVGRzakhTd2ZqXzlEaFV5eXVmQ3Mwd2lWbHBMaTZzeDhVeDJSZGdTWmdITjZ5TDRPUnpqLTF1cnU3ZjZTcUtNWUhWRnlkX0lHN0ZGMDg?oc=5",
@@ -453,17 +439,24 @@
       "date": "2025-07-25"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "The $30 Billion Quarter: What TSMC's Blowout AI Demand Tells Us - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORm14dVNWYWxGd2lJN2g0R0pxMzhKV21yVFR5SUw1bmN3eVN4dGFBNUpRbmFYbmFDU2R6SlhNLUx5bmJRT2VMVnoxdDZWYnluMkEyVnlsaTU1czIxS1RMQUotNUZNQXY2ZGlBaVRBZkJNN3BLZVQ3bzREclpCT2pmXy1SY0gtel9DQnJJaVNFdDVqcVpoN1AtUG5lTGxaMWZzOGhBSld5c0FLUWZlQXBJYXBZSHJ0b1dnWmRwWFljblBPQ0h0WXlMaWlOWkR3RTI4bl8wYVltc2hzOUUydEdlTXZxQQ?oc=5",
-      "published": "2025-07-25T14:06:17",
-      "date": "2025-07-25"
-    },
-    {
       "source": "CBC",
       "title": "Two candidates campaign to be the next Cree youth grand chief - CBC",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01eUFqR1NtdGE2REVIcnRrRm15LU8yN0hlR3VIb3RJSkNUSWZ2VTEzeWdhTkhuTHRvNl82YW4tbGlUeTA4dGRpNUk0STIwMzNY?oc=5",
       "published": "2025-07-25T14:04:32",
+      "date": "2025-07-25"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The $30 Billion Quarter: What TSMC's Blowout AI Demand Tells Us - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMlE4QnY5TEtaY2pMRTJlQ09QblZnd1cwQ3JxdDRKRTZzZE5YakRNTnRVTTIwOEVaWDZ2NzVzZjh3bGZxb256UE05V2liMkdSajFJaXlTbTJkSlM5R1J6Vm8wQ3d6T1luMjNnMExiQnpDUjUyTXMzM1AtY3E4aEpOa21uQUdiMkhycjdROW1GQ21fOXJ2V05ySXdlMXFfazZnMjdScmcxZkZDNENwVldQcWJlaU53R0tpUnFOTjhmSjBDR09NaXptTzdyMTd5UUZwbHZ2RnM5ZkwzSE92S1piVmZn?oc=5",
+      "published": "2025-07-25T14:02:48",
+      "date": "2025-07-25"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The $30 Billion Quarter: What TSMC's Blowout AI Demand Tells Us - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZk4ySVNFZW1HS19CVGdmUEExb2p3Mi1mTGdGWXpjRGtjTC02bGthNV80OFNzcFZHZWJIOUVsMzR5b3dzcHBIeTJ6ZnhFX0NWVnViS0hweVFqOENPT09iNjAxaFAwSDBYR3BuUXZmRE52bU5LWUNRTG5FR3FtS2RSemtlWkROWUxjY2NKZnlUZU14NWc1dlNZUnNlOHhIOUNQa2lRcDB5cGh2RnhYcEpSTFpCM3BHVHdWQWJfMTcyRUZub21jVkNZcUtoUERTV3FoX2REblMwbWtzX0N6dDAtOFF5NA?oc=5",
+      "published": "2025-07-25T14:00:25",
       "date": "2025-07-25"
     },
     {
@@ -621,6 +614,13 @@
       "date": "2025-07-25"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Massive News for Taiwan Semiconductor Stock Investors - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmtQbkNkVWQ4RWJWVDBxbm1VRXJydUlVSS1rMlYwdHAtX0FLRDRPTmJJUDNDQ3hWRVJEczlvRDZ2M0w2akx3LUVHTU82ZXN1UUtRUEcyQ2lvY2RkWXJsblgzR0xYLUxkNk1DS3habk5qWTd1cW1oMEotajdnUTFFT3JmZW8yVFJ1NlRPa3RBWENRZHJMZDJXVkltY3U3YmZOSjVJaS1VRzZQUE04MF9vUWpqWTFZNkdxcS00VkVfWVVJa1ppaUZmbTM1TkZrZHJwZEV4ZUd3?oc=5",
+      "published": "2025-07-25T11:15:00",
+      "date": "2025-07-25"
+    },
+    {
       "source": "CTV News",
       "title": "Europeans and Iran meet in Istanbul as the return of sanctions looms over nuclear deadlock - CTV News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmdWUXVaMkpEX3Q1Y0lKRVozd1RNTHhHVFo2aGhGQzBMcjRTMHZOeXEwVGpua0VUbG04eGM3MWFXNW5ZR0QwZWpmN0kyYWVyRkVDTWY3SmlyVnJVX2dtcVVPbHRTRkptbjhFd054T0tmd3BHN1QycFpDZmU4cHpORFFvVkQ3RktMY0tBRjRpb3pMYXdvdEJDZzRCa3dpNm5Lck9YY2Yza2dla2xBTFp6TlhoMkNjZkVMY3QxSVpTUzN4YXZZcUxN?oc=5",
@@ -772,34 +772,6 @@
       "title": "Tens of thousands of Taiwanese gather in anti-China rally - National Post",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck16YmhHUS14dFdsLUNCbkF0YWtqMU1QWWpxOUh3X3ROcEcyN09NRzd1d3BLRTN2ajhHT2xmTi1XRTBrMG1ZbV9QS3JqSFVZZGZ2dUVvbFlrSTlRSUNXX0g3VEoxbkxGdXlVOWZaaC1qN1hqMW1yckx2bzdkYlpQeHR4Z1dTU0I1aEFOZ21kekhaYmU1UmNEU19ZbldmdHRCQ3FIck9semYyTVRwbkpFNDdrZzNLUVhDdlRuZDFhR3V5TDA?oc=5",
       "published": "2025-07-25T07:44:36",
-      "date": "2025-07-25"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "4 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRFhicUlIOEdRQXk4RzJrcDRlN2xBTmxKNkZyQmJmUXBTZThHY0VqV0pia1FpYmpIWm5CckNSNXkyNjNDeW9rd2pxQktUQzZPRV9UblU3NThoTWdOcjFMb0tFbV9QRHNKRzUxNE11UmU2ekJMMHVZZDBqc3dRSFdRQ2dmLXhYRmoyTFBwUkt5UE1SeFdBQzdYNXBKRnhDVkx3WTdFRXhIV0FwdnBMUGpfSmpGYU5OSkY4SWxkSkNBR3JmOHNKSXJrckh5WDVHbUlpLUlmZGs3NWV1alpVcXY3MWJfTQ?oc=5",
-      "published": "2025-07-25T07:38:57",
-      "date": "2025-07-25"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Could Buying Lucid Stock Today Set You Up for Life? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVy1aQVNoVW5zcUxRUkNFbGRSbXpMVU5HNWFybnJSUUttckI5Tzk3UE1ac29oT3l3WnZjTWVXYUQtR0RfSVBRdFBEMUVzYjREb0trdXhzUmdTWGhtc0s4alNFV0dBeUQwNlFXWUtocXhBbllwTFVrNWtiNWN1WUV4SmV4VTJ4THhXQklNbDNGN3ZKa2pFSjdkMC1kVmxwLU4zNDJrODBKTWlLeGJFVWMxNmhPMkFKdVJrd2RmRXZSRENZclJtcXA5ZHkxTmJDUU1NZUNRaw?oc=5",
-      "published": "2025-07-25T07:36:56",
-      "date": "2025-07-25"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "5 Reasons the Party Can End for Nvidia On Aug. 27 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUcyRVNDM2F3N3d4bW1CellTMEpZMmdlSTROTzBJU0ppb09sc2dhdUF1TTRhaFZ1N08wTS1yZGpWUDhMc1NQZHRjVThkYm9xRWpOUkphOFBxdzR5ZmNGRXVJOXlhMFRDdW9wcVFBempRZlpCNWg1Y20zR1BNU2pmVWxyVXVxU2pxenpRS3V0YUxaaERPeFpsem5jcFZGZlFNV1hPUUhQM3FaUGwtNVRTNjNtcVQ4aFVjc1NFMFBfOG5rLUwtMXU5dU5RUnRPTlJUaUE?oc=5",
-      "published": "2025-07-25T07:36:00",
-      "date": "2025-07-25"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Here's Why Nio Stock Is a Buy Before September - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzd1aF9FTTROR2VpMm1aa2lTU01xTkF4aEZHMU1aTG4zNjZuaWF3eGRNd1JNdWVab25pMmtnNmo0SlhnX2QwTk5rM19rQ1R1c1o5N3IxWVdZcGlnVHBuT2l6eVI1X1JXT2dkM1IzYnFYSWtVdUNQclBCZFZuVkVLOFlSVUpTMWd0RVY5dkdENkRzLTRWTTJCdURLSnRVWS0tZzhhMTltZnA4N0JZclVaY0VxZ0JrWjZTMkZ5UUNuS1YzYVFScHVIeXMxRjBXdw?oc=5",
-      "published": "2025-07-25T07:27:39",
       "date": "2025-07-25"
     }
   ]
