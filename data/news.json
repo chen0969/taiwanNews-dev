@@ -1,9 +1,23 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-08-19T05:26:20.918606Z",
-  "article_count": 175,
+  "updated_at": "2025-08-19T05:46:25.800627Z",
+  "article_count": 164,
   "articles": [
+    {
+      "source": "Financial Post",
+      "title": "Indian Defense Stocks Lag as Tensions With China Ease - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmZtSm9RR2I1ajNuTnZuTE02SjZyZWQta01MU0p5UlA3LXFLcm55ZHNqVG1VZDdHN1EybWZ4U0Z5YjlWWkRabWVubU9ZbkVzSXJ0N0JscUR4QVJ4LVVVSnAxeWNnWTdVMTI3aFd0ZVVtczBKYlNKV0Y1YWpkT2J2RWRQTW1qUkZtX2gxN2xsaUU3b2tqZExpSDBlVEw?oc=5",
+      "published": "2025-08-19T05:27:38",
+      "date": "2025-08-19"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "SSSTC Launches World's First Industrial M.2 SSD Featuring KIOXIA's 8th generation BiCS FLASH(TM) Technology and PCIe(R) 5.0 Interface - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQcGpQQkVLMUdSNGlDN1NLTFd2Vm9maktiejZUMXdqUlkydG43RS1zRUxFeHJoZDR2MU9HeW92Znl2Y2d1VHQ4Sk5IZjVKNzRhMUszTEUwU1hMc09UWGRVU3h2c1A5cG91SlZqUmo3YlluNHl6cXZ2U0Rxd1hmbzdSOTA2TFEtVWQ1YjdhbW12bnR0MTNlWDl1LV9OS1dHMEV5cU9xT3FxMUgyaVpGUmxUWmZfVlZ6aVdOd2M4aFYtWlRNdWVmX2NPdjBjZzFMV0pwOWhGXzQ2M21aR0dvMVc1ZmswS1gxb2RkZHRzendJejB3ZlZtbnR4Nlp6UFh5WUR3RlF4SFBGM1Y5VjBfWllMQ1pab3BUdGRrSmVsaloyejJWT3cyb2JWamE2TjMxVnBtLUhveVd3?oc=5",
+      "published": "2025-08-19T05:14:35",
+      "date": "2025-08-19"
+    },
     {
       "source": "Financial Post",
       "title": "SoftBank Makes Surprise $2 Billion Bet on Intel's AI Revival - Financial Post",
@@ -61,6 +75,13 @@
       "date": "2025-08-19"
     },
     {
+      "source": "CBC",
+      "title": "B.C. canola farmers concerned about Chinese tariffs - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWC1oZ19ublhaOWY1YndpVUxMd09oOVhJZlRHVVBfaDhvQ3MxVjFmRG5SOXJUazQyVk41YXZJdFlBM1hET3ZrcGVUV05UTHduR1RHZlZ2SUVDUQ?oc=5",
+      "published": "2025-08-19T03:37:06",
+      "date": "2025-08-19"
+    },
+    {
       "source": "CTV News",
       "title": "Skenes shines as Pirates capitalize on Blue Jays’ errors for 5-2 win - CTV News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmRxRlBsMXUwVmhPSjR4Uzk0bzIzUGs4cmFBdkJqa1dXaW1Nb2FROWx5eTFkN1gybGxCQ0swMlJBXzhsR3Zva0ZHZlR2Sm1GOWU1Y0JINWZVdzZDcXdsSjhuTVY2WlNUMVgzU2pHdG1ub3dMcjJFQURYN1B2SThiRF9lUERrWlVpWjBONzE4WEo5RjdHT1pQRm14SFhYUHZFYlJNaFU4SWlmZjFHc3VNbmhOZDk?oc=5",
@@ -68,31 +89,10 @@
       "date": "2025-08-19"
     },
     {
-      "source": "CBC",
-      "title": "B.C. canola farmers concerned about Chinese tariffs - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWC1oZ19ublhaOWY1YndpVUxMd09oOVhJZlRHVVBfaDhvQ3MxVjFmRG5SOXJUazQyVk41YXZJdFlBM1hET3ZrcGVUV05UTHduR1RHZlZ2SUVDUQ?oc=5",
-      "published": "2025-08-19T03:07:06",
-      "date": "2025-08-19"
-    },
-    {
       "source": "Global News",
       "title": "Global News Hour at 6 Edmonton: August 18 - Global News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONUNoazFrMmxPZjExUmJyTnMtQlNYR1drempqSVNmMThteFRra1lrNzVrZTF6T2d2TDNXZnl1MEV0U0p3UlAxYWI5alBCNGZ2OTJUZll3RTJwdng3ckhqX1Fpa19ZWlFzZTk5MEFybmpSRWtmVWFPSkoyOHlwcDZsYnhxbmRpczTSAYwBQVVfeXFMTUZXeTlra0swckxvZEtPRlNyYUg3ZmdlSWIyNkM3Tm9pTzdGX0luUUFzckc3ZklObk4xRkVySXRwZExzUlVmQVZ6NTl2Q2JvQUcyY2tQOXVHQTVKNENmNnpFdUNCUnZydEYwWnZfdmNoY0dCYU1sY3RWdmhpdVpBODZpYkdFRHFpbkZhY08?oc=5",
       "published": "2025-08-19T02:32:11",
-      "date": "2025-08-19"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXBMZnByaDYxTDR5ZmpzR2Z1dzQ5X2JaRnEwVndWWWtGRGN1UEZxd21aT08xSmVoeVB0LVN1OWJCeUxXaDVzaFctQkFWZEh6c0NVY0NtZDA1aW5uMnV1aloxdFBrSG8xYW5zbTg4V2JEMlVVVUxUTHBjcUkxQmxwT2JhS3d4ZWJ5Vk81aEozRHZYdUxmdjdGMl9zeDNpZGd5dVE?oc=5",
-      "published": "2025-08-19T02:03:57",
-      "date": "2025-08-19"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "A Gold Mining Stock to Watch as the Metal Soars - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0YyUnNuZDdyb0hQdm1uYzVacXczUkRjalRMUDExSUF2cU96aEVlNnVwa2VPbGlsQndVZjlCWEZNWWpheHZWakhfWFJYTERIMDg4R05nY0NjWVhJdkVqdERfOGRVT3Y0QkM0ZlBnVWdRYXJhNE54X1FuU296eVRna0RPU014bWV4RE5QNnJpRThKZldRSjItV1dfcDZOTFhYWnNjbnZFOXpfa1FmakY1MFNzdTdVMXFmckZDcjRFOEFKTDE2X2hXQjFoWnZCRGs?oc=5",
-      "published": "2025-08-19T01:54:28",
       "date": "2025-08-19"
     },
     {
@@ -296,13 +296,6 @@
       "title": "Global News at 5 Lethbridge: August 18 - Global News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR2T2MwdmlDTTdpeEItWGhDRC0yNkg4SlZYWWZLVjJCOERUeTYxUG9GN0ctN2FvV3pPbVpNMXhmcFVMRTB5ZEQxdHpHREpXRUJ1dFZYTU9xbkdLNTlCbUlhaXBDUl9aX011TmVyYW1sdU1LSjFQUEJFU3hxUG94OdIBhgFBVV95cUxNWndEUkh1VlV2NUpxU19EWExnMnBsSU85bGdJQlN4aUpGTmQyQVdQVlFTVkJIb3ZtOWJIbld6NkJrNDFzcWdjZHM0aDZ4bngwRVBoUldQUE9JTlV5NjlySWxHZ1F2TFQtYWdqQTc4N1J2QlU3OFdDcFBTeVZpQUVsVUtkU3JyUQ?oc=5",
       "published": "2025-08-18T23:37:34",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "CTV News",
-      "title": "U.S. patients can now get Ozempic for half price if they can pay cash - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOW9tTmNHbFg5d01CbUdqaEVvTm9WVFlLOWNnbUpJWVhvdjNwZTRiZ1JKaWlxdk0zSTdtaWt5QVNEZFU5REFtM1poTWViVFVGTnJlVkYxYXpZYTE0MnlNWEJWV0UyNkJYRUZTVWlXZHJLNG9wSHBLa3BWaXJZQ29JNGVjWnZ3ZURpMW9iSVVncFVrejVuY2NZS2ZjOFh1SFV1clhNbW1xT0EyUQ?oc=5",
-      "published": "2025-08-18T23:31:03",
       "date": "2025-08-18"
     },
     {
@@ -559,13 +552,6 @@
     },
     {
       "source": "CBC",
-      "title": "B.C. canola growers brace for new Chinese tariffs as harvest approaches - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWmtyNkF1OTEzVTdkMkJnOTFLcUJ6dTBBQzl0QU5lSDZrX3JNWFh5Ni03UVIzN215U19XYW5WQTNPNER5aG8zd1dISWVlc1N2TFY1aVE5NmtHUQ?oc=5",
-      "published": "2025-08-18T19:52:56",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "CBC",
       "title": "Monday, August 18, 2025 Episode Transcript - CBC",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGc0aVR5ZXJySWV1V18xRXNwbVJVTTJCUzl4MUsyQUNJbC1xeW5fYlhoRUNKZC1kYW5JelJ6RkNnWG5VOXcxRUhKVElncGgxQWJZVy16d203cllUcy0za2Mta2wybVNaZDFHakFLcUNtakZ2UFRFbkZRMDZCWjVSUW95VWwxWHNzNlZCdVJ6NA?oc=5",
       "published": "2025-08-18T19:42:16",
@@ -579,10 +565,10 @@
       "date": "2025-08-18"
     },
     {
-      "source": "CTV News",
-      "title": "Conan O’Brien sounds the alarm about late night, while praising Stephen Colbert - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXhEM0VUb3J3b25nZjRUUVZPMlJkeVNQamRPMjAzQmx3dmZta3pBRkF6NUtVTjVSRG5JWFdDdjFpTXRHaDFSQnJCMTVBemltME81cHdQSXo5NWN3cVBfQUt1LUZhZ3ZNY2pXZFBrY3l5NzJtT3cwQ1d4ak1tUEdNS0thRXdWbnp0TlVEZW9SMXJQQU9XcVRHWjF2MHJDSVlQVmhaM2FvNlc5WVlrRGlsdjNwOWVXX0dCQUVhNkxzUDY?oc=5",
-      "published": "2025-08-18T19:01:04",
+      "source": "CBC",
+      "title": "B.C. canola growers brace for new Chinese tariffs as harvest approaches - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aWmtyNkF1OTEzVTdkMkJnOTFLcUJ6dTBBQzl0QU5lSDZrX3JNWFh5Ni03UVIzN215U19XYW5WQTNPNER5aG8zd1dISWVlc1N2TFY1aVE5NmtHUQ?oc=5",
+      "published": "2025-08-18T19:22:56",
       "date": "2025-08-18"
     },
     {
@@ -663,24 +649,10 @@
       "date": "2025-08-18"
     },
     {
-      "source": "CTV News",
-      "title": "Sexual comments made towards family at Kitchener park - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDRHQ3c1S0RjN2pJb2E2bzB6aWRJdWlDVmlEYXpNS0pHaDI5ZEw4SUk0bURwcU0tOXMxdkI4WjJQNlRZZzdfTjVrVGxyLWtlT3oxeG50M0k4Y2R0MnJIcnJ6akI3dEg1RmQ1aGhpZlVQZkNQRTItSGZhTzc2Vk4wRU1LZ3Q3b3JZdmtONm9UMmFxNWQ3R3Y5X3lYbw?oc=5",
-      "published": "2025-08-18T17:30:01",
-      "date": "2025-08-18"
-    },
-    {
       "source": "Global News",
       "title": "Air Canada flight attendants’ union says ‘no limit’ how far they’ll go despite facing possible jail time - Global News",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0pfQUNaTFpzaFY2MEM3RURGakhMcDEzakFSanZ4NGxCd1dwaUhVMDBYR1V0Y2hOLVZRa2dtdVBSb3pEOWFoY0x5dm5MNmQ2VUs4R1FwckJ0Qkh1YVg4QmZzdE1TbXh0WUJDdHVmWUgyRm5sQlYyNEY0VGpha2lvV3VpcUpsbmxyZGM2eFFzNVhZT2N6S2ZiWjhRTDY3eC1OUXVscmpkSGhpdFNvczFOVWNtM1JvM05xckxuTjdxejE4a0dCai1CQkg2SWlwemZJX0xpaNIB2gFBVV95cUxQdFc5N3pKY2dFRko4OGR5SjJCSmtLUUdxSXU1dGlVRFlZd05mSE1iemdaU1dsXzkyX0lNT3V0N2F3LWtud0MtRS04cW9OVGt0YW5ieWlOZXF3anFydTB6TXFLNUR1blAxVl9BMjJ5NnhFQVZkcGRBZWhaSzdYWWZfOEpTNWRvLWdVVEduRjdrbHJfSno3OG1MQzFfQXM2amd5ZjhUZG5UclRYM3VDRUNVVlZ4UUJaSDhlbV94ZmNTMFFJTTZsbjFHaFU0cTdUd19oMXkzakllZ2hpUQ?oc=5",
       "published": "2025-08-18T17:26:34",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "CTV News",
-      "title": "Alaskan man gifted new motorcycle by Putin during Trump summit - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2o5eHYyVzJrWmM0RlJTUXVnNmNLc3dRYnVMQmpsSktLYXN5T2VRSHo1MWhkaVltZzFRS0g4Q1JNZ3NaWjVrZEtwRjItLTF6TTVzdWxjNHBMUjFXNG1tZDFmY1hMUUJVM3U5TGtJX1NpY1RKekxjSlp2M1czVWFPY2REQzlpN2QtTGtpY2k0djBzcmFoUGZRVTBtNnNzRG1tc3c?oc=5",
-      "published": "2025-08-18T17:07:09",
       "date": "2025-08-18"
     },
     {
@@ -740,13 +712,6 @@
       "date": "2025-08-18"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSTNJWDE5X2dtQnFOR2lnR3ltazhYeVBfUXE2RmRyTl9MV2Z2NE1XVTNtUEFmZzJYQmMyV2hNY0dQRXpsU2F5TTJ6b1ljOGRZU2VCdEdyTDgxWGVva3BCMGdjV3lCM256aVJ0dXRtYl82eDlvVG1QcHNqQkVsbEUwNUdJRVdFQ1UwREtFWmRoWEdIdW9teXd5MWlveFpzaTNYOGVnUTlHdnZtVWJUUHc5dVN2ZDdySlFBaDNnNm1QdW5ydmY0S01xWElNMWU0ZmV4cW1PNjFMUVhwSTFWZVhjbzdxTVhrWnFLMFlyWGtZdHI?oc=5",
-      "published": "2025-08-18T15:50:29",
-      "date": "2025-08-18"
-    },
-    {
       "source": "CTV News",
       "title": "Calgary man dead, another missing after canoe capsizes in Kananaskis lake - CTV News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3lsUVBwbkdzZ0c2V29CQmptU3c3R2tibkU3U3ZCT1JKRGRabTJwVWlIWlhKT0ZENFNQSDV4c2UyVjlKaVhTNHhFem5tUWVHZk0zb2dPRzluZkNISmNBVW1MWVpxc2NRMWU0aWNOREJ0OXNSWWo0SC1YLVR3ZWZLME8wY2Ffd2dXYS1Hb2NOa2QwMmpzYUhzX3k1UGpSZzQwLWhFWl9EOXAxbnNSSWRzUg?oc=5",
@@ -796,6 +761,13 @@
       "date": "2025-08-18"
     },
     {
+      "source": "Financial Post",
+      "title": "Mercedes-Benz USA Appoints Greg Gates as Vice President of Network Development - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3padkU0NmEyZHBBdjdNZ3dxWUVaTjVDVzk5VFRyYlFoVVJYTHFyblFVYTFyYWY3ZFFjeFNNVE1VNkN0TE52NTR3cEVVOUJxcjktRWNfODZfSUk5dG9sNU5OVy0wM0NYOU1lSHI1bXFsLXFOLV9sUkNDTGZScHlUME1LeXB3UHY4WTQtakhQTExka2pSWV9NN2ZnTUdwaW1HaGI3NV9iQzZhclQ3WGJYalhzemlkNUxVMHhMTVZWLW1kcU0yc1NwRk5PeGRqS0JPU3czbldLTQ?oc=5",
+      "published": "2025-08-18T14:57:37",
+      "date": "2025-08-18"
+    },
+    {
       "source": "Global News",
       "title": "2 U.S. tourists drown in separate incidents on Carnival Cruises resort - Global News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWR4dnIzTVA1UjlrTDlDUnR2X0VUWkhiUDBmMGFDT056UjFBM2dGYlZxRHJ5Q1VQZ0xtNG1yX1RaYmh3RHJ5TWZaNGpmR3R4bjRvRXFINnFzVlhsUHNyYnZWTzBJeGxoZUYweU5HTG5yXzlaUW9CSzA4SmpLT3dRSkpEQjRPV3d2MzNaZEpBYkYzY1Z0WTMtTG5HR0hEX0ZQdDFUYlF4c1F4WkHSAbABQVVfeXFMTVduNVc4YWx2OUhNSVBaZ2Q5MTY3VnNzNWJaaGZiN0Nac2syLXpXVnBXcFNYdEZJcUhsU0xQV0JOVjVuTGZNVFN6Q3prVkU0R2xqUWdKQVRWRGp4VU9XS1BGdk1wTVk3SlA0Q3B0bzV3MjRsaTNRY0kzRXhCYzI2ZTBJYlIycXhhQXU3MnV3UmNNVFVlTl9iMmFTOVZMLU03WFNGQUdIOUdXTk1pT1g0djI?oc=5",
@@ -807,13 +779,6 @@
       "title": "Swatch takes down ad featuring Asian model in ‘slanted eye’ pose after racism backlash - Global News",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFlNYXVTTm9jY0I1cy1ETGZaZF9hNlBXMGRuUTVTdjVtdVFlWFEtajI3WFZ6UWktajBXMnZZbHlhTTktcnZiTVdsYWdEcHJ5c2trRXdMOGI5SXNBRmM1N1A0aWZJcGtUa1M3S0JUWDNsX0RWdFNUYy10Q1FBT1VhYS1aNExqRUROWEVXVFNUX3Y1YWNTRlN2UlM2ZzFqYjhRT3lMWTluQWxRcUNfVlMyaE8taUh4dGJEV1lUZnpn0gHEAUFVX3lxTE1zcXhDTksxQWJYeEJRQVVINW1uRy1iRDdyZldkOS1Lc1Jwend4VEJpVVF2TXpGV3YzVVU2VHFMRWdXdnF3Y0pkemZBSFZIZFl1Q0JwNGpxazcycndLa0lid1BVUHN6NXAzZ1k3NUpsX2E4Q3RxaE5pbXhTV1dTWW5pNXhBeHdDN2JORWdtM0p5a3RBRXhiY210Rm5zNlY2eFpVcDJxbWRtUVZnWk1VX1lObm1jR3JjcHNDVFBtazVxRHBBSDY?oc=5",
       "published": "2025-08-18T14:47:36",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Company News for Aug 18, 2025 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVo1N2lDX3hBVHdxMlZzemFsbDRfSG90US1rWEc4dWt5RHAtaWRZNlpQdlViY1FWZzV0NDJTdzhwb09YazdCYzJ6VURXeHFVeDhlT1BDa0h3NTQ3ajY1ajJ3NGxoeFBLdGJHYUM1VFNLNFJDdVBnRmZtWEw0Tm13TTFzd1lSVnRCeDBmWlBWMjNtY0d4M1hDZmoyTkQ5dldUSXByX2dlbVI3MzdtR2dWWnRGWQ?oc=5",
-      "published": "2025-08-18T14:37:04",
       "date": "2025-08-18"
     },
     {
@@ -999,13 +964,6 @@
       "date": "2025-08-18"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "These Undervalued Growth Stocks Could Surge 50% by 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHpEN055bmtOYUx6OVhxa2hPbTNOVUxvZ05qR21qS3QzWU1RN0lVYnJaNkJNS0U4dGVJVzgwWDVFZ1ZwMUdPWnVrVDQ2R0VHaDRVN2ZkWFVQeV9RTm9LTnhyaW5haFFfd2JaZHAxWFFqTEpjM21LczA0X3ZmT2NyeEZzZkU4bzRVTWVuaXVDR1VRVENkblNxMjd5cXh6X2dRQ091WEstWk5ZV3JNSTFuRGtVTWt6MTZWRnl5N1RJWmVKcHdhNWFjeHREMjNVQ2t1RUxLdlBSSHQ?oc=5",
-      "published": "2025-08-18T12:38:25",
-      "date": "2025-08-18"
-    },
-    {
       "source": "Financial Post",
       "title": "Allegro DVT Showcases a Full Range of TV 3.0 Testing Solutions at SET Expo 2025 to Accelerate the Deployment of DTV+ Compatible Receivers in Brazil - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPU3R5NHl2R0lYZW9QWHQzVEVYWGRuRzdWYllZZ0dmNllRcVVzV21URkhUdWUzR0QzZUp6aTlwb2E4aDNpT2gxbnFxQUk4ZWhNdTBfdFFKX3pOcVJCY3FPeVQ3RXJILVQtTFUyX3pYZU9nd0YwVjBWWldTeGZmeVNxTFJrWTJDRUZJSjcwc3VFNkdjTHlFSktGS0J6WDJEa0RiaXhLS0FPTnJHWVZnbFZEY214RW54b25la3owYU1VaUQ4eWVWNnZLczJqN2pZQmc0UGxQYS1IVThzQ1NNNGtha3VDZ190ZFQyd0Mzdm02S2M3ME9HMldwcVRhRlZxa29PbzkwblMyOE9tamdtYXpqMHBKd2VXZGllZVVTMkh1aS1wM29WZ1doY05MOUo5RGQyaXc?oc=5",
@@ -1077,13 +1035,6 @@
     },
     {
       "source": "CTV News",
-      "title": "Over 150 people are still missing after devastating flooding in northwest Pakistan - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTTFhdGVkZFRwcG55WWVjUmJwcGxzb0l1ZTJnM1k4UXkweEhwbjlOa1JGUFVtTnpsLVFINm9SdXhFMXhoTTZsc2xIanlqSU84RFVnM0NvTXhVOE1iU2pGb0xaRVFDaWhFdlBQR1NlRUtzemZmQ3NfMDg5d05HbWxEQ3hQeTc2amppcmpnYjJRaGt5eFNDTF9SM1Z3UFhzTzBUaHBaSUg2VE44MlU0RlpkTEJYeUoyenlmUjhFXzF5WVRnQjdnbnpmbA?oc=5",
-      "published": "2025-08-18T11:32:22",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "CTV News",
       "title": "South Korean and U.S. militaries begin annual summertime drills to cope with North Korean threats - CTV News",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOenB5WjZqRzQ0NC1Wa3ROYl9PWXRKSlVhSzEtRzNzN1JpbU9XT2xrUHBPeWdUOVhYTkFkdzZOMXQtSlU0aXd2MWVHWW1HWnFvcUFUOGo1eW5GOW9MUmxKbkwzbjg5aVVwWFFYQUg3THFrMEp6dWNHSkk0ZG9xM0Z1a01VS1NXNERFLVRjUktYOExib1FuZjl4Y0YwS3p2MXJkVTRwQmxSdWdLb2VSdS1sOWk3M0JBNmJTQnNiOFhUR0RKYXM3M1lWRFpVR0tndw?oc=5",
       "published": "2025-08-18T11:24:28",
@@ -1127,8 +1078,15 @@
     {
       "source": "The Globe and Mail",
       "title": "Ifinatamab Deruxtecan Granted Breakthrough Therapy Designation by U.S. FDA for Patients with Pretreated Extensive-Stage Small Cell Lung Cancer - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNQmRKMWUzMnRac21RSU8xOHh0cnZnb1ljU3AzTW5ya1R4ODBhQW9ZTjg5RkFLaVdPUEFJVldSNzg5Yk9SUnNIcmRndVpUSExpNGNmaXl2V2pIVFlDaDV1QUJkNUxMcHVJME9EY2JrZFgyQk8wUkk3NFRDR2Q1Z0pqbXE0ZGhHT2lPa3g5aHZ5N3RnOEZQZ1I5RjNSd1J4MWQ4MkxkOEVVTGcyaVZsUXd1NnBLZVNWVUpSWUZXY1M5V3I4SFVWeng2eG9HYnYzTUhybm5HcWtJMU9YMlBfOGV3UzFyTTRhd2ZLVm1rdzRVbHR6Q25NT21qUTRrMXJDRG9yM0pXSFQ0bWtXeUZlLXk4Rmlra1dqZGFVTnUzVEw0V2VnMmloU0duQlFyR2gwSGs0Qi10NDViM2NSYmlGamI5cDgxMXZyUFZYb2dldFZ2aw?oc=5",
-      "published": "2025-08-18T11:00:22",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdVgzZGVra0g3NExBV3RuZWROdlB5SXFuVGtieFBtR2JxZ2pZSDhGU0IzcEE5UkJYbF94RFJOdDNHdHNMYmhLMGZhTUo3YXZXQm5VZWlCYzM5eXdVOXZHM3pHcG9vTUZZXzZ1cVJPZS1iWC1NN08wOFczbXM3Wlk2M00xOElCZUxHR0s1bEpfQzZkZWtueWNhMDF3X3lwek5jZU5mZzFFYVFUM24tSWtjQWJGUnNRaUVsbFhtNHVMeVVnWEViRHl5VlNlYnN3NG96QVZ1NC1tRlU0Q3g0SHcyZzdlSVc5RDc4bm85WTVfc0I0UklwcVhQXzdya0k3NEI1VDNwd2RWbWF2UEVFOVh2MkwwcmVtbGRjMXJBUm1qQWR5NXVLaXdfNUpmcUZ5dHlTekZ4eEZabk5PVDZ5cUxDd3NPNUtQbnRR?oc=5",
+      "published": "2025-08-18T11:00:30",
+      "date": "2025-08-18"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "FibroGen Announces Approval of Sale of FibroGen China to AstraZeneca by the China State Administration for Market Regulation - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVjR5NHZoaDFZV09FWFZ0SGVpT3h2TnF3SDNDYURqbm5KV2NwRjluRmRTU09WbDdBRXRTZ2t6b2IxRXJXM2M5UFZ2ZnBWYkZDMXZyU1FwNURpWm9Cd2ZWdlNEb3hqTzdBS1pNMXlSdlBHSmFPNk1KcXVhS1BqTTRWX0FyNGtZNEdKYlZvQlhDZXRnSjNxaUhBMGhWQ18xLUhaX0s1VTM1MFYxWEEtbzVFNFpWbFhKQnhlU2xkVUI4S3pDVUJRQ3A3eVVuYmhmNElDNFNsdjIwMUhRM0xyS3BQVnRvRzdma25DSzFnLU9sZWMwLVc0Ul9VZVA1NlNCVEFfU3VaWVotWEZqTjR4SDh3MC1wUkRBUWtKenJOMmlnSklsTUZ0VHZOcjR5QzdJWXFFNk84WQ?oc=5",
+      "published": "2025-08-18T11:00:13",
       "date": "2025-08-18"
     },
     {
@@ -1161,30 +1119,9 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Sino Biopharm (1177.HK) Announces 2025 Interim Results - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOVBMc3d3RjBLRDZkZVg0ZVg3QS1RNDZKYnBUWlQzSWRpcV9UWlRVZlkwS3JJM3k1Q1phTklYWHRhZ01QYzl3djNTemVBdFZBV28zMkNjYzZ0bjQ2cUowb0xXMnhlOWpVZ1JOSHpWVHBCWWpIQXYzWVVhSFY3dU9fWlJscHRJalFLbFhYd2MtOW9xalpZSW5EdzJMNXF5M0hjQkZHeXM5eGwwVVB0eGdPTkNHTFZhQUNRSDJ3Z1R1M2NUZVg1d3pfeFRtX1drcEFJV2x5VHd5VQ?oc=5",
-      "published": "2025-08-18T10:11:00",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "CTV News",
-      "title": "U.S. envoy to discuss long-term ceasefire with Israel after Lebanon commits to disarming Hezbollah - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaXV3YlZ1ZGt0UWdkVnZ0ZXVMZkQ2THNHRmsycnhNWnNBdTREM25RYVJSS3ItOVB2MXVzRDFURVJ3ZFhOMURqLW9pbHg4aG9UWnVqQ0FSVEY0czJmRDZSMU12Q2k3U2hubzIwU0Q4VEpCcEt6U3NvRURlTlBoZW1uZHo4Mi1RRnFYMElpOWxxcEcxVkR5TlpoS1RZTjBHbHlSd3pHd0JmUEdCWTh1MDhVUlVrV1VqR0QxVEwtU0ptT1JtQTVfQnZoV21FMmExbE83LTM5emF2bmxzVmt3Q2t1VDlIbW00QQ?oc=5",
-      "published": "2025-08-18T10:03:43",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "The Globe and Mail",
       "title": "Media mogul Jimmy Lai’s sedition trial begins closing arguments in Hong Kong - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0kxU0M1alZpQzE3V2NaMHpqRkdrbW02QzQydGNUZXZONF9FR3lGV3lqVnVnbUd3cng0VEFVX1Q5blJ6UU1VeUNaNXZ6dXl0b3BMWnFOaUJoQ3NHRFFXWWczaVlQaUE2d2RZUE5CT1ZKLTVsT094eWVRdHhwTWNTekNKSm5tT1JFekU2WHVsblRia1oz?oc=5",
       "published": "2025-08-18T09:51:40",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "CTV News",
-      "title": "Poilievre should ‘put partisan stripes aside’ and work with Carney amid Trump threat: Ford - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGJKbDN2bmNNVGpzRHBISU5SdndrUEt3OGpHdzdHdmxmUUkxb2dZaVRneU5oaXdJamxBc0JyNTM1REtIVkg5Z19faFlobmVGUHFLekw2aXVZbW9NV25yd2NEejVBdENEaS14ZWVJWHA5MTR1RG1jV1dGM096QmlMUHBWczNPM25sUjZWSjk2c0YzVDR2WnB4NTR3aDRXM3RiNmRGejZEQjRsTVFNUFdwVWs3X0t6Z1VSYU01M29hS2hjRzdnV0Vv?oc=5",
-      "published": "2025-08-18T09:27:53",
       "date": "2025-08-18"
     },
     {
@@ -1213,20 +1150,6 @@
       "title": "Sask. canola farmers already feeling strain of 'anti-dumping' Chinese tariffs - CBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlV4S3B0cEhnQVZ4YjBwTU96Q20xZjlUWWFKcTBVVjNIdVRyNmYxM1pWaFlQUy1MbXU5a1FvU2tHS3FKUjdza1dvYmpNTVNOS1YzX09SaVZXX1p6N25qdy0yOWFqYW1zWXdpekx4TEJXWDJNc3FNUFBhNjBRVEt4VVFBRVRhR2J5UTR1Y1lZQkY2cGFjUndSLUNuUGlDTE1pc1A3RWZ0ckE?oc=5",
       "published": "2025-08-18T08:00:00",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Qunabox Group Deliver Strong H1 2025 Performance with Over 30% Growth in Revenue and Gross Profit - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbkg3S1g2QWdQVEtMZHlxdXFuZG04X3BrS3VYS3lZM1NZaU5EN01zWUpNekFnN09uWDg0V0l1VEVsMktyd3RLYVRpY2NxMDU0eE9HSnNuYmtmcUV6ajFMU3VBT3RJUkVEZXBaU1B1VWdJWlFZQVh2QlRTRUt6bk1OZDhURHRPVGNtejAwblZvRlhNb2lkbkZjYnhwOGdUUUJrWmdnN2RrYVVWSEhtVVFrTS1faUFkT09UbHppRnpvTEg1TE5VaGxmSlVmMVZWQThBaGRRZVRfQkJYN2ZtaXQ3LVByb1gxLVJXeXZoSFZGQWtnQy10bm5pM3M2TXJJTm82RjFZMjVNNTFaTE9wcTV6MS1R?oc=5",
-      "published": "2025-08-18T06:36:00",
-      "date": "2025-08-18"
-    },
-    {
-      "source": "Financial Post",
-      "title": "From Traditional Ecological Sightseeing to Modern Diversified Experiences: Guigang Advances High-Quality Development of Culture-Tourism Integration - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ3VkTjdUOE5jcFBTd2FfV1pHWjhMZFNVaXpIWGtsZ2VGcE5ob20tOVNEeUVKVFJodXdzalpXT1otckFzbWUwc2ZyT0xMTDE3cVFDNEI1a0h1Mmk1ZEF4ZVVIVUFzYW9lM2lkcUpxaGVBb0xlLURpSkFGLW0wdGhBVFNWbVd5SHEzbldQaS04SjlUcndPT0xCdXlMZzFBVDRoOGg3c0phUEpod1NuS1ZKUTViUXJOLUNkeEJFQ3BYSkplelBNalU3WXhWcFFnc0tKc21HMDZrRmZQWUVHbzVKMkE4ZjEtNmI4S1RMYUlHSGdwRnptMTYwTFIzcHJkUnVwbWZxWVQtQ0tQMEFTdVBqM1Y0bzN4QQ?oc=5",
-      "published": "2025-08-18T05:24:54",
       "date": "2025-08-18"
     }
   ]
