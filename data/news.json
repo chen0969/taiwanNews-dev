@@ -1,14 +1,63 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-08-27T20:45:37.536146Z",
-  "article_count": 156,
+  "updated_at": "2025-08-27T21:23:46.014411Z",
+  "article_count": 150,
   "articles": [
+    {
+      "source": "Financial Post",
+      "title": "Mexico Set to Raise Tariffs on Imports From China After US Push - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1Q4RXZxSTNULVFENkRlN3EtaE5YVVRfb2twaGRJY2pfU2c3X0Z1TXl5QTZYNUY4ek1DcTctMVJ3aldjNDg3QXBVUU1WRm0xRFFDakJYN0xUS29JRXlKRUlHUEZqNHBCNXNaQk92QngxM2plYks1VzRjMDlxRDF4OFhyZTU2TlRQY09nQUt6c0hPYk5ESUtQaFNXOXgtdV9Nb0dpOHlKMlVkdw?oc=5",
+      "published": "2025-08-27T21:05:42",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "CityNews",
+      "title": "Nvidia’s latest quarter shows signs of slowing AI chip sales amid concerns of tech bubble - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGtValctOW1jdlZqZmNQNm9kX3ZjNkRRM2o4c0ZZVVlrNHZSTUFKY3dIWlg0cHdTUHBCVTdFaTN4UjhndVBTTEhQSWhPeWJ5dDZrZmJWS2ZhLXd6Qk9fdlZFX0YtYlhYWnBwREszX2ZXbUp3OF9MWjZ5MzJHUlo0cGdhTmxsTk9DM0ZXVUp6SFZfVlNQM2hDbnFjQW94WWViQW5ycmEydjAxaUZWNkVLOXU0UVJTVDFsWDVNQm1uc2FPckJEWTg4?oc=5",
+      "published": "2025-08-27T21:05:20",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "CTV News",
+      "title": "Denmark summons U.S. envoy over claims of interference in Greenland - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3ZqM1AyUVZ5UWJVZmNQLUlzbzNSZUZpcmQ4UFFTbFBUZ3J2SUlZR0JRbG16U25kdmtZT0s1QlRWMzdaN3ZxbWJqdGExOGtOVTFGdDRqeGJhSVMzTGVTemxEa1l5dnlyWEx6VlU3WlBqQTZESW1kdko0bVVUaExvODcwYkt6Qy0xMk10LVlCOEhPeU1BRTdFZXgyRFN1QlpnZnVRMWpZc3hEa0tIMEo5QWJ2WlRvakp5OGZaMXh0bjFOWGJFa3dKeVlxZUZnZXBW?oc=5",
+      "published": "2025-08-27T21:01:28",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "CTV News",
+      "title": "Argentina’s Milei rushed from campaign event as protesters throw rocks at car - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0JfYnFqQUtyTFhNMWkyaVVNallXckdqZUxldzVHMWVfdklLeDhneWUyS3lxdHU0T1MtRHhkWTcyRFJ3Y215ZlNxUm44cEhHQlByS2I3dGs1NUJFZ0VXbV9rTHk2SE5uNUNQbDFKb0UzcEN1bzlLUUtBbDBwWWtaaDhsRmF0dm1HQnAtTjgtR2lOdHZ5aHV2MW1hZE5zdXB3Y0p2aWxyaGxyVHN0OTFzeHFvYTU?oc=5",
+      "published": "2025-08-27T20:47:50",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "AI leader Nvidia forecasts third-quarter revenue above estimates - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUg0TG52MHBJX0MtMkNyaVVSRXdWc3g1NmpuVHdPZjNnbDdEc3FuSmRjRWtjOTlWOGt4ZE9HV0hzUDVkS1pNc0ExdXlOaFJMb1NrSzVyZU5zWENtQkg1bElHVVdnWUVBaW1ZcWJmaU5rYXVaRmRUdXdkSWQxOVhMVnJPeGdPejBURXpCZW5OMWRSOUw4dGc2cDVRLUJuTThfUE1wR0xHelhVMjEzemVMd3g3RQ?oc=5",
+      "published": "2025-08-27T20:35:18",
+      "date": "2025-08-27"
+    },
     {
       "source": "CTV News",
       "title": "AI leader Nvidia forecasts third-quarter revenue above estimates - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0RMWU5sR1M2dlYybG1OY0xvamlmbHJqMVBlZFVYdW5yNDZFLTIyWDhIVmdkYm0xTV9oRWRqSFRfRlhMckRMbnFQaWs2ZlVQWG5tUjVmTGF6a1h3ZGt1N0xKNjRuazFzWlRlWGdLb0dxQ3VpTENUWFJmTjVKeVVvcm5RYmZhZExHMldUbVh3MmNlTFpkeEpwWnRhZUdvYlNXOXdjWlNWTUk?oc=5",
       "published": "2025-08-27T20:31:48",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "CTV News",
+      "title": "Two children killed, 17 people injured in Minnesota school shooting, authorities say - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUlOUVlabHZ3SldNTDhNVDNVT0duSHRJLTFXTWhXeWpDWG1aaWJUZGwwalVQOUtJc2xsanNEYnJXelF5dHl0NVFra0RSUEstZmtkQk16cTBzc3RDcEk3bmxkSmtiZjNVMTh5aG1ySU9qcVRVNE5ZRExTaVdia2tZaVVvNTh2ZnRpX05icnl6MjNGblZDdXZQbUtEdTF1WUppTEl3Q3VTbWxHLXJUWEZLcWt3dkU0a0c5cFIwRA?oc=5",
+      "published": "2025-08-27T20:00:44",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump extends control over Washington by taking management of Union Station away from Amtrak - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2xrUE1rbE9LdlRacjl5LWp4ZXFuMlNvbEJVSTlEQnFfX0FoZ0NvRVRvZ2lVSjY2SHBMWWJQYjFaRkZMUlg2XzZJNTM1aFhGVlJndGpiSTktREYtcVpvalZIR014elVMV0RES2xmTEFSQXN6SHBUdFdaZ0k1NGhqWm1OQXVaVWtGQ2otd2VKel81WXQ5RjVldlc2RHlCUGdFMU9vaTVJU0NUZW5vQUlnbHFjbWJRcDR1VU95RWxsWGNUUTNJWERPVUdn?oc=5",
+      "published": "2025-08-27T19:46:08",
       "date": "2025-08-27"
     },
     {
@@ -23,6 +72,13 @@
       "title": "Only thing holding RBC back is tariffs: Macdonald - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0J1eGN6WlY3bU10NHdSYXl6UmJrenMyRk5lbE1GQjBsVThGM1BRODRXS1JldnZPMXpZeUUwdkdsdld3WDlYdmdoOU5nd0k2MDFIX0FOZ0VRWXlBV1dTdHRDSGZRVXZVZ3p4TVg5NDdiblpQWUszRHdPeTFyWmNpN3JsbjkyM1hGRTNBVFVjdTc4WnAzd0pheDY4dy1zczZ3OWVUZzV5aUJBQWZyQ21n?oc=5",
       "published": "2025-08-27T19:27:47",
+      "date": "2025-08-27"
+    },
+    {
+      "source": "Ottawa Sun",
+      "title": "- Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamZTeklKTWpIa2p2QkIzUHdNSnBtTWRzMGZtT3U3b18zNVpDRzFlZmlac0h5TjVNdjEwVzV4cHJ3VmVPd3U5Nm9Bd3BxQlpiVDJtVVNrVlJmSzNGM3htbE01aS1mMWhKRVFLMUVhZWZNREE2cnlRSzBPbTJxa21HSHFEM28wd1hEQ0lYT2RVVThkdWF5VzRnbTZyTmRWZ2t1SE53RXA3NDRENW1naEdtMmlGNA?oc=5",
+      "published": "2025-08-27T19:14:16",
       "date": "2025-08-27"
     },
     {
@@ -118,13 +174,6 @@
     },
     {
       "source": "CTV News",
-      "title": "Two children killed, 17 people injured in Minnesota school shooting, authorities say - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUlOUVlabHZ3SldNTDhNVDNVT0duSHRJLTFXTWhXeWpDWG1aaWJUZGwwalVQOUtJc2xsanNEYnJXelF5dHl0NVFra0RSUEstZmtkQk16cTBzc3RDcEk3bmxkSmtiZjNVMTh5aG1ySU9qcVRVNE5ZRExTaVdia2tZaVVvNTh2ZnRpX05icnl6MjNGblZDdXZQbUtEdTF1WUppTEl3Q3VTbWxHLXJUWEZLcWt3dkU0a0c5cFIwRA?oc=5",
-      "published": "2025-08-27T17:10:45",
-      "date": "2025-08-27"
-    },
-    {
-      "source": "CTV News",
       "title": "Toronto health officials issue reminder about elementary student vaccination, non-compliance could trigger suspension - CTV News",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR3BuajJiWUFIV1RGeU9RT3puaE05MGFtS2RYWHNTamQ3N2ZwUGRDc0tTOU44VHczQXdNTnVXWWN3RDRjc0htYTZUX0JRRkNPdGh1R1hJelhtRXotNHEzcExKOEJpWV9YQzBNSzJsakZ6cHl2VG1RQ3NlSGxBUFA0NUNDNWNLdlRFUDk5RHpTRFhuZ3RUVFJJb1dVazVvYnBnWHphdDNka0F2NHpHVUFmSENCWUIySWpLSkctN0Rqc21pNXF3TFhiaEdKcDNUZGpod2ZJYXVyMmIwbVRRUmFudm9DTWhab3loVnlaVw?oc=5",
       "published": "2025-08-27T16:43:33",
@@ -142,13 +191,6 @@
       "title": "Emma Heming Willis shares the ‘hardest decision’ she made for her family - CTV News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSURtT3JqNFAwaGxRblNJR3lJY2JiWlNfajk5TnRDOGpIMzQ3RlJXRUdhTWl6LVdXbHFWTEpKTFlCZXpFWllDRXVXVHBsVVo1aThVbTJEdUtjR3hLYzNLX20yc2dPSklRMS1FNTFkYmpFdmN0TE1XUnFtRkZDSHg5OTFTNm82NmRlZ1NxelhnYTVXUHlnS0p6RGpEdlIyV1pZdGkzOWNqSkpTUWFGV3dkd1BwUmdvdzQ?oc=5",
       "published": "2025-08-27T16:36:12",
-      "date": "2025-08-27"
-    },
-    {
-      "source": "Ottawa Sun",
-      "title": "- Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamZTeklKTWpIa2p2QkIzUHdNSnBtTWRzMGZtT3U3b18zNVpDRzFlZmlac0h5TjVNdjEwVzV4cHJ3VmVPd3U5Nm9Bd3BxQlpiVDJtVVNrVlJmSzNGM3htbE01aS1mMWhKRVFLMUVhZWZNREE2cnlRSzBPbTJxa21HSHFEM28wd1hEQ0lYT2RVVThkdWF5VzRnbTZyTmRWZ2t1SE53RXA3NDRENW1naEdtMmlGNA?oc=5",
-      "published": "2025-08-27T16:09:51",
       "date": "2025-08-27"
     },
     {
@@ -258,7 +300,7 @@
     },
     {
       "source": "BNN Bloomberg",
-      "title": "TikTok owner ByteDance sets valuation at over US$330 billion as revenue grows, sources say - BNN Bloomberg",
+      "title": "TikTok owner ByteDance sets valuation at over US$330 billion as revenue grows, Reuters sources say - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaUtqMGtTNGFPSTBrOHhtSUhIU1p3OXFTTXRmcnljZDN2VUtLRVZUbnF5TGhod2haaGd0eFItWFpCWWxxWXhVdkJWVkV4eEVPdkZ0MlJ0bmVKSEo5eDRzZWdMYXc5NkVOaDg5T3AyNnVNd2lMQk42al9mMWlRYk9ack91SFRkaXZaVXpRQ0d6SF9DckdYU0hGU19ROVo3UVJubEt6UFZqLUtIZlVmZk5iMWJvNTZnY3lQM2lSdllBWVJ2NHJoTTJPZlRkNHBaT1liSGdR?oc=5",
       "published": "2025-08-27T15:02:03",
       "date": "2025-08-27"
@@ -282,13 +324,6 @@
       "title": "Surrey DPAC on hybrid learning in Surrey schools - Global News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMG52dGt5ZDUtc0dfS3VhLVNIVWRBbWJPWnE1SnJXbGxsMkZqR2tqcFF5MFZISzVIYjVGVkhpam00bUR5Y1BjbENmMGo5TU81b0drV2Y3blpSc3pPQmMyV3FtZElmeEZMVkZPU1R6cHNJUlpQTkRtWnhNY1hKN2IwLTJNVnFxVGRxMVBPREhKONIBlAFBVV95cUxQSGNBRVVEbFdXT1dDeU0wcEg5ODVwVFc5V2drNk1EamZCWE8wdlNVa1RfNUN3M2VCVHJDN2RpSk1hZll3bHpWOUNfUlJfM1Fjd0R3VDdqd2ZXYWdYSS1YdXJQNzZyUlZvcEtvdW5rNWlLNkRPRk51RmRLSnBaeUlZMDh0NlVTaktPd2pOTGtiUXBDb3pM?oc=5",
       "published": "2025-08-27T14:42:42",
-      "date": "2025-08-27"
-    },
-    {
-      "source": "CTV News",
-      "title": "New report finds home sales in the GTA in July were at the lowest levels seen in decades - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaktNaF9wd1E5bFdTS1V2WGswUWNQQkhKTjNRUXlLcVhfOFhNTGNZa1RQUFRYZm5Ba0lLOHFndkZocnRCS3dLS2d4RDQxN0lOalhTMlg4bkQtYjhCVVNEV3oxT1c5OVdRSDdFQlVWeG5mTVZxRWdkSFRXaktIMkU2VEwtaWhnc2xRTE9NUEI1R2p5UlFrMjlzQlhhT2ZJakdrU2RhRldxVmo3MTRoRjVmSThiV3VCVUpvYW8yQVlEYmtRaEtPQkUw?oc=5",
-      "published": "2025-08-27T14:36:46",
       "date": "2025-08-27"
     },
     {
@@ -397,13 +432,6 @@
       "date": "2025-08-27"
     },
     {
-      "source": "CTV News",
-      "title": "Denmark summons U.S. envoy after report of Americans carrying out influence operations in Greenland - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3ZqM1AyUVZ5UWJVZmNQLUlzbzNSZUZpcmQ4UFFTbFBUZ3J2SUlZR0JRbG16U25kdmtZT0s1QlRWMzdaN3ZxbWJqdGExOGtOVTFGdDRqeGJhSVMzTGVTemxEa1l5dnlyWEx6VlU3WlBqQTZESW1kdko0bVVUaExvODcwYkt6Qy0xMk10LVlCOEhPeU1BRTdFZXgyRFN1QlpnZnVRMWpZc3hEa0tIMEo5QWJ2WlRvakp5OGZaMXh0bjFOWGJFa3dKeVlxZUZnZXBW?oc=5",
-      "published": "2025-08-27T11:36:08",
-      "date": "2025-08-27"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Cracker Barrel says its old logo will return after critics protested plan to modernize - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnF2NWJucXA5QTZLd2dmWFU4YkE1UldONHdrSWI2dGpSZ1JQbllNMS1xeVRhSXlJVllqMGhhdnZPY0M0b3A3SkJRRU93TnNaZ1UtOEpTRzZFckJVN1hja0JKZEJhSEF3ZDdrQnlKYlNibkgwZlRZQkVyeTdXR01WR1JBUE1lSVpfSEdN?oc=5",
@@ -412,7 +440,7 @@
     },
     {
       "source": "Financial Post",
-      "title": "Wall Street Awaits Nvidia's Results After 90% Jump: Markets Wrap - Financial Post",
+      "title": "Stocks Rise as High-Stakes Nvidia Results in Focus: Markets Wrap - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWJGbFF6ZWRMakdsQldsM1hRUmdWVUlRa3JOSU9WX0JyTjd4UlhCM1dnVjY4TXZSQ0ZzNnBDdVhUc0hHN2FYYW1hMmZuRXljSGZZNzRJNUNhRzhNTzRod3JzNjhFdENybzFkZ1Ntemhnb1EydzdtZ19VZTlDdk5hby1QRXlCX0lpSFFhMkRoUURDZ2dDeUtTNU5HUzduUTZxbXAwSQ?oc=5",
       "published": "2025-08-27T11:08:40",
       "date": "2025-08-27"
@@ -429,13 +457,6 @@
       "title": "Can $10,000 in USA Rare Earth Stock Turn Into $30,000 by 2030? - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWJTYm1HX2ZnbnctZ0xpb3A2TzFnSlh6aWY3VHlwTHZXS2F2dzJvWVp5Vkh0dXhPQ19fNzl5OHNCMDJXQjIzM3ducGNtZ1FPZVUxNXF0VUdMc2VxSXdpMEtwX3lXbFZVQk05TjlxMjd5ZEQ4ek5BS1FiMHZqVGhTREtvNkJWWlcxaFJIMjFjakh4cVZEY3FRbExxclZwejZRVm0tYzM5SGhOSjNTN2lLSWxQckt6blN6amVyR0NQSzA4anVMbUxjWGVlNFFLYzBCUjFDWUFiUDI3UGlMQjln?oc=5",
       "published": "2025-08-27T11:00:45",
-      "date": "2025-08-27"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "World shares are mixed and US futures are flat ahead of Nvidia's earnings update - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcmZ5T3BpOGdjREx0OXZvQUlVU3pRWEdUQkVmOUZGekpGZXcxLWl2OHRaMXZDdTlKSUpnT1lTZV96WGNUYzhZWV83T3FMcWItUnpvZE56UVNMWW0zenUwUXhIMlkyNllXWGxmVXBDTG5FSnVqRk02MUZqZmNFTGR6X29QU2NqMGZzeFZJUEhZTzhGWTVJTXEtLXBRWEFnX0R6RHctOU5xX3FpQXlxSXU0Q2J2aXNobkEwZmpxMGJjamc3ZnUwdi1lckM1bWJ6eEk5cjdPM0pKR29aandnUlNqVkFUVy10M1dLRmtoZGUwRmNBcklnai1TSDlB?oc=5",
-      "published": "2025-08-27T10:58:32",
       "date": "2025-08-27"
     },
     {
@@ -537,23 +558,9 @@
       "date": "2025-08-27"
     },
     {
-      "source": "Ottawa Citizen",
-      "title": "- Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWdXcFlVTURETDdjYjdfbGk1U3I2WUJxTG0wNHBZT1NEWENZT18yeUxreTRubGktSE1RQXozdjgwdU1VOTBvY2NtLUQzUWdqNDBfOEEzWWhGUG9jZkRjclBVS3A2RkpUak1kTTJudko2MTYxN3k0bmpldU12U3k2QXB4ZEZaNWNkaTJRVVFFbE9waFRKYWluZ3FFMEwwNXIyWXkzLWJqQXFPUGhDaDR4UXRKTGFHVTNFaWh0bm9WNDlYdw?oc=5",
-      "published": "2025-08-27T10:00:45",
-      "date": "2025-08-27"
-    },
-    {
       "source": "CTV News",
       "title": "Asian shares are mixed, with Chinese benchmarks sinking ahead of Nvidia earnings update - CTV News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSE5qOWFKQVlKVFd0VnRyX1AzVHdVTlozYmY1Q19XOHNfWWo5dXEzT1Y3dkZtZTl4Nk9UM3RSeHZudWQ1SUFqTEx2Umltbkxwd1NQOG1sbmxPRDYzZGJUT28xVERZVWwzMXF0ODN5T0RMbGo3S01DNUtQT3YxRkx4Ukc0V1RvOWJMQ3BzMW10TXFuZVhZdm1ibmtzaGQ4OExsUXhxS3NrUlJKLTRTNlB4aURsYXJfTmMzd1JybWE2NW5QdlBnclE?oc=5",
-      "published": "2025-08-27T09:58:09",
-      "date": "2025-08-27"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Asian shares are mixed, with Chinese benchmarks sinking ahead of Nvidia earnings update - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1BNbDk0Rk5YT2FhVFVIc0JiNmozbDVteGFENktlUXhHWE1rdld5c0VGZ3NHeUlHa2Z4d2tUcEZDbV8tX1RhXzVJWXdTbV9lLVRlSjlnM0xtTU15ZmJSM3hqcmdhcHhjOUE4RVJEYS1OSGF2X1hmVW5jM1BBc0ZudTY5SlJHRDE0UzEwOUlSM2ZGZnNQVGxnOXRqQXlmWjROY1YwM2xSUmtyblNSaDdBcWRNT0V2RjJDcm5GVmEzMFcyWWF6VUFpSWM4Ym5MQ1VMSUE?oc=5",
       "published": "2025-08-27T09:58:09",
       "date": "2025-08-27"
     },
@@ -576,13 +583,6 @@
       "title": "This AI Stock Is a No-Brainer for Investors Focused on Real Profits - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVjAyNm9TNVJvejVuYWg3MDZNa0RmS2F4WmhyZm5mU1RhZjROeW5TVnphbXVnRGc2aXZnTVpxcS1VaGFlQzFoUUpncHZmV082eEZHRVlSWU12eldDdmM0cUUwZExiZnZRY1FENTJhRlE4WlpUQlNZSXpzeU1FaUNyQVJQLUt0dERuZVVwcDB3RXNkQ3BZdG9OaHRQUGNHYzI5WlVZZHk0d3g0ZmdXUFRGSmh5SGRUN1hhaWZxRDFkX3ZhWU5hWnZRVzZlaWphVkp1a254S001T1AtcnMxa3lFTHg2LVJOYUhtZEE?oc=5",
       "published": "2025-08-27T09:29:16",
-      "date": "2025-08-27"
-    },
-    {
-      "source": "CTV News",
-      "title": "U.S. billionaire tells why he’s helping fund court fight to stop B.C. ostrich cull - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcG92dXFkaUo3d1ZEcHNfZ2lBZjc2Q1BVYVMzbkNza1Y2REhoUUdFMjZLbWJxWTdXSUJPbkRqbnBBdzRMcUNmeTd6VVZsSFpKMGlhbWtYU2czWTJXakNCeFU2R1JDMjBiNGpvU1BBeEs2V0FqTEZfOUVwcDRrY1FNWnZMb2Z3REtRbm9EUWpnRUY2ZW52cE4wZTMtS2pxSGVQOTRNQnp3OFJBMEpud3liQXJQMG9wM29tVG5R?oc=5",
-      "published": "2025-08-27T09:20:50",
       "date": "2025-08-27"
     },
     {
@@ -740,6 +740,13 @@
       "date": "2025-08-27"
     },
     {
+      "source": "CityNews",
+      "title": "Wall Street edges higher as the market awaits Nvidia’s quarterly report - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekhFTEluVjFsUnV0ZTdpbTRyTldNZnJMd0FidzBBRjNKVW9FMmNib2tVbWs2WlNQcS1GejdOSVZUeUJBOE40V0RPX0MtVHdwa2JJdkl2RmR5N1VVUGRqaTJfY1FRUlQwWW01bmhybmZ4N1ltVERWdnByT0ZFN1F0ZUVCVkhnT0FEV3ljSHZWVlhXTktNbDJhV2hMV2tCZ2tYTmZQMHUtN3QwUmc?oc=5",
+      "published": "2025-08-27T05:35:55",
+      "date": "2025-08-27"
+    },
+    {
       "source": "CBC",
       "title": "Burnaby, B.C., council votes to advocate for full arms embargo on Israel - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHNFeEtxM25YR1Myby1EcXN6clliZS1ub2RBcnZQR2VrYWM5SHdZT0Y5a2hxQlNuQnhJbVJ0N0dlVU9raDhBeHI1VExMZWRvMlZvdnNqNXVadw?oc=5",
@@ -894,25 +901,11 @@
       "date": "2025-08-27"
     },
     {
-      "source": "CBC",
-      "title": "Paddlers excited for canoe kayak national sprint championships on Regina's Wascana Lake - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNndVSVN6dmdmRDRjTXhfalo2WHRSVGctUHYtUG5tVXdYN2ZkczlMZk5XUHF3Q1p6NW1kVWZiQzJrOG5QQTFXWHVpVWR5SXpKMllVM05KbUZpUQ?oc=5",
-      "published": "2025-08-27T00:44:15",
-      "date": "2025-08-27"
-    },
-    {
       "source": "CTV News",
       "title": "24 decomposing bodies removed from Colorado funeral home, investigators say - CTV News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3pEcHN1bFJCM0g0el9EM2ZyQnpDUTRaU0Nhc19IOC1nblpkeWI0UWJjSUpZa3I1ZF9rLUZtbUVsSWRCX09nTW9GaExBRkF0MDVUenhWT1duM1BHb2U5VlVXY0FvSlFqR2FDOE45RmFqaHpTd0NhSzRGRFdXXzBldVdYUGV2SzQxTWc0enNKRkdBTXp1eUp2YnNPZ1N3d0pvNGpQTnFKLUxCRWxMRFB0RjN3?oc=5",
       "published": "2025-08-27T00:16:00",
       "date": "2025-08-27"
-    },
-    {
-      "source": "Ottawa Citizen",
-      "title": "- Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV282dDNINlF4NEdRXzNjbHo1ZEtyWTJyaGNuWW5lSXpZa1NmbU5PbjRXTmFCSW84NHdOV1JrekFTMXlSYzlUX2lETjFDWmlSdVUtd0p1Nm81b2V0WGZ0UE5nTUxtalJZREdaU0R6SUVWUzZSNjJha0F2dUZmdlBCSk5NbjBRY25SSkdKX2hFdlo0OXRTRTdBeFVPVzIwVzVlREM1U3hNaw?oc=5",
-      "published": "2025-08-26T23:54:40",
-      "date": "2025-08-26"
     },
     {
       "source": "The Globe and Mail",
@@ -926,13 +919,6 @@
       "title": "Brazil's top court orders heightened security around former president Bolsonaro's home - CBC",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFcTZfMmpKM3FtUE4zUmN3Nl9hcXhTdDVtR2dzMVRYTnJ6V3NnT2s4cTVfVzZKVFFEX21UUDE1ajRGVEVZS2l6Y3FrVlM5d2hT?oc=5",
       "published": "2025-08-26T23:46:26",
-      "date": "2025-08-26"
-    },
-    {
-      "source": "CTV News",
-      "title": "Jamaica brings in Canadian drones to fly over disaster zones - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUlmeWJVRUZubTk5OTFzZnFnRzBxN0FXamlJTFBNV2F1T3VMdDZqVnFsS2lURDl6cE5iclJLYzdvcUtiOWhZVTJKMy1SMlZKbjFFckhFc25zYUJ1a0xoVmZzVU92V0p3YzJRVlVZQ3NSLU5JTk5JY0gycnpGYkZDdWFRd3VQcmd0cTFSWTliVzJQM05xMF81Rl85dFhTY1c3d0NGb3dodHljTXRtVXg1TmRkWjdpckk?oc=5",
-      "published": "2025-08-26T23:34:39",
       "date": "2025-08-26"
     },
     {
@@ -1066,34 +1052,6 @@
       "title": "Tariffs dampen harvest season for Canadian farmers - Global News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1YwNkhILXdMVGVEUkFXRzVVZHVyLWdxZjRXdkV3NzBGMXMzRWRxdXV6dUdsZlNYYVVaTVRucW9CRXNrOVM1bkh6UzFIRXNTRFBCZVdXemRIVjNPMmJSSTlZU0pZQVFsek8xTGc4YldfaEZBVUJRRWh1V3FfQ09IaWJrOWdQOW8?oc=5",
       "published": "2025-08-26T21:24:04",
-      "date": "2025-08-26"
-    },
-    {
-      "source": "CTV News",
-      "title": "1 person critically injured in 2-vehicle crash in Flamborough - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXo3SkJKaU5iWFpYOU9kNGRab2NyNEREVGZ0RldCQW5xOHlQRmZkMk8tRDFVTjdmVWZnN2QzZEVYZVNNUDRvTENONjg4endpMW5kMWRqSTZuTlpoY3BLXzdnd3ZTVzM1QW5YUUs3eXZCdG95R1NoQ3h3LVZJS0I0UmhycGtTODF1ejZSVENrenY4RVNIX0Qyb3VqeWIwSHl1OG1V?oc=5",
-      "published": "2025-08-26T21:16:02",
-      "date": "2025-08-26"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "'It's completely insane what the U.S. government is doing to itself': Former Premier of Québec - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWk9sM3NtWVVZeWFrUmcyS21GbThtb2dMMWlwVnltSXZLX2xCa3JUZ2FZRzZRRm8xRUNQWWZZaWNNOEZONENLbjVMZ3AzMVQzTjl4cVlJMWJDOTk0czZ3RkxrX2N0ZUY0Q0pSeW52czMtYnJER0RfQUQyWWZScDlNRDhYNm1UdW5fTFJ1TVlwZWtjZUhSekEwaDUyUnRRR2U0SmlRaHpBeG1VWm40emVoaDdUbDZMZ0s2V2hZU3dORWk3VDVVRjluUVpWU1A0SE9IQkdRWDhfV0drNTA0M1FXUjBuX28?oc=5",
-      "published": "2025-08-26T21:12:38",
-      "date": "2025-08-26"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Apple’s August stock revival gives hope to concerned investors - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVJNWUdFTW85RUxwdU1xN0VrWXctZmZndkI5LTQ4S041X0Q5d0ZNY3JjWWVLS3pkOGJCcE5qcHdJcXN3LVJKVmFDUHdLdnBtRUhCSHJwc0JPTHVSSnpsRXNLSHhsaW5BQjMwMENwTHhMQS1TbE16Q09qODhDODFrMFZtSkNFQkxoZmQ4UkYwV08?oc=5",
-      "published": "2025-08-26T21:06:23",
-      "date": "2025-08-26"
-    },
-    {
-      "source": "Global News",
-      "title": "Tariffs dampen harvest season for Canadian farmers - Global News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYS1WbHhpMl81Rm53MElvaEhSRTFwNXlZTW5kY2FVUlFWOVA4Mlh6TjFnRVYtUmg0S1dLWFg1OGh6Sk9BNDI3VzM4MGVSWXhvX3lEU01UV1djeVgtNkppbWF1eU1zMGJma0pLWjFJQzl5anZnYkdZQWtVTmR5Tmo1aWFSNGstZHBHMXcxaGpQYTg3UdIBlwFBVV95cUxPQ3d5bHNtNmxreEJFcWNvTmw5ellIUVhQbExVZ0NKSVNmVlN6Mk5ycnNlQkljb2hQd08wZlV6VDZxdzQwX1NGWG1NVUU2UmhXSUUxUVZBbmxOYmRnYkE1TEZ1Z1pfdmhuaFN2QlFWYzBmZlI2YjJ4bzhJMTRsbjRhRXl6VGp2STllZWNiaDVxdDYyTXBpbUxV?oc=5",
-      "published": "2025-08-26T20:54:25",
       "date": "2025-08-26"
     }
   ]
