@@ -1,9 +1,16 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-08-31T21:22:16.629093Z",
-  "article_count": 59,
+  "updated_at": "2025-08-31T21:41:42.564609Z",
+  "article_count": 60,
   "articles": [
+    {
+      "source": "Financial Post",
+      "title": "BYD's Profit Plunge May Be a Worrying Sign of Things to Come - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcU1vQWZHa2dMS3ptNXdTN3Jyb2VrWDhCVnJ6aVowRkFSZ3dVd1p1RkxmbjlLZlFxdTFWT3NwZVdFeWJySWdTR0ptd3R2aWxqaGcyU2ZPaUQySGVGV2FSMXNaRGh6bFUxWS00Y2E4T0V0cGFrRjQ1aGFUNnRyYlZ4c1dKQlFMQ2RqY2RKenBtcHhadTN0T2NPRVlIYl8yV2xSdlc1Qg?oc=5",
+      "published": "2025-08-31T21:35:14",
+      "date": "2025-08-31"
+    },
     {
       "source": "CTV News",
       "title": "‘Rollercoaster’ tariff war taking a toll on Montreal retailer - CTV News",
@@ -12,10 +19,38 @@
       "date": "2025-08-31"
     },
     {
-      "source": "National Post",
-      "title": "- National Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXBxMUxpMERmR1ZlS3VIOVIxSE02OVpQNlRMLUdHcEdGRklsSjd0d0pocDBzYk1EMVNHcmFXazlITUFBdzU1NHl6M3Rtc050RkpfUjRkb01QYld5bHBqeEVnVUZVQUd5ZzFXTUhKTkRUMG5BSUN1RFZ1UDg5V3Uwd1hUUnNiMGE2RVk1N3hlMjRLeWYxd09zTmZTV1JaeTJZTlN4bk5rWnZ0R0N0c2lINlU5ckRhRE02MWlhZw?oc=5",
-      "published": "2025-08-31T20:10:40",
+      "source": "Ottawa Sun",
+      "title": "EDITORIAL - Ottawa Sun - Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTcwei04ZF9EdXQxczMtaUhqT1hrRTZXUzhCcTFIc180aHJvUG1XR2JDRjljTXZieTFzMmYxUjZyTzFSX3g2WHpxQWFTb1NWT3JPVHlETHJwb180a2hCdnYyVjRWSzFJT2F1cGpMMnlvWUhYbnlkMjJ3SUxsUjQ0dnB0V1F4c09zMnlfYlE4SDhWM1c0Nkd3YW1EREJtNlE2OXg2NVR1REpBdw?oc=5",
+      "published": "2025-08-31T19:12:23",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "- Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHJ5eEhocnRIVHFOY3kyTkRkelhFZ3RHa252YWhXNThHSGNTYkRnYzQ5YmxfeHAzQ04zcVV5NWM1N3c2VHk4UjA2dlE3Vy1jVVlqTEtEdVR6aVNjenlqSFMwdU01bG5zbVUzYmNyU3F1Tl9aTk9raWNhWHIzRW95cXF1MVJseWZ0ZjM3LUZ4VnRPMDhoR2hXbnk3U01LMzU0SjBUVmxvSE50MjBIa25ldUduNU9iTGJRbGoyNA?oc=5",
+      "published": "2025-08-31T18:42:19",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "Ottawa Citizen",
+      "title": "- Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRTRwTmtsREFidjBlZmJlc0FFMnk2c29abVUwZnRncGlYOUR5dDNEZm1xZlBhQkQ4Z003UldOLXluRGZ0SHpUdjJZWG9CckN1NGlRS09oWnNwR2JjcHZ4b1dleGpIN3h6Q2pPRVJIWF9MTmM2ZUJmcnpLV19WaXdTRW5MZmJfSHhnY1R1R2lqRGkxRmdMNWpqQ2JHVWUxcVlrck1UTk5pUUtEUWRLdWdQY0xzR0ZFU2E3VEgwMFctbkJFbm1uU2d0Tzl4OTRCVXVXaHdyblJlbXY5dWpDNlJoSkxyOGFDb202UjR5YU1mUDBnSWhreVNkRU11WkM3QzQ?oc=5",
+      "published": "2025-08-31T18:30:17",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "- Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1JVcV9XU2RYSUNoZzhoYVR4UkVqSW9JUzVpOGdKNl91RFRnUmNBRlBlUWFEcHhjdERjeXFuVW1HaTBCMDFybVZyZkFXUkRma3FWUXBqa1VJVHVWdno5QWpQZ29pa3E4YXZyakFPaFFaM2dDTmFmTGNQUEF5LVlVMF83d0lHamZfUUw0?oc=5",
+      "published": "2025-08-31T18:26:23",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "- Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPempDNTVlQTRuTFNVcXU5SGE5aDZnVEwzS0djUkEyT1RSMUczOU90Y05NcUd6NjJ2UnhhU3NBbHJ6Tzl1ZGhxWUt0UVRaXzA0ak9zS0JFWmVRdF9LZ0VFSjB2YmZtb0NaakV3a1ZLdDhYRUxYczFNYV9TdlRuX2R1X3ZJRQ?oc=5",
+      "published": "2025-08-31T18:14:14",
       "date": "2025-08-31"
     },
     {
@@ -33,31 +68,10 @@
       "date": "2025-08-31"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1JVcV9XU2RYSUNoZzhoYVR4UkVqSW9JUzVpOGdKNl91RFRnUmNBRlBlUWFEcHhjdERjeXFuVW1HaTBCMDFybVZyZkFXUkRma3FWUXBqa1VJVHVWdno5QWpQZ29pa3E4YXZyakFPaFFaM2dDTmFmTGNQUEF5LVlVMF83d0lHamZfUUw0?oc=5",
-      "published": "2025-08-31T17:28:02",
-      "date": "2025-08-31"
-    },
-    {
       "source": "Global News",
       "title": "Recipe: Bone marrow omelette with braised chuck and coconut beef gravy - Global News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemYxc1puUE9BdTlNRlZpRTdWRDQ5cU5QdFFLeGVpQU9lbGY3U0QxYnJpOWhKcWQ0OThpSkxZZW90N1ZzX3loZTVnZEFDRWxEODJuNlNEWmhqR0FKY3JrcHYxMG5BajM5M0kwcUM0SWZOMVdGeHJrSkN4UnIxM3I4ZFZpS053OGc5M3d5WGJzSXlpbXJmVUtOb21lbFB6d9IBowFBVV95cUxOUG9RU3dNdG1ZV216SnE3R1pOQkk1aDNoMmQ5bGZEQU9paGRuTkJEel9LWS1jamJjeU1nbGU5UzVNRE95Ukd4NEJ5YmFxYjhmRWZqMXFnbEk1OF9mR0tDbFFkWjB0a3ktRTZCdUczc2RPZUNXTV9sOF9Bd29hMUlTRHk4WFYxVk1kbmIwUm5LSEFmT1pKUVM3azFWZU1XWUF0Rmc0?oc=5",
       "published": "2025-08-31T17:27:19",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "Ottawa Citizen",
-      "title": "- Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRTRwTmtsREFidjBlZmJlc0FFMnk2c29abVUwZnRncGlYOUR5dDNEZm1xZlBhQkQ4Z003UldOLXluRGZ0SHpUdjJZWG9CckN1NGlRS09oWnNwR2JjcHZ4b1dleGpIN3h6Q2pPRVJIWF9MTmM2ZUJmcnpLV19WaXdTRW5MZmJfSHhnY1R1R2lqRGkxRmdMNWpqQ2JHVWUxcVlrck1UTk5pUUtEUWRLdWdQY0xzR0ZFU2E3VEgwMFctbkJFbm1uU2d0Tzl4OTRCVXVXaHdyblJlbXY5dWpDNlJoSkxyOGFDb202UjR5YU1mUDBnSWhreVNkRU11WkM3QzQ?oc=5",
-      "published": "2025-08-31T17:20:09",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHJ5eEhocnRIVHFOY3kyTkRkelhFZ3RHa252YWhXNThHSGNTYkRnYzQ5YmxfeHAzQ04zcVV5NWM1N3c2VHk4UjA2dlE3Vy1jVVlqTEtEdVR6aVNjenlqSFMwdU01bG5zbVUzYmNyU3F1Tl9aTk9raWNhWHIzRW95cXF1MVJseWZ0ZjM3LUZ4VnRPMDhoR2hXbnk3U01LMzU0SjBUVmxvSE50MjBIa25ldUduNU9iTGJRbGoyNA?oc=5",
-      "published": "2025-08-31T17:13:57",
       "date": "2025-08-31"
     },
     {
@@ -68,10 +82,10 @@
       "date": "2025-08-31"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPempDNTVlQTRuTFNVcXU5SGE5aDZnVEwzS0djUkEyT1RSMUczOU90Y05NcUd6NjJ2UnhhU3NBbHJ6Tzl1ZGhxWUt0UVRaXzA0ak9zS0JFWmVRdF9LZ0VFSjB2YmZtb0NaakV3a1ZLdDhYRUxYczFNYV9TdlRuX2R1X3ZJRQ?oc=5",
-      "published": "2025-08-31T16:17:26",
+      "source": "The Globe and Mail",
+      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Chip Stock Over The Next 10 Years, This Would Be It (Hint: It's Not Nvidia) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQ1ZHVWhhSDRSYVQ4NWRzNEEtbUVISDVzckdjcXJoNEVfVFI5V2lzNzhBc0tURTRYTEtWYmk2NFAybGRhMXBrUFYxN0dQbEh3RDlPY05URkNfWFNWaWRwQUo2TS1PQXhjeVVlXzZ3R1VxWnYzN0llczVuWGptSE12LTFxaDFhbXUyOGVQZjZUcjJibDRKeGdYaV9pdU5yUGpERjBTY3VRczVKSXpzSVFxVWZYQ09pOVVYWEZVRFVaREVfRE1hNTJNTUYxT3FaTkFRQnBnQ1JIR1MweG1Kd3c3S2J5VUJKSklHV2F3MnVvY2gyYW1IS0lBSG10OFZLZnBvZWVrSWZ3cDFBdUFDMTZyZGFQMXFMcXF2Tk41OXVzZ0NMdzBkZUd2aHN1bHo?oc=5",
+      "published": "2025-08-31T16:28:07",
       "date": "2025-08-31"
     },
     {
@@ -89,24 +103,10 @@
       "date": "2025-08-31"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Chip Stock Over The Next 10 Years, This Would Be It (Hint: It's Not Nvidia) - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaVQ3TUJNMjUyREJkeFFMQnZhNkY2dEZIbExqRnl6cE5DcHJQQVREVVRPMHhvNUxnSVBCSjctT1diaXJMaURTUXA1a2ZkelhCaF9ZX1FDNEVsOXhVVTFWcmhVczR4WllPSUVJTno1N05jamhSVldPRlpiZERiVXFuTm1FZVBzVWE5RHh1VWtFZktYejRSQXpua1ctT0hLaEdMNmhtQjRmSlRtMG81N21DZ0NzSk84bmtuS1V2TkVUSFpYZFBaVXBjd1VHVmNndHpJS09UcjFoUmk1eGVLWDFjeVVxT0VUMGxPczJCX3FFTllaSXZPaFJSbGZXS3V5eFYxaXBKdnJIQ1hpZTdsWDdXZXZ1cmMtMlh1eTVfT29ORTE3cEJiU2JHcURJdEJMOGZj?oc=5",
-      "published": "2025-08-31T16:00:00",
-      "date": "2025-08-31"
-    },
-    {
       "source": "Financial Post",
       "title": "- Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXBMZnByaDYxTDR5ZmpzR2Z1dzQ5X2JaRnEwVndWWWtGRGN1UEZxd21aT08xSmVoeVB0LVN1OWJCeUxXaDVzaFctQkFWZEh6c0NVY0NtZDA1aW5uMnV1aloxdFBrSG8xYW5zbTg4V2JEMlVVVUxUTHBjcUkxQmxwT2JhS3d4ZWJ5Vk81aEozRHZYdUxmdjdGMl9zeDNpZGd5dVE?oc=5",
       "published": "2025-08-31T15:49:26",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "Ottawa Sun",
-      "title": "EDITORIAL - Ottawa Sun - Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTcwei04ZF9EdXQxczMtaUhqT1hrRTZXUzhCcTFIc180aHJvUG1XR2JDRjljTXZieTFzMmYxUjZyTzFSX3g2WHpxQWFTb1NWT3JPVHlETHJwb180a2hCdnYyVjRWSzFJT2F1cGpMMnlvWUhYbnlkMjJ3SUxsUjQ0dnB0V1F4c09zMnlfYlE4SDhWM1c0Nkd3YW1EREJtNlE2OXg2NVR1REpBdw?oc=5",
-      "published": "2025-08-31T15:31:06",
       "date": "2025-08-31"
     },
     {
@@ -296,6 +296,13 @@
       "title": "2 Artificial Intelligence (AI) Stocks to Buy Now That Could Help Set You Up for Life - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORU5LNU9NWHd3eDV1QnZ3bGVucXBWbklLSG1Cam1mS0Niam1YMWNzaDZUWXR3aUJjcUFLZHR5aFdwSVJmSGFKYlRIR1BPOVMwclNFTU5iY2VGUWxEQ0pIQTMtQldTcjA0cHRvTElOOTVoMHM2Z2QzUWUyRzE4STBjRkN2TGJ5UFFXZEVCbUFkLU10UWdoUnJwUE5RS0dDZnhYTG01dkFOVEs0MFY4NDFwZEoySXhJeFlDS0hEQVMzVS1malZrSkhkajB6cE5JOUo3Qzd6UEtMdG5EdzlwS0c2YWVEbi1iX1RpU3RDcmF5U0xQak9BLUJzVi1HS0ZjQQ?oc=5",
       "published": "2025-08-31T08:22:03",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "Some Indigenous businesses in Canada halting exports to U.S. amid Trump tariffs regime - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EMXFsQlVmT0pjdFhIOHBBLXM0QmNEd0x1UDA5aUR0MmxTNEVMVVA4S1NfYWFPLVZNM1k2bWpDc2R2V0xUbkl4NHpEd0lQRTBW?oc=5",
+      "published": "2025-08-31T08:05:13",
       "date": "2025-08-31"
     },
     {
