@@ -1,21 +1,77 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-09-01T11:42:53.423663Z",
-  "article_count": 97,
+  "updated_at": "2025-09-01T12:52:24.333073Z",
+  "article_count": 109,
   "articles": [
+    {
+      "source": "CTV News",
+      "title": "Wildfire within 1 kilometre of recently evacuated Fort Providence, N.W.T. - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWR2M05zcnpFSXF4NDdFY0hqYldNbVZ2NzZNSjdydC1FTWItZXExcG1PcjNEcGh5VGZvMTNMVWJkRnNVVTRfZWZleHpiUTJTR1V3VDZuMkVWX2VjZ3d4U19kNU9MTUFqSXJFMzhMQlNUd0VyTTIyeVNvVENGcGFmUXIwcG5tSEdKRUJOM0hDWmtRUzgxUkY4OXI4X0lBSEI1QVdEdFMyall4MUM0?oc=5",
+      "published": "2025-09-01T12:20:01",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CTV News",
+      "title": "French streamer says he ‘didn’t kill’ co-host in live broadcast - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONklheXZkWjQwLTRtWVR3TU51Y3RERjlTRWFlTDY5a09CM2ZFMm55a3VmY2tQV1JzbGdwNWNac3RVejBjZ1lLNGtydk1iVnNGa1BZQmYyRE4xRGNyTXFsRmxjOVFNMGxZTm84SG82ZE9tYW00eWVSNE0tcDBuQVdIVVdjLTJiNHVZeXh6UnlnZF9Dc3Jta0F0aEtCN0sxYnc?oc=5",
+      "published": "2025-09-01T12:15:43",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CTV News",
+      "title": "‘Mercy of politics’: Canadian farmers weigh plans as Chinese tariff hits canola price - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeE1yWS1WSWlCSHU0WFJvdVdVaHBJSloxS01id3VJMUtCQW0zTGRvQ1Z0dTdWWUQwR2dhbVh0UlZncjZic3c3RjF6aDI0ZXliS1U0a1RwMy1TWkF5MjNIU3NUeHJ4QmNUY2xLbjdkaHJWbW14ZzVFMFJ6SU5IcTJFMzNOTkM2VjRhRlBNS3lZdGJzd0wwUUd5TWFjN3VLRTRINV9yczYwMDZwcFIyV3V0NDlVLWNDWDU5a0JMRnAxUXpTR2dFLUpYMDBiT1QtOEhf?oc=5",
+      "published": "2025-09-01T12:05:13",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "‘Mercy of politics’: Canadian farmers weigh plans as Chinese tariff hits canola price - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGlTQ3lCTUwtMDd4cm1URW1LTFZ2SWhXR0xZdHRSaUFNdi1WN2dNWjV0RXJ3RmNjMHdWMXA2bXZxYlBvUWh5cFpMaVhoQWFTQnBSRFZSaHF3MElTZ002UzRUQzVpLTFKd3pTQU5ZandVM0lpSHA1cGpmSjZ2LWtUV0lJMERnWEFuMmRHZWdzdlprWXhrbkNmYWtvLXFyS3ZiN1NEYkhibFh3ZWJkNmFoRFhJN0NQMkRaaThjVWVIMkpuM1ktZUYxVXNn?oc=5",
+      "published": "2025-09-01T12:05:13",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CityNews",
+      "title": "‘Mercy of politics’: Canadian farmers weigh plans as Chinese tariff hits canola price - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGVIVUJ1UndRWVlSSjFDTk1TakRFQl9iYmVaVEhBUDV1aEdLUzJBSml2blYtMGxtbWhvSVN2ZURBdkNmcUhTYzMxeElIaXFXU2RWY1FpWjN6RVpSNmZFT0ZpQUVKVkt4WUdod3E4UGhkdE5NNWZvakFyOTNoUnlPV1RNSV9tYlZNc2pWWklmZTBaeXlHajFBc2U1eF82V0NrQU1TQjdFZm9HS1MxTnRIbzlEWVJhbWktdDZXbnVQTQ?oc=5",
+      "published": "2025-09-01T12:03:07",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Food influencers help local restaurants go viral - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFlWR0ktbzVGS25vYUo0UVBzeTFfaTNJOFRRT2FxWDhlSXVIMGNCUERFcTFvU193UE9lUE5NOXRWVnJucHZaNlFRSlFJV0tybTl3bFB2REdJZnptWFZmdW5XUEtHSFFIeXZjQmc1c1VQbFRoaUJyQlhKR09nNEQ1YUhlcmcxSk1IbnJ0UFpkVkRpM1hwdVlZc1Z6UW0?oc=5",
+      "published": "2025-09-01T12:00:00",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CityNews",
+      "title": "From Jackson to McKinley: What Trump's shift of presidential hero says about his evolving goals - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSG1mUjZvLU80a1UtVFNBV2dFZVVYeWNZdlppRWtZRkZZOGJQMjlKa3ltT0NLTEVlX1Buam94cGtBTGxCNGNkSkpOM0lucDhiTlpqVkt2SFFvZ3ZWenNHM2g3LU81UXgxa244VWYwcWxrN1lXWTZGQlk1eU9LcUhUM1YzLXFzdTBSaXFNWS1KRmtHdXAtWmotQjRrZHY3Z0drbFptcUl5ODViblp1OVFqT3RGQnNTUVJlMzNrckpvYnJwRE1odGZkX3lYMWJaQQ?oc=5",
+      "published": "2025-09-01T11:54:17",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CityNews",
+      "title": "What to know about Indonesia’s nationwide unrest over lawmakers’ perks - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzJQNk9qY1dNN0xYWkFHZGdvcVZXeVFtZkVYbmxOU29Ob0x5ckx5NlhpMnlCZXJIM1d6ZGhBYXlIUkVGYzV4eERYcjRUNC1jTDFpLVVtREd1MkZ1dXhzR284bTF1cTBYY1U0eHM0TVhZRW1HVEEyNWNwS1RxYTJsc0dzSUxicEpGVEtVWXV1cTRBaTZqcGVWelhsNEhqUEZXc3ZNYVpoTEw4N1NR?oc=5",
+      "published": "2025-09-01T11:54:16",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CTV News",
+      "title": "Leading genocide scholars organization says Israeli action in Gaza is genocide - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWN2TThtQmJMM3NmYUx3RFVGOW5nOS1rZ3RJb1AyTkYwYjFObzZpR0JRcHhWdEU3cUNDUDVPMkdtMHdDeWFzTVdsLVNrV041MjBiWXgtRWJJUzc3VHhxaGhzemw2eF9ReThZZFNvdFR5YUpOVEw0SzB2a0dUR25xZjYtYTBGSXBvWWppb1Fpc1U5NGpMR2lGbW5xWE9zbFBMeFFpZ3k4QXM0cXhmTVE1UTNlakcyWERpamZYdmRqVllPUnpZcGhpWEZ3Q1Uzdw?oc=5",
+      "published": "2025-09-01T11:48:54",
+      "date": "2025-09-01"
+    },
     {
       "source": "CityNews",
       "title": "Leading genocide scholars organization says Israeli action in Gaza is genocide - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTRLUVJnRkZfdDRUR3BPVTFXczlPTjhVVDctaFVNUlRtbDQzakFCcW1FWThQZHJodXB6QzdFdFc4Y2hBdl95SVZyMDktYTlkRnVlT3J6NDNfcU1zWUdZQXU0QnotX3p1VXhZREgwY0kycDVXOW1ibW9heTd3aW5FaWZnTWxXcEhjRjFFQjJPOEhwbkhuUFZWMGZfTE9lVWtKUl90N042N3VwQ05fOGRfMFp5dlYzVlE0YkE?oc=5",
       "published": "2025-09-01T11:38:01",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "North Korea releases propaganda video praising its soldiers who fought for Russia - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzE2cG1keVdyeUxJdVA1RS11cFROb09JQTlKQ0VHWXhYdmlBdjJUeVNTN3pHVzNQbkIyT1MtMDdzM2tCSjVFdmM5Y0hPbHRXanc5bEJoYng4cWNENUt5ZmRWb1p0RXpiWXNyTzRhZmtXMHpCSVVWTjRjMmZObUhIMWw1ank3NVVabnpOZDdiUnhrWkpqdWdEVkZDc3NoYmpqVnh4cVVhQnUzZ3hGWktjSnh2Y3JGSVEyT3g0VGgyQ3ZzS28wLXRIVUM1WlRzVTc1ejdhVQ?oc=5",
-      "published": "2025-09-01T11:37:06",
       "date": "2025-09-01"
     },
     {
@@ -34,9 +90,23 @@
     },
     {
       "source": "The Globe and Mail",
+      "title": "Better Artificial Intelligence Stock: ASML vs. Taiwan Semiconductor - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMkRlUGpyY054T1ZGM0lZM09uVkplNGMzbjZkUHJxTWR0M2NPd3BRaTV4SkxfQXVpUTYyakhLZFA5d2JUcG02Y1Joa1AySnBSZFFmZ1A0TS1FU3pEbEdGV055ZUtuMG9hM0JlbDNON3lZT2lEUzM4cXNCLWVua1BDa3BTNTk1ajZYMG5BRlBzWVYyZE5tT2hPaFZHNlJiZGlCbE1kbE5IVWxWdDB5aVg1TVNQMWlWN09CT0xEYlc0OFFVWDUwS0JNd0tYZjJYSG1xY2JJNkJYY1lrQXNuZjJxYjk4Wko?oc=5",
+      "published": "2025-09-01T11:28:16",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "The Globe and Mail",
       "title": "Opinion: China’s Himalayan megadam poses a global threat. Where is the world’s outrage? - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW55ZmU2MzJFcmRzRTl4a3h1NVZVc1ZMVHRLX191QVN4TWIzUHRYOGpMQ0p0MHZwMUhQNWx6SUR4TnhHSXNtbE1yUlRCeHBOV0dpc2swMzgybFh3V0oyM2xrWXI5eG9LTVpOQUNUQWVGRS1rMDYzbU82aWNGT2lhNEQ4ZzU5djktc25FaUZoMlBuMkZOcXJjNGhxbWV3SVhpc3dILXpveldkRDVlUlVyUWF6dTNHUQ?oc=5",
       "published": "2025-09-01T11:00:00",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "CTV News",
+      "title": "Army helicopter crashes in northern Pakistan, killing 5 on board - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFVWOWNDejRfMlZtNVEtZzNNYUU3Zl9FXzhKVHUxVl9IdC15dEN5M3phd2NHM3hPRXdlT1l0RE1qV2pseVpSaXBXOU52dW1wcUdnaVh1T0w4R2ZLaEtjNFVaWUhYaGt1V0lDYTNGOFpoM0tlWEl0TUdjUXBWeUJRRUkyb1V3ZU1QQzkydEt0NUZYLUYtWldXbzV4ZGN3R3hfbThV?oc=5",
+      "published": "2025-09-01T10:57:46",
       "date": "2025-09-01"
     },
     {
@@ -47,6 +117,13 @@
       "date": "2025-09-01"
     },
     {
+      "source": "CTV News",
+      "title": "Storm forces flotilla back to Barcelona port, delaying its journey to Gaza - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZC1jODcyVWJNM0g0dWRPRG5QNENZVERNdk5kUlBCakx5QnJxdjJtcERWZk9KZkNvWFotbTN1Qncxal9DYVJZRXM1cGEtTEJ0TTBrWm1sRUgyQ24xRHZCbWxlZ0JnSkpEZmt3V1Y1dW9XN2E1RUgzMnllcjduZTBoRWlxWDRpYzM3ZXEwTFRiYXhvZnZ6QUFaZmRYOEpyRVpRRTBvNDItY0lsZmJMNy1VRXFoanFXeW1HQzVreXphNXpNUzlwSDRj?oc=5",
+      "published": "2025-09-01T10:49:05",
+      "date": "2025-09-01"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Canada’s canola industry seeks U.S. biofuel policy exemption amid pressure from China tariffs - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdS1oMkhLdi1GRTB1UDZ1TzRmUjI0cXF4LWhZVjh2UllZLVZYaDNtNURCOC1DS1FDNTV2bUotNFRPcUYtaVlqNXhpc3FRT0FhY25CNmRtdmF0MVM5WTNDOTkxN09DOHhHQkxhZ0lPNzNMRXUybGdGUFlnN0V5VFpIVzFhOEVCUUFGenYweVlqT0poTTVjVWxYQWFqVmpEQkVpVXZFUzhzYTlNTWhxN2JZOEQ0LXdUcGE1akZxSA?oc=5",
@@ -54,10 +131,10 @@
       "date": "2025-09-01"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Should You Buy The Metals Company Stock Right Now? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUY1ZF9ieGpxalNNV0d2Nm1aUXlkNlhOcmM4R1VPb2lZNGFCMk96OEJkRjZZcHpubkVvYXVsR1ZTbTNCa1dVdzU5V2RYMUplOFRTbU9Td3Q3NGxISEcxdDhUY2xCWHFTTDRESWhEcExYRmJGd0tadHhYUVUzcnJ0aXFTLUlKOEFMM1VmLVhRaFRkZThrTE1JVEQwc2pmZDNoUmVlNENJandlY1hJUXVDeGpVRkp1QnlDMzhNR3I4SE1hZUhoMkIwLXlMMjVUcHVLUGc?oc=5",
-      "published": "2025-09-01T10:32:34",
+      "source": "CTV News",
+      "title": "Labour vote splitting as Canada’s political parties battle for workers’ support - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakhIQmxmUTBMZkNrNS02Wm1oaXZhSXdLZVJfMi1FVkZLYjFpcDVrd0lrb2F2WkNaLXRyWjF0bnNFbVRUMWVqR0pZb3BVdUhNaUtZZFJ2ajNZNU5aSDlZU2wwSTBfems0UnhINVRhSW9WOE5QcjRsREk1aUtsMmxXaDcydmVmb0RsazVqVWxzeWtiNUE5cWV1RnJaWG51elAwQTZzUWkzcUJxR1FmcUlBRVhpd0c1RnRINFE?oc=5",
+      "published": "2025-09-01T10:36:33",
       "date": "2025-09-01"
     },
     {
@@ -117,10 +194,10 @@
       "date": "2025-09-01"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXBMZnByaDYxTDR5ZmpzR2Z1dzQ5X2JaRnEwVndWWWtGRGN1UEZxd21aT08xSmVoeVB0LVN1OWJCeUxXaDVzaFctQkFWZEh6c0NVY0NtZDA1aW5uMnV1aloxdFBrSG8xYW5zbTg4V2JEMlVVVUxUTHBjcUkxQmxwT2JhS3d4ZWJ5Vk81aEozRHZYdUxmdjdGMl9zeDNpZGd5dVE?oc=5",
-      "published": "2025-09-01T09:32:16",
+      "source": "Ottawa Sun",
+      "title": "- Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRXZjMlZ1UXhlRlZSWk5aYnJRTG1DdDZudDVHU1dybmhHUld3Z1AxYlZwTjNvcm1zVUprejE0Z2MyRi1hZ2Q1WWhnTjlGcEo1UzB3aVRKOGpLOHBYT1drenlTZ09kV1Fod2p1OE8ySElFMXV3N3BUM3J3ZUtfTTFOM1BWcG5NVEV6bnNqVEdBcVFwbmprRkJpd29MUGZXUHI2NzZqZF9wUWlJbDBvaDR5NnhIRl9ZUXpYQi0tMTN4M2FERk9EeHpPSFozSFNTMlRKVVhaSmV1OUNDSDJTUjYxMUd3Vk9CWXgxQzdnREExNDhiaTUtY2t3c1pVaC1laU92cTBES3p2SnlBMXZPUHV6bVhRWldzaGk2T0ZodF9LT2N6MUE?oc=5",
+      "published": "2025-09-01T09:42:23",
       "date": "2025-09-01"
     },
     {
@@ -159,24 +236,17 @@
       "date": "2025-09-01"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1JVcV9XU2RYSUNoZzhoYVR4UkVqSW9JUzVpOGdKNl91RFRnUmNBRlBlUWFEcHhjdERjeXFuVW1HaTBCMDFybVZyZkFXUkRma3FWUXBqa1VJVHVWdno5QWpQZ29pa3E4YXZyakFPaFFaM2dDTmFmTGNQUEF5LVlVMF83d0lHamZfUUw0?oc=5",
-      "published": "2025-09-01T09:06:09",
+      "source": "CTV News",
+      "title": "Click-clack comeback: Toronto shop thriving amid typewriter renaissance - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkdpaUUxOG5nVUhZYVBnS1NEMGxBWDctSzllUDZURVVYTDczaTI4RTk4WGxLcFFUbFBPZkZkTG5WVnlrRzBLTi1qRFR6dXJEbFZPNUFoQWJBNXptSWFPTVNBNlJld0lnNjhuTW0wMDBVWmFEU3RmSGNibHJBSjVfX1ZWY1NvWkV3Vkl6Tkt5VlNhNzM3aXVoblZtQkN0VmcyRV9fbW50YW5kcHMyVUpSSHJB?oc=5",
+      "published": "2025-09-01T09:00:00",
       "date": "2025-09-01"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFlNRWI0ZkhYZ2hfZS1BLXVDckhPLU1hdTVPNUZJQ01EWWhYRHRYZGpZMnRoUmY4WFdWNi1OTnBKV1UtMlpKVk5jd05EWmF5SDgyZXhoUGlEZkJMMTF6LTMzMlE3dEc4VFZzRk9FOWV5eUl6bVc0Z1psNXhZb1d3WnY0YVRzZVFiZC0xTEZRamEyRGppWmxNYkNieWk?oc=5",
-      "published": "2025-09-01T09:06:09",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPempDNTVlQTRuTFNVcXU5SGE5aDZnVEwzS0djUkEyT1RSMUczOU90Y05NcUd6NjJ2UnhhU3NBbHJ6Tzl1ZGhxWUt0UVRaXzA0ak9zS0JFWmVRdF9LZ0VFSjB2YmZtb0NaakV3a1ZLdDhYRUxYczFNYV9TdlRuX2R1X3ZJRQ?oc=5",
-      "published": "2025-09-01T08:54:13",
+      "source": "Ottawa Sun",
+      "title": "EDITORIAL - Ottawa Sun - Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTcwei04ZF9EdXQxczMtaUhqT1hrRTZXUzhCcTFIc180aHJvUG1XR2JDRjljTXZieTFzMmYxUjZyTzFSX3g2WHpxQWFTb1NWT3JPVHlETHJwb180a2hCdnYyVjRWSzFJT2F1cGpMMnlvWUhYbnlkMjJ3SUxsUjQ0dnB0V1F4c09zMnlfYlE4SDhWM1c0Nkd3YW1EREJtNlE2OXg2NVR1REpBdw?oc=5",
+      "published": "2025-09-01T08:40:08",
       "date": "2025-09-01"
     },
     {
@@ -208,13 +278,6 @@
       "date": "2025-09-01"
     },
     {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGNCcmRrYW1YMWd2eXc5X2I3Z3NvZFgtcjVnOGZQWnZ6WWlzZjhrekVKM1pRQktpb2lGUTRDSzlqM2hHaWJiWnhJTy05OTVJVl92enVZeGFnakt6UDJNbl9TcWZsdGtQNzRudF9YNTFDQ2pEREdxd2ZNMjBuanBQblhXS1o3aHhaOXlJVVpZYlMwOE84LTZjVFRwaXhYZjJvRXhvWkFfblNodw?oc=5",
-      "published": "2025-09-01T08:06:04",
-      "date": "2025-09-01"
-    },
-    {
       "source": "CBC",
       "title": "These writers recently won Canada's biggest literary awards - CBC",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPLTExWFJvQzE2OHZWMHRCVlppMnpHMTlDellmbDZPWDZKS1pQRzlrRjRaUVAxWXcxLW5Eb0dEUzloenN2SktXdjRxbFM1cXBfLVBFTkdsaVRqbE9GWlNzRTRmVkE0cFlnaGt5SDZrNUZQdGdn?oc=5",
@@ -223,14 +286,7 @@
     },
     {
       "source": "Ottawa Sun",
-      "title": "- Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRXZjMlZ1UXhlRlZSWk5aYnJRTG1DdDZudDVHU1dybmhHUld3Z1AxYlZwTjNvcm1zVUprejE0Z2MyRi1hZ2Q1WWhnTjlGcEo1UzB3aVRKOGpLOHBYT1drenlTZ09kV1Fod2p1OE8ySElFMXV3N3BUM3J3ZUtfTTFOM1BWcG5NVEV6bnNqVEdBcVFwbmprRkJpd29MUGZXUHI2NzZqZF9wUWlJbDBvaDR5NnhIRl9ZUXpYQi0tMTN4M2FERk9EeHpPSFozSFNTMlRKVVhaSmV1OUNDSDJTUjYxMUd3Vk9CWXgxQzdnREExNDhiaTUtY2t3c1pVaC1laU92cTBES3p2SnlBMXZPUHV6bVhRWldzaGk2T0ZodF9LT2N6MUE?oc=5",
-      "published": "2025-09-01T07:44:00",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Ottawa Sun",
-      "title": "CGTN: President Xi highlights friendship, cooperation and multilateralism at SCO Summit - Ottawa Sun - Ottawa Sun",
+      "title": "CGTN - Ottawa Sun - Ottawa Sun",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNnNLZ1Z3dWswZnV6M0ZWdVFkMkIzUmQ4am9YOWlzYWN0WFNYVTF6TS1HaGR5N0VZdVlZMGc2bGI0N09JTnJqeEpFbXpxOUd3V2c0UDFKa1RLZTRxZndsYzFwZFF4cXV2cy1oQ0o1U0piMWVGRDZCSjViUjRvN2Y4Tk92TU1yVnFwOFdhUmVva25hbHJmLS1qOVlLY19wdXVCazFSWG85VElJQS1EQkk1M0x0ODNFdzNRU2llYzk2Y1lfLXp6MllwZ1FsR1VvRW1MQkpBX2EtQVp0eXNpXzduTy13?oc=5",
       "published": "2025-09-01T07:41:58",
       "date": "2025-09-01"
@@ -253,7 +309,14 @@
       "source": "Financial Post",
       "title": "Boehringer's HERNEXEOS® approved in China as first oral targeted therapy for previously treated patients with HER2-mutant advanced NSCLC - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdWM4X3Y1bU1KQW81eFlESlozck1wdGNBSjJabm1JV3RXbEZhX21KdVpqQUpMSE5WU2ZQeDZReS1GX0J5V3dkUm9Xd1ZyZ1diU2lBcllsT3V6bUUxeFlnZGhNU1FFbGNha3FCTnBnb19WRy05eHVPd2dRa0ZHUFkxaUd4dUpTaXZ0bG5xWWVKeWJwUy1JODVuMmpoUnNFaXF2SWx4VVQwVVJNV0pCUkJ2QS1JRUxSd014OFlrR0g3SXYtSHpIWk1IeFc5QURyTm94am05TnktR0JCZDhnWGVrWDJWal8zUlZUeWlnLXN6dnNob1ZJYzUxYTJHSEYyR21hOE05b0hB?oc=5",
-      "published": "2025-09-01T07:14:20",
+      "published": "2025-09-01T07:14:49",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "National Post",
+      "title": "- National Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2tqLS05Ul9Na1M5TnozSGxodXVJS2ZIVW1aNzJLSXR1X185RXYxRUgxbXQzSHNUaFVyN0Y2TTBvcU9ycFM3TGZZRGJ1UmtSZTdrdU1pcFliQllmX2Z2R0ctd3J1X0lDZl9rb3ZrMnoyMUg0ZHBHVmFLak1JQzVEYVNWMWhsRHlrOWY1blJhRXVvUGJKTmlmc05maHJaeS1CYTBHX2V3RG1DVHptbjVaaXVsbkZZTWZESk1qN1pPTUlreENuWmwySkZaQy0?oc=5",
+      "published": "2025-09-01T07:10:04",
       "date": "2025-09-01"
     },
     {
@@ -268,27 +331,6 @@
       "title": "Asian shares are mixed as reports show a marginally improved factory outlook for China - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY0o4WHRHc2RsdlIxMWVLNFpULXlhTmhzUnRsUXllbzNldFc1Q2NLS1NUclh2OWhHRU51STg5cE1McG5oS282TFhnSUFNZHVJNW5ibVlScXlmdDVCZ0Z2TnNvR3hkLS1BR003em5kNFZnYnZwOXJxS2dEU201dkNGaFlRMFBwWVBJcG5Xbk5FLUVFU3F3UXFMVGlSRUVaNGQ0UVpjVm8zSTZDcWNJd1RtYzNUS0QwSFlTU0Q2akl5TFVJbHhnS1lYUkZtenJva1drZVJWUk1VMGJqb3o1MDJ3aURqeGl0aTZnSFFDSHZjbE9fMFZ1ZWJZYWxPNGdhQ25l?oc=5",
       "published": "2025-09-01T06:52:22",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Ottawa Citizen",
-      "title": "- Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSk1GU1Y4Nm1Bcm9tMlc5bHNFcnZQX3d0SldWdDRSdUk3b2hXeWRHd2lZUHpMVGJRaXF5SUpYUS1EbHlRRVk4ckpXN1NtdlM1ZXVvejhrZHVfRExpWUxHOFhLbW5yUmJ3TkdaY2k2c2JjVnVoLTZzcDdoM2dCMWRzUnp0OEwxZnpMQnRzcWVELXhBSDZDX3BDeHpVRlFONDgyRDRNN1NITjZNc3ZoazUxZXE2c29peGZVd1E?oc=5",
-      "published": "2025-09-01T06:41:50",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Equinor Plans to Back Orsted Rights Issue to Keep 10% Share - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUTlxSlY3ZVJ0YlYwUDFzX1cyU1ItdDhGV25CSkdjVVU3eHhaeGxwSUJQUWxDVzMwaUI5Nk1aNVIxY0FxRjhSb0FRUG9rdW5GYVN3Y0JRVHZGWXZ5VnFPQldybE5MM0hoV1FYVk14OWM0b0Z0aGEzZnkwT2RnaFpfbGRwOWs1WkwzXzR6cEhYQ1NiVkZfY2plZGhuZlAyNHRwOFBB?oc=5",
-      "published": "2025-09-01T06:23:45",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ0FldDlReEREaUcwbzlDM0lTR0VnMlFmZjhXcUVwUFhWQ1pQYVJKYTJRN1VweUdOMkkyNEhVYmJwV1lGM1lROHFDTW5DTjFJUVFLWFUwS1dYOEFJbFgxektXaXVSQ01IX2tmSVN5ZU01aWQ0Yndwak9pNW01cm5lVXhGaTZsM0RDTHU2WE1wV1JBSFBFMmlhdnVlQ20wRzdjck9jSnQ3eVByeUVlOTBnM1RrSVdUdHJ3MUNFNXRkWDBKSXBfUEM0SFRlZDZiX2llQnJla1FEUzRHQQ?oc=5",
-      "published": "2025-09-01T06:17:47",
       "date": "2025-09-01"
     },
     {
@@ -321,30 +363,9 @@
     },
     {
       "source": "Ottawa Sun",
-      "title": "EDITORIAL - Ottawa Sun - Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTcwei04ZF9EdXQxczMtaUhqT1hrRTZXUzhCcTFIc180aHJvUG1XR2JDRjljTXZieTFzMmYxUjZyTzFSX3g2WHpxQWFTb1NWT3JPVHlETHJwb180a2hCdnYyVjRWSzFJT2F1cGpMMnlvWUhYbnlkMjJ3SUxsUjQ0dnB0V1F4c09zMnlfYlE4SDhWM1c0Nkd3YW1EREJtNlE2OXg2NVR1REpBdw?oc=5",
-      "published": "2025-09-01T05:43:43",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHJ5eEhocnRIVHFOY3kyTkRkelhFZ3RHa252YWhXNThHSGNTYkRnYzQ5YmxfeHAzQ04zcVV5NWM1N3c2VHk4UjA2dlE3Vy1jVVlqTEtEdVR6aVNjenlqSFMwdU01bG5zbVUzYmNyU3F1Tl9aTk9raWNhWHIzRW95cXF1MVJseWZ0ZjM3LUZ4VnRPMDhoR2hXbnk3U01LMzU0SjBUVmxvSE50MjBIa25ldUduNU9iTGJRbGoyNA?oc=5",
-      "published": "2025-09-01T05:33:41",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Ottawa Sun",
       "title": "Taiwanese-American NBA pioneer Jeremy Lin retires at age 37 - Ottawa Sun - Ottawa Sun",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmFlVUwtU01WRWJtYThBYS1fNWUyNFpQdDNPeGJOaXZIUWlqVmdaZ0ZBNTBBcEY0bk5qZnUxLWk1c3E1aW9NX3MwanBJSWVEQXFlNXEySTBBNjhZNjlvUUtEeHc2SVdvVTVxUWQzSE5Fb05aS2xHYzEwYzJWYW9GVV8tcnE3S3g1NklUZ3NVZEZHdWZmM2xyWVZsYkNzanR2Z0g4cHdtMG9waW5UVzJvOW15N2VjUmFEOV9lV013?oc=5",
       "published": "2025-09-01T04:48:24",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXk3RXBMdWoyTFdNcWpSSDNuZjVnYkhnYVNFaEhMRnd5cXUyRGFlMWItMlZFNjFxZmdYVnAwQ0JKMmpsNS1wSXJsYmw5RTdfb0dJbFU1UW41aDkzdlFqMVZ1SHIxd1dwRnNkRkdFa2NzVWpWQk5INk1OX3JqN3lKWUQxMjV6R1R3eDJmUkNFMGtSZHJVZmIyWndXNEpqaEpzbmpSdExoY2NyVURCM0pJV1VpOGpreGkybWlhSzE0bTBxdHVleE9wMDRrUDRRQQ?oc=5",
-      "published": "2025-09-01T04:17:29",
       "date": "2025-09-01"
     },
     {
@@ -355,10 +376,24 @@
       "date": "2025-09-01"
     },
     {
+      "source": "Ottawa Citizen",
+      "title": "- Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSk1GU1Y4Nm1Bcm9tMlc5bHNFcnZQX3d0SldWdDRSdUk3b2hXeWRHd2lZUHpMVGJRaXF5SUpYUS1EbHlRRVk4ckpXN1NtdlM1ZXVvejhrZHVfRExpWUxHOFhLbW5yUmJ3TkdaY2k2c2JjVnVoLTZzcDdoM2dCMWRzUnp0OEwxZnpMQnRzcWVELXhBSDZDX3BDeHpVRlFONDgyRDRNN1NITjZNc3ZoazUxZXE2c29peGZVd1E?oc=5",
+      "published": "2025-09-01T03:45:43",
+      "date": "2025-09-01"
+    },
+    {
       "source": "Financial Post",
       "title": "Modi Shores Up Ties With China, Russia in Defiance of Trump - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2VWT0pQSlNRcVBVZHA0YnRzN1ZGc1hkRDFTNFo2Rk03TFNxNUsyYjZ4MFIyQUJtMGRmbC1iak1uQjFwYXIzdEo4NGltN19qNzl3STY0NVdiYnB0WkJnbXNZdjNnUzhtYW4tdVBqS0JhaGh1VGxEUThiV3VncV9lZTkyVS1RYjJnM2lnMlRIQVFGUTQ5UVNTWWhfT042ZWlGOFNZ?oc=5",
       "published": "2025-09-01T03:45:00",
+      "date": "2025-09-01"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Chinese Crude Futures Flash Weak Fundamentals for Top Importer - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanRPaE5fZmNjODJLOHI1SElBWVpWcGZnckFoZ3RkVnhwSGZzQ0twTHozcURRWkJxMklxZmJOZTZXeU1YVTZ6X3o3OVo1WnJpeHB1OWlKODNmZ2VHTkJEdFRjOF93TURhRjZSNXVwT2t0aGhleTFKaTdhUGZLV0xIbVROdVJ5bThaem1Nb1JVd2p5MTlSdDlWMnZndDVBaWF0ZnRwbHpENi0?oc=5",
+      "published": "2025-09-01T03:43:26",
       "date": "2025-09-01"
     },
     {
@@ -378,29 +413,15 @@
     {
       "source": "The Globe and Mail",
       "title": "Asian shares are mixed as reports show improved factory outlook for China - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS3BGZVBvdkZhN3JNMXFrNGdiYWtsblBQc185WmZSQk5BQ3hZZHBlYXFyYU1VbnpkNU1YQzllVEdIX2dmZGdwY0FTRk81d3A1RFdEdTN0U0JCTnFKbW1QZU5WSTZxYXhHTURrT0ZKRXN4bTJfb08zcy1CT1hyLVRCR0xTMGFOQ3MwY2QzalhpZWhFMzFuZXFoS1BhYmlBcGQ3R0RsRWtWb1hkQ3VYckhSM1RSczVpeUQwcF9tWFVEZ012c1VDU1V3NGJjNWdtN0hoOTh6ek1vU2hGVm45RWpPY1JHdVVqbUY4Z0ptSU1pRUV0Zw?oc=5",
-      "published": "2025-09-01T03:29:51",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Asian shares are mixed as reports show improved factory outlook for China - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWFVHSlFCWVpLQ3E4a0pjUGRGT1J5UjdzODJ2RnhieExiOGYtUlJjOElORTdCbjFhVUxPaFpsSHA5NkxCQ0t5VlE1YkZTMHVkZEE2R2kyUTVpbWRzSGxyNkZ2QlkzRGRjQTZDdjFSU3hwSUM3SzNjVEVHNTRRcmVweWF1TEgwYzBwamtWa2d6MWZZVE15azhPUFRJbmtpQUJNOVNTWHlHRjBDbnlfXy1FZV9DYWZwbUE0M2Q3cnRQTkFpVk80eHYwODhrSnc4STRoVzNDejNxY2d1ZkphdGlMdGRWX3V5TUl6Zk9GdjRvbw?oc=5",
       "published": "2025-09-01T03:26:00",
       "date": "2025-09-01"
     },
     {
       "source": "The Globe and Mail",
-      "title": "RAINBOWCO's Port Container Equipment Brand Undergoes Strategic Upgrade to Strengthen Global Competitiveness in High-End Manufacturing - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZ1drd2pDN090eWk5dWJUMmlBYVJQNzlUS1p5eWotSkZlN2dET2k1dU9Vb1ZMMzJNcmktZWNiWkFFVWlIZmMySmxhbWRWc1JyS3NlX2RUNmRtSXVDRjY5SkFlaTZqc1F1cC1FYnFLenNudWMyUFFyWGFyM21MMEU2SS1OcmY4bmc3SkFtbHdNUDFIaW1KdXZnSU9XX0FYT2Q4VVVoaENMNEpmODJGSXFVZjlPTkIxaEVkN3dFUl9OWE1oeGZJNTg4YXlqaXdJT2dlUUJ0X0d4QmFib3R0SFhtZ0pFYmktMl9WSXFaeEl2aDBDWVdiYTRVQ0JBRTBoMEp2RnBySElIN1BUdWh6NzFVRnpZWnRYNzNHYk9qZDlET0dvWXFRRF9BbS10QkVZa1VDVFdGc3pXeFprZ2F2WDdr?oc=5",
-      "published": "2025-09-01T03:01:00",
-      "date": "2025-09-01"
-    },
-    {
-      "source": "Global News",
-      "title": "Global Player - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVa1BxVTk2TVRNbkRNS1VrSXhfYjJWZWxXSkZyRUdrT3VVVUpPSGxZMk1ZNkVFcGpaMlBudnhBZ3otaXR2Ql9FMXhpVC1fb1ppVlo4c05B?oc=5",
-      "published": "2025-09-01T02:42:37",
+      "title": "Asian shares are mixed as reports show improved factory outlook for China - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdm52bFpPQmxKeWhLSU9RNXNjNnJqUXFNLWwwWEVyNVU4akVUUUE4N0d1ZWc4TzYzcHprRGFha1JNWXU3ZnFTcElxM0szOVd1M1BrMnBBWTIxTW1rSVZuWm9UdDdmTHlVUHJvUExaRVFyOEF2RzNiTHdkMGpqQ3VZb21KRTBLaHZqX1NXN1ljeTBlQktXMGN2c3ljaE9WNEtVcXdXVWlIcjRpRV9mU2dZMktMMG1pNGhVTmUtSUYwSl85bC1PUkVXdWtBWDRjYWZkZk9pTWFMdEFZR2R5MHo4YkFRenZnM0Y3OVhBSkVpR0JVQQ?oc=5",
+      "published": "2025-09-01T03:26:00",
       "date": "2025-09-01"
     },
     {
@@ -432,6 +453,13 @@
       "date": "2025-09-01"
     },
     {
+      "source": "Global News",
+      "title": "Modi and Xi reset India-China relations at high-stakes SCO summit - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMDJtUUNqY1pHU3UxbmlQNmdfbWg2Y0NiYlV0MzZma2JjT3Y1STh0cUpmcVRaSVFuRmhLMGZydUozZHpLVjFNWm9Ea2xsYXZJN08zQzM3UjVDUm8xUU9hVlpyZVFKNVE5WXpQRjhQWWNoMWFmcXhZdzU5NUR6U1NzTWxIZ0ZmSnprXzVQbkdCSXVSbUhOT2RteEhrY1Nldnd4Yl94edIBqwFBVV95cUxNV0dtcW5XdnlUWlV1eDNnSWxaUVVRMHp0ZTlRWmpYQW50dWFXaHVJdlRPd01mTVFqX2ZXX2l2cHhiTUt0bmszUFpDRzN6eDRISDNqbmN1dDQwNXkxT0gtbE1wUllSeThuM2VRdk4yMFJGVUdWLW5jSS12d2RHc0pTb3RTd192a1lHOVBnWWItT3l6WU5aMmp4Uk1FckNCQlo0a290cXRFdUJUX1k?oc=5",
+      "published": "2025-09-01T01:34:53",
+      "date": "2025-09-01"
+    },
+    {
       "source": "Ottawa Citizen",
       "title": "- Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0hGU1NfV2JDWk94RFVxZ1RXb0h4TWhFaTJ4RElOZnlvVURYdGx3VW1iQ2sxM0pCRGROUVlseFRMVVpOLUR1SWZVMFBWX29qM0dsNi10THgwMEpDSEl2T0RScm45TjlVMWVkUkpkR01QVW1EM0wzbmVxMC1TSDlqcTJnTFNEY2R1UDZkeEtKNnBoOGpmTDhiZkxtdWFUb2t5eUZJa2o2NXZiV0NPb2pweFBPeHZ1ckhBT3ZvM1FKdHMzQW9CR2RSb284Yw?oc=5",
@@ -460,6 +488,13 @@
       "date": "2025-09-01"
     },
     {
+      "source": "CTV News",
+      "title": "‘Please save my brother’: Palestinian-Canadian pleads to get sibling out of Gaza for surgery - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHFxSFNhZ2tCSmFZWnY3bUhuWXNBQk1NZWd6MEc4OGM5Yk9HdVRYNm9YNmZzVGhRaFdHRDNCYzM4YXI1Y29mNDg4X05rVjQwWUhRcGFIT2doQkRsc3JobW13TjdsUFpOYlRtNmtyanZPZXhWaVV5WFFQRk0zSldsZkQ0dWxwSTZ6N2JWQXRrYjhPMi1PRnFRSVlZeHFPWmlkUjd1SlAzZ01tR3kzZ2R4RHdILVJCdi1LUk1WMjBwMVFLNnJsT0dB?oc=5",
+      "published": "2025-09-01T00:21:00",
+      "date": "2025-09-01"
+    },
+    {
       "source": "Ottawa Citizen",
       "title": "- Ottawa Citizen",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRTRwTmtsREFidjBlZmJlc0FFMnk2c29abVUwZnRncGlYOUR5dDNEZm1xZlBhQkQ4Z003UldOLXluRGZ0SHpUdjJZWG9CckN1NGlRS09oWnNwR2JjcHZ4b1dleGpIN3h6Q2pPRVJIWF9MTmM2ZUJmcnpLV19WaXdTRW5MZmJfSHhnY1R1R2lqRGkxRmdMNWpqQ2JHVWUxcVlrck1UTk5pUUtEUWRLdWdQY0xzR0ZFU2E3VEgwMFctbkJFbm1uU2d0Tzl4OTRCVXVXaHdyblJlbXY5dWpDNlJoSkxyOGFDb202UjR5YU1mUDBnSWhreVNkRU11WkM3QzQ?oc=5",
@@ -467,17 +502,10 @@
       "date": "2025-09-01"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Miranda Wang tops No. 1 player to win first LPGA title at FM Championship - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYld3c3FOVkFmTzAtMVFBRVVCb0VqZ01JQUxhVXBRN19iOTZwUGJ1alE1V29SbWNjRUVDR0FnQlhIWXJ0c1FGd1V0Wk1pMUs1SEJMTExJYTlhNHhaUnFKX1NCTmF3bXo4bTlpSHU5NkRjNEw3aHF2ZVE4alpsOWJ0NU1OOGRRQm4za0pMSEhLakxheVFTWGpNSU5ONG1jbUV3YzlRLU12SHlUeVZVRmdLWmVR?oc=5",
-      "published": "2025-08-31T23:42:41",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "Financial Post",
-      "title": "- Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0lsbTRGN2tUVU5nM1htd3JISXNaTWgzaXlNeC1VMEhKemRtMUdaeHdQZzZTOVp2dkEwbFFQNUF3bmdRd2I4WVhWZnJjdUYyeUY1Z2t0emRrMnBEU1NxNU5xLVAzMW93bUwtVl9aV3Y3QTlqcFFoOU9WemxiNWFWS25pall5bEFDeEdOTDAzUVNRMVA1YUpPTzIxdXNPdXlmaFR4VDBlbzI2cTg?oc=5",
-      "published": "2025-08-31T23:24:36",
+      "source": "CTV News",
+      "title": "Zelenskyy announces arrest in shooting death of pro-Western Ukrainian politician Andriy Parubiy - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaU9HTzJaaDJaTkQwMTNZSGNXS0VWXzNWUEZWV2VYaGdRVUluaWJsUHlhbjFtUG1TeVJ1aWxHdzFqUy1GRkoxS2ZTRTlLb3dCakVYRnZ6N2VsUE9Zay1yc29NSFFCVXVoR1IwMzRER01WbDZqNzNzRGMtd2NuZVVDTTB6V0tyaUJwQ081V0R0UnZPYW8wR0p3NzhWWTh0aVlHeGx6SDJhbTBiUHoxRElRV1hnYkhaemNDUkFldUczMWY2RHVPdnpvNlpqNGhrdw?oc=5",
+      "published": "2025-08-31T23:05:12",
       "date": "2025-08-31"
     },
     {
@@ -488,17 +516,24 @@
       "date": "2025-08-31"
     },
     {
-      "source": "Ottawa Citizen",
-      "title": "- Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkIySFlBTGlXMVlYZXQ4ZWdUdUVpX3dhaUZLU0hRY2pVSGd1alI4OV90YzVtMllwZF9JdU1PYWtTUTVCLUlfdWhzTWlFWFl4MHVpMEdGR3dVUWw4WjZYOGJSbEJmVTZlTUVlTS1rb3hjVWJMMVdWNjhwYXd5SklmZ1A2cmZxSkhES1E2RURZTzE3dkhJVmpMYjFqc2tYZHZTdkFpUGR2ZUxCcjZOQnpuYzFENFRzdkU1bG05WV9kWHFRLXc?oc=5",
-      "published": "2025-08-31T21:43:35",
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fdV9DcjFRaUdtRkdzRENlRnUxT0hqMFJIT0IxUklkekRDTzZYWGFUR2hIRkRpLVpDRDktR0h5U0l5R25ZMWNQUVZZVXlFTXNMaVFpWlNB?oc=5",
+      "published": "2025-08-31T21:54:39",
       "date": "2025-08-31"
     },
     {
       "source": "CTV News",
-      "title": "What’s open and what’s closed in Barrie on Labour Day - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObm5OSzBpY3lDb29rcHVkUFVlMXJRbDlFRUVmZHFyaGtuYV9sNTFjSjdBWjBMYmRYRTB6OXRVV2pZeUVQclNRSWtYZFZWOUUyX0Uwdk5qVzVlamw1dFdtODBWcHNIRUEzVGp3Qmlja01KdVFGdTRYZmhZNzNLSlliUHVkSFVnN3VwamYzSFNoQ1pPci1L?oc=5",
-      "published": "2025-08-31T21:42:40",
+      "title": "2 men critically injured in ‘targeted’ Scarborough shooting: police - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajhhaEhVLWpSYy14QVlZME1qeFpmWFF6RnE1MngwNl90SEI3eHBXRTh2Rk9rX05nY1lJSEhqMEhNVUZlTGRUV3ZOT3p1NjIzc0haZWwycUk1aWJrNGhpNS1QaUl4Wk5ZVmdZRzUtTUhZMkNVZk1QVXR3cmtyLTg2YnllemVid1d5LXp6c0ljY0l4ZnFwUFg2N1luSko5T1lwLTNYWlZoOA?oc=5",
+      "published": "2025-08-31T21:44:22",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "Ottawa Citizen",
+      "title": "- Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkIySFlBTGlXMVlYZXQ4ZWdUdUVpX3dhaUZLU0hRY2pVSGd1alI4OV90YzVtMllwZF9JdU1PYWtTUTVCLUlfdWhzTWlFWFl4MHVpMEdGR3dVUWw4WjZYOGJSbEJmVTZlTUVlTS1rb3hjVWJMMVdWNjhwYXd5SklmZ1A2cmZxSkhES1E2RURZTzE3dkhJVmpMYjFqc2tYZHZTdkFpUGR2ZUxCcjZOQnpuYzFENFRzdkU1bG05WV9kWHFRLXc?oc=5",
+      "published": "2025-08-31T21:43:35",
       "date": "2025-08-31"
     },
     {
@@ -516,6 +551,13 @@
       "date": "2025-08-31"
     },
     {
+      "source": "CTV News",
+      "title": "Safety concerns leads to permanent closure of road on Brantford and Brant County boundary - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXdMQjhVUFA4XzFKSW40cWNXeVhoc3NtNmFHUHZZV2VQb3NRdWJMbXAydXU4UExWZW5WZHAxOS1tY1pmRlUwWFRuZVhrbWlqc0FTWmYyU0MwZTJlQ0tHc0V3WTFxNVVMZ0xTS3NoVnpHR1dVUlY5anpiaGJOVzM4b0t5RlRCUVJENFhUUEp0WjZfb3R3WWJSVG44TUU4aFo5TjNIZW1hUEt1UHBQSU9pYnZXWEJXbFR5MVhIQVdrR3ExN0pKbjJmSDBjNA?oc=5",
+      "published": "2025-08-31T21:10:45",
+      "date": "2025-08-31"
+    },
+    {
       "source": "Financial Post",
       "title": "Capstone Copper Reports Temporary Production Interruption at Mantoverde Operation - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDNVa2xsQW1STzhuMFUzOE9EU0ZLOXVoLUFsN1hqLUlFWUF3RGI4N3FtaVhuOGlvRllEQnkwdTRTZEFrRF82eWx5WG9HbVBObjVTSy1nQlotWEY4WE14NzZqdWdsS2ZMWVhwOUwwYl9zOGNwdXAwSm9LcnVqdXUxUHNmNUIwZ2hWQWUwYXdlLXJhWGFLbURCQXRrbzAtRUZpcHI1OUZWMUxab291bnNlTHFodll5U3Q1emh3SGU2MWtLcUczUkpJUXJyV2lpOUFlV1d1U3dIWHA1S1k?oc=5",
@@ -523,17 +565,24 @@
       "date": "2025-08-31"
     },
     {
-      "source": "Global News",
-      "title": "‘Our country bursting at the seams’: Australians protest mass immigration in Sydney - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjNRejEwVHRzVnB1TXJ1SHNyeWxSSlZMZFhZUHQ1Unh0a3BMR0owVWJCZDVkTjdVQmZtMnlkeXd5RlR3X3EzR0F1VkpGb0VqQnpwN0FXYy1qS2pPdVJaOEJZbTVGNE1EcG9pMXZyaG5lMjNiTjljbktvVEZIbHFERmNieW9fYVhTWWU5T0Z0V1NLbFNNa1hxUTI1U2hqRjBiWko0dTQtMWluREVFdnJXZ1JqOHhlUXFUU2fSAb8BQVVfeXFMTUZvVTRxZ1FHSlk2aG5HNl9PSlJjVlZyVXBsY25xTV81VHhpY1ZUZGdoMXMtQkNLVHFvdzRyc1BMc011WjZqUFdGMmtLQmozVkEtNHdEcUZjSDkzWjJDSWhSWUJVVVEtaUdKb1JGLUpWVGVOSFI2Z25mZHRVWmk5a0FibEprWmZJdFg4UGtoOG8tMHg3dGJkdlhHbE56bGJ1OGRScFBXTXp6bXl0Uk4wdW1aRGZTd0dKREhocmtVVU0?oc=5",
-      "published": "2025-08-31T20:44:43",
+      "source": "CTV News",
+      "title": "Region of Waterloo International Airport runway transforms into charity racecourse - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3ZQbm9sUkJnYmJGRTNqUjVuRlBHZHFlWklHdXgycmRBNFNUYkxRREVnNUFIT0VSVnRWY096QVNQb3plUExRUFNQS2dybUxtMVY5azA3UFNtLTFTSFlKRi1UOUVDRjQzY0hGYWViNjlTQm5HYUZHUEpFNGpHMkp0OGVQMEZTS2c1ZVlUUGdqeFVuRkEydHhOMG5zUlUzb05ncV9rMnF1ZW1CZW5wVkt0dUNDUUxoeDlUNzk0SmxZX01iQQ?oc=5",
+      "published": "2025-08-31T20:49:16",
       "date": "2025-08-31"
     },
     {
       "source": "CTV News",
-      "title": "‘Rollercoaster’ tariff war taking a toll on Montreal retailer - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2FoOXNDVzNkRWNYTGJXR0hJWmEtWHRMVzF4VGRSeTlNYUpQdjFQeDhEb1RqblBqb3ZDb1VwNTlNT0JPTjdudC1NRUlycF9RQS1nVnNEVWwya3pXZHNCOXNDYTF6RzNLWnJrR3dtZUV0ekg4dGI4SVl6OWJTTVNtdkRvYW1DeElyQXAtWGZKZTVHYTM5N2JacXZiN2p6TEVfRXc?oc=5",
-      "published": "2025-08-31T20:22:27",
+      "title": "As Guatemalan kids sit in planes on tarmac, judge orders they stay in the U.S. - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFNvNVp2N3ZWZ1lWSEZmZG5yMko1U01jWE91U0h1WkRZNWVqS3dTWVZwdzhtMW5Mb1JtNmE2emQwb0w4dVRfbWtKMmtnR3FuZXE2WHpaU0c1Rjk1dFItZTl5TnZrODd4UkF6eElSTjIxbkdRVkxWWDduNVRKSmNjTm9wOEVfMWhIc3UzMWgtUkJ6RlhVVWVlZzV1b2J5NmUtNnZmN2NCTmxfTDc2?oc=5",
+      "published": "2025-08-31T20:42:36",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Rudy Giuliani injured in New Hampshire car crash, his spokesperson says - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkl3S0pCQ3lpTVlBNF9rdXlBTXhiSlZmQkhFZnNwM2FYdmpKeEwwblAtUFhLcGp0OHpCSnc4eURjUlpDa0xsRmM0ZkR5Z0g3R2NUYWtjdGp5SVV0T3NXVkRYWXh6RXEzbGxOcjhuSjJGXzlIdnhpYlRsU0JFcEV0amRzaDJHTFMycERwRmM0YUtyM0NQM0tRU2hiNDFNaUQybUdHVEhrSVk3UzU5?oc=5",
+      "published": "2025-08-31T20:05:28",
       "date": "2025-08-31"
     },
     {
@@ -541,6 +590,34 @@
       "title": "AP top stories August 31 - National Post",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc2E3QmpWU3dHRUwyVEtyRXZ1X0RNMHBoT3huN3IwZjNOcGVub0MxYWNBMXVSMzVkSEUtZ3pjanVRbjgxWmREd0lCYnMwcXg0WElrZGVqYXNIMTNTbkJ6STdtVm9kWDJhTmxZUkJ0WnhEMm04OEVlTFFBaXFKaFBOSXh3N0N4blpPaVNBMG9yY1RPcEZJeWtN?oc=5",
       "published": "2025-08-31T19:58:06",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "German leader says peace cannot come at Ukraine’s expense - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNDBEWlNFcGhoMFVSSXNZeGNHMjJHc2ZvcjM1cHZUUmlnTENoa2dZcHJCNEpDemhDb1lVeUl6UkV0UEpvYThvMVpLV0JiUDJUZmw1MGlKZE4wd0N6VUoyOVUyRlcxWTRiOW1MNFd4YTlEMEhFRGVieUcyMjlHQ0JSNkYxUnJWR2wxd21NQVpOWV9QOWpIcGF6YS1fZE13Z2RwUEpLMUVqOUUzTklsUHFCbHVDZw?oc=5",
+      "published": "2025-08-31T19:43:20",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Blue Jays claim infielder Isiah Kiner-Falefa off waivers from Pirates - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1JOamNaNGFIbzlBSU4yV1Y2bVY3REEwRjhKOUIzMURudkRMTERDTzN0NEVxLVpLT2NMempoWFhyOTdLSzZJRXpyRzV5MEhaQjloTkI0SzhmQnNVRFZJQ09pdnZfdGpHSFY3WGZLTWJqdXRwRlQ4ckFScFJ4dnlGdUUyVmwwMkNvRC1VeGtFRG9nTXp0VGZ5ZXFFcUxTeU1LLXdGRjE0X1lac1Y4OUdjQTJlLUdoMjA?oc=5",
+      "published": "2025-08-31T19:17:34",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Excavator-turned-landmark stuck in Saskatchewan lake removed 11 years later - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2tGZ0pkcTB2bDhvd0NSUFZUelRjaEJaV1o2QXI0VUlmRDVVODdQYTRFRXFib3ZyOFN0VDN6cnZRNEhUQXVNZ2tLSThqN2NJc0U3OTBMWndHNjZpbDRPMVJQbzF4aUFjbFBJU1pQTjVDTFRpZ3dDMlFNOFNhdWdwZjZzZXdJZndUbjBxOEUtcEVOWWtTbFIxbUtkR0cyTk83YmItWl91RS14cnVOOWZPUXZQejU?oc=5",
+      "published": "2025-08-31T18:44:15",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "There’s $1 million in gold hidden somewhere in Canada. Here’s how to find it - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamVDcjd3UC0wU1QtWU5lOVIyUENsSUN5dnA2YVcxVEZnc05pVVZUUUNKRUZaOEhiSnczbGtockRkUE9wQy1pYVM3OXFFeThtdm5DR1FsMldvM29YQlQ0NWtaR0RqNVNkMmF2NlpEd01KZE9vWDFnTUlvSDlKVmx5U005eS15cnEzaWZhTnlBU0NMcFkxMDdTd3BpeVAxU1RwUlNmS3hzODJJeVU4bGE1aA?oc=5",
+      "published": "2025-08-31T18:33:56",
       "date": "2025-08-31"
     },
     {
@@ -565,6 +642,13 @@
       "date": "2025-08-31"
     },
     {
+      "source": "CTV News",
+      "title": "‘Weapons’ regains the top spot as the summer box office winds down - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFY5cDlwa0JCYUhPRU5NblBSZUpfVDlnNFo0VG5TQUUyUnZ3OHh2SFhVVEgxU1BhbUVLUXBhZk1zZFhoWkZRdU1xQnpRME95V0NURkxMRkQ1eWQtbW1VZmFaMkJCd3RBX0dpamVvQjJMbV9oNU85WU96MjNwNWMxWTctOXN0RmJJTV8wOWdfcE1ZU0RmNW5uUGhJWlVTN1ExZUMzbi1HSE1fM0NDUTRR?oc=5",
+      "published": "2025-08-31T18:10:45",
+      "date": "2025-08-31"
+    },
+    {
       "source": "Global News",
       "title": "Pakistan’s Punjab province battered by its biggest flood with 2 million people at risk - Global News",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IWFhqQnQxdkFyMnpRaXJQR0l4VlBvdG56d2RSMmdvdjRhZk9URUdhVHZIU1FHLU5VSU43V3RidFU0RUdoMXRRdVFuOERqVHN5WXJHNXBRVWhuekRmUDluV0lxYjDSAWpBVV95cUxNTWlBYlpTYkRtOWZ2Q1BJQ0VHY1dqLTg5eDZVSE9ERFI1ZkdTX3Z6NHJuTUgta2dWT1dNaV9oUktfRXJPSHlIYUptbnVFV2pQYnRtNS1uSjhJdFVLRFdEZ29Mal9CVlBOUHVR?oc=5",
@@ -583,6 +667,13 @@
       "title": "Recipe: Bone marrow omelette with braised chuck and coconut beef gravy - Global News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemYxc1puUE9BdTlNRlZpRTdWRDQ5cU5QdFFLeGVpQU9lbGY3U0QxYnJpOWhKcWQ0OThpSkxZZW90N1ZzX3loZTVnZEFDRWxEODJuNlNEWmhqR0FKY3JrcHYxMG5BajM5M0kwcUM0SWZOMVdGeHJrSkN4UnIxM3I4ZFZpS053OGc5M3d5WGJzSXlpbXJmVUtOb21lbFB6d9IBowFBVV95cUxOUG9RU3dNdG1ZV216SnE3R1pOQkk1aDNoMmQ5bGZEQU9paGRuTkJEel9LWS1jamJjeU1nbGU5UzVNRE95Ukd4NEJ5YmFxYjhmRWZqMXFnbEk1OF9mR0tDbFFkWjB0a3ktRTZCdUczc2RPZUNXTV9sOF9Bd29hMUlTRHk4WFYxVk1kbmIwUm5LSEFmT1pKUVM3azFWZU1XWUF0Rmc0?oc=5",
       "published": "2025-08-31T17:27:19",
+      "date": "2025-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "22-year-old man dead after Highway 410 crash in Mississauga: police - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZm4xcXlOSHozNF8wQmNVVTEzNVdyNGtMMVY0VjNkYlBRNmxNcHJiNUVkclhhLV80LWV1R3JxYnBUY2h0VlcyT3hCQmpQbi1nVE0tZFJPNjdSQ1ZaX3FUNVR6dkh3UDJmYy1jUU8zclYtYkdFNXBMZkpiMU5ESllMVjZwYzNZbTR6bFVvVGI2WUhkME1HQnc1V0hlT2xzcnBkTzVEYTFDbWcxWlRlWDk5NThvNzZtRHJM?oc=5",
+      "published": "2025-08-31T17:27:16",
       "date": "2025-08-31"
     },
     {
@@ -607,6 +698,13 @@
       "date": "2025-08-31"
     },
     {
+      "source": "CTV News",
+      "title": "Spacedust from asteroid Bennu provides glimpse into celestial past - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXFWRTFmUGxfUkhMeTJoMWJYZ0VIalJnQ0RlcDljV0tJU3RDNkQ5bDRnWHg1VENXbDVRYzBMTVhkZGVxNXBkYUtGNGpxeDVORGZSbDZRWDdLeG1VSVhfejA4OWg4OWpQeDdyelRKa1JUbnM2S3Z1OUFfLVl2VWJiY0tRbXJTdThZNlhXeUYzWkI4Z1J2NDlnX3R2RmtXMEx5TXZLeU1pTEJteTg?oc=5",
+      "published": "2025-08-31T16:42:08",
+      "date": "2025-08-31"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Video: India committed to improving ties with China, Modi tells Xi - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkpMUEJDQVh1ekdqM0lHb3d2SXNqbG9MNm44bzNZemhhS3dUSXpxYUZseUYwakZYN2dZenA2SW9HZ2hWREg5d3NtZWNYb011UVRtVWNXN29LWmNfbC1kLTh6X0w4eWEzcEVNLXNDdFZ6dDdBUlJ3UHhMOF8wQ2JTZnhCYVUwYXZTNFl3OFFnYjNlV0NtUy1xUW5yeTN0YjdoeHo2OTN3?oc=5",
@@ -614,17 +712,17 @@
       "date": "2025-08-31"
     },
     {
-      "source": "Financial Post",
-      "title": "Sudanese Army Accuses Militia of Deadly Attack on Heglig Oil Hub - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZF96UTI0alJpTXM3TkM4djRmRzA1d2RKeW1lay13UGJtZXFwclRZdFE1eDJuQ29zb1lfQkQ1VXJBajg3YmxmaDlUNzJOQWhHUkhpU3o0ZTV0aEtITkVyTGZXZU1ULVRWdVl5Y2hjczFkQmR0NmpROTE5dEkzVnQxakpCTXVLMzdoWXU0LXUyZzdTMm1kY1dMektxR3NIUTBsaXJVMWcwNDFONDg?oc=5",
-      "published": "2025-08-31T16:15:29",
+      "source": "CTV News",
+      "title": "Canada has pledged to plant 2 billion trees. Here’s how close we are - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTjUta1RUb0lBNGpiRmxGQVY0blZQaEdQUzhkb3A2c0NLSXNZX3FmTXhZZGhXM2R3OHJHbURLUEo2SzJSd0x3VkxsTnNZblpZMVlPYWJONnBmTGVETVdaX2lLVTJuQ0o5cF9LSmR0aGNETjVDR2x4Y2ZKZXVrNVc3RzMwNTQ2TGQxZDA1anhsazdFeTQtRm42Vi0waFNnUWVCRkNPd3QzdHBCQjhETDVSX2ZJOXNSZzJRaGphdFRzZw?oc=5",
+      "published": "2025-08-31T16:13:48",
       "date": "2025-08-31"
     },
     {
       "source": "The Globe and Mail",
       "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Chip Stock Over The Next 10 Years, This Would Be It (Hint: It's Not Nvidia) - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNaExKdWFSaHRlSDhDMlNER2RYZVhPUmtJM2RKWUNSdVpsblNJTzFTWDdwYzZHRFg4QkFNREthVzNOM1ZjS2lwRXEyR0ZzOVE1bEtWaHd2M3ktVXNpZHh1WnpBWEw2MmhLR3FXM3MzUDRrUWF0TXE2cEpBQnd4Q2ttWnpsc25ZdTNmRjFyckZobXBCVlRZWFNLVnlNM1hGRGg0aWdza3I5ZnQwTm4wbm5ncVZDTW94YzZ3aExlQXNGbWQ4TnFKU3BfM19kN0NycTlCeTdLeVF3NHhQemUycXdZM19SaWpTWlliLXg3RHpiNDdZbUxsRWZPbm9fVVZWRWdEYVNkcEZWSDUwdUpqT3FvNzAzWUNOME13eFo0aXEyMEZfaTBiYk1ZZEZoXzJEM0R5dHc?oc=5",
-      "published": "2025-08-31T16:00:50",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaVQ3TUJNMjUyREJkeFFMQnZhNkY2dEZIbExqRnl6cE5DcHJQQVREVVRPMHhvNUxnSVBCSjctT1diaXJMaURTUXA1a2ZkelhCaF9ZX1FDNEVsOXhVVTFWcmhVczR4WllPSUVJTno1N05jamhSVldPRlpiZERiVXFuTm1FZVBzVWE5RHh1VWtFZktYejRSQXpua1ctT0hLaEdMNmhtQjRmSlRtMG81N21DZ0NzSk84bmtuS1V2TkVUSFpYZFBaVXBjd1VHVmNndHpJS09UcjFoUmk1eGVLWDFjeVVxT0VUMGxPczJCX3FFTllaSXZPaFJSbGZXS3V5eFYxaXBKdnJIQ1hpZTdsWDdXZXZ1cmMtMlh1eTVfT29ORTE3cEJiU2JHcURJdEJMOGZj?oc=5",
+      "published": "2025-08-31T16:00:00",
       "date": "2025-08-31"
     },
     {
@@ -656,31 +754,17 @@
       "date": "2025-08-31"
     },
     {
+      "source": "CTV News",
+      "title": "The ‘self-inflicted injury’ to U.S. tourism that’s making some Americans angry and disappointed - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkJNeC1oYjJBbFJJMGdGVWExN29aWEhjYkMyZnAtck9IYmdsUGVPbGdjVTR2TFRoS0Qzbm1IZEFuWC1nWDJWXzMySGwtVFVRakRyNGJrUFRyek5jY2ZSZ2JmNFI0dUVNZ1lxTWRnVmRMa0lWTFFYcHRSS2dLb2NDaFYxZU81Q0hRY192Z01lSEhfY1h4X2lKdEgxdEpIZENRR2FfX1pRVlZGNFBQd3JiS1dPMW5sSW03bTctUHp0cW5MYnNIUDRj?oc=5",
+      "published": "2025-08-31T13:47:49",
+      "date": "2025-08-31"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Summit hosted by China’s Xi challenges the U.S. but its reach is murky - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDNoM2JSRjdBb2tSa3lwa1VpWWtoemxFajNtVzlYUW55Wll5QUlSX01tcnNTa1RrdlpjVkdGbkZyOS1iUVQ0TnpnZElsZTJpb25Ha2ZyZ1ZnMkNfT1RVQmhnRFBuTFExQ0lCNU1JN3IyNzNpcDlzRkd6UkZQWEJpdnpFNjhPWUw2SFNrQnV3?oc=5",
       "published": "2025-08-31T13:43:29",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Norway will buy a fleet of British-made frigates for its navy - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkk1OTlKWEduZkpkOERneU14aVc4MTN0WXkyRjk2YWp2SG5GOXQzRVRXckE3ZEs3YUJLTFlZbnMzUHFFb0JFeHhlcUg5VUpSazlNcERkcm1UcUpHVl9UNFFLdS1IWFA5VFhEU0pIWHpCNmlvWVl3UHd1UDkyN2hibFowTWMycDRvMS1WcThNNmdIbzVxenc?oc=5",
-      "published": "2025-08-31T13:11:13",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "3 Standout Themes That Emerged From Earnings Season - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3dkM3ZKVjJLeDdRdHZBbzNPWVZ4R3J4X0RIVXBUTVViaUlsb25lM01URHIzcFlDSDJnU1ViT1VQZmxkcFVGRXU5V1c2MVVVWXpNd3dMUXJxallhZXczeU05Vl9zVXRkd0NhUVZzRXhwVFk1Q0VYaUc4S3BWV0c1VTczODFCNkY5NU9xRWlKaTM0TzNrRFZJYlNqRmttcTRPOVVKRmdXN1ZsOFBCSjJGNWxOUG9ORlNIU1NjS3FiRk1FaXVmWHhIWThXb3NmVkxHaFNWYw?oc=5",
-      "published": "2025-08-31T12:20:00",
-      "date": "2025-08-31"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Gilgo Beach serial killer case a key test in use of advanced DNA techniques in criminal trials - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkJDZmw5N29SN19QYU16Q3RWamV2d0k1MlpmdTJaUWg5blc1NlEyTklQV2ZmajkzTndHYk9ET1JCYTdzaTNEUVNYalN0MTFqbjVHMDctc3VzalJIVDcwM05wOGp2UEdhSXh4em5YRVEtTWF0NnBMWF9pTjlFS3cxcDFBY0JfZkVVcXhlZHlJbWxmTEkxT0I4VVUwSnMyTkJITXhYeUJheU1YSmFzR1ljWFlaM1B3TllCeWkxaGJveUlUZw?oc=5",
-      "published": "2025-08-31T11:42:01",
       "date": "2025-08-31"
     }
   ]
