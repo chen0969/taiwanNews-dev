@@ -1,14 +1,21 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-10-16T06:37:23.470357Z",
-  "article_count": 162,
+  "updated_at": "2025-10-16T07:26:01.238713Z",
+  "article_count": 174,
   "articles": [
     {
       "source": "CityNews",
       "title": "Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3Rqd0ZYSEE1akhFZE1DWDhrZXJUZXl2VjZsZUxQaW1mV0pUS1BRbERScXFGWlF2UUp1bXJWLXZrMk93TWNDYmhad3lMLTg4MjNsREhmM0NaaGQ3eUhZWnNCcWQ0S0NpMURETjE1VGI0QTlocmJPdkhLcXdLd0pnQzk2NndNWDdFTWJaZXFraEswNzhQeDJibHB3U3U1TXlodkVyTlUxcjEwSkc4U1phSTFOOExlZzhkaEw5Q3Y0WkI2dw?oc=5",
       "published": "2025-10-16T06:31:10",
+      "date": "2025-10-16"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYjdjeTM3bVNMUXRJMkE0clpibXdET25qWlRWaUgxWGlFTHEzLVp6WGNJQ21naW9TNzd5Q2hXN2pGbUVRanY5REpfMDByRElSbjZvUjM0Ul91X3pGR053RmhRUTgxbG1nNjVtdXNIRzJDOFluWUp4bGs4R29pZXJRYm9GMlF1N19EalZCdFcxSVR1ZXVKZlprWVlWTFZ4TmNfT0JrbzgxMnlNemZKRkl3MXhjMENwaXRSbmtKYW1jUksxM2NLQ3VaUlpEVnpzSUI0VFVBZmNSQkFmZXI1U1hOTWFRY2llUjJkMHMtdUNYTHRXVUxJaVNJNnVFRGlRUQ?oc=5",
+      "published": "2025-10-16T06:29:39",
       "date": "2025-10-16"
     },
     {
@@ -96,13 +103,6 @@
       "date": "2025-10-16"
     },
     {
-      "source": "CBC",
-      "title": "Sask. looking for new canola export markets as farmers suffer from Chinese, U.S. tariffs - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkS29TZzRFTlBXSXVOcnNnc0VvWXRseTlvRlJaUWZjQlQtQU9IMDQ3RnRkR1hoUjFSVVIwb3hJejdKYTc2YnBiOHg3R0laM25sc1hlSFM4ZWstZw?oc=5",
-      "published": "2025-10-16T00:47:32",
-      "date": "2025-10-16"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "3 Big Mistakes for Artificial Intelligence (AI) Growth Stock Investors to Avoid in 2026 - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZHlNSlVXcWZGM1dsbjN4cVNleHc5dk5ETkdHcW1VVmVDT3U4TnNDUEdkWmxVVGxmaWczZGlwNC01SmlMQV9sUXF2WUZHS2dpa2ZfdkpxQWFFY2QzaEp2YlcwN0xOdWJtR1lIdi1fWUpLMlh2YllhNjNJMVUxWElkLVV1VTg1ZmdYc01lZnM3NFhocmMyLUtwOXE2Rl9TNWhReVpFTDkxaWZFX1ZmYzNDbDhBdTBFNTVaLVFkbXJ5aFp5TXVKYk5jV2NYRFQxU2I3Y0MzV0JUNmhGNXV1cmppaThGT3Fac3M0XzJtRW5tMkVoaVVoUV82ZDBmc1ZNVnpaR3c?oc=5",
@@ -138,6 +138,13 @@
       "date": "2025-10-16"
     },
     {
+      "source": "CBC",
+      "title": "Sask. looking for new canola export markets as farmers suffer from Chinese, U.S. tariffs - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkS29TZzRFTlBXSXVOcnNnc0VvWXRseTlvRlJaUWZjQlQtQU9IMDQ3RnRkR1hoUjFSVVIwb3hJejdKYTc2YnBiOHg3R0laM25sc1hlSFM4ZWstZw?oc=5",
+      "published": "2025-10-16T00:17:32",
+      "date": "2025-10-16"
+    },
+    {
       "source": "Global News",
       "title": "Bear Clan’s new North End facility - Global News",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5M0VqSy1RenhpSF9WM2duVHVyNzNuLUlPZnk0R3dkVTF6eU02OVNCdDhzYV9ZczdZRUNnOE1MdGlFNVVwOUFFb3JoSHEyMk5rWGh6YmFZSl9VTm5iZGh0Z205RXJJWkZ0bmlUTVIyMHQ5LTFCdjEySy1PSdIBgAFBVV95cUxPMG5WSS1iUktxR3hDN1FfWERkclhmWGU0dGl5R0xHQlN4Y0RTZWJ0QmZCZFVPUkUzMmNLcFhBZHliWFBhck1PbXN2Szd4NGQ5S0dja2dPTVZnQVRGM3RuXzQ1R1hSU0hOY0laY0o2NXNYR0E1MzFQeWZheC05SXFlYg?oc=5",
@@ -170,6 +177,13 @@
       "title": "Trump says Modi has assured him India will not buy Russian oil - CTV News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnk1X3NPVkZxYklSY2ZEU25RN3Q1c2swT0J4WjVQZ1RaTFhWVU5kLXFRdzVzaV9ZNXgtV2ZFbTV6ekx2Zmo3aktmUXZUb0YwOXFwVnJCOFVtSmNpYVQ0bzhPc3JHMzl4VGtnQWttbm9ESEZpem9iWldvNWJ2MWxNN1JWUUNJMHZvcmlUamxNVlh1RzkzTXh2ZWVkR3Jid2EwbWxOU19mX28zRHNDTEtqeWdDUGxRUQ?oc=5",
       "published": "2025-10-15T23:09:57",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "CityNews",
+      "title": "University of Southern California grad student charged with multiple rapes and drugging women - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZTU2VVZRS2lWMzA0WWJINmt0akhuR3ZtaEdQSjdGemY0bHBNTDdCaGR1NGdwNG1EdjJzeGZoQW9QSU8zNVpldjZlbnNGVUxXM05QODRWVnpjdW9HeTNnWEp2R2tuOC1mQVNqMHhWRGVocXJITjI4Wmh5MXo2dTI0UUhhTVJhalN3NWFoSHA4S0MxVnR5RWJ3cnhEOGVVMjBNdjlRRmdMdVc5ZnAwVThnd0V4bjdCblo1QXVSY09nWjVjYXlOSWI2ZmxKUlFwdw?oc=5",
+      "published": "2025-10-15T23:09:14",
       "date": "2025-10-15"
     },
     {
@@ -212,6 +226,13 @@
       "title": "New community health outreach vehicle to increase access to primary care in Peterborough area - Global News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFQyNkkyRVNNV1piV2VfczhNQk5kNFVrMGQ4dWJqODFUR0VZMm9CTmUxbVZmd1Bkem9LV1F0NlVvRVFMV2RlbEctUkpBZ1FueWt6dURHcTY5T1JMWEFkclFDb3p3Z0M3RDlJeDNMMHkxY1BqWGtBS2lhM0l2bUxWSC0xbnFXZnNQRmNldm1WeHR4UUlMdndlNnpNdkRtbmtORWYyREptZjFEdTRCTC1wSTF4cGdWR0tjRDh4X24wc3MwaU41N0g3YWZCY9IB0AFBVV95cUxOZi1RS3EyN25icjE5X0psaWNtak5zRGtEaHVoUU1VaUV2OG9VZlJ3a1Zybjg4eVFOUHJJTVF4c1NpMFhUZTFKR1hTQkNYZWp4Q1JlY3NZenFPcmNja1RNMUJic19rVmdIbGcwZGl5T2dzektsWk1DUkFFLWk4T1l2VGItTjNfejNTQVZGMzN1SkNGRmNmczFDMHp4eGh0ZDJ5VThTTjNhMjJfY28zcUtBWkZQbEE3ejdaTmx4d3NXTjJpcXF3OWQ3dnpSQnlSTmU4?oc=5",
       "published": "2025-10-15T21:47:01",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "National Post",
+      "title": "Canadian trade delegation heads back to Washington, while Ford urges Carney to 'fight back' - National Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFM1Q1ZUbks3MTJJYjJPUzdweTdmRWJENXNNTVlqVThzSlNCemozMWNSbl9BRERKYTI3YnJtUWFYRDM2bENvYzVlNl92Z3c2LUJSLVMwVnl6NUFZaWt4NzB3T21zY2UzVUVqcVFuLWtHQm45Q2JINURaeFMxRHhxQ2dySWhUVU0waGtqVm5qcWRyVHdjaWxkNXFEaks4bFJBYm1XcTNwMFVDMW52bE1XZVNkOW1zT21ydUV4ckdpU2M5N2QwcFE?oc=5",
+      "published": "2025-10-15T21:38:10",
       "date": "2025-10-15"
     },
     {
@@ -265,6 +286,20 @@
     },
     {
       "source": "CityNews",
+      "title": "Industry minister threatens legal action as Stellantis’s Brampton move raises fears - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkVBdTJmRDZJc2xtZ19BUV9oNnpRdnBUZWhQU1FvOTVFVFEwWHU5dFR6UkZfbnBjbTZGbWxBRDNXbzdhQU1EaHBGcFBSOFk0UlpLaGV0VElfYmxGcnM4bE5yMmlqYm51Tlo0dlZ6SkhaUm9scFZRLVR5WGJrMVlXVUlMMWtFRDhwOGk1VGhIbHFBSzdoRlFJWTJuMmk?oc=5",
+      "published": "2025-10-15T21:28:59",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "CityNews",
+      "title": "Industry minister threatens legal action as Stellantis’s Brampton move raises fears - CityNews Winnipeg",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUktzdTFGallseERtamVQZl9raVhxOUN5TnNPTk84NGtGYjlfeVM3d2c2d25KbG5BRWc1SlI0UkhMTTVVUWp5eW1OaGNEV1F1ZDg2aDVDWnhKSHJOV09BY2NQRHBQY2VxV3lVYU15MUJTVjdURmhEa1RkaXRGV1RybHc3bnIwaEtYN19pWU51OXMtTzJwdVEtUHF3Uzc?oc=5",
+      "published": "2025-10-15T21:28:43",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "CityNews",
       "title": "Domestic terminal at YVR evacuated due to ‘strong gas smell’ - CityNews Vancouver",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZkJMX25nRmFscjFDQUdBX2pnd1BOWk14U241RV96V2U3dUY5SjZmNE9RZXdRd1h0bFlYYWdiVVQzX0xFWlZaWEJTLUsyYWhPekZ2T2M0VVlDZXlNZnhvSzNEZ05DVkxSbzZXSHNUcVBUNWtxbEs5NmF6SGx4U0xPcS1HY1I3NUtlTG9Z?oc=5",
       "published": "2025-10-15T21:28:36",
@@ -275,6 +310,13 @@
       "title": "Former bouncer takes stand in own defence at trial in Halifax Alehouse death - Global News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1U1MlNOVWpaZ1c3cGpGRllMY0RHanhKVGdITC1uQVgwY283VmNtRVVVNWw1ZzJrTGtGNXFNQWNxaW53SHlHYTZMMmF6amdCQ19aRHNnazZkYjZYek5WUkVacWU5aHlvYTVnU2NTb3d4TlYwemhYMHBxTzdSNHNhOEpqOUlBZFVMbGVlZnJLOV9qb0x5WVF2YklYUnBTMGdMUkZMdDlFMnVSbHY4YXY5MF9yNXXSAboBQVVfeXFMTlNrV2RwX0hsc3pNXzdQd1pWMGw0RmJkQm9iZVBncFN5T0lnU3MyMFVhdVdRNDBreVlKMmRURXFPZ1JITURyS2J4eWZQR1hvS2UwMkN4N2Nmb19aR1p1SjhlZjFFdVpIaXozOU1rWXdfWlhQLTNVSG5OTUlzNzNOZUZCZXl5U1JnY0FOWkVTRy1sWER5aEdSR3hHd0p4MVl3QS00TTNXSDFSLWNUYmJBbk9DSUdCWmsydzJB?oc=5",
       "published": "2025-10-15T21:27:07",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "CityNews",
+      "title": "Industry minister threatens legal action as Stellantis’s Brampton move raises fears - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkgwbGVDQy1IcGljZ1Y4UmFVeWNIc1MzT0xzVlZEVmg3eHZXeGJMYzJqQnJhVFR2TmZyUUlIM3Q5TlFhSnFqWUFfa1M3V1JKZlBDaXNjWXNzMThncUxGeGlVQkhRRFNRRW85RmFiX25OdE9YY1ZSaVIwWDFrYTdVNXlzTVZYMEZQTmpUVUVWNmJaVDFOZktEQ0doQQ?oc=5",
+      "published": "2025-10-15T21:24:44",
       "date": "2025-10-15"
     },
     {
@@ -369,6 +411,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "BNN Bloomberg",
+      "title": "Government shutdown moving up list of market concerns: Gordon - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdm8wV0h6Y3JJZEtMSjhPajNSeThGNEtXbHFtVi10dF96M1hrYnVQREFhREpTc2l5VXkwblBHWmpabUV5eUVmRUlEdVFQbFc1MEtPVHE1a0JOYzRuVXR5OUlKYVV0dFZLZ0xacGFPcFdIRE5BX2YxTDJNY3p6NDZqTzM2RkVYenlKUGhWNkRWZDVRNjkxclg1bUx6SDBCWnZnNmc1bDhDWjZ5WUhsMmJzTi1QMnd1b2xYUE1DSmFQYw?oc=5",
+      "published": "2025-10-15T20:35:36",
+      "date": "2025-10-15"
+    },
+    {
       "source": "CityNews",
       "title": "Surging CO2 levels a sign Canada must resist climate backsliding: scientist - CityNews Vancouver",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWk5rT1lNZkIwb0JfUU5mX3FCTF9CV2ZmZ1VIeGZGUGdWNGVrajhDMFdtZnJnLXJDWFd4bEtvT3JrSklFLTRuTXdlTEJXYWc4Uy1lYjdyaDRFLWpKOTNlcW5DUHZmY0tHLXVCMnhPRUl1eWwtdlRDRGhBc1YxaUxValpkVG1UbVFIMjlxMm02amFKQUx2a1dqekFvQ0lfRmpP?oc=5",
@@ -460,6 +509,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "BNN Bloomberg",
+      "title": "Market Outlook: IEA’s record oil surplus forecast signals potential oversupply by 2026 - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY0lmTlpVVkh6elRJNU56UzZtTWFaR3lXMnF5NU9VMF9XbUlJUHVWVWpKd2pWdU5WUEg1cDVwUmJiaVFXaVB5aW1xeVlwWXQxWHJxeDFTNElKb1pBQXg4TzY0enZndUtNWmJFX2NkUUE3UFFSby1mczNXblNmYlRMeW1ZeUZHRVZicTE5R2t5a0liWDBYUkd6b25rYmVuNUVHcUVmRVloOXJTeWg1RTJnRVBEY2Y4TWxOeVNwOFhRc1hLUV9EUXhXY2ZVVXBpNkk1QjRDNzdtQ1h5Rm1QanpHVnpMOA?oc=5",
+      "published": "2025-10-15T19:30:02",
+      "date": "2025-10-15"
+    },
+    {
       "source": "Financial Post",
       "title": "G7 set to discuss joint response to China curbs on rare Earths - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUGE2OEN4WEY5VV9OTFpUTFR3amo5UXdiUmprc1JKRVA3UXdtalpqbGdpRDR6M0hIWF9BcU0tSHgzbDRESVRLdkFrX0dacjVzU01ISWVzQWVWVVRJa0Zqenh4X2hXaWpNM1BJLXYwSC1xcFhxRVVLX2FQcjNEaXc?oc=5",
@@ -516,13 +572,6 @@
       "date": "2025-10-15"
     },
     {
-      "source": "National Post",
-      "title": "Canadian trade delegation heads back to Washington, while Ford urges Carney to 'fight back' - National Post",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFM1Q1ZUbks3MTJJYjJPUzdweTdmRWJENXNNTVlqVThzSlNCemozMWNSbl9BRERKYTI3YnJtUWFYRDM2bENvYzVlNl92Z3c2LUJSLVMwVnl6NUFZaWt4NzB3T21zY2UzVUVqcVFuLWtHQm45Q2JINURaeFMxRHhxQ2dySWhUVU0waGtqVm5qcWRyVHdjaWxkNXFEaks4bFJBYm1XcTNwMFVDMW52bE1XZVNkOW1zT21ydUV4ckdpU2M5N2QwcFE?oc=5",
-      "published": "2025-10-15T18:58:08",
-      "date": "2025-10-15"
-    },
-    {
       "source": "CBC",
       "title": "Sask. looks to diversify canola export markets as Chinese, U.S. tariffs bite - CBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0Z3ZlpOdTlsOEs3ZG1QRURnY1JpYW95SGVWRUlHZDlpcW05c3JYeWx4SEk4Sl9mbGxPUElpUDZuQ2dGNTd5ZXlLTy1wTF85aHp0ekdkN1dzQk85NFA1M0JOdXFJWE4yOXV0bW9Vb0pqdFdlbXpETnN5b3ZZUEkzaC1PbElRXzljVDNubTNYQVA0aHI3UE5GMzNnTnB4NXNvM3BBRg?oc=5",
@@ -565,13 +614,6 @@
       "date": "2025-10-15"
     },
     {
-      "source": "CityNews",
-      "title": "Espionage trial: Hydro-Québec says it learned of unauthorized publications in 2022 - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT21fOUFQUXpBRlpZX2ZaMl9BTU9PcGlKU3JmdkRSTWd0cHRvQmVKeF9GNzZWWWxkTElXel94R1RrdXBuS003aWRjakxKSGF2OTJENVEwRDdiV1RldjRJVVZsWDAzNFpOZm5XRW1NTnh6SFVtd0duWURlak9IVWhfb242WWxteWlQTm0xUExfWHcyX0ZGdmFYb3BCNnNDNzM1cmFwQTlTcHJHQ01ER056UGlQZE5Fa1A0LXAwdzFn?oc=5",
-      "published": "2025-10-15T18:33:55",
-      "date": "2025-10-15"
-    },
-    {
       "source": "Financial Post",
       "title": "Bessent Floats Longer-Term China Truce After Rare Earths Gambit - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWh3ZzVSS3Y0SGV2NDJRYllhODg5b05COXdGRmFvb1dHTkpPN0lMVFdlS2M4RERqXzNlZklJeXUwd0RERGp3Q0FsX0hQb3MtTnlnR05DMHZLdUNTVkMzWGNEdHJRMTFHRHdjZzRfY3U5dkxYRWVnczMxZ25lOG1kd3F5X0I0Tmx3ZDh2TFdGcFdzVnMzQjZEdWxCVF9fZjdBTkZxVTM4VQ?oc=5",
@@ -583,13 +625,6 @@
       "title": "Espionage trial: Hydro-Québec says it learned of unauthorized publications in 2022 - CTV News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalpzNmFEWFRxV0JMeFlGNFJFWUpJLVBHRlR0cms1Y1VHdmkyaEZ2U1FfSVE5VmlvZHdRemlFYUJ1MGVHbzJLMmgzc0lOUEoyOEE2VmxjbmN1cmpJOVo1N0MtdUI5bjdLRmZqU3d5TGsyNzZTSHFRdUtlR0xqTWxuVXh3SXBNMGRNNHh5bjNJUmNOUmlFR0lsUk1MMzQ4bjJqOWlfN0lNbS1LcUNTa0EtSExrelEtb0M3eWpCWGdVcw?oc=5",
       "published": "2025-10-15T18:22:01",
-      "date": "2025-10-15"
-    },
-    {
-      "source": "CityNews",
-      "title": "Espionage trial: Hydro-Québec says it learned of unauthorized publications in 2022 - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0lYbVlYUVZvTWg0c18yQXZTVXNZLVEzOWYtVkxPSzNYUVJrc1JmZV9rTFBNZmNITUxIXzg4d1U5QlVqY05pUUk2OGdpRWNFWUJFY214WFI3bzBZSXZSVndKS3hTbjY5X3ZYajExc1RMeFVYcTgxWXdMSWVrU2gtZm80dE1Zel9s?oc=5",
-      "published": "2025-10-15T18:18:00",
       "date": "2025-10-15"
     },
     {
@@ -691,6 +726,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "Global News",
+      "title": "Doug Ford warns that Canada’s auto sector is in “crisis” - Global News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0kxRTZhaW1mWklqSFJkMTFHc0tkYnk3c01CODhMc1FVUnljc2Nwa0c2ZXE4eHBnWWozMjBNZk4zcFdIZUZLaWxZZncwSDdKeTBrSy1JMFlpUngwR0hLWW8tLXA3MzlwWGVZcmF5b1l6S2JQNVhFXzhQTWVwNHAxS25rc21uLUF1bkJjRjgwbkRiZGNoTmfSAZsBQVVfeXFMUE1QaEN6ekFnRFI3aXU2aEplRjhHQld0T3JYc1JwQ1ZST3U5YkpnQlpIMk5XTU9aT2thWUUzakdOcU93Y3NuajRDQ3hxWXg1cGtwQklCbkpPUE5YclVtVFozUGVRUDhCWGE1cWVfSzFlTkY4eHRzNGJoSHNQOHNHaFFoQWt3X2E4dDhyMjJMMVd0R3FidlpQSE9Ma1E?oc=5",
+      "published": "2025-10-15T15:57:26",
+      "date": "2025-10-15"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Walmart's International Sales Up 10.5%: China & Walmex Drive Gains - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYjFhSVg5VW1qWExNTGJ0OHVvZXRZZm5MSi1ZdWNEMXRYY0lIX2JoUzRPdnVJdldwZlRVZjR3WTJHUjJqUUJzRlgxM0tIdmNmNnVKVEppUVVxUTRwMFk2TXFsQUk5NTYtZGM3WFBRRjIyc1A0c0M0RGVhekFLZm9KenJLNlVfaUxkclBjQUZJMEdXblNaT0pDTWlSNW1scE5zampvNVF1bVNOSDVLenJmVkgwMlpLenQydlZOVEszNm5zYm9PWXZHX1FYUG45cUlwR2JRWDBIVGlyQV9zcGFWZUNncw?oc=5",
@@ -775,6 +817,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "Financial Post",
+      "title": "G-7 Set to Discuss Joint Response to China Curbs on Rare Earths - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVURURVpFX2RJNkJvU05wNXVtQ1dNZFhqSVFscVVYOGI0OVpJUnI1LXpWYWNEd2p0dkkzdC1iclk5ODZ6UUdwNk9WNk50dzhXZlhkRXhrOURxMWhZSm0xTWVsRmVGN1p4Zm5mTEhodDdNcThHdXB4a2VfR0dWWE1HSElGemJqdndvdzlJV3FBWVUzaXNXbjE4N04yaFF6S3lTUWhSRkN3?oc=5",
+      "published": "2025-10-15T14:59:34",
+      "date": "2025-10-15"
+    },
+    {
       "source": "CTV News",
       "title": "Braving Trump, Apple’s Tim Cook promises to boost China investment - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamxrUUp5NmZRTUQ2ZUVqNUZiUkRvUGpuRlhUMmJacXRvMG1OcVVjcHZIQTBPZ3dlU3NYcnUtbzJLM0lnb29nWWdOdDdNMHdXZ2lzcE1BMjdOU3YxNmtEQzVtVkVzR2V3ZklSRDhUWlMxR2VyRFJSTTQ2M0ZKczdrYzJIMzR0Nl93NVpJa0VUVjBBYlJqeGNNWnJSeTJPQXFMNTZiay13WGY?oc=5",
@@ -800,6 +849,13 @@
       "title": "Wall Street climbs after strong profit reports wrest the spotlight from US-China trade tensions - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekZ1VXFObEpoUGFPdXdZbjd3MjRCVXFiVktXNUt2LWZMaXJhajNBekF5WXVrZ1hhRVlVamhhN1RPcnUwQ01rTVJZUTg4TnN5dklWcElHZUx2S3Z1M3JGaDFlQ0FrdjA0STNCM1ZYU0hoWmpxMjI3SFJkWVlzc0ktTlJ1bDA3OG1yM2E2aUlXdXdsbnpJRDdjVUJjc084VFllWFFjX2VJeUVuNklFR0N0YWVpYXJfXy01VjQyZmV2aFVUb2I5SElremgwZ0t1ZmFBaFJ0akJweGEyUDZaRFRZbExYejdPMWdGYk9uOHVLREFrWHlDa0phR3dpQjNwZ0t0WUs0cTUxN19EZDBL?oc=5",
       "published": "2025-10-15T14:43:24",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "Maclean's",
+      "title": "Economy Archives - Macleans.ca",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RX1E2V29MVFFXdU5DSGdiZUI5WmxscHhhdWZGM0d5c21JMDJEOHZEOVhMOUpEQ1k1SlhzY290bi1iSjlYUXFudFdobHI5VG8?oc=5",
+      "published": "2025-10-15T14:34:32",
       "date": "2025-10-15"
     },
     {
@@ -866,6 +922,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "CityNews",
+      "title": "‘Painful for those workers’: Ford responds to Stellantis’ decision to shift production to U.S. - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblJnTzRkUmU5bjZDUlh0bW8xRXVlNHZOU3JrblhWc1UtU3VVSWVfYktBTXdRbzM2Z3VwQ0dya01ybFk3OHI0RWZ3SnhFb1gxV0dnRlBJRzRQaTJUcjM5U2VOSDgyd1VnUkpBd2JOMWhnRHBzYnQ2SXJ2TTJzZlFiYi1DNTdGVy1CTEJGOHZSTQ?oc=5",
+      "published": "2025-10-15T13:16:05",
+      "date": "2025-10-15"
+    },
+    {
       "source": "Financial Post",
       "title": "New NIQ Report: Quality, Convenience, and Hygiene to Drive Growth in Home Appliances Market in 2026 - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVS1UamYyZWQxdWQ0cDZaOEFWY3Rhc08tM2xfc1JuWU1pRkZJOWdmR0RFMmJmTnZmU0N2YmNYeWprYlNsLXZubHRrZEh2eWYwakYtTWkyVkY0TjdPYkdsQ1l1VkRVRmQ3NVotU0ZITWVJeExXdmRSNkxOallLYmxGVzl6Q1NmNzFEdFZNWnpkeXNKQWgyYXVvUGd5SzVTUV9OSnJCTC1Yb3dZOEhWMWVPbmczcE5KaEZnWnNXSlFzQUV1c21fc2JwNS1yVEpJdkV5d3JDY0puRkRCUWRDTjI2dGVtbXE1R1Jkc2NWTmZoYw?oc=5",
@@ -922,6 +985,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "Financial Post",
+      "title": "Enveric Biosciences Hires IP Powerhouse to Defend Its U.S. Patent with Claims Relevant to Bretisilocin, Recently Acquired by AbbVie in $1.2 Billion Deal - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQTVJb0ZJXzdaemhNaU5qUlluMkYxbllhTEZiYW1iaFItSlNzUk9Gd3BPY3g1WkwtY1FhRmRGZUNHbUdCRWlwUmkxZS1vWTVQZ2pfWFpBM0VmOGtQMHBlRGVOTXFYRDlUbVd3SGJ1SG1MLTlDR3BZX3JQTmlGV2pja25tLXpUdnJJSW9jQlRGX2l1QmYtVkRyY0RWUFE3OUwxT2VGNmpGaVN0ZE1zb09jNzllN0xPRXhKVV9aZGNJazJtVWs4aE5nMkpUMzFEWDZZQzdjNFFlcVhTd3ZUNlVwdVNrbXVkVWM4bFdNVTNySXRiSnNRcmVjcEZjYmRYUlI4Q1o4dlV1SGlYUUdNbFljS1lIUjJKdEozNzJYN0JPTDA5VzFXRkJtR2FJRVBwM1lieFpMWXVn?oc=5",
+      "published": "2025-10-15T12:08:17",
+      "date": "2025-10-15"
+    },
+    {
       "source": "Global News",
       "title": "Community Shout Out: White Lion, Brown Tiger – a black comedy Oct 14-23 - Global News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDE1elFVRTRiR2ZyVjVIaG5DY01CdHZ3TDRob2FBTS15dF82MEdZT0lmN3kwa1ZCdFZnUzNpRzNaVHpMWlA0N1F6YWItVmRPcGZPS1JITUV6R2EyMU9jNFhHMUc3bjNDdmVQb1dreEtoeWhJLWhKRjJiN0tjbGxNemI5LS1mNzFGZzBMOXBBWWh6bkEtYjh0RjdLRnJqdlpzbEFPTk1jQ3XSAa4BQVVfeXFMTU9nOU9HbkNFUUgwWEU3Qlg4d0pSeUFSN1g5OE90VkVNZWhwZ3ZNTWFMZUV1M1NJREl5RzYwYTFBdzIyQklsSDNSZWtYZEpFVGJGNjRLdS1xVWIzY05wNnc1VFJDckphblRJWUtfd2tMQU5HRjBlUFIyWkhoNTdRWm9iLUlGb2tFd2x3a0hNSWFWWmR1Rl9ZUnlKUWxyWXU2YkE5dXZkUzZHRTlsZVlB?oc=5",
@@ -940,6 +1010,13 @@
       "title": "Ontario college support staff reach tentative agreement to end strike - Global News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTklDYnp6N0t4OUVBVy1yT1AtWWQ4UEMzNy1QODlSUVBHc0FzRkMtNnBIUFBLMW11M2NNMlhhRlU3clVKWEZRc1BmZklMekVBcXl4REc3T1l3N2FsdkdkdzJ4SXRMSFFibXp0MFdWeEhubnhNQXdoUXNrVmZfdHRMQ0IwS00wbkQ4bDkyb3duQnplbm94UjhOZXRnNmduc3hG0gGmAUFVX3lxTE1KVmdIZi00ZXN2bVczSjVNY2hONlNmV1J3V092c0RaSWNrVnRKSHJGYmJUYjhVdnZFOUFHZEM0OW5SV0xmNWFQeXlDNEdISHJsczJyd2JGY2R2ZUtlYnFXY3FxWlRaOUdvWEFIWGRFa2xjMVZiVlZ4cHhPb3ZUbVU0bkJKYkU1bW50NG5KaFJmMjltcjI4YTBuZWFhSWx4VXRIQmExOWc?oc=5",
       "published": "2025-10-15T11:59:20",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "CityNews",
+      "title": "‘Painful for those workers’: Ford responds to Stellantis’ decision to shift production to U.S. - CityNews Kitchener",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR04xenNvdHlhcnVDMTgxdDFkTm1seFN1VWdDNHVnaXN6S3ZvTEJQenRlWnJYVVZya0tIbVJDUksza05SdnVjQTNuNFl1eWxiY3FRb1BjbmlZMnpQTldCQVo5VHNRRS1TZk9mbjhfMkl6TGQ0U3RQUDN2RnMtT2s2TFJEX2JRdllMbV91WUk5N3o2Tzg?oc=5",
+      "published": "2025-10-15T11:53:40",
       "date": "2025-10-15"
     },
     {
@@ -1006,6 +1083,13 @@
       "date": "2025-10-15"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Standard Chartered GBA Business Confidence Indices rise to multi-year high levels - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeUpxRWI1MW4wZXZXTVRlQ2gzUzNSekYzUUg5dkM3eERiLVBRN0pxUzZLQUljMjU1bkRNZTk5cXNLdEgzZjc3RFBLUWtOYW1uUUFibUFUWVhBZUg1cXZPcXl2RzZZbE56UWF5cnBXc0NrUWw2bmdLNDdFT3FpMkk4ckJhUlAycW1mMVo4R0N0RzFrR2ZIdWh6UHozMkdPNmhUYnJUeGdjZlVUZHZ6RjgtalFEVUxlMDdKMjNDSW5OM1FCdjZHeV9ZT1RLVkNGNVE1YVF3cGpPOEJzOC1XSWJjR25hWk00Z0pld0pBLVBDZkNmaVNBUXBvY1FFQlowZw?oc=5",
+      "published": "2025-10-15T10:08:00",
+      "date": "2025-10-15"
+    },
+    {
       "source": "National Post",
       "title": "Michael Kovrig: Don't buy the gaslighting, China's intentions towards Canada are hostile - National Post",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEpHRDgyZ3NpdnRJREN6TUNTdWRTaFo4TFc2UkhDd3NUeWdHVTd6ZjVDU3ZDTmFWdGVKSFZZWlJ2MklVXzFjYnpqOElZYjdvQi14WEpQeEgwaEtsQXhGSlVsU3pvNkcwOUJRWml4WHBGeDBVWnd2eWZ2bDJmU2hFeHFJZjVOLVpjd2l2MXRpNmpVSF9qWHFGaF94SDllTkxGZjQ4OWM2WWRyaTJVTHRmSFNZR1ZMb2hq?oc=5",
@@ -1062,10 +1146,24 @@
       "date": "2025-10-15"
     },
     {
+      "source": "Maclean's",
+      "title": "Economy Archives - Macleans.ca",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aeTVYbi1kcXJCbi1lX29qZlpQUVF6Ym5kNElWSE9DcmdFZEtfcHNlQTBjNzcySWtVUWhFLWEtckhZLXVkMnlJa0NySVhGbGs?oc=5",
+      "published": "2025-10-15T09:41:40",
+      "date": "2025-10-15"
+    },
+    {
       "source": "Global News",
       "title": "Global News Morning Forecast: October 15 - Global News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQelZQcHJYM3l5bWdiSEotRHNnU0NmdXd4S2h0dnVpMmpVVDc5M3pmSVptMTdmOFRONDRZNnhzUDZ4MWkxM0h3OXdRTVJTS1haRXFldmQwdjlrUmJZXzY1TURROUZZeHpkcmktamhFYTIwVVhqZGR0TXZCd1cyQkhacWZ2TTBHd9IBiwFBVV95cUxPdFBERks3SFBFSzNydHFESlFrQ3NuUkhxQmE3Y3A2NGRBMDhMQ2ZJcGtONDRKSlN5VDFZMWJHVE5tUkV3aGd5Z0ZYS2FlR1owTmZmb044V2tuOW1TOGNLMnpjRE04UEE2bkhSUUczV1VZY3U0RkxjWkk3b09OR0FUQWQtUmt4dFF5YkNV?oc=5",
       "published": "2025-10-15T09:21:49",
+      "date": "2025-10-15"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "World shares swing higher after a wobbly day on Wall Street - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDR0OWIzVlV3LURFUTEtUGQzdWVqZExLRzcyeEFFZWpUb2xYMGRYZ1d4ZmJVMC1YUjluYVJpV1VETWNsMlNKcmpheTdCREFnNnV2RmNWTjVtSnd5UlFMRnBpUHk4cU9Kd09ORE1jQ01pNXU5Ml9ybzRMMTZ2UC1WVTVVYVBnWUI3ZnhfcnlSZGFXbE96dWU3MjMzZDNvQjZ1Y3pVVm93MXNFYlo4ZHRhQzB2aHJjWVpCaWItRXprOWtnaW9qcndVSUJMYjhoNlBIWUpVb1I1SlpLaXRvNmxB?oc=5",
+      "published": "2025-10-15T09:14:50",
       "date": "2025-10-15"
     },
     {
@@ -1122,20 +1220,6 @@
       "title": "Young Taiwanese aren't so anti-China. That's a problem for the island's government - CBC",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wTkVtdTFXTi1rUmtJOUtIRF8tQUFhcndicXRlclhOX1FJNktJRGptYzZQTVRodVpkbEdxSW5mUjkyWV9RQ3RmOEZWMTVlVEc0aGV6aThpVzB1TEZJYXNsRTZEbTVtc00yaFhJTHdKYUFDazJZMXhmaEJIQkxFRjQ?oc=5",
       "published": "2025-10-15T08:01:46",
-      "date": "2025-10-15"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "World shares swing higher after a wobbly day on Wall Street - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXNwSzc2UEVNbVVKazcxS1BfUF9mblp0QnhRRTAwcEJrQldaY1VuX1hqSE9XUkR1Vi1Sb19wdjYtZ09fRVFBR2lVZnZqNU5XdDN1cG8tdnFQTW9Rb0pIRUdaeTNlRVNOSTVZNDQ0N3RUa1BrNllTVjhFbUdLN2g2ODFoQUZuSWFjckJGdVlmUmIyY3BiRTd0ZWVrb2J2WHFEb25XOTFGSTFiWEdPSHI4MU9KZ3VXWHZ5UkxablpMamVFTDZqRmFrakR6Y1VnRHRQNDJ6RlJuOGtkQXhoU3JB?oc=5",
-      "published": "2025-10-15T07:27:58",
-      "date": "2025-10-15"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Europe's Industrial Firms to Stand Out on AI, Defense Spending - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2lwTXJqV05pZWNjNmVSYUhsU0N6MUN6VmdObFh6amF6UTBzYXEzN2VreFRFNTBRdHNPVkJBR2RlQXloQlUzbi1RUlo5SWNoWUcxVGJBenRqS3FlQUdHT0JNYXJEV0h5Y3RsV3B5WVNhVmpwc0R6aWZTdDRVNld4VUNpSnphYnBMYjBmS2ZhQWxEYUpiOUhNX1UxR1FhSXNwMThJb293?oc=5",
-      "published": "2025-10-15T06:46:35",
       "date": "2025-10-15"
     }
   ]
