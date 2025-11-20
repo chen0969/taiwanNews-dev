@@ -1,9 +1,16 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-11-20T07:26:51.112737Z",
-  "article_count": 200,
+  "updated_at": "2025-11-20T07:44:09.595130Z",
+  "article_count": 195,
   "articles": [
+    {
+      "source": "CityNews",
+      "title": "Pakistani forces step up raids near the Afghan border, killing 23 militants - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmp2bHY4bjVzNXEwMVc4QUxZREdkVUVJTGJrWXprODh3LXhrMVBtMEN6d1JhVG5ndFdOc2Nrd1REYmlkVXNPeVN6dEJCV092dVd4WWFjQXl0UlN1S1JjaERsOXo5Nk5FOHIyNmpOMkFnTnRUZVVzaV9TWF9tdUlyQ3FpdndSSlFQWUZxSjJBZi1PZHJrbWNlV2RaVTZaVjB0aHZHVFRVRVpqTV82bG5Ka0JyS1M?oc=5",
+      "published": "2025-11-20T07:32:22",
+      "date": "2025-11-20"
+    },
     {
       "source": "The Globe and Mail",
       "title": "Lodestar Minerals Issues 2 Million Shares Following Option Conversion - The Globe and Mail",
@@ -33,13 +40,6 @@
       "date": "2025-11-20"
     },
     {
-      "source": "Ottawa Sun",
-      "title": "BUSINESS WIRE NEWS RELEASES - Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EdFBkZXNBYjhDSUdXWmF5SXBFSEFESXpxNDVzcmFrb0ZHRDluVERfTVY3VWxNalYyQk9EZ2VhNDBwaEZRaVpJVzhkenE4NXJXc0k5b0F0eGJDZWJZSDV3dHl6YmQ?oc=5",
-      "published": "2025-11-20T06:39:40",
-      "date": "2025-11-20"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Jupiter Energy’s 2025 AGM: All Resolutions Passed - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGdVMFFuQllhaF9meWUzMG1qdmJ1ajBlSUlPZTZqbkd6N3Yyd3BoQkg3VFV2SnpqWnpKQi0yckM0MzhnQjhfdUNLWXptT01XUi1BUUJNWWRBWVd0dFBPbGh4Z3JRTlgwWVpvNTRzeHV1ZUlGVTd2aURXa2dxZG1SbnBpRmZpcDVvVGxvM3hVMDVUbDdncFc1M3pHZTZZX29MMDNGNWlXS25uOEpBay05U3o4RFBmY25BWDUwOWhWT0ZrT1puSGk5SA?oc=5",
@@ -65,20 +65,6 @@
       "title": "Asian shares surge as Nvidia’s strong quarterly earnings lift sentiments - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J5bEUyRTh3cFFHNUEzWGYyQllyVVFGWHY3emFDTENxU1dFaGtwb2RLUm1ZcjZsVmNRbE1TZFluQVBwZzdlQnZkRU5UQTEwSjlkcENNSkU5R1VBY3JDZTlwbkZkeE8xOWplazBySm9jUk9OQWpUdUJEU2lraGtkc2dGQmhDaHV2U3pSOVM2eDVIN1RSQ1N2ZzVCVm9iSVJYNmtEcTd1RUZRcW91cG8zQQ?oc=5",
       "published": "2025-11-20T05:04:29",
-      "date": "2025-11-20"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Sunrise Energy Metals Announces Director’s Interest Change - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0dLSERCVVNTeGZOYWRqZHI1c3huaUZLaEdZVDNWckJmSXNjX19fV2VTMk5WYTBpS09TTTNMbjZiZWVaNnRXNlRFX3VzSlFwNUgzQnFNOHNZM3Zhd1BqM3p4czZmUnVfX203WG8tbWNFdVZyc2hTcVo4Zm1yeTBVbWV5OHozb0ZpTE0tNTBNSTNsS0dXTUIxS1RBSWpxLTk5WFJJeHZ0ZS04UFJGUHZ2RFBzWmtKU2ZySFJpVFhxU3VMZHB5SW9HOGVzalVVS1B3YW9NV01n?oc=5",
-      "published": "2025-11-20T04:56:58",
-      "date": "2025-11-20"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Infinity Mining Issues 100 Million Shares in Strategic Move - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmIyZTZJUnc3WXJ3d2pNa21qV1B1VGlxaVMxQWM0ZUQ0NzZXN0VSS3dZSUxSeHo1NDBMUURteGxMOWNBNUhmaDdRekV1dlRoVl8xMF8ycTRVNzBaLWhvZmRZYkRPUUU0TVp0bWc4OXNNeTB6TlQzSGdfemhDX3FvZ0k5WXAyQ1psN29rVVIxdktuTWFxRjlXX3JjT21PaTM4bzUyLVBJbTI2MUU3Rkk5UkFrcXpJSkFhN0xnSkNZLTVqaWNacFpLZ2phODRvOUhPNGZkUTJqSGI?oc=5",
-      "published": "2025-11-20T04:56:52",
       "date": "2025-11-20"
     },
     {
@@ -145,13 +131,6 @@
       "date": "2025-11-20"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Morningstar Investment Management LLC Reduces Stake in Alphabet Inc. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSVMxUVZjMlYtblZ5Ti1WN0xCMHlkcVE4X0R5NVVaX18tNmkwMmZSeXpza0hRSklLZWRWdE9QN0J3QXlhamtRdUxCYU9nUGVIOVo5QTdtUkthTGRfZEhXd1RBNF85UjE0dnNFSjlaUzRDTFZsUVJFZ1VhM2VLcXNhbVY0bGZDWTdLS0p2RTdCWUZkdGNEb0RaaUE2T3AwcVhSTjJWUXZ0elBlanlaVEprTTNHb0syYmdkaEo2YldmQjhfNl8yRm50Smo5TDE2YlY1UDJ0UzA4WU1UX3VpVXEyR3ZLNEdjNkxmV3c?oc=5",
-      "published": "2025-11-20T03:20:35",
-      "date": "2025-11-20"
-    },
-    {
       "source": "Financial Post",
       "title": "Chinese Copper Demand Sags in Busy Season After Prices Surge - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkJyeEI2eDQ1RTN4dlFaWDdtTGd5UkItZ1B3RmlrYVRLUTJPLWlCN3ZnWm5ZOF9Xd01tLWJwVTZnR1UzZ1dXZUNpZ0ZuS2h3REFWQXlCSTlJZnI5RTdQeThWRG9ZcW54WkM5ZnR3LVNxS0cwbkVRV19KVlM4Z2lINW42RFB3R2pMR0FtRzNXSlBhcWVmYmdKTzYtNmJ1amI2VFpHUEdn?oc=5",
@@ -208,24 +187,10 @@
       "date": "2025-11-20"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Morningstar Investment Management LLC Boosts Stake in Microsoft - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONU1aYUV2M1lHOXVVWk12UDVUNEdsaGVLNVA0SEhycWNyaXQzWGpfSnBIaTRjejBkaFAxS2NGQzF0WWhibHd2Q2JVYjJ0TGZ6dXNuWjlMdzFBU3dMQTdjU0dQTno2cnlqYnYtdS12LV9BLUI3b2xLNC02bGg1ektxRVJCUGtXcUhrMXVPa0VMX1AxMnVJa1dfX004N3NfUzZMckRHcldPQktLUl9nVTBYNW9HbnJjSzZlQUFndjBJWnF3aU5aTHQ0QmM2enBybDNuY284Q0cyTUF4blVyaGZMb1A1aw?oc=5",
-      "published": "2025-11-20T03:04:17",
-      "date": "2025-11-20"
-    },
-    {
       "source": "CBC",
       "title": "Manitoba 'stands with trans communities,' health minister says as Alta. shields bills on trans youth, pronouns - CBC",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1JRYUdET2Y2cWoyZXZ0ZkdxTERJSmhWemI1QXh1dmxBTGtLT2I3SnVPV05qdTJ1WTBWXzZOd292cTR3V095RkRGeVB5MDJkRHpIUlZmRmNGOTF4eWhpckdHWmJ6WVlhckVqV21IQWUxY0ZCcW05MjQzZndSaVFweklFY3B2c0Y1RVNHcVg3RTh6T25yTE1SSlg5LVo0enByWVM5cUR3a3JfNFk4YlhsZVhPQ0U?oc=5",
       "published": "2025-11-20T02:33:00",
-      "date": "2025-11-20"
-    },
-    {
-      "source": "Global News",
-      "title": "East Vancouver company about to auction off huge UFO collection - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcE90aHdjS1YyaG5KcWo2UHZfRVRsSFJaZ2tnaUg3YlN6dFBFUHVCRFhNV2x3OUZqNzNlOFNLemV1RExnVHlydjlEd1ZWbjR5X1FGcmtqdldjRXpvMW9IeUd1NkhwbDk0QzRVTzA1WmVLYUdjSS1XOHdvaG5KTTk4X2M1LU50ZW4tWHdrQWE5WmdxQUUwUmp6TmV4a3VURVp0OFo40gGoAUFVX3lxTFBMSk0tb0JYQlZKdXdoWnlqWkp3cGhOYmJOeWhNRWdQWVNrcDZDSGs1Tkt1ZENLalhicGhvSGpJSmoxdHlUMGNWejFONzJnN1dMTFdfSzRPcHdaandvY3NrQVY5MERIQWNOb2ZheTM3Mm0tT2VHM3JTMVZQaWJCaE1ubW5WX0g2UTBrN2JGNFRhdVdBd1ZHb1N2ZW1sZ0FJSW1qb3UzOTJnMQ?oc=5",
-      "published": "2025-11-20T02:09:43",
       "date": "2025-11-20"
     },
     {
@@ -258,6 +223,13 @@
     },
     {
       "source": "Global News",
+      "title": "Penticton drafts unique racism bylaw - Global News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjOWQ3d0NLMmx3V19HSGE5M0ViOUlTV3d4cVZ5OVdHajJzcHBLTDFyM1pMaDUyWXdac2Rqd3lQdDlxcnNLWVZEazBjM2RxTDdiSGhmY1JVWlpuNUN2ZnZXNkdzTXM4YVJDb2hIZlZ2bnltNFpVNHRqVTR1MTBkaUHSAYQBQVVfeXFMT1QxeEtScnFwb3pQQ1p4SFZsNGhxOENZNklUOVpVby1IemdrLThZVWJpSWdMakRhVndFRG1xSktoTUlPR0JfUHRXWjkyRmFiSFJnVzUydGFGbUlJdDlMWkwwenRDMmVVYUo4Q015cVduX25MS3FjblBpRFdtTzJrOU1GSVlw?oc=5",
+      "published": "2025-11-20T01:31:11",
+      "date": "2025-11-20"
+    },
+    {
+      "source": "Global News",
       "title": "MLTC calls for First Nation’s led policing following public safety concerns - Global News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2tOZE50TE84eWJXSmZ5bExESlFPM19YU01Ld29rdk5JMW85MjRMN01ZVWZIRFZJNWVjRGhnOGw5eDlQR0ZBX3ZNRGFIMzZHdHd1aGgzYlZLd2twNFNaZms4MEpHSVQ3SHRxYjVBT05hLW5pbUtuTEhHNTk2VUhWNThlTkJKUm5paF9DbF9fSUlMek53M1VkZWk3c1REcDRlWVRodTJVNkY4SjhBMlFFUzBB0gG3AUFVX3lxTE9HcURuVjRhUHFBSFc1SWgwdm1fTXJZSnRaU2hzTTI2VzRSM19IZFlyM0RGV1lNSmFlaWQ3SW1wU2ZlanZYLTVDLXNDSDJ2clFLemRjNEtHYUVTS3g0NUNYWDl5XzM0RlFDZTFaejZXLTRqTWZaVEkxVDhMXzVJakRJanAtcmk0SVdiSW1UbGJpclRVdlI0WGNlbHpTZDBPQUprZzhxU2dHdTVtdjZFV3FpSGlCMlNWVQ?oc=5",
       "published": "2025-11-20T01:30:26",
@@ -268,6 +240,13 @@
       "title": "2025 Modern Governance Forum at Tsinghua Highlights China's Planning System and Global Governance Risks in an Era of Transformation - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNUUtzODliemRHNWZEV0NJUUJSdjBfNUNVaXQzSGJQb1lDYk9OWHBBQXJRSlRndExTTGVSRWdWZE9hZTZSTDdjWHJhU2ZwWUZCVEhmQUJMcU5mS002LVVrSTZTLWNQckhvb3hRcGo1SVZuYXpGNzJBWlB2MzFXZy11REJmdnBOZDZGcFEzSXY5T2ZrNlRDV1ltcF9WNjhVZFB5T2NOOThLYlZONlp4QTFxRUEyZkRIQzZ1el9TT3VKNjI4M29scWZmZnc1Q0tvSWZfSDdUN1N5d2xPSlhpMVJsRThia2V0b1NHd05EYlMxS3ZELWtpdjFPSkltQWtaWGhMVmJEZGZmdEpyZGxURFpKT29odDRtVHp5bWdwOVU4b0dCOXdNVkZJbWNMY1BFdER0TlpiMkl1b0hBcFZx?oc=5",
       "published": "2025-11-20T01:24:09",
+      "date": "2025-11-20"
+    },
+    {
+      "source": "Global News",
+      "title": "Okanagan developer launches safe online game for kids - Global News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzNBOFdUaVJCVmZkTUotNUlkeDJmUG1PYzdIZjJNQmYxQzJELS1fLWVIbGZEMTVna0NMNDRzaHJsSHFjWGZnRmFHUWtNY3dPdXhkLVk4S1YxSWhXSkxmdlJaQU1LYVE2bjZCYmpKWmhvcUZ1VWpUZkx4V2kwaUowN0pfUHdIcHZ1Vk01WEtoWnVrNGw4YlHSAZsBQVVfeXFMUDRlZ0pvd1l6dnVfRjJyVjRPZ3QzU3MzSHVqTjJ0cnY5bERvZHlGQjBqMG83b3prSFRMckt2MExsME9LQkhtb2ZYRFY5SjJsakxUeG9salIwSDlfeDRLVjBLYjFfZndZWWxVMFBXbkk4SFVNYmlkVUg5bC1teDRUWXhMQXdnRW9RNDJDZ0c0bGhFUEpBLUpMYW5YOGM?oc=5",
+      "published": "2025-11-20T01:05:50",
       "date": "2025-11-20"
     },
     {
@@ -397,6 +376,13 @@
       "date": "2025-11-19"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "- The Globe and Mail - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdk5uV0FTZFp2SGxDbVd0Qnp1RmxFaGplVGU3NVBJMVpfZVlMeFdEU0dLNHp2M0VjR2tJN192UXlyUEF6V0pFVGQ5MTl2V2dxM3AzdGxrUkxoeEprX3lHNDRWbEdOZnlJVVpsa1d2NUtGbnlDLVlLbXhXOTdvT2lfN1lTSi1uQzZXd3EwUXd2cVlJY0FCX0pOeWVMbmxtb05RbUxycUF6VDRadHBqSXVIdVcxdWI3d1h4a293Tk5hbkNrdTVTX21mM1JFdHhzWmpqTGxYWlZGS1RjVkI5T1ZKT2cyS3lJMkljaVJmY0hsQW15b3JOb1Nwc3hXUXZTYkxNWFNOT3o3UWo?oc=5",
+      "published": "2025-11-19T23:31:28",
+      "date": "2025-11-19"
+    },
+    {
       "source": "Global News",
       "title": "Global Player - Global News",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZlJPbnllcnRPWFZNcG4zT0pIbFBWMFkwT3FmbjZQQ01ZaUNlTlBNcXRkWDJlcFFGMUQxT1dKM0Y2OWRCZUZoMnVEeHlHNThfT29RaC1R?oc=5",
@@ -408,20 +394,6 @@
       "title": "Carney visits UAE amid pressure to push for end to Sudan civil war support - Global News",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqcjdwRWxnN3p4SWZieU42SVJlSHNaVVp2STlpc0RyUGlFMGpheG00OEx4Mm5Oa0lsRGlhQnd4MkhUZ2dVSFRqRWRuaEhaOE5oc2JMdldvY09CQTY2ZnJrVmpCLXZaRjFfNVlZbE1IMWVtbWM5N2V4NQ?oc=5",
       "published": "2025-11-19T23:21:34",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Brookside Energy Updates on Share Buy-Back Progress - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObk9BREE2US1IbnZMSnhjLVQzbmd5QmRTSEt1UnYxd3NGNkFkM3M2OEhVYzVvVmVVR3NxYUpnTFVlSjJYYktzMDJPTjY0b3hYd3BQNnhQUTFnV1ZsRmVEcmgtQ3lUMjVaUFR6SEJHR295TENkSkUzNm9UbEFrck80blVpOXN2ZDF6MlVpQWJma25Ma3NnNnZNODFicXVST2VkNlBlMzM0c3VYNHFkWVdjdGhSVHBuYTFhSUtzR3RJWDBCR0I3NkVJMW1QMFVmZw?oc=5",
-      "published": "2025-11-19T23:19:51",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Capral Limited Updates on Ongoing Share Buy-Back Program - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYVBocmNxdkF2Sl81WkR1R3pveE9NU19uMGtpQlgtaDBBR25FYXNDSzF5blZ4YnlMZHBSOW9OTkFjWUJFNUgyOFZwOG9tMzk0VEx5UXZNOWNNbkhkc3pKZ015dHdQR25rdUtHYzdLZkNpbkN6akQwWXNlNXE0NUtRVzhzV0RTQ3Y0RWxXSGFWbjFid056RW8yYlNkM1dvTWV6endWcUtnTUdMbFhJcGZnc2d5MkhpUktRRHNoMjFneUxmMkJfSjEzYW5QY3JfS21sQy16VQ?oc=5",
-      "published": "2025-11-19T23:19:51",
       "date": "2025-11-19"
     },
     {
@@ -496,9 +468,9 @@
     },
     {
       "source": "CTV News",
-      "title": "- CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQaGs0MWJTSWVlVy1JZzg4MHVoZTJnaFdVTkdGMWxGMDNVRHAtM19aYWFLcDlXUi1naU9HUGNvYmhQVXRhN2lTcGFaUUpOZ2puOHg2QmtEYXZYNWlyazdIWnA3anBYQzAyMnRGblJxdWRnUlVqVHR5N2dUUEppQTFHUUpyWHVKemNpOEwxajVzTmpaZVZFLUctS21HZTJDaHY1U1NYSWppY2N5c1Q2LUUwNEEtaWt4bzFTNl9LN1pPeFF2UG94cGRsUWhIQXNpcjZ5bzJBX251MnBQbGNfV014S1ZyYjR6WW9pTFQwaTlsVUFQUzFIM0lpZmtmdTlCcWg2NVVWRlo5SUVHWnlpay0tOTVCNElmdG0tajRKRVlRaHBkelUwcmx1R1BydEwzX2diMXpiMElGanBwZw?oc=5",
-      "published": "2025-11-19T22:11:50",
+      "title": "Moe returns from trade talks in Washington - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWFROEUzcUlSc0NOVlptMTdPQ1pPa3Z2QVU2dWJHOUpUdDg0bkd6UVdzUnB4ZDlmb0ZNQkRqblZRYzI3bV8xMDRlYUswZXl4OVEyalQyU2FtallXV2lNeU5zVHBKNmVydGRmTmw1RzBlYjJGUmhmVW5NN0VXSG5MYjBJZ1EwdW5G?oc=5",
+      "published": "2025-11-19T22:15:37",
       "date": "2025-11-19"
     },
     {
@@ -560,13 +532,6 @@
     {
       "source": "Global News",
       "title": "Global Player - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWHNVRG9SMmJiQmlmYzVlTHo0YVN4MDhwRm1HSjlNcm1wcDUzZzdiMVFabDJZNE9ZQmEtYklLb2I1a01QSTlnZ3VWajJodFQ2TTg5ZkplcDNIbHFoX3ZOekhrSU5UQlFLTFdWSU0tVHIzanlfQ1hldUQyendGamVCbm9QUy15Q1FoZUQ2bTJiUlNaWHRhQVQyX1RpRGxGLUZBUEFxTmM5ekdEMXhIZS1YakpzdERQamJUNVVsbWJPRTR4ZnFnODY2czkwMlFhZVFCMUl2QXUxVjVNT0ZJVDVwb1IzbXBlN2NDX1preTFsckVxMEw0VVYxU19sWjEwd0tZZWxCRS1uX0pUNXZqMUlPMmpqV0s1STRxai1DOVlWU081NHBhbmdzVlJpSzFpcGRyTThSNzBMQ045OHY4bFV6aA?oc=5",
-      "published": "2025-11-19T21:10:52",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "Global News",
-      "title": "Global Player - Global News",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMGJBQ3VkU3c5NGZxY0hsdDRXVkpIekU2ckZOTk1kUU1GOWdpVFYyYWVWZ1ZDTURUZXBQajlrdVRGY2ZwbndnZ0JfZGRrRmtXYjJrSnBpVFB1VWZLbGg2bGRvU2lFZnVqaWppUkp0cjFzRVUwUjRZRGNBbEl5MklLRWctdG1jd1NIOElSMUx1Wk5Vc2JXazd5OWc2Zm5kUkNhdWxMLVJxa0lCSVhVZUJYLVlxUUxxTXVnSTBNb2YzQjJqaE03WlVEcDF6cER4OG11bG50WE1HVXdZREVBVzNjZUhVY2I0eUtBSXJGT2tyckptX0lSbzdR?oc=5",
       "published": "2025-11-19T21:09:39",
       "date": "2025-11-19"
@@ -583,13 +548,6 @@
       "title": "Canada, Sweden will continue conversations on Gripen fighter jet deal, Joly says - Global News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmUzMVZOTndxam1DRXo4ZW1TdDUyYzJVOW5LZDR3bDJoZU00d0xoRDJ2aXRMNlZuVmdrS2JMbmlOalk2Qy1YVjRFMkhSUmQ3Q0tVa2hTUDViWjR1NEpXZXM4UXBKYjVUNjJzd2FBdTNRN29Ydll0Sm5qOXJoSEJBbmFmRkQ4ODNkV0ZjLWU4c3pXUmVtRm9hS0lVdWJtRlV4UmVtbHpzTjRXSVNOR3E1WGQ4aXJjWkXSAbwBQVVfeXFMTW5jZTJ4dUdLWVp5cV9WU0RBR2k3M0kzLXVXOTdFVldyRmhXWDFPN0lSOWRUVFJoQmU5bjVrVk83bUtCWmhIaUJVTXJBY29qdUdueU9xdVAxeTFiYzBqdEN0bG13bTlsYTl0OWN2R0UwZmZTcXBCRm4wOEJSVU9ZTDlDdGZxYndsNmpqRlFiS1VnVG4tTnUydkh0dkhldUJvTDBnRTFPNHExWGNWMkN0UFRNN2VreFU0NlhVdmc?oc=5",
       "published": "2025-11-19T20:47:15",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Why Shares in GE Vernova Popped Today - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlU2b3J4c0JvcUpkTFBXS0VsWTdzSHlLd1I2OE9wUDR0MVBvSUpfLTJCWWJLSjBTV24wZ3B4enlmUWxNNzRMMDdKOXhZSWFoazk4MU1DQldtbHZhVnhBcEFSX3J0blBaSUV2MDRBUFlUeWh3bkJrcm9saE1mSEtKakkzNTl2T0toTDItMnVxMHcwd2V4T0FRcEIyMXhPTzF4YXZBNnRwQUQ0ckZwZUpzc0tFNF9XU2pMOEcxejB5MA?oc=5",
-      "published": "2025-11-19T20:41:55",
       "date": "2025-11-19"
     },
     {
@@ -642,6 +600,13 @@
       "date": "2025-11-19"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Why Shares in GE Vernova Popped Today - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSlVJamVOTEkyVGtEZ283enA1TlpYUGVraExXa1BiaFQtLWFMWDQ5azZmRzVWT25yMVdkRy1vX1hqYlYzQTZtd2JEY21ZRV9WQldpY0hlOGxiX3FPRF9zbGo0QUU2RmtsaTVJX3BUa19VN1BLWnNDWGkyUUFfM2tsMkZsYWxRbUJfX1c1cFc0YzZ1cHdsOC04ZjY0ck1IWnhLUXhrSlhkMlY3eUZSM3pIUVdzbUhsZzNRdktTS0RrLXY?oc=5",
+      "published": "2025-11-19T19:48:04",
+      "date": "2025-11-19"
+    },
+    {
       "source": "Financial Post",
       "title": "TD Bank Sued by Chinese Employees in US Claiming Illegal Firing - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHRVSlBBVXpBVmdkZktlVHM4dWpjN09vNktxMWdyTG1mT19iWmN5U3BjZzhNa18wc1Bua21HNlpIaFE4NUttY0d0dzVoa2tieGZTTmRjcW1yVHkwRE1SN0dUbzREY2ZFQlJCVjRWYlp6dlByNngzX3M5em92V0lFbXFTZTYyTkxfT0tnTG5nVUJCaWdPdmE3bVhIQl9jMnJKbUFjNDc0TFFCQQ?oc=5",
@@ -660,6 +625,13 @@
       "title": "Pet scam warning from Better Business Bureau - Global News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekFlU3F4VjZBVVZWSWFyMm5kMy1rTUN1Z0ZDQUpjQ29NaXBjQkJmV1dRYXBCSnA0QjdCTXNFLUJFQTFpbFA0enZIc0I4dzlzMTNKaVNVMVp0RWpGTGw2c1VPRktodGZHSUhUcmdTTWVfRGlvcVl4SGZsdmVGQ1hTcEktSjZiS3EtZWfSAY8BQVVfeXFMT0tKOXYxN1NZczVzd2NvR2IyWXlFeW1JQVdnRnJZU1YteEp1dnZlLXB5Y1Q1UWJRS2ozbGdfWjFLX3A5Q0kzekNXdTVQdmFrUnJOQnZVUm1lQ1NrdFFPMS00RFY4WmFNYkdYUGpZc2NmTmhXWERFMXRSVnR4ekRtR3d3YjNIbmRtNjd5R2dMVnc?oc=5",
       "published": "2025-11-19T19:07:26",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "Global News",
+      "title": "Money Matters with Aspire Wealth Partners - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjJHeWc0d01TRExXTnpDZmtzckFZSVZrUEZva2hXcmZhM2VUenlaRk1tOW1zNUZOa2dNT1RVTVkwbnNEdGNRZHRBOGNmSzQyRVdEX05Bem5JSU1HcHBoUkxzcjFydC13Y2d2MFRLaHhoNzFIeVg4dGx2TjNJck90XzdDeFJPVGFOWEHSAY8BQVVfeXFMTWZnVnNnd2kzVU5Hbjhmb2xacGJxUl96V1N4WEdsUWdPam5YaElfenlkcTA3N0tKZ2h2UExBa1dUOWdfUHVDdVo5UkFzUWlaV0xJZjc2b0ppcmNxekdHeUg4NlZ1UHZYOFphYjVNUGlwX3d0SXpRRm9SYVd1VWNvQnhlYldVckxlT1FUV3p3X3c?oc=5",
+      "published": "2025-11-19T19:06:44",
       "date": "2025-11-19"
     },
     {
@@ -691,6 +663,13 @@
       "date": "2025-11-19"
     },
     {
+      "source": "iPolitics",
+      "title": "Federal Archives - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41aHE2TzBPd3dUYzdWeWZyZ0k2Ums1b0R1Z0E5Nnk2RG1Va1NtMG83X2pQQUVRSTRfeklMVXA3eHJqdlVHQ19uVEtKdDJPOFZhOUdsVDRkZjF1a3E0TlN1bm1uZ2xSQTJSVE1lcA?oc=5",
+      "published": "2025-11-19T18:44:50",
+      "date": "2025-11-19"
+    },
+    {
       "source": "Global News",
       "title": "Elon Musk predicts money will ‘stop being relevant’ in the future - Global News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGRVbUxRaXZ0amVobEc1aEhlTFVza2JPbGZsWnJUajFMSU9taGJ3MjlNdzlvUkJ4OE5xSUtBQkdkWG1NZWlnVVliUENSekVLYXBmWmM5X3BuY2JSeXV5SF80YXZaQkVfMDR3Slkwc2tpUFFCX3BWdi12Y3hIYThpZ1ZNM3JPVUZoT191STU5Vm1mWldDRkZtbERLUUZWdEpieXhV0gGoAUFVX3lxTE9xaFZlU2lNcG9oNUJBMlkyMzFONlhsdXppSUtmRXFCVThvMDBVQXk1Mmg5SVludXhpcjEzWTNPUlAtWWYxdXJqVTBtUlV4alMzbmlGempzeVI2TE1Xa1dlY2ZRS3FuOXJsbmN2bHBJUnpUUFNMb1VJeHZjaUM1QUFEcHVfVFdYejF0MVlWdzNBNkJtbTVOMWJ0U1pPell6UkpxRWNDcjFYVA?oc=5",
@@ -716,6 +695,13 @@
       "title": "Attention-seeking or a chance to 'plant seeds'?: Why Alberta separatists keep travelling south of the border - National Post",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZHNNZlZHY3VkVlVxVFNQNE5WcDd1Z3BKd0Y4ellfOE1fLWU3d0E1UDBjVlhZTF95eGNZVjZEWnFGNzNxNFRETzhncU93VHlscktSTldHT1pIakdVbEJOM3NZTkNzX0o1alVKbzFtNXlyRmhUOVptUUwyX2pMQ0JycWlCM0YyYThSMVVqeWZic2RuWEk?oc=5",
       "published": "2025-11-19T18:36:24",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "- The Globe and Mail - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZVNoeTVjc0J5N0x3aGlEbC1nd1llQU1VT1UxRnBlT0Z5bkF1VVQ3QjBRT25DQUR4Z3BmWDI1OUJ6emVsb3p0bEI1a3pNanNheUdvaEc0Uzg3RzJNUEk4ZkZjbjlBS0JKc3ZOZVRUQjhlX1JndktPaWJOZlBSYkM4UFZGdFZPTldXVk50bzlTaEx3dEk0XzZ2MWpwSFhZZm1ZaEJXTHNBbU1uUG81eWdMbVFjVkF3VXRSSXpqaGJBY1dvZ3ZaalI2bWhUWEdZZlgyY3VRXzg3czFzLUFJdVBGZVJRTlFzaEhYa0s4RGtDN3diWXNlZi0zbE85UGt4ZWNkdnFFaEVJOXU?oc=5",
+      "published": "2025-11-19T18:34:30",
       "date": "2025-11-19"
     },
     {
@@ -775,13 +761,6 @@
       "date": "2025-11-19"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "- The Globe and Mail - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObFZlOTc1LWw3NnpPVndIR0hWcE5LMW1YTXJOM3dEaTVXMnk4WW9vWmhEZnRsNkUzVDVGcTZIekZXRF9ac3BTeDZadjQ2S1d5Y01ZUHUzUzhoU1hMbHdYQi0yUG84Vy1PWVFpZm5Gd0FJbHN5LXdmWlhhWlRwVG5GckVJSDE0and4ZFdzb0ZDMHJhNUk4aGlUT0xQa0VITGVVa3dOSjdyR2E4NUU1Q2c1eWlFRXNoZ3NhU3hnUEVjLXRPOUNFUEh4S25pQWh6WnFsMU8wSk5oalltZkZTTVZ1SGhHdlNPVVptdEJkOS1hZ2VXUndJdi1zLXlKRC1BMkJfZEYycHAwMGw?oc=5",
-      "published": "2025-11-19T17:34:42",
-      "date": "2025-11-19"
-    },
-    {
       "source": "CityNews",
       "title": "Carney heads to Abu Dhabi as alarm grows over possible UAE role in Sudan’s civil war - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJRWmdiYzhXQmxUYXNURnpsMEJoaHh4VjB0LThFRTVKZVFSQzRRM0NFLW5fcGJucDFDV1ZOXzhaREROalJadThNdV9GazJsWWFBdkJsT1pwUXhJMnZJdlNxRTVuX1ZHMm1yVHdBeFZKOWtLbFpUU213ODEwTFNaMS11Q1VSZWZrVjNtZnE1cGJjX254QUV1N01pOGpFbFRFSlAxaGwwck0xcW9TWUxLTWlJLVpiQjBuNEpQbktCdjkySW8?oc=5",
@@ -814,13 +793,6 @@
       "title": "Khashoggi’s widow speaks out after Trump defends Saudi prince in death of husband - Global News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVZwR2lCU1A3aHd3S3pfcGFwbmRoaVZmdXZWb0tjLWhvaGF3S3RFaVpER2FiNWgybEZNdm8wUXZxWGtfX3loenhtTWI3N3htWlFsVUFOMk41LUFwRDhfdG05WVhla1JwUGRSM0R5S3loRXFsQjdNRDBRd3RyV1pVenlkdVpsRTlISmR6bWd0bEU4ZGQ0dW5CMGF4Mm5SYjJJUjFEa1V2b1dPU0VHNC1PbmUxcHlFWFJLbGfSAb8BQVVfeXFMTmVYeC1Tb09BV2Etc29QWmoxellTRFBWM0xWVHUxaGMzS1JDU1hJdVFmR1NlU2lGdjl1anhKbE1CMWtzWGRINmZXSHFrbE05WjBUVF9FdGswZ2xmaE16aWFiWklLeXhjRng2VWYydzRySzh5Wmx1UmNzYy1yRHFSbEZENkNlMGNYU1EtZWlYNms1R1hTRmV2blFHOF81THkxbTlobl9SZ2RMT1hwSTdybE5hT0RrcXpKMDg4N3VWZUU?oc=5",
       "published": "2025-11-19T17:10:19",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "Global News",
-      "title": "Poland will close its last Russian consulate in response to railway ‘sabotage’ - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2V4dzZNY2paS2RUU1RzdzNyMmlzSEc5SXhfZmlwT01NdExWazEwckEzUFk2SmJiWnF3Z0ItcDdHMFZ4Znp1dDhOcWcxajh1a1F4T2VQLTBFanJYandNRmJ0R2hBTWlXWlVBeTctaGYzdDhDTmo3QkpQNS1lLS1SWFNVSDBiZmo4SkZkaE1oUnhKREpmUW96OVQ1NDBwNkowYW93SHBRLVhWS2xqT29EclFMWGhiNWpjZ1HSAboBQVVfeXFMT09leHc2TWNqWktkVFNUc3czcjJpc0hHOUl4X2ZpcE9NTXRMVmsxMHJBM1BZNkpiYlpxd2dCLXA3RzBWeGZ6dXQ4TnFnMWo4dWtReE9lUC0wRWpyWGp3TUZidEdoQU1pV1pVQXk3LWhmM3Q4Q05qN0JKUDUtZS0tUlhTVUgwYmZqOEpGZGhNaFJ4SkRKZlFvejlUNTQwcDZKMGFvd0hwUS1YVktsak9vRHJRTFhoYjVqY2dR?oc=5",
-      "published": "2025-11-19T17:02:24",
       "date": "2025-11-19"
     },
     {
@@ -1126,6 +1098,13 @@
     },
     {
       "source": "The Globe and Mail",
+      "title": "If You'd Invested $1,500 in Nvidia Stock 1 Year Ago, Here's How Much You'd Have Today - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZDE5S1hMSmthd1F2Z2hLR0RGbVV3MkxPMXNIbllPaG81WHl4cTRrbzVjV1lxSGEwZ0Fhb25Qd3ZTS21NQnZIVWw2Mm5MSHN0SnVBTk5oMFdibUJoSFBOMnZVQ2xxeUQyMFZFT2xhOVJBanlKVUdIYWxXSnk0aDNpOVNTVnhEUHhHNFQ0QnRGZXBhQVhTTnN5N2tmZlRUR0VTWlJCR3dpdFlIV2JUSVBWSFhyNXNQbS10UHBRTTFLSlpEM0t4ZEdzdllKWkRvMllQYnBCRGlKWENaMlJmWEx5TTFwMXY0QWlYaFlkQ0g2c2x4dTk3NnVXNA?oc=5",
+      "published": "2025-11-19T12:14:21",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "The Globe and Mail",
       "title": "Matson to Present at Stephens 2025 Investment Conference - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRG5EMmNCVS1iM3h5N2Y2R1YzR1hqLVpyd2F2TGpNUVUzQkp4QVBVZzgwVUI3dF9XNnNLZHdaMWFvTlhYTXVBQ1owNktYcWhLNVZZTC11RFhSaWtaMkV0aEM0WHUwX3ZzdTJweTFITnR0aDlEajAzUXByY0M5aHh1d19FOEpDb0k1TjJITHhWQm5nMlByaEw5WTZxZHZfUWxFYVJsUTZCTGRvTmZ1YXpPTWdMX2tmaGdnd01za0VicGJYRzlYS25xUDYzaTdQcnJWNmpjbw?oc=5",
       "published": "2025-11-19T12:08:37",
@@ -1141,8 +1120,8 @@
     {
       "source": "The Globe and Mail",
       "title": "China's diesel trucks are shifting to electric. That could change global LNG and diesel demand - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQN0xoMy1fYnE2TW9hd0FjUElXUS1aeFdtQ3g4QzJOc0E3QzRRQ1ZENE5aV3gtUTM2cGhtNEtWSXFmUnhxdFZSa2Z4aXFfeEx3Tll2QmtoalhnVXRsR2phdzBmU0JPODhLVVItekxfc2RvOWROTjJWSXoydXJ5SEhhaG8tbUYybFFrZDEzcHB5RVNQUnlrZ1FmTHc1eE51R1dUMnd0d2JVRFNsSVN0WkxvT1BGb085aGsyQ2Z4XzJiSTVZMFlfUFk3V0UzU0M4NndvT3cwVDZoVHlOVjZMZWVKTXlEZVR1azFONUo5RHJsemNmUENmdC1ObzNJVWpVd2tVM3pabzdtdDZRTmpm?oc=5",
-      "published": "2025-11-19T11:37:58",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWWZmMWlxZG9VSTNQRDlUdlI3enhFaDVQZ1dJcWJkY3ZENUxWMGIxTWF5dzRud1d2WThVQjNLU08yQXJtQm0xUGlEaHkxYXI3QkgtVHZfNU5XdnZWYW1kOTh4TGlaUUdXU0NVQ3NtX3AzRXdhZnAzam4zVkpveUNfRTYxNFV2R2t4dkJ5Z0h5Q3lTdnUzTVY0cVNEMWc4R2pZU0dzeUtnLS1fWWdteGFqMmpybEVWeFVUckRIRVJTcWZ1dVJZamE3amd4OFVWa1dFVm5lOElld0E5ODB1c1pUR2Rmc1YybzBOS2FiSjJuRUVlRHJsN0prVGNzX0xfLXA1NDBGVzhOaHZvMXhN?oc=5",
+      "published": "2025-11-19T11:31:01",
       "date": "2025-11-19"
     },
     {
@@ -1153,10 +1132,10 @@
       "date": "2025-11-19"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "If You'd Invested $1,500 in Nvidia Stock 1 Year Ago, Here's How Much You'd Have Today - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSlhpa09FVmVGaXc5bThjOElXdlhsNHNzeER6czZnV2IwNmJueTV0MXVweWl4a3plSDRIUmppUE9tTTBmT0RMT0JHNkVfV3gyXzY4RW9VLVAyUFhyOGYwSjBEVnkzR3g0ZjMtcGxFUU43b3ZiWndCLVhhMkdEYVpNS1JObUhwRTdDTnhnQVBPWFRzdWoxRVg3YmZiOTd2emR6SzhyZlFZZ2dCcURNUmJyR2o4NThkc3poZVM4XzdJYlM3WGpvS2xIaXRXSHpSWllhWFh6VUJodTZPMXQtcEVfUjU0b2xRWnI3VVN3STRaSFh3VlY0TXItcFctYnZ6b0VB?oc=5",
-      "published": "2025-11-19T11:14:20",
+      "source": "Global News",
+      "title": "Global News Morning New Brunswick: November 19 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnozUmJzM1EweG1hWG1vZkJOMGs5QkpVcl9QazUxX1lqanBXaEU0OXJ6UU9HSVlkc0d0V0dFWjBSanVENXppdkFXUXR6SXB0RlBUbVBmV1k4NzVSMjFXQno3LWoxQ0M4OVJfdFl3VHUwa2dKQU9GaklCQngtLXd1NXI2Z1MzODFQXy13aNIBkwFBVV95cUxOUlhTcjBRYzAzN3V4X2pJWDdLWllLNm9DdDZmQ1lpSEFacWt5eDBhdmRiMjRXS2h6czZ5M2VpWG4zLWxQWWZxcVJVbzMzMUJaNWhBUVJ2UDg5bXJVdkZKLUhLNFdzdmpjNnRUQ29mNHljSm53eVNOUnNnSVNpWUdDOVVDTVpjSUdQcGtHVW94Q2lGOWc?oc=5",
+      "published": "2025-11-19T11:15:02",
       "date": "2025-11-19"
     },
     {
@@ -1280,23 +1259,9 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Bauhaus International Announces Board Meeting for Interim Results - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXhVMDhWMUZFYVY5RkV0bUhnNFFXT1dFdXFWWUF6UmNqazd3TkJKMGx0WjNzY29rT3lZS3RSemNyUk9PWW92aUdzVk1sQlZHWlZVbmt5a2x0NUg4OGpXUHJ0UWVVa0RNc1hPazFOT2tIMHRNa25fVGVoU1FFZzBrNWcyNjhMczBVZTZHaWk5X242UkFkdGZRSmFxVUlhS2dEZ01LbW5wRXFnUl96T21rTERId0dXdW56YnF6a2o5dFd3andWS2d2bjVNM1JUSy1zQzhYd1JGUXh3R0dMOXhNMA?oc=5",
-      "published": "2025-11-19T09:29:18",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "The Globe and Mail",
       "title": "Beijing Urban Construction Renews Leasing Agreement with BUCG - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNy1BclBLSXZqMnJ0YUtvWDN3cFBNbEJ6Tjl3VllwSE9QcGk1S243T21NcGJCbGFuR1Mxdjc0SjN5S1RfQjdaQXh3bVNqcWpKU3NaMWUtNzBMQzZIVU9UbnJQYWV2dDV3SUR0Nkc0M0V5aDBCc0RvTUhiajhaQVhzRmFWOHdUV2ZUQXk4Q0dyX0lHbWdZQ01XQ2hYNjJER2lRZHBKTE5XSUNtdUN3QWdkeTRDMEYyU2JGZUkwSzJHSDZPNjI1ZHpFUU5Bc1daSjZoczZxT0E0eTZ3ejA?oc=5",
       "published": "2025-11-19T09:29:16",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Arrail Group Announces Upcoming Board Meeting for Interim Results - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2stSXdsbm1PREZUV2NtbUhNZTdoRl9kNE1aYUNMRTgyVUp3M3FWOEM3S2UwWmd0LWlmNmQ1YlZuLWxuQXI0bjdya01sRnNoQzFYU24tR0RmcWM0d2EzREVLaXJjYmJmVHkxMU1jd1RGUS1SSkhXQlJxdVRiSW10ZEdUUWFrb1VuMWlzSS12N3dpbFd0bXdUWWlXWDhQMWhuRDB1ZDRWQXNRSkV6MWRZSm15QWF3V2xlanJvVVRPc0lvTDJHVVh5ZHU0blUzeWg1TEdfMTdvNEpTalJ0c3ZGRQ?oc=5",
-      "published": "2025-11-19T09:29:14",
       "date": "2025-11-19"
     },
     {
@@ -1357,6 +1322,13 @@
     },
     {
       "source": "The Globe and Mail",
+      "title": "- The Globe and Mail - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ0cybHN1YTNmRE9xME1uUU50Q0lNZ2hzWlp2enFvd1B4V3VPeV81QjhSWjk4OW1rakhzcUhCclR0dzdGaVhxRW1jVVJVckdXTVBtd0tUWjBTR2JIYmdrX3U3WGFmR2JvRnpjaXNIMjlqekxIdlh0MDF1WVBDaVBsVWFuQXoyMy1ZQ3d2T1NyM3J3V2paM29MNHBBQVBudHU2SVdLVmtuVlp5OURIdXBGSENfcUZZS2g0dTdyOW9JUzlobVgwcE43RVp3c1hwLXlxUndrMjlpazBkZ2ptMVNVZVpkQnk1RVloNnMzaFlYR2luSDIxcjJFa19McDdYSy1RY0I4Szd0UmQ?oc=5",
+      "published": "2025-11-19T08:26:34",
+      "date": "2025-11-19"
+    },
+    {
+      "source": "The Globe and Mail",
       "title": "First in China! Su Zhigang, Chairman of China's Chimelong Group, Inducted into the IAAPA Hall of Fame - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTHZ6U2hQTC1tVkhjT2xpSVlLNmFyTE1qcXUtdTVZNUxqTVYtV2Jucl9Ba3pMbDlNU2ZKanU4QkVaZmZtc2s2MnphaFZpWS12MFkyZW1CODlaSkRKT2tzMTlYWUlaaFNtOTVQajNPXy1meTJVVjFuZFY5SmpZTmp3cHE1QXhmdjIxWFl1dDRrS09ndHUxVXVKWjl6SDh2UTJ2QzhzUzFyMWdXT3FxWmUweWJENWQ0NHpwcWNpWHJKTHRnbWtLLTBFRTFIMlR5RG1kUFJ5UUpSRlBkN2tlV2Y3bmZtVkNxVnlDM0QyYWtpNjBKUGc0OGNlN0JVOWN4T1BlcUM2LUxkRmRvVVNpVm1Dag?oc=5",
       "published": "2025-11-19T08:26:17",
@@ -1395,13 +1367,6 @@
       "title": "Asian shares retreat in cautious trading ahead of Nvidia's profit report - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVzd5c2lOYm16bE5sYkw4djJ3bzVTVFF5TjJ3UENzYm1WQjhSd0V4bnZCRE1mLXhibEpza01XcjVFSE9pZ0hfdTZ5RWF2ZFhvQ19rTlJtNEcwRDVCOVFQZy1SdkhYQmdRWi00bkNNQ2pqbDgtc0pYOUI4SGdzYWJWTUtZd1lGZ1NtendaQ2J5LUVyMDA3OHJhSTU2SzFMOG5pMjF0V1VvOXVNUzNyUVppdklTODZfc1dsamtjZ25JY3VmeGJNb2VNOTM1V2xRSnRGQ3ZCbjdDZHJGRU9yb1JBOHNHMjhGbXRqU0RDQjNvVmI?oc=5",
       "published": "2025-11-19T07:42:19",
-      "date": "2025-11-19"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Stocks Drop Before Nvidia Earnings, Bitcoin Slides: Markets Wrap - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjN1amR5R1MtekZqYU5qdXlwYUc4X3ZPeEZGeXU3NEk5RXktcHdFUHlVakZDdHhFbzJtZWxEVjFmOVJUX2U4RV9lWE5qWkJQM2hBcVdGMXJlNXM1ZlkyQUh0WERsQ3ZiOVIyTVZDRDM2Y3A0MGVScTk1MHVJVHIxaWdfU3RNbVM1djlJTHRLNVZxX3NsVzhmVHczS0tUUVVnWFU3aQ?oc=5",
-      "published": "2025-11-19T07:41:15",
       "date": "2025-11-19"
     }
   ]
