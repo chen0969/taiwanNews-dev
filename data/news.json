@@ -1,14 +1,56 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2025-12-15T14:34:15.431610Z",
-  "article_count": 88,
+  "updated_at": "2025-12-15T15:32:48.312050Z",
+  "article_count": 90,
   "articles": [
+    {
+      "source": "CTV News",
+      "title": "Nvidia unveils new open-source AI models amid boom in Chinese offerings - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDZyRTJmbkpoUi1KMzM5OWRrZk13OUo1NV9oYXE2UzhkbExKWTR3eXdZR1M4NjhJQWdYOFdwR1UxdXgwTVR0cnBTdDNNMFhLb3dKZmRsLWhidG56blo0YVhLbTc3OVktTmJLa1ZrOFFLQnVmTnRwYm9SbEtocjNWMFFZYml3SkZ2azQ1enA5b1JRMHZZcEtuMkxIZER6TDlqNmxMVXJoTWNQaXgta0R4WWhR?oc=5",
+      "published": "2025-12-15T15:10:00",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Nvidia unveils new open-source AI models amid boom in Chinese offerings - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHJNSl9senpNVldTQ0lqTEVOdUpVaExnZ0pLSl83UEgyV3AwanJDRTdYOFV3MFNBcWdnRWhlZVJLdW8ya3VwRzVfOHV6VE9Raldnd0ZYb2dEZW8xSlVxbEg5ZGp6MFJha3UwTGRCeTN0Qjd1clp0VEx4SFZhN2dhYmp2ZnVhSGQwYllxWW01N1VFby01WFdyUmNYSHY1OFcwNVRMdF9CSXlNLV9NdmRDeFE4c1kzUXVNdkFjMTBB?oc=5",
+      "published": "2025-12-15T15:10:00",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "CTV News",
+      "title": "U.S. stocks tick higher ahead of a week full of economic updates - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2VRcVc5WVZhWVMxVk1QVTdHa0I4cG9WeTl5WFZrWV9TQXRyY1d6VUR0UlFMc1RDOEc0R2hGOC1vTTMwZTlfQ0NvQWdyWXVVLXlYT253aTlDazNrVHhoeXdPUTZnY0xwVWpWLWJONU1xbHVqYlJXcEZFLVhsRVl2ZWI3OURkaFk3bkhXdkpWNGhCODBPLTRDdzI5bWlpS25acjkxZkNiZTZPdw?oc=5",
+      "published": "2025-12-15T15:04:24",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Stocks rise at the start of a week chock full of reports on the economy - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZDY4d3Jod1lfdmZJdTFXeGtvNzBxcGk3TlEwUmpabXpqeHo0bUJEWndySk9pWkx6QXA3VzZHTGIzRGN4S2FBLTNPcndpWldNc29IUUplckdvaFFDbURaVlF3eURFQWtUUTdHZE11bmRJSGx0eVNmOTdka1NDTTdOcDNNdFBqVTdyengtU1NadG1famxURXlrTU1QTVNZT29VeWM0aWpkRzNtdUxBY3lWUlRqUmY2MHplV0J6WUljN2o2YlpMeWdOX0QwMVZKZ3Z1R1pZQWt3RElNTkNIVDEtTWQtdloyVmpqejFCWDBMQQ?oc=5",
+      "published": "2025-12-15T14:43:13",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Global Potash Market Shrugs Off US Move to End Belarus Sanctions - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTN0VzRPSDE1ZXJpeXVBSmZuVjBPQ3JQWEt3OUdhSm9FSldfeWpuSHdsV3ZUeXlzNUtlLUZyLWRkMFBIREFVSDQ3d2ViZDE0STVqLWJMMmVmTjI3YWJISFhuTmpFOVcycm1CRjRYLUxyOGYxN3RjRGVDOW1sNlc3bnhoOU5uUDJYeGxwODNNcTBaRFo1MjZqMVFZbVBqVHUwZkFTUWxZa1NkMFNidTYyZTk1M3oyN0U?oc=5",
+      "published": "2025-12-15T14:36:03",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "CityNews",
+      "title": "Farmers and politics threaten to put EU’s free-trade deal with South America on ice - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEpXdEJMTlRiVllob0ctTVV1ajc0LTN1SGxsVWFwSHdBVm1DVFktNDJXOWRWcmg3MkdMdHdna2NyVnJpeDVEaEZ4V0ZhMnNyZGRPTmRwcVFKcE5FZ1lEa2s4UTE1Vk45djhBNzlCZ0ZvYlNGR3JWZ1V3T2NXWjhaYW5HNDVIV3o2UGVKZk1tal9HaHc4V2RNS0NkeEJZM3BMN0RuZDZ2aFdNNmZ5aVJfV3pnbjNyOGFaWERWWGxXRQ?oc=5",
+      "published": "2025-12-15T14:34:49",
+      "date": "2025-12-15"
+    },
     {
       "source": "National Post",
       "title": "Carney helps Chinese interference make a comeback: Full Comment podcast - National Post",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ20zUEphZGlKaXR2U19jM3BjdHNfY1hpTGZVR3dpRFRUcUhKcGlTSW4xbVRKd0thRG0yWWROOThlNzIxd0lIWnlYRUJOUnJ4c2xxaDRFb09PWmJXS0JJUEM5VG50Y19mZmJ6a3NWRmNkYnNVNEpockJfRjlXd1RlOGwycXN3WmpnY2c?oc=5",
-      "published": "2025-12-15T14:29:27",
+      "published": "2025-12-15T14:30:02",
       "date": "2025-12-15"
     },
     {
@@ -23,6 +65,20 @@
       "title": "Farmers and politics threaten to put EU's free-trade deal with South America on ice - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0xBa1QyYWkzUkZnaG05bUhtUk5jVDFJNzNiRDBIQk9xdmZBZGx1SklJMUk2Ymo4TDdTQWJ4UnB5QTVGLUJaVTMtb3E4NDZWLThidWtVYzE1bVVVUDRpNWxDRVlRbVNrRFNDYllKMWl3RDZoYUtnTzlTckhPTnBVaHZxSERZeURGaV84aUs0OVNITHBnaDFWYkU4QmN4WUxhUFl2RjYxeU1yc0xkOTVtek1B?oc=5",
       "published": "2025-12-15T14:28:33",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "CBC",
+      "title": "Rob Reiner, dead at 78, remembered as Hollywood legend in his own right after following father's footsteps - CBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MzJWNUpHRnBKeUxaUm5RQ3Q1TWdLS2Z5S0NIekM4bk5kVmZ5S0xpTFl4TkYwQl9DMHFNTkl0U3lNMjBBQkJGMmFNM3c1RVNoNjI4VXV0NDJBSmh6VnZsOVNrUTJCMmV4Z2NaeFZ1My0?oc=5",
+      "published": "2025-12-15T14:26:18",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Hong Kong High Court Convicts Lai Chee-Ying of Collusion to Endanger National Security - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa1hMYXFvVmhBaU45N0FUb1NwNkhKd2RVa2daVkRCLUFmd1REOHBGbVBFczJBZ2xzZVI2VUZOWl90alRQNHVJVjhtUHBYVEF6NFpRLXVidlVUYWdlY0RNQWsycWxKRHRUbFRSVDAyRmRCZXhNOE44aENjdmRwV2N3dWFoSFBJUkwyMmFzQ1ZYQVNUMFFjWGJ4QXdsd0FvMVAwWTQ4SHZDXzFIZmJabTVwTDdZMERqWlBLZGRfY2gxcVBBaUc2ejYxYXNfMkprRDN3dWowSm1SS1RtTGdlNW03b25kVmFnSm1VYUt0NjF2c1gtQnlKT2p3N2EteThtZktnZGpnSQ?oc=5",
+      "published": "2025-12-15T14:20:44",
       "date": "2025-12-15"
     },
     {
@@ -47,20 +103,6 @@
       "date": "2025-12-15"
     },
     {
-      "source": "BNN Bloomberg",
-      "title": "Roomba maker iRobot files for bankruptcy, pursues manufacturer buyout - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlRyRE9aY05PdW53TWFwMmltRHZrWXFCYXdIbGdJUnYyWUhhOTZGRVRjUXlCc2VqWmRhZ054a0xKMFZJb01PRW9RMm9RbERpeEpYNEVpell3QktleUUwLXBDbDhLWmVET3dPUXF1OEJILVlQd1dyMnlDMTR2MGlnZ09lU2tPcEJKS0pCaEFRVU00WnVZU2lpb0RqMnNJdFh4eTl5a1QzRzFkaFhtV2hXT1ZHUXBBcVVPd1pfTTdDd0ptbE5abFd3?oc=5",
-      "published": "2025-12-15T13:43:04",
-      "date": "2025-12-15"
-    },
-    {
-      "source": "CTV News",
-      "title": "Saudi sets new death penalty record after executing 340 in 2025: AFP tally - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXc5VmNfNFU4QWlaYUtVQW1HeW9VREFHSGxNWTJFbG4zWnJuOGU1WWhkNXh1cWRZcUZoVzZGa3ZMWk1aZ3Y0Q3laYklPNmRmakJlUXhibjhSX3dCaWhfeWVVbHRKUllPNGpfNGZkbFVCMjM1VE54VXkyUl8wV1R1Znc0N29ORUhsTEMzQjhCbW01c1ppVTl0c3pnYXF5VDN4WGRRWk5Kd1lITHlvVGEwVQ?oc=5",
-      "published": "2025-12-15T13:42:15",
-      "date": "2025-12-15"
-    },
-    {
       "source": "CityNews",
       "title": "Iran hosts regional talks on Afghanistan, but Kabul stays away - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEFjWDJ6cjY0ekpEQ2pRTnRjM3JLcXRBUVhxeHhHamo2WXhyWmJpbDJQYUhPY3g2b3VTMnFPUEdWMHh4NzBneFgwSkxPYWE3MUx6T0JJQWpuOHNUNm1EVjlyS0c3MS1MMVZPUHVmYmtITkdST09lZEpZYUU2Q21hbzl5ZDU4aXR3cUlJWlNOZ0p6WHdzZVN3ZGpXa19uMDRudG44?oc=5",
@@ -79,13 +121,6 @@
       "title": "Got $5,000? 3 Tech Stocks to Buy and Hold for the Long Term - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2U5bnhmZjFMdk9OSlJFbFhpWXJEakoxM0lTSW1zZXQ0bUNDeHhjQVJzVjREYXpjR2R4RC14VjExS1NWNjF0YkZ6RExNcEdJaDNuS1RYYzl1SWpmU0l0bHJFVmdDdmFJRUx1TW53MElfYW5UWW9tOGVWSlZYWjZQT3J2TkR5dlBiai1GVEFPeURrMFUzWVlCS1pnaW9RRHlEWWhVZ0pCMFNzaW52NFRXN1NKcld0Sk5xOGdoOVlMbjdoQm1Ia0JfSDA3c05VWk5PbHMwVmk1dG9tNWM3?oc=5",
       "published": "2025-12-15T13:37:40",
-      "date": "2025-12-15"
-    },
-    {
-      "source": "CBC",
-      "title": "Rob Reiner, dead at 78, remembered as Hollywood legend in his own right after following father's footsteps - CBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12MzJWNUpHRnBKeUxaUm5RQ3Q1TWdLS2Z5S0NIekM4bk5kVmZ5S0xpTFl4TkYwQl9DMHFNTkl0U3lNMjBBQkJGMmFNM3c1RVNoNjI4VXV0NDJBSmh6VnZsOVNrUTJCMmV4Z2NaeFZ1My0?oc=5",
-      "published": "2025-12-15T13:10:27",
       "date": "2025-12-15"
     },
     {
@@ -229,13 +264,6 @@
       "date": "2025-12-15"
     },
     {
-      "source": "CTV News",
-      "title": "Asian shares slip after Wall Street logs its worst day in 3 weeks - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2VRcVc5WVZhWVMxVk1QVTdHa0I4cG9WeTl5WFZrWV9TQXRyY1d6VUR0UlFMc1RDOEc0R2hGOC1vTTMwZTlfQ0NvQWdyWXVVLXlYT253aTlDazNrVHhoeXdPUTZnY0xwVWpWLWJONU1xbHVqYlJXcEZFLVhsRVl2ZWI3OURkaFk3bkhXdkpWNGhCODBPLTRDdzI5bWlpS25acjkxZkNiZTZPdw?oc=5",
-      "published": "2025-12-15T10:56:52",
-      "date": "2025-12-15"
-    },
-    {
       "source": "BNN Bloomberg",
       "title": "Asian shares slip after Wall Street logs its worst day in 3 weeks - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWhycXJ3YVB5OUxNMHNrTGFCTVhSa1RoMDVNRzVHZXBMcnItaVNMeU4xZ3diazhPakFRaTlSX3d1eGVZLXozQjdLTXJncXFHSVV6Z2lsbkVvUE1hMWduWEs3NTlLcEV1SHYxTFpmWkZycVZWMGJXY2MteVdkXzQ4R3BnWmtWazZQWEc2cWlQZHRkZnZXc0lOQ3ZTckEtUm56d1RnbllLc3dTckpHc0tfcGFjdw?oc=5",
@@ -299,10 +327,10 @@
       "date": "2025-12-15"
     },
     {
-      "source": "Financial Post",
-      "title": "Asian shares slip after Wall Street logs its worst day in 3 weeks - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0JyQVMyeGxmQWdrZE5kNGVpalJZSWtydWRaWkcydGpZWTJXWGVtZnBDTDZUOHRlbTBvU19jLUloSXZiSXBBZWZtT0ttanhuUGJtdzFzRVRwS1AwWlFTUHlpREhuSkZVenZ5T0k0TktIdjY2WVBza3hlclgyLVlrZXdITnUyN242QnFPUm9sTGkzTkhodmRiYUVtcw?oc=5",
-      "published": "2025-12-15T09:45:00",
+      "source": "CityNews",
+      "title": "Former Hong Kong pro-democracy media mogul Jimmy Lai convicted in landmark national security trial - CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTdGR3JTbmdWTTY2MW5kRkUwVnBxU2Vwai1KNXJ3VkNiaVZ5MjJSdngwNENzY2tTTDBhLXZXczRIaDBaSmx3R0swN05vWlZFYmlVR1k1TUtmUXhsWGdpOUR1UlQtWE5BYTZURUNxYWVSZ1JfdjFsS25QUjlIMHVsbW1mQ1kyTUlBTUI0dkw3TjNDSXhUTkJIU0lucUw2am1WMzlSSjR5Q2RrQmF6NTNrSkd3dlRTX0hwaGJDT294endnYTVYTWJMRmJPSVQ5bXpiT2pPWWFn?oc=5",
+      "published": "2025-12-15T10:01:15",
       "date": "2025-12-15"
     },
     {
@@ -317,6 +345,13 @@
       "title": "Super Moments in Focus: OPPO Announces Global Winners of the 2025 Photography Awards - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWnRIajVXSFl1amF3MHNMcnpIRnM4cFVLT2ZFdUxOVGc4ZzM0TVNBVFZrbzdDbVFxMjN6dXBQY1ZfbzVORHoweXZfaFp5d2xOcVcwYzRZZUNfU0JjTElWYXotZXAzenh4bDB5NElLX1pwbEd1ODdVeFNDa3JYTHdCTGJKZWtfSU5Oa05hdU5YOGU4NlEwZzNvMll6NFJ6aGVxWFBjQVNPMWQyMUdwWndHdjRmN3hTNFVDNDdfQWRjdEQ3azg2VlNHLTRNdGZEcmxPVWdxZGhGTFZJb3ZmczhJNHY5UWJWNU9tMXMxQ25rZmcyNTBYeXpaRmFQNWd0aV9zbEE?oc=5",
       "published": "2025-12-15T07:00:19",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "Hill Times",
+      "title": "It's like 'the Monroe Doctrine on steroids': Canadian politicos react to Trump's new 'very chilling' national security strategy - The Hill Times",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONDBnWGRnWnNsUkxOYVRKVTlZVGFlaG1yTDUzX2U3dlM4M3ZsdTd5bDlYYkw3RWRxbXg4Mi1ibUVuU2tjQUwzMkc2a25Id0F0WmUxc3pNdk9KT3hQeTdkSW1QR01MSElHM0tNVG83MHFVSjBpdi1HVEJZZmhaUWlyNXZ3Ukw1TEdkT1MtMFlkV1BhcTVOUngtWUhIYnhPZmRUeGhzel9HeTlncmdfNlRmYmY2cXQ4aGdEWXpvMXdIdmlWUUdKVXVfNkhkeDdaX0xYcUs1Nm5FLTdCcFRqQmRGR056UnlTOE1NSmpxRDVJX0JZYk1tb2k4V1JnbG4xbHNSTEN0OFR1UUZXMWs1YTdaZ0tJbWxjc2Z6LWhZ?oc=5",
+      "published": "2025-12-15T06:00:00",
       "date": "2025-12-15"
     },
     {
@@ -405,6 +440,13 @@
     },
     {
       "source": "Financial Post",
+      "title": "Stocks rise at the start of a week chock full of reports on the economy - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0JyQVMyeGxmQWdrZE5kNGVpalJZSWtydWRaWkcydGpZWTJXWGVtZnBDTDZUOHRlbTBvU19jLUloSXZiSXBBZWZtT0ttanhuUGJtdzFzRVRwS1AwWlFTUHlpREhuSkZVenZ5T0k0TktIdjY2WVBza3hlclgyLVlrZXdITnUyN242QnFPUm9sTGkzTkhodmRiYUVtcw?oc=5",
+      "published": "2025-12-15T04:21:48",
+      "date": "2025-12-15"
+    },
+    {
+      "source": "Financial Post",
       "title": "China's Fossil Fuel Power Output Set for First Drop in a Decade - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUllamFCSUl1aU95SXYwRGttbnZsaWotTlBROEc1VnJGRHRBYmpZeGhnUjdOX1ZkRG5wMFhiOHdZLUgxRV9ObXFsc21zTTRlVkJkQjEyMDdBUDk2X0dkTVlGRFk5czFyMkVpUG1MTE05YWJtMExiQlM0TEpqVW0taC1STUZod1BIQUlsVzhYMVpaeUdhNGtUV19tS1puYzEtOVEyMFA0b3k?oc=5",
       "published": "2025-12-15T03:40:51",
@@ -415,13 +457,6 @@
       "title": "Former Hong Kong pro-democracy media mogul Jimmy Lai convicted in landmark national security trial - CityNews Kitchener",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmtmV2twcGZXRFBUR3ZXMVp1WGdDR3ExYlg4T2lQZlB3dGJicEtFamhKQmo0ajNxOHV0ZjNfRnZLdzljRC1FY0xYNWp5eFdUaDdpaG1qdUVKTWp5Z2VfS0tmaFQyS25NSTR4a0pCTFlEd1liWEN3SjJqLUlFdHF2TExXamRySFF3ci1SODJCYXNnY05WQzluOXAyUGhWZ3RRSmVST1MzcXlTRkJFbjZKcThlbnBabm5XUGdMbm9ONWtBN2hpeGRvTl94QjVpSFZTenFrdm5FWQ?oc=5",
       "published": "2025-12-15T03:35:07",
-      "date": "2025-12-15"
-    },
-    {
-      "source": "CityNews",
-      "title": "Former Hong Kong pro-democracy media mogul Jimmy Lai convicted in landmark national security trial - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdHFaRjB3Y3dvLU5sMVVnREJjcGdTd01Ob2V5aG1mTkg0NWhya1ZVQWhSRHZHRUowbkoxSS1VQzBIOUUzT2d2T0w2SGJpQmhRMTFHcHVnVi00OVBUcVFvNUNHWWNmNEl0bDZ0eGxPdkN0c1N2bWJFc2Z6bFhFamRxaUlzNGRmQmVIU0F0ZTFEcHBEamYxeGVlMTNENnZ5MlBUeVBRbnFZVkhGdkJ4N0NkdEdiYjRoaU5XSUpWZHlMdXZESmZDNlFGSWtVZVlQSEd0bjlqdA?oc=5",
-      "published": "2025-12-15T03:06:57",
       "date": "2025-12-15"
     },
     {
@@ -443,13 +478,6 @@
       "title": "Hong Kong court finds media tycoon and Beijing critic Jimmy Lai guilty of sedition, foreign collusion - CBC",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3cFNuRzdEem9WNEQyRTZDNEkxNG54cW13VGl0Z09wWHF5VnZBbzM1MGVBMWxhNVJpY3VUSXZEbFlNN3d2NXpUOFh2SkFXMXp2a29nUm9sa0tMQXFRa0RwSnlxUzF1MUtaVXNGNHZWYXFzejIwdE9CUk5HeXdWQQ?oc=5",
       "published": "2025-12-15T02:47:00",
-      "date": "2025-12-15"
-    },
-    {
-      "source": "Global News",
-      "title": "International students struggle to keep up with rising tuition costs - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1RQNkxWemlXMjNaWnJ1ZFM3RVhBYV9NTFo5dmVyVWEyenA5RFpQSlhDOG93Mk10WmFmQkswbjIyeWxnV3Y0NVg4ZTRpM20zeU1VWXlBLWlsWWkzczRSUkdYMG5NOEdsMmtmV0JqZm5jRkJxc0lEWjN3Z1BjUXVzeWI5S205WUIta2o0VXktSGMtWEd6bnVpOWktMklzakRmci1EMGFjdWVDZ9IBrwFBVV95cUxPTTF3QjQ0a2lva3FZdFBxVnBTQS1DaTRmOFpVUlVQMW8xOThQa3FCWjIwNkVqWFBuMm0wTW5ZX05CWFB2NU5SN1F5Z0ptVUtUSmFEdktvUU9GVW5wLVcySXFzeklCa2w0ZVZNT3lNR2dPM25qZWMzV3hWcW1wLW02V3ZWWl9CS2Ftdzg4c01EN3NoTXgtVzF4TjhzTlllZDg3OWNZdjJkZG1vU0sySFNJ?oc=5",
-      "published": "2025-12-15T01:25:40",
       "date": "2025-12-15"
     },
     {
@@ -495,13 +523,6 @@
       "date": "2025-12-15"
     },
     {
-      "source": "Global News",
-      "title": "Nnena Kalu’s historic Turner Prize win breaks ground for neurodivergent artists - Global News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUZMdmpSY0lGa3ZzSGxQYUFTZ1ZDQ25oRWN5ajMzRmdDZlV3cXF4bmJqcE1kYkVDZUh5X3gtT3V4TDRjamo4M3hLbUplZ3E4VExOcmVDVWhlWUFtUkttTFBPbzFVdTBma0ZMWjBzY3hKS00xQ252WkpGR2QwN1p2VWJsdlBVbFVpT3lqSU9Jb1FFb19MX1VxOEVMeWNnU0UtaDE0MDhGTC1ZV3Q4S1V4ZWZxd0lXS2_SAbwBQVVfeXFMT1JsaGNpSkgxcEc2b2FOeFhZYlBYU1BSR1haclB3S18yelBlM20wRENIN0FrMVVDR1c3cXZkOTFKeF9YampCMTZNSkFqVnZxVE9iREdydkdiTmpObHUzcjdSV3lZWEo4X3llX1JUUWpfNXdPaXQ1VUx0Q1czVEJmR0xpZFFmMmtla05tdzJIUEJjNVFFOVA5Snl4Ympic1FtOGxEMnhtRFdvMmtiVk9yeHNkT1dibE9jdXBHcHM?oc=5",
-      "published": "2025-12-15T00:36:37",
-      "date": "2025-12-15"
-    },
-    {
       "source": "CityNews",
       "title": "Former Hong Kong pro-democracy media mogul Jimmy Lai convicted in landmark national security trial - CityNews Toronto",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazFFT3J5RXNNNU5MWTlhVzRZRkwxZjB4TUMyMllxbHJiTzVzOE9oeFlScFIyX1oxaFBRTGxLUlpybVJxenlMUkFTYktXMHhUb25kOU1seU12RXZjYmdHdkx0dTY1b0k1R1p3YTRJLWJaeVNsVFdXZzNOVHhINk1zVWFmalB1a1BRcUpPTlRjXzdkS0FOSmxxQ3doV3FkM19ob3pYc2VLcmIzbWFIYzB5c0ItUnpGaXdoUWpsRmFGc1pCb0dEUXpaNUtEWHA3c0NhRUo4NQ?oc=5",
@@ -520,13 +541,6 @@
       "title": "China Confronts the Cost of Dismantling the World's Biggest Coal Sector - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE9WN2lyeldwNDRwOUZoTmtVeHhFQ1RxcEpYWnp2SWx6b1dCbVM1bWpMQTVWWkhqOTdkczd1aGdweGNzQmVORW92TGNtSlhMMi1OUjR5VUNXNUxtdlA1cFI0djN1OGNteHhlR3F2dXd1X2tsSWoxZzJ1cFRwSHpRSWhUU1BhR3lqXzNfLTJQVUdlTHVQVVFQZ2Q4NG9NNHVNZHJ3NXFHQm84YlFsSjhtcnlOaw?oc=5",
       "published": "2025-12-14T23:22:42",
-      "date": "2025-12-14"
-    },
-    {
-      "source": "Global News",
-      "title": "Half-naked Santas brave cold in Hungary for charity run - Global News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODVPUGZMTnI5aEJteGduWWE0bUJCNkFkdGRzQzBxTjZiRzhUVFM1UVlfc1I0dWV3VzhadlVMbERWdmpNQ0NpYkNUN3BsRnJLTUJoOHdZVUt3bS1uVjJMT3ppVjZxRUg5MVhDT3lDN0dDOFEtTGlZVEFKNFRya1JDX1FudW1VUXFHQXdfazg3ZkJsejJaeDZTRNIBngFBVV95cUxQaEs5eXJWVEFCTFI3cHZXQ09JNmU4cmV1ZnE5SlctNFFRSWUyTFlBXzFURk5xYTFUN2pRWUV6YzZycFllbmRiVzU3NEVqY1d6aU54VnV3VUs4cVpRUGNLeVQxRDNkdGtFWVpQRUtxSUxRdldUWTNFX2l6Tms4akhDdGYwODVOa0Z1YnQ3d29tOENZTHRubll3el9mN3lmdw?oc=5",
-      "published": "2025-12-14T22:10:36",
       "date": "2025-12-14"
     },
     {
@@ -593,6 +607,13 @@
       "date": "2025-12-14"
     },
     {
+      "source": "BNN Bloomberg",
+      "title": "What are your rights as a Canadian if asked by a U.S. border agent to see your social media? - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaldhZVpqTXVRM05falk3SjhfbmNIZlJQVnE3Zk9WaVZqUkdTY2l5N0kyYXZ6WFprNXJBTTlxYk5LR3N2NTVCemU5STJWMDhGX3RaZ1ZvblR0NW04Tjg5MHp2MVlJYjkwUjhqVkxoa1FKQ3Nfdmg4QzhMeHZ4aDdYN1pmNVlfNEtyaTE1aUM3T0c1dURrS0FBWldNYVY0MVd1WEM1bnZlbmE1aTdkVk9IZTFudnIwaWRscTZvU2tmUTNmZ241OFM2M1BnR01kTGpUdFNIdHdaUEtlSTlDaVNZSUFYdWVVWEE?oc=5",
+      "published": "2025-12-14T17:29:34",
+      "date": "2025-12-14"
+    },
+    {
       "source": "CBC",
       "title": "FIS Freestyle Skiing World Cup: Team Aerials - Secret Garden - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EZGRjcF9wclZieHBSWldUendGMDU3cHQyS0hZRWYxV1d2cWpFdmRYZ0otVXFzSXY5b0d0YXhjQlVwSnZRbG43RUVqdnEtUFhQNEp5a2dvSVFNUQ?oc=5",
@@ -611,13 +632,6 @@
       "title": "FIS Freestyle Skiing World Cup: Halfpipe - Copper Mt - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pWnMxMEZYbG16VG1IcmdmenU1cGVQUDFDMENhNE92ZVlGWlQ2aDdMOE52aDQ1eldLeXN5aTN5bWVBclBfbWtGQjN5SmktX0tNR3RyaEtaVFVqZw?oc=5",
       "published": "2025-12-14T15:58:32",
-      "date": "2025-12-14"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "3 Artificial Intelligence ETFs to Buy With $100 and Hold Forever - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaHhPX0puRUVDdlVGamxFWGlmdHBjUHR5QWJfRko5YmRKS3dPMHVfY2J6bFRWeEVtMjQtS3lXOHkxemNFS1kzWVJrRkVYbDNoZjhtNUN4aHk4elNVMmROaTk4ZkVjbHBCRDhnZlR4TlMzUjY4UEpGN1RyaXE3dXk2d28xVXZXd1h3UnoxdHhEOVdTNHlydzV5NmY3WE1YVGFiY19QbVM5QnVEXzV2VWRxbG1RckJDeEJnbFVDSm9iRXA1Sm54N1JneHIzLU5Bd0J0Qks3LWRpX0RCYS1ScUktVmo0Mkg?oc=5",
-      "published": "2025-12-14T14:36:22",
       "date": "2025-12-14"
     }
   ]
