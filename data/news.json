@@ -1,21 +1,56 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-02-02T16:59:27.818126Z",
-  "article_count": 124,
+  "updated_at": "2026-02-02T17:46:57.487279Z",
+  "article_count": 118,
   "articles": [
     {
-      "source": "The Globe and Mail",
-      "title": "This Stock Is Vital to the Tech Industry and Could Be a Huge Winner This Year - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcEZ3Q0lobXpxTFFHZHdkZVRfdmczLXNLNkNBeGVXLXVyT3h6M2RBaEFnekdQeEtKSUx5bTBWTGRuNExicUpieklVc0RhVnE3aDNNZEtCbnVkcVhvXzB4dnh4YTVyZjlablNVeDlwWEs0WmdTZmNrRE8wQWVOWWVDRTdqY0ZiTWZ5dl9tOFA4QktKM0ZYSFZRbERtUWtEWlNFMmZkSHc3SWlQMk9STFMxc1RQeXdZVTdqdXJCMTFKM05OMVlGMEpRcjlKUjVqWEJrbGZLSW1MNXQ1LVkzMWx0NDFNdXlyU01GbVRHSmlrZjQ3QzlYSWlhcA?oc=5",
-      "published": "2026-02-02T16:52:17",
+      "source": "National Post",
+      "title": "FIRST READING: Carney's artificial government - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1RQdlpPTG1RemVLQ3RWY0VOUDBEdFFZZ1dLUXFyaHNrQVF3WjNlaS1LTFhCSFM0QUZIbEsyRDZ2Ry1ZUlhaQ0dnb0kxNEh0cWtxRFlfSHRnYlVCWDBhV2dZUTVDOV9pNFdKRFJIdHlVYXpXT3BIZ19rTWJFRGZQV1JB?oc=5",
+      "published": "2026-02-02T17:40:41",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump administration to create a strategic reserve for rare earth elements - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd09rUERsQVh1YTM0X3NtQzRxdjZKbVBIQzhERTRoeFB5RHFuZVhuUVFXdEw2Z041b2pwZS1McFJzNmczUWpyWVlUTjBkRmhwU2NfWHlSNjVQakZBVVJfME5RTnhZc3VEZVp4WjJpLUJzLVVBUHJtVjUyQVR2MXhYMTZ4X0NEeUZ0cmFibEsxc0tSbnZrS1Bka0U0Wk95UzVYX3RYdUc2NzVxV1RCWkYzTkJBQTh2Zw?oc=5",
+      "published": "2026-02-02T17:40:28",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Trump administration to create a strategic reserve for rare earth elements - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYlBGdlZkYlNfQTJXNjJCazVBeEEtN1lsX1FoZWxvYmtWRXFxczVHUm9xaElPOVpZUDEtSlIydExHR191T0I3ZnpGelBzZVRoVl9VQzRJWVltX1JKOGFGV01sS1RRUTI4YXFNcGR6dnJmc010d1pWQThhWmhTUERNd0FvZHRERU42OFBreVRfWk9XYnd6by1YUGFEUTJ3RGpkS3dDUnZYMUVyU1h1dW5mWm51Rk5HVEtPdkhQb0t6WVp6OFFmeXhrYWh0NWE?oc=5",
+      "published": "2026-02-02T17:40:28",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "Global News",
+      "title": "Health Matters: E.U. advises lowering the maximum limit of toxin Cereulide in baby food - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjFFNzhhTVRjdWFUQTBSZnZ0TWhCelAxTkVzS3JrdDVXZFVKX3RDNWpiSTZuVVNJb0V1cXVxakwtTVlYMFJ6Q1NDVDV2aHBiaWpoUDV5LWk2NUhNUjgtaGV2S1pWRmp4X2V4Q1UzS3ZfampFYkhFb3FaWmhzTjZRYzhuSWxDRm9MdmRDUk9ZMjZ3aG5TTUl4VzRHVFoxNnBuQjlUX0JZbHpGTGxyMEtOSlNGX2pIMzlCUUVqekxQVVQ?oc=5",
+      "published": "2026-02-02T17:20:14",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "CityNews",
+      "title": "Photos show a former scam compound at the Thai-Cambodian border - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGYydnF6R0QtRzAweTFKT25GMmZINi1GaGc2ckdZNzB6NE1aWnN3YkpiVlVyWVI3WDc1UmwtNVhQTHdzV01VVkZpQkFTYV8yMmMtak9xZWFHazdWcHMySlJYRUYtcXV2clhzb3RTS2lCN0VGSkxEbW5fZTlEenZPM09XXzRVbnFiQ1dBWEc5VkgxRUVuQkNnN0NVSGlBdHh4UF90anhR?oc=5",
+      "published": "2026-02-02T17:11:24",
       "date": "2026-02-02"
     },
     {
       "source": "The Globe and Mail",
       "title": "Why USA Rare Earth Stock Popped on Monday - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdW9zRk9kV2dkY3BXanE1UXQybUdRUWlpYUxxRk9OMXdlTzhET1NhZzMtUnNKU0xwUmRyTmJ2cHFsTmIwOVMzN2lSWDVsemloLTJVc3ZxM0RuMGZVMG15ZThhclJfOG9JWktvRHBJRUtPNDVEYllKVTg4a1NqZ3U4R1hMaF94LXJHWl8tbzgzZ014eUs2YUthYU5uaklmS3lITS1DVEk5SnVLZ2dLVEZNemdXUHJWX2l1Y1JPRUkzNzE5TzdjclBz?oc=5",
-      "published": "2026-02-02T16:35:24",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3BFeUx5ejk2R09aRER0b25GTFNwcVBWcmRZRVdWQXhzWlAzYld5NGx6T3plN01JNV9NeUxZcjFtZ042UlhQNXZGYU8xeXRGMDZSS2Q5SEczWTdMX0loamlHYW1sX1pjb1VZaVFKU3g3TTAyOUNkWXpfMmJQWUhnNmMzTEV5blo5bXJTbTI0S2Njc0NsdDdFQWJ3bHBiaDFxcEEtdHpveFlPMENwUjFOLWhka0R1RDF6SlY4Nk53?oc=5",
+      "published": "2026-02-02T17:00:19",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "This Stock Is Vital to the Tech Industry and Could Be a Huge Winner This Year - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPczZybHBOV3ctSE9NZEh5OE9FeWlVS0ZoaFg1Umg0TEx2b09JSGZxS2VRZVNDZFN1QTRnWVJpSFRXVlNZNDlqNEV1cU1UNE1aM2Y4OXZVZE04ZmZrWWpYbmdnckUzTEhLMHNMdTNTNl8tUGthc01jXzBuVDZscm9MNGl4Y1dLaWk5Sk5ZLVM4UzIwYmE1dmg0clBoV2RoQXdzOGpyOHRPN2JYRHpTbzFuVlhLZUp1U0k1TTZ3eGF3R2pNWWRsYm5mR3Vld1pidTJ6RGtWSjRNSjJ5UVRuS3NrOE9KMnVqUXpzZmFWRmVLYV9YOXVk?oc=5",
+      "published": "2026-02-02T16:59:26",
       "date": "2026-02-02"
     },
     {
@@ -159,13 +194,6 @@
       "date": "2026-02-02"
     },
     {
-      "source": "Financial Post",
-      "title": "UK Fears 'Made in Europe' Plan Will Hit Car, Tech, Green Sectors - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkNHbzJKaGRlWFd4UjFYcEtsOUh2NXpJQzlYbG1pUWI5SzNybUFBU1lsTHotOHNJbXNSRnpxaTZZZjc1MTZOd0dnVi1qTzJ0SldwSVRYZ1NBbkJxOEVtRG4wWjlWTWc3WnpQTV81SkdCRTBfNUM2WUZqS05uYW5WMHJ0YWFGLXVvUUVKMXlIWnNNajVVV3BSOXZDbllGY01tMEZQY3VR?oc=5",
-      "published": "2026-02-02T14:36:16",
-      "date": "2026-02-02"
-    },
-    {
       "source": "BNN Bloomberg",
       "title": "Tyson Foods beats quarterly profit estimates on chicken demand - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3B1dVNpNU9PQ1kwWTVzZUNqa0xnYmNncVdpdWQ1bUZHcHVRRzBJX0UyR2ZvSzFtbEFpdmhHSDZLUkl5VlFUNy1MdExaU1hMTUx2XzZGRTRHS0IyaHVmb09GS1JqZWJ5bElXbVZnWlBtY2dvRlNBLVEzZ2N0bndCOERMbTVQblY4aFNmcmhhY1VMU3YwUGx1cXZ1dlBRQlJ2VkxGU0h4TUs3dFBsQVhoVQ?oc=5",
@@ -216,6 +244,13 @@
     },
     {
       "source": "Financial Post",
+      "title": "Trump launches US$12 billion critical minerals stockpile to counter China's dominance - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYy1ERXhXVVZXWElRaENmVW1LRnZuSmNCUnk0ZTJleGd3VS1kQjJtT0VXSUh3TTktQ3FZMFA1b0Rld2hTaWUzdkt6Um9QQlVYSHA5ay1lN1Zvd2ZhcktTLTBGZEthaXg0SlBjWFFneVJXZ25ucUtfLTdKMGloWFJsa09XTVAzMTRCbGI1ZHYwNTJ2YngxaGoxWEZ6NjV0eUJi?oc=5",
+      "published": "2026-02-02T13:47:39",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "Financial Post",
       "title": "China Bans Hidden Car Door Handles in World-First Safety Policy - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXhoYWhHN1NINWpBX3VEb0ctdWhfaU54aWl0cEx1ZUtUUTJLZGtSQTVRRlNaNHBWak9FeW9haXF1X1JVcjdTNnU1VnBFMlV0OWtKSHFNYUFzLWhZZUYzODQ4d0hfNGN4S29yN3lTWDhab240M0d6MU5sQ1praDFEYXFqLU9oaWQ2Z0Y0RG1yMTNjNGpCY2UzWWtub0xVeklzcEptREtVdHdKZw?oc=5",
       "published": "2026-02-02T13:46:18",
@@ -250,13 +285,6 @@
       "date": "2026-02-02"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "The Zacks Analyst Blog Highlights NVIDIA, Taiwan Semiconductor Manufacturing, AMD and Alibaba - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRnJ0dFpETkZma3VTVU42NGxCcHdwajRfUnZRYklHY2pNNkVHMl9jaHJFQTUtRUxULVc3TERUT0h5dmZhNzhvN3pNQTBPUVN6d2FiVGwwWWZBYTFpamZIcUZIZmtOUWJRTkg4XzBMSm9EaGJKLWFMdk1fQjh6aF9XWVBUOVVvQmw2TnI4SzYyNWRHRVE2ZEE1REI5Z2tzb3lzeGt5cVZVT2txZU15bWp5VC1fZ1pkekhiNS15T25ZTzdCWUxYbUlEZ1M5cUJkeUg0SU0zZVJYZXV4WVVyaTNuMmNoT0FvRTZzLUhzUUJNel93LUhacUVVVW5Ca19aREprTmxXRzB2Umg?oc=5",
-      "published": "2026-02-02T13:10:20",
-      "date": "2026-02-02"
-    },
-    {
       "source": "Financial Post",
       "title": "Smartkem Signs Letter of Intent with Carbonium Core, Inc. to Expand Advanced Materials Portfolio into Nuclear-Grade Graphite - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVFBNkNfVFFWWlVuVi1mOEZIQVFPU296UG1qQ0NPTkEzUHdZTm5GTlZVRWU0bWg0Ny1xQ192NmI5SHI2NEt6eko0SXQyQVRhSXo4VTB3NDA3UlF5TDZmZXRvRkY1TmpxMlFhZHBuUFRVSTNJWUVxYV9vcGhBTTV4NEVfTDk4V3RZQjItb2hYMWQxeEFEWFFHTXpTLTVNNjZyN1J0NVBadTFVR2NzbDhLV1RhaVBKbElMeEpNTHRHZmUzUzU5SmdmSUd5T1ZXak91WXJ6UmVBY2RJUm9mSmVQM3FraTZ1MW5uZ3oxMUswcVNtT2h2aEE?oc=5",
@@ -268,6 +296,13 @@
       "title": "Aptiv (APTV) Q4 2025 Earnings Call Transcript - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXlLb2xwcEowNi1ZM29OLW13QUpFb2FXR2VPRzhwb2Z4N3ozWlh2ZE5tNnJ5MHZTdW1ULXFTWERUZVd4SHFQMG5wckE0ZFkxRjVHMWlzTWI2UW5aWGhXbTZrdDY4dTRrRldGTzFISG5kWHdIR1JXOHdBZ3pDUjQ5LTc1Sk4wVGx5WHlzemZGUkQ5VFNEeEt3cHMwVUdjVUgtc1BRekNKb2pWejF3SFdyMHNrZkhQdTZmOFQwcVhFSG0?oc=5",
       "published": "2026-02-02T13:00:00",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Taiwan Semiconductor Manufacturing, AMD and Alibaba - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORnlVOFhGUEdGcTdKQ0NPTzktSDB3MHV2cDA3NjVFMGFRWEFlcUYxMmQybEtERTNDb0dPUGdDZjNndnI4VnVIMC02VVB0Ymc1S3J0elhsaG9FUG02WVFtU2htSDRUWTNGTzFuYTFTcEZ3MnlNdFVwN2ZCS2J1cmxpbDl6M19VMl9IS0hnb3JHQzZqNGRpLVdjdUZqdDR5alpTSjBlYWlVcEhhM0w2SURMSHZ5aTVRQXNXMUtIUTRhalItNG5PV1R3UW9sWnlsQUlnaW13djZpUUhRSGl0aHlyazBNZ0FEelZFWlY5SHQyaWEtN0RxU1FlMWFlY2JWbTdCMGZHWFRTNA?oc=5",
+      "published": "2026-02-02T12:50:15",
       "date": "2026-02-02"
     },
     {
@@ -306,13 +341,6 @@
       "date": "2026-02-02"
     },
     {
-      "source": "Financial Post",
-      "title": "Trump Launches $12 Billion Minerals Stockpile to Counter China - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWXN1ZXZQcjExWHdFNEV2ekt6Z1pZWkFOVXNHZHBDdHdETnV3V1ZTc3F3TzBTMndTeVBxeVE2VWVBbldLazBWanV1bnpybzA5MDJiQ0VCMF9NQ0V5XzNTRkxJTmxhb0pKbjZwQXJZUjhFNjZHM2ZYQVJENmViY1NadUc0N2ZvNm9kbDYwTzdZTmNCTklLSVNmbU94ZDQ5Tlc0a3loTnBHRQ?oc=5",
-      "published": "2026-02-02T12:20:23",
-      "date": "2026-02-02"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "1 No-Brainer International Vanguard ETF to Buy Right Now for Less Than $1,000 - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTmVwLUphUzc5cVBOTHRCdmpWdlQtRUprR2JudkVSb1EydjhJX2x6MXdxTkl3WDBEN0k0NlZtcllGVmJuOXFDWHUwcnNLVHpyUzQwaXBmYXVPMm0wY0FuTVNyX3Z3cjN4c0xJRzh3dDg3TzRLaDNqNTR1bmpELW5kMm5qdmFEcGpIbUg3V1RuMkNIZ3hsbVVkTHl5U2wxeGczRXpFN2dIUDRkYjRWanRzZVZ0b1FWVjN2a0ZoRzY5cEZYMzZEX2RrU0tyb0d3S01XaXh0M1cybWhQeDFzVUtQUEdWNVphNFAyMDdnRQ?oc=5",
@@ -324,20 +352,6 @@
       "title": "RBI and CPE Complete Previously Announced Joint Venture to Reignite Growth at Burger King® in China - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQb2tnLWZKcG5zVGJfMzd4SmtrMU02RkFlUVVzSXdIRGE3blJzQ0daYWpCYVVGWUdFOXFSOTBTc1hyQUM2Z1RtbXRlMlBkUmJxODJCS0hkaWxRRFBMemRQM1oyV3pNYmFhZElfQ2RLN0xiMzd5NVZnalVPbGNPRWw1OTlTbU50aUVoOWJPZGdFZzBoZTAxb0JJcGd1bVVKZUd4RkYtN1ZFc1BCTXhRbm5fbWUwcjVVNVBSOF9jRk01czdLODlqRVg3cWFUMnpqUGJLODBRdXQtUXotZUpSNTRtRVdWdHdvM1oxeGtiT2RObWtEQXMxcVBmSnltdFRYRTJENEJuRnNDN3UwMEw3UklmNQ?oc=5",
       "published": "2026-02-02T12:00:55",
-      "date": "2026-02-02"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Citi Appointed as Depositary Bank for Siemens Energy AG's ADR Program - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0NlbTJ2NlIzbzFPLXRkYmp5QXdvN2VHN1lZWkw4U2s0X2NYOVd4MkxJSkZGNnZxWFE5RlBrU0gtbzRJYl9kZ2hEV2xpM2dndG5STnpPNGx1VmNPNkpBNGhSczFmdjUtZnN6bW1zVjlmcnExZml3ZHNCelpZVmlxUXItQTQ4LXJHMmI4d0RPOTBkUVRfMG43eUtKNHBIOGtVd3oweENIX21IaXBoRTlCUGpHNXhHSW1jYzd2VW00SWduT25naDduV05R?oc=5",
-      "published": "2026-02-02T11:09:27",
-      "date": "2026-02-02"
-    },
-    {
-      "source": "Financial Post",
-      "title": "As EV Buying Normalizes, VinFast Leans on Industry-Leading Warranties - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanRkTHBrUzJJWWtUUmdFQVFabjlWMjF5NFVFTnAtc25vUkpiUnFNNkdzVUpONWo5MlphZGx6TFR1SThiUFNDaHMxWWJrcWRBN0hDQ0VFUU1rQWl5aWlZaU04MGgxaWtNdjZjZTZmNlY3VWowa1dHODk5MS1ENE5mUjhIWHdOY0xpVTMtbnFPUTFpX3g2QlFEeVEza2xNMm9MNFJaU0ZUa2tsTTlrRHd1aHVpZVRVSjJwY0dSaHFaSy1jT1FGaUd4ZGVB?oc=5",
-      "published": "2026-02-02T11:09:27",
       "date": "2026-02-02"
     },
     {
@@ -362,17 +376,17 @@
       "date": "2026-02-02"
     },
     {
-      "source": "Financial Post",
-      "title": "Labrador Gold's Board of Directors Sends Letter to Shareholders Warning of Dissident Attempt to Seize Corporate Cash - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdkMtSHZoa2hfUkc2aFBKaVNuSy13V1ZZMlBYZFNhLW9HYXNOMDB4cFRvcThaNE5zd0pIeVZRNTRiZDB2T1psMDE3Q1hJdzVRbkRUVlZxVGFZNlQ0Y0tGYlBfWWdDWDBwVGdvUkpBd09wLTJaVEpfNFpoNkUtdFZJTmtsR1h4aEZIazVTcmRiNGQzRjVQSjRsakVLZHBoalk3cElaV1d3Nnk0UnVwMFV6UTkwWkhSTFVhRVc0Y1FJMWtxVlpqaFhLcE9PX1RrYTJhLXczY0l5YzVscVZHNVI2cGVUTlNoV3NpZ3labg?oc=5",
-      "published": "2026-02-02T11:04:50",
-      "date": "2026-02-02"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Opinion: An anti-Chinese terror attack in Kabul reveals the risks of working with the Taliban - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUJqYUdBS2dEOTJtNE5NeUc2NlgwSVljVGVEcFd3bG1YS2RKODJHTl9SX1RTbkZtd2c1bU9OT3VtNFpGeFR0UEs0R2I2NlZLWFlxLVJscWpZbE1VbE1kdlBHeTJtUkNBNnp1NFlGWWRiUWprRjd1NFMzY2cxc3NNSlFsT3pnUzdBZ3lfajZHWkI4NE1zY21iMnJGdEJaR2lILUF4TTJnV3ZrZjJBOERoem1hT3NGMUE?oc=5",
       "published": "2026-02-02T11:00:00",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "Financial Post",
+      "title": "TDK Hit by Chinese Rare Earths Export Curbs, Seeks Alternatives - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeTlCNmVqalV4dmxpdlA3TTJJNjJVdy04WGVUdl83RzFyTG82bV83YmsyTnpaNUtnSVZVNnVPaVh5VUdJbFFWSjVFRVJLcnBVY2h0TE1qSzhKTzFzN2o3S0lYRDBySFljTWMta3h0YkstUHM1T2M3NDdCNF9TUC1CQkgwM3BNTzVQRTVFMEI3TVZTVjUxZjdKTmNGbVVoWkY1Y3JCQkh2UVo?oc=5",
+      "published": "2026-02-02T10:46:49",
       "date": "2026-02-02"
     },
     {
@@ -404,13 +418,6 @@
       "date": "2026-02-02"
     },
     {
-      "source": "BNN Bloomberg",
-      "title": "Thousands of Alberta government employees return to offices as hybrid work plan ends - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3hGR0Mxc3J0SFFmQWFYRHhaZmNEeHRKVVVob1VIUkxzenpGcUNEOXJfNUVheUk2N280ZDhVSF8xYk5hbmw1MVJZTXU4VFIzOXAyN1duYXNTUnZ4WHpKaVVkTFZEeW5OZXdrVEhLcHNaeU5OMlpXZVVXbGpPX3JaODN5NU1wQXY0NkdpT001aDRxWmx5eXFxeFZTTld5alNRZ05ONU8zOU1MVDctWF91bG9RNV9FREZIQnBtVmFfX3FTT3Y4THExb2hvMmhydw?oc=5",
-      "published": "2026-02-02T10:24:57",
-      "date": "2026-02-02"
-    },
-    {
       "source": "Global News",
       "title": "Global News Morning Forecast: February 2 - Global News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkhWaHQ2VUV6N2JCaTVVYW1rTERMWDQwRXZRYVVkekR2ZjJsRUkxRm5mVUtER2w2dExzOHJ2ZWVLekVrZUotcHNZNW9waDduZHkwN0N6bWV5VXZHdFJjZi1JUWlIajhYVnl4dmlqZTVGbzFPcnJFZWtPS2RHUm1BWmVaMTktdw?oc=5",
@@ -425,24 +432,17 @@
       "date": "2026-02-02"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Better AI Stock: Taiwan Semiconductor Manufacturing or AMD - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORUtnZjQwMVlQemFKclZGMDd5YVN6THNkeDhYZGEwR3FoaHJPUzhlazlKNmEyMmNrTk5Wd0NpUTR1dmtvV1dhbklFclJJaWptcEx2YW5xb0N5ZklsNEt0bFZYNlVSTmFmZE9NS1huYlBMZWRkMWxScnpiZUQ3cURKS25BdTY4bmFWNnFjc0pvdzk5NXVJQ1puaFB1Tzk4NXRXY2Fwd290UkJwdm9IZC05TzJha1ctM2lIek1aaDJubkZZbjJyai12NmxKbzRYWnBzTFNvRGZKODNtaTJh?oc=5",
+      "published": "2026-02-02T10:10:35",
+      "date": "2026-02-02"
+    },
+    {
       "source": "Financial Post",
       "title": "Rookie Trader's Rapid 84% Wipeout Shows Depth of China Gold Bust - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVV1REF4dWNXazdMLUhWbVItQkgzMEFSOWxWWldFME5ZOUwwY3NoX2t5VEtvdVM4bV95aDBwTHFlYkVwUTFHcmJPb0NOWTk4QkhqWXRxY3VkQ2FFRXFqb0c1eExmSnJpVjlHaU5pN0JQWHdweklvblY0VnQ5bDFTSkxsXzE4WFpsWHZYSmVaUTFvZm5oRkxnNGlYS0pVajd2QU4xUFNkbWY?oc=5",
       "published": "2026-02-02T10:02:24",
-      "date": "2026-02-02"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Better AI Stock: Taiwan Semiconductor Manufacturing or AMD - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWk9GTFZ3Uk5URmtZU1BvTzE1OVJ5UEFVcDNDUU9kZVBPaG11WUQ3cm9sb05aN05YdFJFYXBoUzFGNDhLWThlRi1DVHZjaFg4RUlFdE43aWU4WlpQaVdWelF2LS1ZLWdkQmdVSWExUDFQS0J6Q1lUMmM2eGlsWkpRaEhoTk54RGo2RUxOVW9fS1pNSFV0U2lpai1mZ2dyTkJxQnp5Ym9GREt6QzVWdDczNWtQUTBwa2FFZW1TN0xZN1hFSktwbzVsalM2ckc5Y0VNVHpYQnVEbjNmY1Nz?oc=5",
-      "published": "2026-02-02T09:54:32",
-      "date": "2026-02-02"
-    },
-    {
-      "source": "CTV News",
-      "title": "- CTV News",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNa1luQUtENVc3ZjREOWFUOFJSTC1SWjlPNzkwMzE5aDFSbXRQSS1mZ2Q2MmNKN0tQZS10TDV5ejdfOW4wcG1pcWNWa1d3M251OVk0RC1XQXluWnBuWHJkREdOeXhMQkIzODdkZm5nXzh1QmUxbkh5OENZYUxNb0pOYTVpT3R1Qm92RGtjajNuVUYxbmlNbnJaS291cUIzSEFad0l2OHFOWmx3WUI0V2UxMnNuNmhHVUk2czFkTDRtVWM5SXlaaDFiblVrS2d5MVB1Y2Q4dlQ1WXA5UVZhc0t3aXNqN3pDNTdTZ0VwbVhyVHZZdkw5TFVUaU9VczhrTFhkX0pPUFFaUXUzMGkwMHlnOFVqTl83bW5GeHFSNUlwSnpLLUtpM2pyRDRuZVdRa0RlbmZtVjljQ1Y1dEZsaTZpeUJneHlqcjJGcDR4MEZGR1ZndS13cUlKdUNEZUlPVGxVdklmRWJQVVlSUGcxUHI3T1FZa0pMZFhjV052eUFQYjJWdDM0MnVtSTV5NFA5ck8tRDFnOVVjYnlWZw?oc=5",
-      "published": "2026-02-02T09:43:49",
       "date": "2026-02-02"
     },
     {
@@ -516,6 +516,13 @@
       "date": "2026-02-02"
     },
     {
+      "source": "Financial Post",
+      "title": "Bank of England Set to Hold Rates With Eye on UK Jobs Downturn - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUJnV280RndfNzBKd0xsWnpkOEtwN0ttbk9WTWExR3lpWkpkZ3N2RDNxeFQ5NzY5b0dzSTZpVFIyeERFTk5OTjJDNmxIalRJNVRWQkxRZHNSSUlrVzBDZGVtUFpxRkM1Z0lCaXM1Q1c5OUxIVEc2LUFuXzNDa05hTTAxQzUtcFY0X204RDRGaVpmR0dORUdsY2toR3I3M1JSM0c3SkxUSGVwamJPUF9GS2w2ZHU?oc=5",
+      "published": "2026-02-02T05:27:13",
+      "date": "2026-02-02"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Flooded by cheap Chinese goods, Latin America is fighting back to protect its industries - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUzI3VUptUXFDRFBqdEN4azJLTTdXeTAxUTdmVUZob1JNVlhyWlBEWlc2SkNRa0hlMmVGTkZmSkVQTXZheF90ckNPWDdNQ0hQM1hhdzdSMWlQSk1SZ1NUb2Qxd1hQY21hRGtrZnBIN0JIdjk1RnZHdkh6Z3BWZkNrTmgtSzB5Z0xUelJld2dRbGRYN21LaklweFY0RlVUeHhyRnBYR1VkUF9VY3VmLTZJZnhwbElXUWNQMEhLVl9fcDg0amViaF9TMlJNdUpscmNiUmJJaFJ1TThBYlc3a1czLVJ6eTVmc2sySlBKZmxDZXJBZk5COUlEQWdVSkNzS1dYcTd3?oc=5",
@@ -527,13 +534,6 @@
       "title": "Xtep International Holdings (XTPEF) Receives a Buy from China Renaissance - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMktuQlk4NGpDN21kdXpId2o3Y0FUNFBnZW5hVkc4UnpRb1ljWmhqRHJOU1JfdXJGNmhyM0pzX2VObFd2dHhTVXBaMjlBS2t1ZkF4bVNZTHAtcDNwZVo0YWVrZWJFTWxIdzZsNnB2b2VMZ2JpOFE4UG9WMUN0b2kxRHFLOUNIc3ZxSjVtMWVtVXVkeDBnWkVvb1JsSFJlNTByMHBMYXYyRHBkdEJTM0ZBOHN0UThoYmhnTFB0RHduejVtVVVlcHd5YXJsVzJtZW5wYmNiTWlkb19mU2lIT01XWEhTWW1DWnp4?oc=5",
       "published": "2026-02-02T05:12:59",
-      "date": "2026-02-02"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Apollo Silver Accepted into U.S. Defense Industrial Base Consortium - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZldmY2c3c1JFU2ZqMkhvZTB4SGhiU0pfb3UxNFlEeTNrVUhScVlHaUFWcW03QWVFWWItOVgyZFZhLWtoTkplNW1KUGR2WmdZdkx0Wnc1MDlnX1REMVUtUmZPWk9Bekt1SExEdW14R183bVpWWlJQNFZpa0FUVURodW1aLUR3NTZTMTFIbEhOeGxXOGNrSHp6eVNiNUh3cm5vS2FkSUsyN0FIdzA?oc=5",
-      "published": "2026-02-02T05:12:39",
       "date": "2026-02-02"
     },
     {
@@ -576,6 +576,13 @@
       "title": "US futures, Asian shares slip, tracking Wall Street's retreat, while oil falls more than $2 - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa29wMnVZbzk2YzZwVWhUMG9QS19BVjhBZ184TWxTWWJVNFJZa2VJYzJGTjljalo3X3o2Znl5cUhoTVRhMFJScFZzMl9fMmZiNmVHdUNCWXdlc2huTTZ2OTRIM2w3M0VCOWpmNGxtdWFhZGFZMUVaTTJXVjVmel9pOV9wcmxINVYyUXNiMUVRMHpyNVVLZ1ZkYjY2X3BzeWFEOUdJYXp0dXNnOGZiRFpGUThNSDh5VmlzRG93eElLZ2pGVUdkTEZTd25pdERJa0NFb2FUMVFkX2lYRzJBUm9FeFk0QzJES2lBd0ZSSXViYzdsNkt3bUJHUmEzRzN1T2ZxYXh0WA?oc=5",
       "published": "2026-02-02T03:52:02",
+      "date": "2026-02-02"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Is It Time to Take a Bite Out of Apple's Stock as Revenue Growth Accelerates? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSk1TNnNTejFtNXdvOHlDQjU3N0tNVmtwdnlPQzVsTW1DRnl5cVVwdjlKVE1kYXVvM1AwaUhLcDF0MVlSTVhhSVB0dFRJbFl1M2c3U21BVUowemF5VDRKS29KTjRwb0NwekpOeFYtam9YM1l6UEF0RDQ3M1hQMDV0N2xHVzdsSDl5TWxkQUNIYk8xb3Q4V3hIa1hRdGpYck5UbjZPSVZvS3pSSUxvX0JWVVB3ck12a1M3Q1A1ZkUzVmZuNkw1eXNWVkJobGw4MjV6QkZRLWdHdjRtelVLcUhlU0dJd25taWVpVm5pVW5fM2lBMGliWUE?oc=5",
+      "published": "2026-02-02T03:48:58",
       "date": "2026-02-02"
     },
     {
@@ -821,55 +828,6 @@
       "title": "Canada resumes beef exports to China, cattle supply remains low - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWhSSy1sYjBzd1NaMU9jbGJDeUE1MWZJN2hRZ1E3Z2M1czBKSnJDNVFpZ3BISnBTZVh1ZnA4aXJ5Y1JodWdaM3VDanBTd1JOX0FBQTg5c3MyejlPU1hsMWdRM2dRRm1qU2JfZEFYZDdiUlJNeS1nOEptYVozWDVCbUxwSFNMQjFrUTdHZlRfN1N5RGRyWGxtWFNIbVAxUll4VnNTRVBSQ0loQnUtSjlucw?oc=5",
       "published": "2026-02-01T18:07:05",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "1 Unstoppable Vanguard ETF That Could Crush the S&P 500 (Again) in 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYllROVlmOW5tTzVmNXB5aWdsZGcwd1k5c0ZVdHdmY3JoMXo4RU1obnJzWU4tMVIzd3oySC1Bb2ljVjZlaWstTTRTRTFqcDlWWjVSLTRGRzBOMUF6WTk5d2dENE96dUhSeWJ6Mi0yck1OdkV5ZHFMSjNpTm03dUE2U1hhZ3pPTnUwZ1BzeTE0M0FrY21ZUHVGcDhqeS1pWEpkYkdjbG9fMjFpRENHdi1NejVOUDhNMWpPajRqN1ZJXy0tU0R4M29nX1Y4aDh1TjNuZ3ZzcjVHNGtYOUhxQkk3WmplQmt5MGx3TkE?oc=5",
-      "published": "2026-02-01T17:35:25",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "Global News",
-      "title": "The West Block: Feb. 1 - Global News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yekRLUzJ2M3dsTmd5ZkMxVUk2RlNnT3VGdUVaUUJPUDdteFpGbVJKcXNGa0tyWmIxcjBCN1YwVkd4bVk4Nm1lVVlHZXNGQ0NUNHZtQnZ1dmNwSTd2V3QxM0hYQTctc2xoU2FISg?oc=5",
-      "published": "2026-02-01T17:35:18",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "Global News",
-      "title": "Trump targets Canada’s aviation industry - Global News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVZiR2Z2WGdhRTlESkRfQ2luZ0VJeVVjcmxxZWtQQUp3X2JpYVhkWkw5TThsMi04X0N0b3d0cng4ZXl3c1g4ajFLMll5ajF2dzJJbW4tWWppWGowY1ZTMmhWWk5PWGlWa0Y4WFIxOVlIVUlNOTJpbGNNTGRHZ0p0M2czUQ?oc=5",
-      "published": "2026-02-01T17:28:33",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "Global News",
-      "title": "A lot of disinformation out about Canada’s potential F-35 deal: Trade and defence expert - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd1dTQ3pBV1BfcnFlSDdEci1sZ2N2NGxHLWVQd1doZC14NmdxNmx5LW9xUDd3cF9wYlJuSWkxOWFvYTBPaXV4OVJxd1FuSmphU3h0U3lEc2JiTWVObDExTUZrNG1lM1RxQXNZUDl1Q3RoSWFKMjZnZjdLTGp4VWVSamhaTFI3ZlQ3OFRhZmw3aVBfbklTdlFQSGR0VklHd3N3S2lIeC1PdFdnd2l4bnBaTmtoVndDQnF6aXlYNGJpZC05Zw?oc=5",
-      "published": "2026-02-01T17:27:58",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Silver's Up 17% in 1 Month: 3 Stocks to Ride the Surge - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjAyMFktaHdoX1U5dHRIVExaN1ViMkM0LTgyc2Z6RUlHVjdvdE5qaDNUd3ZyVGpHUVhBWXdCRjRFTnlzaWhFem05WkNuLUcweWdQc0M5WEZTNi1wYUtuUndRWTdxV2tsY1lJMXdSWFBVU3BCOVFzYUJNS1lIb0xwanJSYUlvNTZqaGt2RGZkNTZrN1RTczd2TWJIaHRPRXhjSkxuQm0tbDJtVUNFR01yM0dDTVlhallFYmdYcGFydC1XN1pRTlRLRGZLNFVkQmw5TGszMTF3?oc=5",
-      "published": "2026-02-01T17:26:59",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Amazon's 'Melania' Documentary Opens to $7 Million in Theaters - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWVQYUVLTVl4Um9qQktMRGZZOV83N0FhZVhzeUljcW51dVlRWUpUa2M2TVQ4TS1uSDRNRDItYUZ4T21SNnZNZllMWGd0bWJVX0ljcVF3czRmMV9LLW02bEV3d1lvQl9VUndqZGozRDJsTVdQZ0FBVDI1bE9scDd3QktOM1FNeGk0NXhhOFhwczlrdE1WMFNUWDc4TWVhVjFuMHY4?oc=5",
-      "published": "2026-02-01T17:09:51",
-      "date": "2026-02-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "CTV QP: ‘They want us to be held hostage’: A leader of the Alberta separatist movement on Ottawa - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzl3S2JPdVV3TjN1T3RROVI2WGFkMGpzVjN1WUhhbG9yZ2M1NFNZbXF4VTdKcTA4SEg0VFVvMURPRlh2OW5hOW15MVJwVWlFMmNxVzdOVVA5OUk2SEFhcTVzUzdRZkU3ekhGMmxRdG52T3lsUkd0TXNoOGlyYTI0MnhHUHRweVlOLU5kRTM1Ym0tVThsN1VqTjdDMllQUzFsVk5kRGU0YlJYSGw0MWY2bXZoeGlRTF9scDMtSXRKM1Y3U2FlQU9BMHBCb0txU0dZSXZiajBxZWdGelYzdnc?oc=5",
-      "published": "2026-02-01T17:05:22",
       "date": "2026-02-01"
     }
   ]
