@@ -1,42 +1,70 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-02-17T13:18:02.425703Z",
-  "article_count": 175,
+  "updated_at": "2026-02-17T14:31:27.045099Z",
+  "article_count": 161,
   "articles": [
     {
-      "source": "National Post",
-      "title": "Who has won Olympic medals for quotes at Milan-Cortina? These athletes are deserving. - National Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpIbkhMWHlzX0t3NVczMmNtSG9jY3hkYmFvSE9sUjA3MlB6VWFWSTVoVHJDVnJFQzQ1UjR2bW1kR2FmbGZRVFRjUTJUeHp1UVV2N1VmSTZvYWxkT3JKaGNMRW9HVEdnczI5V2wyaGlma3lMYVVCcUZnMkRyVGY4RXh2VFRvQ2tfcl9rRE56WXNUa2ROMzVobWQ2RDhFek9HUno0akxHcGh5U056RW1SZWcwTUpoZFh1WmJoUms0MnVhQQ?oc=5",
-      "published": "2026-02-17T12:58:15",
+      "source": "CBC",
+      "title": "Bell Olympic Winter Games Daytime: Day 11 - CBC Gem",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUc3bHc5bmtDV1JobW44Rl9ibW9hVGdzMmNpNUlUUVhZUmVLelVMVlZQZ0d3RVJkRjFETlNJeVcyOTc4TUFSWlNqdTV1N2U1SEhSWU1sS04wajFkNnRoNlh3T19WTldiM1o1VlB4WnI0SGZhT2NaOTRMdFcwRHBjeno3Z0xOYXJEdWdXZXJvWmpBTXNCcmFiSEhkbHJsVW8?oc=5",
+      "published": "2026-02-17T14:09:26",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Eco Wave Power Completes Feasibility Study for Wave Energy Project at Port of Ngqura, South Africa, with Encouraging Results - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUHNKSGVjV1pvdlU1MjlHb3hVdGxjeUE2LVBHUDBhSGE3ZmdRYnROSTc5dmIxbEZWVG03SXBlWWdOTmFfbG1CbXF4RE50ZFd2bW1EQU02OVg3M1FEODZkWS1PYXRoQWFuZkRmNS1mQjBicGltTkZhaWduUVhyRTBpc0RlLXV0R1hiSzRna1JCem5zVWtKVzBndzZKRVRfRUFDN1VhSHNWa20yV1M1TVNXeFZjYmxwSnpOSTdyeHVQSDdpSFlhQmNrNXZZWFRKVjlneFF3MWlWdTRhMVdHck8zUjNWdEtNaTIteGlfeE5PMWg3Q2VTV1M3X2Y5Y0tCMkZzcGl3VlJTek9OUUc3WHFnTmhuampTRG85cEVodUxBYUt3NU92QXgyaDFR?oc=5",
+      "published": "2026-02-17T14:00:47",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Finding global equity value in unexpected places - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0c0SUFweVR1a1gtQnlvVk9kdkY2akItLWFOLTRqTlpCQTJCdkp5Vld4YlJvRnRRNUxWNGlVdi1GMDcyTDJGNGx1RWZjTWtZaXFQSWpXSE5scjBRRjBySDBwY09ySU1KNXMyOXZtUjBmN3dQV2dseXlIMHd1bGoxSnFZQkpSd0xCQW1BY3puSS1oZXdqQVFReUt5OW1pT0k4?oc=5",
+      "published": "2026-02-17T13:53:40",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "Global News",
+      "title": "Celebrating Lunar New Year with Chinese Martial Arts Academy - Global News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0R1bHFIajV1M3EzN2djeEdDZU1DejNhb3Vwa3YtZjlGTDJ1b0QtcXhGZ3ROc05tUHBPVDFNSElXWERrbnhyVEV5MU1MREdZdzlYU0pjLXFtb3VXQlZrWGdKY1d3dkp0Sk9RRnNVOUtncW5lblUyVEVKaHo1QlR5aS1SSVkxTjEtbjZMNHpVeXFzNkVUNUNEUDEzYnNOZWs?oc=5",
+      "published": "2026-02-17T13:47:51",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Iciest Baltic in 15 Years Threatens to Cut Russian Exports - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGgwUkZkOUU3b0k2SzlTSDRNUWJuZFpYZDRJRVVVWHZwVDc4dkpUX3F4VzVURGxlRXN6VDVpT1FzY2lDdVQyNUxGVWhLMEVjR3Y2bU16VXY5SzNubUFLOUNvdDlwZUtZZjJKMjJMVmg0eGdRWUpSS29WYnRfYmpWejFKZkl3N3lIaGVJRjFVeWFQMVp2Q1hycm56M0VmMk1QZFF6M2l0UW5RSzA?oc=5",
+      "published": "2026-02-17T13:41:03",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "Global News",
+      "title": "Here’s the latest on Day 11 of the Olympics - National - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3BKcmF5a2JjbjNDTFNtTUVXd0VpWXNkSkpzajl6M05PbDRYUG5DQ29wZWc0T2V5Tk01a0d0cXA3OWdzR09COE10UEFJeC1IV0doMGlmUnNuXzNvaHhCb3lBUmJVT21PaDE2MFJUcDBZLUpCWGZObU1JTW9fQVVwX3NGRHU0dw?oc=5",
+      "published": "2026-02-17T13:14:12",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "CTV News",
+      "title": "Toronto student recounts first place win in microbiology at Taiwan International Science Fair - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdzdWoxRnd0cjFLMnl5dWZqdmhJTHgtMTU0LTNiQXdkVDlTV3V5U0ZMdGljWnJvOS03MnFGeFFDZXBUQWhVdXdVZGEzemhMUVFDVmxXNGVXSjY5eWtScW0xZ1N0dlJVRTdDRkRGMThqSzhiZ2k3V25vc1VERnY5Z1pRcGhsVmQ4a0NRTzl4S0sxN29wNXJVRkZDd0cyVkNTTTJnWEM0N3JMemVxTl9qSTFjQ1hUTmxKZlVTX0p0c0JJb3JzX193YjdHN0tmM25tVEF1NHVTQWJaZw?oc=5",
+      "published": "2026-02-17T13:02:09",
       "date": "2026-02-17"
     },
     {
       "source": "CBC",
       "title": "What's on our radar for Feb. 17, 2026 - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rak9SQzdZM09wUHpwVEZyWXNMOXNsYWVKMU91NTNoOFg3TXl2bjFOZnVIa3lkbF85SHRENXlpTV9TY3Q5bW45SWZrci1QXzdU?oc=5",
-      "published": "2026-02-17T12:45:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcDVCLWxoZWhMbVVmTG5Qc1FHU29PYXZNMmpfeURhc3pTS2xmUFlsZzVWeVRhek1WbUJ6Q3ZyT2RfRjBHOU5qQXJ0T3hKQ3ZIWjdJcTlVWlU4U1Zad3FJbGstUHl5SmZiX3hrcVVQaw?oc=5",
+      "published": "2026-02-17T13:02:00",
       "date": "2026-02-17"
     },
     {
-      "source": "CBC",
-      "title": "Bell Olympic Winter Games Daytime: Day 11 - CBC Gem",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUc3bHc5bmtDV1JobW44Rl9ibW9hVGdzMmNpNUlUUVhZUmVLelVMVlZQZ0d3RVJkRjFETlNJeVcyOTc4TUFSWlNqdTV1N2U1SEhSWU1sS04wajFkNnRoNlh3T19WTldiM1o1VlB4WnI0SGZhT2NaOTRMdFcwRHBjeno3Z0xOYXJEdWdXZXJvWmpBTXNCcmFiSEhkbHJsVW8?oc=5",
-      "published": "2026-02-17T12:39:26",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Mexico's Fuel-Smuggling Crackdown Hobbles Nation's Auto Industry - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEVqQXNhMm0wLW9OQmp1bFF6RWVRR253ZEltSVZJaTFKbFNRNC1nMXNVREN4U0Q2ZTZaS3Q2Y0Fzd2xwTXlQbFB4LVQtbFNCUlo1ZEF6VkZCQ1Z0Nk9qTDc4RXRiQTdTYTJrdEdiOFgySUwyMzlxOWVvZzNpRTJRX2cwMVRRV1JFYmg5bV92UEcwRXNWZHJjQWNaMERONWtvZ2JPRzNsSlo?oc=5",
-      "published": "2026-02-17T12:25:38",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "CTV News",
-      "title": "EU investigates Shein over sale of childlike sex dolls - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTNMZ0dwVFZtUTZlWkJTWmhQVTdFUXM0NXlkSWVlSGh4R1plVzRIdmtsVkdSTTZUQzlfTndLTWpiX0JNWWh2c2hIWVlGMVZPVU5iZzdQWmNWWUhSN29wdXNhWU1uWXRqZHdGZHdHV1h3eE5CSWgzUUZLRERidEF4TnNSdFplck1pNDZjSEtEalRINmMtSUpj?oc=5",
-      "published": "2026-02-17T12:24:12",
+      "source": "National Post",
+      "title": "Who has won Olympic medals for quotes at Milan-Cortina? These athletes are deserving. - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpIbkhMWHlzX0t3NVczMmNtSG9jY3hkYmFvSE9sUjA3MlB6VWFWSTVoVHJDVnJFQzQ1UjR2bW1kR2FmbGZRVFRjUTJUeHp1UVV2N1VmSTZvYWxkT3JKaGNMRW9HVEdnczI5V2wyaGlma3lMYVVCcUZnMkRyVGY4RXh2VFRvQ2tfcl9rRE56WXNUa2ROMzVobWQ2RDhFek9HUno0akxHcGh5U056RW1SZWcwTUpoZFh1WmJoUms0MnVhQQ?oc=5",
+      "published": "2026-02-17T12:58:15",
       "date": "2026-02-17"
     },
     {
@@ -75,10 +103,10 @@
       "date": "2026-02-17"
     },
     {
-      "source": "Financial Post",
-      "title": "Farage Reveals Robert Jenrick as Reform UK's Chancellor Pick - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDRwa0dKZDZOOGg4aU9DMDc1UXhScjZvbVJiTTB5MVdlOWxfTDdkc1V2YmQ1eXNPb3QydWF2enViMzAwbmRzZGR1SXZhODBSa1lER2d1VmQtZlJYY21YUEcxRVBzV2toajY0WWNQQWdFcWV3Z051X09FcW94dS1uYTgxYnNhcFlRbU9qbExoX3ZGT3FhYXc3aVJiTzhMcjgwdXNtVGFUcnpvaGc5OW9ldQ?oc=5",
-      "published": "2026-02-17T11:49:22",
+      "source": "iPolitics",
+      "title": "Carney heads to Montreal to promote plan to ‘reinforce strategic autonomy’ - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVS1XMXVUR05pRjVIT2RIMG1IRXBUSUhxalJTNjUwUDBHa29OSlhYblZRRG5lOTZYOG1QMllfVElZTndpa1FlTVBsOUZFWUc1M1I3dUdRX05iTm9WNzZud1BXT2s0Z0RKNE5iTVpFbXUyVXlRWUJISFR3ZFVtM3BCdWhJR0dKc2d4NFBvOUVjanQyWTVuRGJCSXRJNUxUS3Z4andYMkRBS2NFb3FEN2c?oc=5",
+      "published": "2026-02-17T11:57:19",
       "date": "2026-02-17"
     },
     {
@@ -138,10 +166,10 @@
       "date": "2026-02-17"
     },
     {
-      "source": "iPolitics",
-      "title": "Carney heads to Montreal to promote plan to ‘reinforce strategic autonomy’ - iPolitics",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVS1XMXVUR05pRjVIT2RIMG1IRXBUSUhxalJTNjUwUDBHa29OSlhYblZRRG5lOTZYOG1QMllfVElZTndpa1FlTVBsOUZFWUc1M1I3dUdRX05iTm9WNzZud1BXT2s0Z0RKNE5iTVpFbXUyVXlRWUJISFR3ZFVtM3BCdWhJR0dKc2d4NFBvOUVjanQyWTVuRGJCSXRJNUxUS3Z4andYMkRBS2NFb3FEN2c?oc=5",
-      "published": "2026-02-17T11:06:33",
+      "source": "Global News",
+      "title": "Ontario finance minister says rate of health-care spending is ‘unsustainable’ - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWQ1cVNUS3JOc1Bqa25nazlxWlBzTmVNQW5vekRfSG8tLXltX0s5MFJHTlVMWUdiVU9QczFuSTdTblBLQTVQRjJ0SFJMak1SQlgzU0Nzd0ZwM3NrZU9OOHFyZTVTZjF4M3JLWGJBSi1LbUZ0THIyZlNQRnRMcTlxUnhoVU8wdw?oc=5",
+      "published": "2026-02-17T11:00:50",
       "date": "2026-02-17"
     },
     {
@@ -163,27 +191,6 @@
       "title": "Hockey: Switzerland vs. Italy - Men's Qualification Playoff - CBC Gem",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWlkbUw1NTR5UzJRdWNyeHAwUGZQY3RDeTJQUFlUUkM1cnlhVDRDWkY1SDlpQV9FSEpERjhnTGxCZ0lUdG03SVk2alRlQmFadE5RdVF5Y1hWQnU4N19GcFdMVHZuVkE1dHBtSGZ4UGRFVmZSTnJFWTNUTDl3OFdMR1BBRGEzZw?oc=5",
       "published": "2026-02-17T11:00:00",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Opinion: If we held an economic Olympic Games, how would Team Canada do? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGxhakRjX0lfSHhxRTItTk9KOWpFVFZWUm93V1A1MUlsY08xU0NLWUhWbDFCN003V2lVc3Q0QTU1akhnOVlyYkNNYURoZk12MnFoUkNNTm5wVEd4eXo0NmZGb29TZ0x5TTdVNlM4UzM3cVhNM1BCak1rb0JfZ0hnRG9lODJsR0c3czgwdzhIWnJSY2swdUl1enRkcHhiT2daTmU4bFpKQ2JSVUFBX3ROZjdTaEs2QXhYdGo5aXVtYw?oc=5",
-      "published": "2026-02-17T11:00:00",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Iciest Baltic in Years Threatens to Cut Russia Commodity Exports - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGgwUkZkOUU3b0k2SzlTSDRNUWJuZFpYZDRJRVVVWHZwVDc4dkpUX3F4VzVURGxlRXN6VDVpT1FzY2lDdVQyNUxGVWhLMEVjR3Y2bU16VXY5SzNubUFLOUNvdDlwZUtZZjJKMjJMVmg0eGdRWUpSS29WYnRfYmpWejFKZkl3N3lIaGVJRjFVeWFQMVp2Q1hycm56M0VmMk1QZFF6M2l0UW5RSzA?oc=5",
-      "published": "2026-02-17T10:57:42",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "Financial Post",
-      "title": "South African Power Traders Want Roadmap for Eskom's Overhaul - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0o2akoxMzllMDJ1VUZqanFaUXBPTEUyS0tFckhXSHphUWpXTFZDRkZKSjZRNUZmSXBJLWtZNVZRTDlXR2pGRUIxX0RoYkFIWjlob1J5U0hzeDJhUVEtdVVNWWllVWc1Q0Z5VkdNdUZIX2liaDhRYzRLdVk1TXlRSXJ6Tmg4VXY4Q0Qwa1h2SGZ6d2MzZFdVRmNvVGJISGt0T003U1Fn?oc=5",
-      "published": "2026-02-17T10:57:42",
       "date": "2026-02-17"
     },
     {
@@ -306,6 +313,13 @@
       "date": "2026-02-17"
     },
     {
+      "source": "CBC",
+      "title": "The Breakdown | Chinese EV concerns + Choosing singlehood - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVDlNNHJ3V2N1MEdNRmpkV2xYTkFlNFlNcHFtcDB0cW5VcTdQd2Z0TTN3Tl91c2NGYTdCNGI2NFhKYmhodkh6SURsUHA1NDl1Q2cyUWlxeERLUQ?oc=5",
+      "published": "2026-02-17T09:35:15",
+      "date": "2026-02-17"
+    },
+    {
       "source": "CityNews",
       "title": "Health, education, public safety to be protected in B.C. budget, Minister Bailey says - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlhYZnFfdEY0RFRYYllUX1VNRXBjdzNUVlhsODlpVEswY25FU3RDWEVsemFUekNDTG9nSFJydGE0QWJfUjQzYmdsbGl0NTNPNjdQTjR4WUJXa1NUamt2Sjk5LVI4MmhsU2laN3BTbk1yRmxSQUZtb1FqQk56SFlYTHR2U09SUVozY2tTLTlTSVFqLTYwd3E1WkFBcHFwQU1FazZ3SjMtU1lXRkNDM0QtYjdldDZjVkQyb1ZvZnJn?oc=5",
@@ -313,31 +327,10 @@
       "date": "2026-02-17"
     },
     {
-      "source": "CBC",
-      "title": "Canada's Rachel Homan evens her Olympic record with victory over Japan - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkWXVpMWJMNF9OYTNtT1pnWlVER2NqLUNmc2JFNS1pR2pCanZ1SE1HbmhGNVBBb005QV9OcmRVNjRqY3R0eTZDUXBZTVRDSTBmd1RKOTJfbjNfdw?oc=5",
-      "published": "2026-02-17T09:15:54",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "CBC",
-      "title": "The Breakdown | Chinese EV concerns + Choosing singlehood - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVDlNNHJ3V2N1MEdNRmpkV2xYTkFlNFlNcHFtcDB0cW5VcTdQd2Z0TTN3Tl91c2NGYTdCNGI2NFhKYmhodkh6SURsUHA1NDl1Q2cyUWlxeERLUQ?oc=5",
-      "published": "2026-02-17T09:05:14",
-      "date": "2026-02-17"
-    },
-    {
       "source": "CityNews",
       "title": "Canada’s provinces contend with fresh shocks ahead of 2026 budget season - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzJjTXRNcHo1TWFiYkRLcnNBd3FnZUpJWDZ3VDZEdjU5WFlKbkc5WXpHM3h0OHdwTTgtcHJpakdZbDRXNFRJSThlUnNVZ1p6UWdCVEdQeHFKMGFHLVpjRXpzbmhJaW5sdVlJWTcwRjFRZDd0R2hvUWFLTUJWMDdJbXdmZDRlQ3YwRnBtM09jVmZOeG5JVTZqSVdMRWwzNzI5cHl3SFhzM0IySHFKZjQ3aQ?oc=5",
       "published": "2026-02-17T09:04:23",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "CBC",
-      "title": "Canadian curlers are being accused of 'double-touching.' But what's the advantage? - CBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1pMQTlHNGgzTWk4aFJ2NTZndnAtaktLQ1cxTDFhRmJBM0pXTFg3VWVLamwxYkhVVGRQT1p4anVKTDFOX2FSQ2xOOWRkNDk3R0hpcGtYbTV5Sk9TUnRMREh5NG9NZEdydEZTYnNTNkxVb3hiWlVYSGFxWFlfcFUzRjFGdE96bTNYdTBrWmdLaTI3R3hVNG9OcVJOYUR4UXd5?oc=5",
-      "published": "2026-02-17T09:00:00",
       "date": "2026-02-17"
     },
     {
@@ -356,23 +349,9 @@
     },
     {
       "source": "Financial Post",
-      "title": "Wartsila CEO Wants to Power More US Data Centers in AI-Led Boom - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVAxTmNVSUdQZlF4R0p4azJSQnBEbWZFZHRCUE52RmlhRFA1aUs4R0pwR0RfUDJyRlg0Q2VCMXo5WnVJTkhrRkZqNGZTTDQ0NEpaenFXY2swTUE4SFVKWnEydW1NaEtqSUpKU1dzNTJSMHBvWEw0dHhkWWtUYWJpQWo0c0MwZERydnFuOVFuWkYyVzA3SncyZ3RrcmtlR2JDTVN1N1lKSDVCUQ?oc=5",
-      "published": "2026-02-17T08:49:43",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "Financial Post",
       "title": "India's Solar Manufacturing Excesses Turn a Boom Into a Glut - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGVaMjhLUmtiQjJvcUJFQlFnLWZHdFJpUlZwZDFOMUYwcjFud0VIcVU0VHVRRklCRzNFQ2RNTU9nSmV6dzFmN1I0NmtiSVRaMHM0OUQ2M1BWNXlMS011eVdaZ1haOUVIQnY5d1NoZFR6ejc1dHhBVVd1RlJlLXE0aGhtdlVGbVB4TDcxc0xCa09hZXQzOU9sZXpNOU1oMVRneWxLUw?oc=5",
       "published": "2026-02-17T08:17:18",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "CBC",
-      "title": "Olympic Winter Games Pacific Prime and Overnight: Day 11 - CBC Gem",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZ196X0hmUS1fekNkUlNZblFZbW1fUUg4QUFCcEMxa1M1MkZ5b19Lcjd2bjkyNkpnQ2tSbTFOb29hOWdNbmh0ZHRKLU9oOTdHMnRvaGstaHFNRHM0R0RJNHAwQk5YaF96d0Qta3pvMDNBczMyU2pmZ05zYXE0UUtiTzNqNVZtbFc5R2Z4c0xiRnVJN1d2ZjhPVElZbUpDUTBmcmU0M3h4WlIzNi0wZHZXeEZxdnhxMXJnRDExQnJiVEkxbV9CQUlNTVZnMDd0aHU1U0haQ29ESlZTWF93Q0tPalVlMnhxQ09vNTZRQXJEazdPd1pZbUp6UEs1V1ExWk1MNmlkeUpDMUtwVnJIZHozR25la1ozZnBxdlFuYkFwQ20?oc=5",
-      "published": "2026-02-17T07:25:10",
       "date": "2026-02-17"
     },
     {
@@ -394,20 +373,6 @@
       "title": "CSPC Wins China Trial Nod for Ultra-Long-Acting Post-Operative Pain Injection - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMExZNVNQbENRck9TU0huU1ROZ01WZEdMS1pEVEgwU0hBQmFYQkh6cVhXMjBTaUh4cExFeXd4d3dEZDRxYTRqc1hrUEctcHI5cWVTaVRWUElUVUwzRGw4LWFKNzZBLXJwMmpSZ0VFaEN3RU82ZGpBcXJtQW5yUVBibjBTeXBHREpaTHl0Rk5SYmJRb1ZVeWZHZGRlOVZSZTZxcUUwU3pMVkRpa1hlU0VnTXNOWUVHVEhIQnZlMWVoX29SYlZLa0JNM2NvSXRZQ29DbmM4MF91V0h3UzRZT09HU05vQ3JrWk15Mnl1NnZ3?oc=5",
       "published": "2026-02-17T06:04:21",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "Financial Post",
-      "title": "After Greenland, Denmark's 'Queen of Crises' Looks to Election - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3FJbWNxY3pyQXpTUkRsU2pUenE1NDZPRmswd1lYVk53N3EzRW1vRm1kZ0xIdmRwejQ0aGk4aGI0UWctNlhEQndIeVdwQl8yazl5dlExTjl0VVdQQzZhSzhSZzdwLXRqT0pjZUtRbWlwTkpNOG5kT1h0MFNLVlBvdnVldE45T1ZiTG9fUi1RSk9BOTJoaS1IbHpMZjZGTVYxOUhZ?oc=5",
-      "published": "2026-02-17T05:59:20",
-      "date": "2026-02-17"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Romania to Hold Rates as Sticky Inflation Prevents Debate on Cut - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHNoR0tCck1XX2piZXpNZFZfVjh1Y2RJbk9RSDhJV3BnOWg5Qlk3WXEzSGJaVDJhNFp3ZVVRZXJsdU1qaW1rZDE4TmhMR2lDMlpjajBQRGUwQ1ZhZVdicUVoQUhBTVpBUjNyNllJc0JxWkVMUDRNakdvUzF4MUxQYzdFZ2VDYVUxVDVWX3BLcURLQWZIazgyVkt0Z1Z4MXc0OGUyOFA5RVJDVkE?oc=5",
-      "published": "2026-02-17T04:18:44",
       "date": "2026-02-17"
     },
     {
@@ -460,17 +425,17 @@
       "date": "2026-02-17"
     },
     {
-      "source": "CBC",
-      "title": "What we know about Canada's new chief trade negotiator to the United States | Hanomansing Tonight - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SWjBDd2JkMmZneG1RZzRRXzljc24tcXg4SnJlWWZEbm9Ia3FiT0F2NmNWWlFqSGxHc0lHMEJka1pMYXE5TmJwVDlrWkhLNGJBWG1na3Qxa0Rydw?oc=5",
-      "published": "2026-02-17T01:54:46",
-      "date": "2026-02-17"
-    },
-    {
       "source": "Global News",
       "title": "Calgarians celebrate Family Day by getting in touch with history - Calgary - Global News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04UWpXelBQVFRYZTlXN04xOHJvV2hSZXBJNk9jT1V2RUJXWTZ3XzJOZzJETEdXMGlUazB5X0RlUEpHTHY0cXRraXE1ZUNZeGE3Y1FHYnFzekVOd2JucGRwVkpMY2MtWFNqazJ5akx6NDI?oc=5",
       "published": "2026-02-17T01:32:11",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "CBC",
+      "title": "What we know about Canada's new chief trade negotiator to the United States | Hanomansing Tonight - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SWjBDd2JkMmZneG1RZzRRXzljc24tcXg4SnJlWWZEbm9Ia3FiT0F2NmNWWlFqSGxHc0lHMEJka1pMYXE5TmJwVDlrWkhLNGJBWG1na3Qxa0Rydw?oc=5",
+      "published": "2026-02-17T01:24:46",
       "date": "2026-02-17"
     },
     {
@@ -513,6 +478,13 @@
       "title": "China drops visa requirement for Canadian tourists - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTi1aUHlkT2dIMXRJelgwSi1FaUtkN1g2NFhsYjRkZXI0LWhycWtBZGxpUkNrYnBTNDkwSUlCY3poc3ZPWjAyZkVKYXJYdEtfb25MN2VwdklwaTU2UGFoNHhDNlp5NFF0ak9OZl9GbUlwTGhocnNBaHlUQ1pCMVZTc0lVWXYyMUZKOXJXdE1ZU3NhNHJ4alVMNllVWjFmRnItRmIzMTFEYUE3VWlnNUR6ME1reVZGSGhfQXc?oc=5",
       "published": "2026-02-17T00:21:00",
+      "date": "2026-02-17"
+    },
+    {
+      "source": "Global News",
+      "title": "London Knights clinch playoff spot for 24th consecutive season - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanBvLVZEbTBvT2VfTmkyTG9mZlBuc0ROMFRHOUdMT2prd3dpTWRVQWVydVFHNkhCbjFkU2hibGRzcjZ5amNmdTkxSGx1NnhWVGV2T2ZjYld4Q2I1UVBjbC1yZFpZU3FFOU96SDZ1MDlvM0FzWU9vRmZnbXNKaV8xT3NHUXBDSlIzUk1jTG81Qi1pTm8?oc=5",
+      "published": "2026-02-17T00:11:10",
       "date": "2026-02-17"
     },
     {
@@ -566,9 +538,9 @@
     },
     {
       "source": "Global News",
-      "title": "Canadian pair Pereira, Michaud fall to eighth - National - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXVRZDBmX3VfVTNKemo3aEFUOUZJR19vb3NaejZRQUtDdHVBS1JlaUZRZzJMVHM0VndYSHh2SWgzVlFmenVyT2E4ZXdnQm9TUkV0clh2a2VOaDNhX25USWt2a0hiTkFyMEZZaUEtVTR1a29lY3kwMldycWc1dUI3SEQtVG9yRzI2?oc=5",
-      "published": "2026-02-16T22:23:13",
+      "title": "Shooting at Rhode Island ice rink kills 2 during youth hockey game: police - Global News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzFjNi15RzlqVXJPRUNTamZVWlc0Xy1MNEJDRnlqazVUMkJvNUVqdnJpcmh4cnBhUjBTZ2xrbHpHSlp0QmFkMVB4VEhRWGtUVHBNWlVQcnBqSmFDc3V4TjNMMHhlLXE2UFR5MU1zNWdrRkJ5T2ZNREloQ241VDV3TWJ4MA?oc=5",
+      "published": "2026-02-16T22:19:57",
       "date": "2026-02-16"
     },
     {
@@ -649,10 +621,10 @@
       "date": "2026-02-16"
     },
     {
-      "source": "CTV News",
-      "title": "Maritimers mark February holiday with family time, reflection - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVg4VVdWdnJXdW05SFlrRHQtRl93RmZTaFVpeGVYSEhoSExuRVpXRm1IYVhCWmN0OG0tSzhLV0czcGVYbS1Eak03ajQ2Y0N4WVZydGJURnFTMUVZNHFJNnNQUWpBanJGZm45blcwNkN1UGtWWmJzcmdWZmhQNUU5TjRZRHJ1OXZ1ZVlqX09RMkZYSWs0UTNJd0lZRnFIeU5ucG41YnUxQVQ1SldCeVFZdXYyNA?oc=5",
-      "published": "2026-02-16T21:10:39",
+      "source": "CBC",
+      "title": "Canada's Rachel Homan evens her Olympic record with victory over Japan - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkWXVpMWJMNF9OYTNtT1pnWlVER2NqLUNmc2JFNS1pR2pCanZ1SE1HbmhGNVBBb005QV9OcmRVNjRqY3R0eTZDUXBZTVRDSTBmd1RKOTJfbjNfdw?oc=5",
+      "published": "2026-02-16T21:17:53",
       "date": "2026-02-16"
     },
     {
@@ -720,15 +692,15 @@
     },
     {
       "source": "CBC",
-      "title": "(Inuktitut) Hockey: Canada vs. Switzerland - Women's Semifinals - CBC Gem",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlU3cWk3a0JUUXYtS1dOWEQ3Z05Qamw0MU91R2JMdTAyTVVJTVgtLWY2UWhELTdXZmE0dUxZZlZYc2UyUFpzMU13MmUySlVLQVZyak1OMzdQWHdPWGgwV1RUcWFWWkcxRzNUZW5Wb0xWd2o4VmJkTnFobjMtN2JENXdhcmpncFhW?oc=5",
+      "title": "Hockey: Canada vs. Switzerland - Women's Semifinals - CBC Gem",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWjVpTzNCUl9ZOVo5QmNwNkZfeGlZOXpDdEdqYURjWGtPZlBxaGp6R2xNcFd2S2hqWkFaSW9WWHFBWU5EVjF1a3lGRnVycFI4a2tUYVVUNXdJeUZBTWpiaExrampKTnE0R3hYMmhnNWR1aWZfM3kyS0hPSQ?oc=5",
       "published": "2026-02-16T20:00:00",
       "date": "2026-02-16"
     },
     {
       "source": "CBC",
-      "title": "Hockey: Canada vs. Switzerland - Women's Semifinals - CBC Gem",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jWjVpTzNCUl9ZOVo5QmNwNkZfeGlZOXpDdEdqYURjWGtPZlBxaGp6R2xNcFd2S2hqWkFaSW9WWHFBWU5EVjF1a3lGRnVycFI4a2tUYVVUNXdJeUZBTWpiaExrampKTnE0R3hYMmhnNWR1aWZfM3kyS0hPSQ?oc=5",
+      "title": "(Inuktitut) Hockey: Canada vs. Switzerland - Women's Semifinals - CBC Gem",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlU3cWk3a0JUUXYtS1dOWEQ3Z05Qamw0MU91R2JMdTAyTVVJTVgtLWY2UWhELTdXZmE0dUxZZlZYc2UyUFpzMU13MmUySlVLQVZyak1OMzdQWHdPWGgwV1RUcWFWWkcxRzNUZW5Wb0xWd2o4VmJkTnFobjMtN2JENXdhcmpncFhW?oc=5",
       "published": "2026-02-16T20:00:00",
       "date": "2026-02-16"
     },
@@ -916,9 +888,9 @@
     },
     {
       "source": "Global News",
-      "title": "13-year-old skier from Ottawa dies days after she was injured on Quebec ski lift - Global News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NMFJMUkpSMHVBLUNfbEFNeDZ1MWdZeWE0MzUzVHFHZ3Q5dG9tX0xCLXhDLVBLeXdpZUwzX0tBNmNjbzBaRk15N2tYTEg4bGFaX09rNFB5ZlhNUU8ycmVpZVJ1cEVrd3pjUFVueUh6b2N4Q0U?oc=5",
-      "published": "2026-02-16T17:09:40",
+      "title": "Ottawa expects Ukrainian emergency visa holders to return after war ends - National - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qWWtFVU5faVNDVDFfTGJTM0tDUEJEMnB5UU5HYy1NVjM0dEtpN0tvcXVyRjFkQ19SZnR0MXVJUXBNeE56MEEzYW1YSFEwVzlXNHVaVnpNM2F1QWdfQUZyWVZoM3M1WTJTcmVMUWh4TUhubXdMQzFiTXNmajFldw?oc=5",
+      "published": "2026-02-16T17:37:52",
       "date": "2026-02-16"
     },
     {
@@ -936,17 +908,17 @@
       "date": "2026-02-16"
     },
     {
+      "source": "BNN Bloomberg",
+      "title": "Red Lines: China Takes Aim at Data From Big Tech - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmZBOHliUmtWemJZaVVxRDJzZE9pOGZxV3NudW9IRHptUHdneFZEOENSYWliSW5tQXVHekt4aUw3T3NzbnFwbmhYbzA0R09WYnhsbklBQWMzM3gzOGdCdDNjU054UUhvSnpqUDc1N3FDeWhqaV9FbXVXdWx1M0tGZVJvWTc5QXZpODRIZVNCVzdsZ0hlX1Nwb1lsVngyZUFWVENEWGFB?oc=5",
+      "published": "2026-02-16T17:05:12",
+      "date": "2026-02-16"
+    },
+    {
       "source": "National Post",
       "title": "Rescue work underway as flooding hits parts of southwest France after deadly storm - National Post",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUm94OXQ2UnZyTDVmSnFlQ0JtZkpqemJOaGd0bUMxMU44RGdGX1h4VkVWM24xa21CZFViZWZEX0NpMm5uemZzX0JvUC16ZHBaYzBkcE5razROdk96bWFac3ZWdHB2LW1UNDlpMVFBMHdUUi1LUS1YaXE1SzFlbW9vRWVqOXluTWpRbGdDZEpzeHJmT2o0UE01UV9wU185TGNvaFQ4aW5sQjFpd0dXQ3RlRm53Q0JxYzJGU29pRndrWG16TmdRSHdxSTdKRmpjRjE4bkdmbWg0bmEtaERFRWNXamFBczA?oc=5",
       "published": "2026-02-16T16:57:55",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "CTV News",
-      "title": "Man, 33, arrested following fatal crash in Bas-Caraquet: N.B. RCMP - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlQtME9pZ2tPeVItRklwLS1Kc1VhcVhXbkxodlpnTWY5NmxWWTBPU2dvbEtENFhiLU5GQmhoMmRrWk5iWUs3cGRxbVY3VVVYNUw1LWpxVGp2MG1vRHNUbmxMX1hWWHhQa20yOHg5dUVmQUo5c1hhSVM3MmlTdFVGSW82WXNiZ19TWXBJaFFiZGJ6bGU2VFlkSWJqam5uU3NvODgxUw?oc=5",
-      "published": "2026-02-16T16:53:21",
       "date": "2026-02-16"
     },
     {
@@ -1157,76 +1129,6 @@
       "title": "Is Sandisk the Next Nvidia? - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQktxNVg4ZVBtbGo4VGpaRmtBQ2JMWUhyQXdBRDZFWlNubjhQZ2V2UGZpeHBoZ0ZVTklwNjgzeXdRWVBzS3J1RnZuQlktNVVQR2NHbHJYNXR6LThHX2wyM3RQR21ySERucG5zVlp3Tkx4TVFDMEQ5WVg4UHFtMzdQWU9jRFhrem5adHRoRHhORzFIOUNWMXdDNThydG1HaTRoTklsdXBHdWoxQUd2bTMw?oc=5",
       "published": "2026-02-16T14:31:46",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "CTV News",
-      "title": "China’s humanoid robots take centre stage for Lunar New Year showtime - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkI5R1hQNlZLM2x3aFhFQldtVDdTWFdQMXZTenFhdWFibC1YRXNBVm1WV19zZjdHQVc1T2Z3OEh2dVBIZWZ2OGRVakxGOUdJVHVRdHoyNHQ2Nl93Q3RmWEFIS2RuNzZDV3AtQi1vRXhibzVTY0dfRjRfTklSbGR0VXItSUdyVC0tQjhTbkF0ZlVQZGFiZ1pETHFpd1Q0b3ZleWhiOU16eVBCakQzWFE?oc=5",
-      "published": "2026-02-16T14:21:37",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "China’s humanoid robots take centre stage for Lunar New Year showtime - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGJ6cTlrLVpnOFlOeGp2UlJfRTAyZUtOVjNBNGFDemlrYmdySTVaVEpPNjdFVmVrUkJGclZMbzhLelhkWW9LNUhUM0RTaWVDRXJLcDJsZGVWdkw3YW5HR1hjUGtZRml5Y2NmY2prZ1p5ckpPSFd3a2o1bXBPWVd3Qjl5YzNRVnNxRHRSYXk3YjRtdzBEU0paYzcxUElBZk1xLVphOHkxdFhBcF9qNldCYzdrZVhQUk1FRlpRVXFJTWV0Y25VeTRuR0J3?oc=5",
-      "published": "2026-02-16T14:18:49",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "CTV News",
-      "title": "Sunshine and temperatures above zero for Family Day - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3JrLWN5ODdqZnFpeVR1eWZ2RmVfMDdRMnhtTk82TUJobDVDVnVrLVFtVEJTSTktaVNGS2NHOHBwZUp2bTd1eVFNZW9obmcxRExwRkZJSW5PSl9EMjlMNTNqRElKdS1panZSZDdrdElSNnNXa1ljYVY0SWUtcHZvbG5sSDV5a0F0eU1wSW1RSUV2OWMx?oc=5",
-      "published": "2026-02-16T14:16:19",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Iran Meets UN Nuclear Chief Before Next Round of US Talks - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSThrdmk2d2JkX0NfY1N6cG5LREo5MWJybVZ4UUFDZUF3enFwT1hUR2hsay1VNXBtRG5lNGVwUm9GZmd0YUNEN05YR2E3TU02RW5zaDZ4N2dTM3Q2YlhYYjdpTWYzclY1UHJOdXdCNXp4VEgxMDFWN09ILW9mLTRMRWRJbk9oeloxQWV1WFJDTXRMMmM0a09BQTZ3ZUR6YW0xcmdHNVRXcFk?oc=5",
-      "published": "2026-02-16T14:06:41",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "Global News",
-      "title": "What to know about the Homeland Security shutdown - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWpKa0VtcE5rTHNsdGtmQjR3bDhkOE5EOTlnREhGcm1UVm5MZFZraElMU2F1ZmxpSnZpc3lYeS0xVzY2aW9uNnlBUmdSOHRzWWxYWURyMGpKR3U5UF9SYXJJYVJVbFBnajZfZlVNZkZxSkk1dkNWWExoYVRDQURvemhB?oc=5",
-      "published": "2026-02-16T14:05:58",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "Global News",
-      "title": "Disinformation experts warn of dire consequences in online hunt for blame - Global News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VMzc5UDMxRG9WZzRYWHR0NFhGWWF2OTZjVmtWcmFxZldPaHBibnYzVHI3UUlVTTczaVF4YWFlNzZZeW5jbnVOcW1UUjVCZXN4ZHZUeUhrdGI4dzE0c1VmUWw0eUJ4TGlXczBvTldzV3JueTJzeVpTNjFCUXFYdWs?oc=5",
-      "published": "2026-02-16T13:56:02",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "Global News",
-      "title": "As new EV rebate program starts, car dealers still seek past reimbursements - Global News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53dGhDeG5SNnR6Z250TmtiU1VuQ0JVajRlSndWTjJiUF8wUXpQOG5iUWZuRjRmbVhXMDA4MlJ2dDNxcm13NmtZLWRHdW45c090eTJtU0o1QlFGalk1eUVuZnpoenRQSXdUTzBzVk1n?oc=5",
-      "published": "2026-02-16T13:52:20",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Prediction: Micron's Stock Price Will Be Worth This Much by the End of 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcmw1LW9BeUJOV1I5UlAtV2RGZWc1U0V0ODdrOW91Z3RKY0Q0MWhVWTdMeGVsZVR5SjducUplbEtYLTJEWGpsRExZQktwdjlDWUN3alpaT0ZfT2RISUdDQXluTUdDc2lkbTFONkZTdERQWEJVNkJwUUpWQmxJWjJLNENpRTEyQk9YNDZqaWdneklDYmdra09Mc0k4VEdtVHhOZU0tQXRnTklLXzl1cG1nMXprc2VNanhjdXl5Q0lXWFBlTTlhOW9DcTRFMjdaNkJNd1VGSmV0U3F5OFZXMU1ad1BMRERHNVN5MnM4?oc=5",
-      "published": "2026-02-16T13:35:14",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "CityNews",
-      "title": "Chinese fine dining slices through America’s takeout-food stereotypes - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFdyR0UtcC12N2kybWVrenBGYXZXTTRvOGFVUWxXOGdBeER3TC05T3BSTzY1MWVieFJMd0wwZHdCTlBZSWNJOHhKVEJIVEZjaW9Ub2trbmtjV0dxTzA1N0JLNWltU1RvWElzRlhzVk1JMHdIMm5HR1JaaGYyZV9jdjBtTThoNGd4Q044S3AzV2pIaWlmUGlvRFNwaXpieF9CWHc0LTdNeVY0RVA5?oc=5",
-      "published": "2026-02-16T13:31:23",
-      "date": "2026-02-16"
-    },
-    {
-      "source": "Global News",
-      "title": "‘Beyond horrific’ crash kills Calgary father, severely injures daughter in Edmonton - Global News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45WG9FN1IwdnhlWGRtQ2F5dlFpdE1VaXdzUXkzT09TYXRYODlBRDFxbDBVWXlUZUJ3ZU0zZ2NkTzFtU1VUS0RfbmpjUFJyZTdMZnpnMG1TY2hVQVVvQmhzTV9wMWRhdDRGYUg1MzlMS3pQQkpnZGtDYzNMaUU?oc=5",
-      "published": "2026-02-16T13:15:34",
       "date": "2026-02-16"
     }
   ]
