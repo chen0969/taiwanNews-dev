@@ -1,14 +1,98 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-03-12T07:06:10.143787Z",
-  "article_count": 129,
+  "updated_at": "2026-03-12T08:05:18.649522Z",
+  "article_count": 144,
   "articles": [
     {
       "source": "Global News",
+      "title": "Global News Morning Regina - Global News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1duWm1xTEFVLWhpQnJ5N3V1MWl4QjdISC11cnM1bFpjdHNKaHEtcExDdzJQSGpsbEFkXzhLR3N3NWdUZmFnREprX3JBd3dKRHNZTkY3TnZteC03OUZhN2s2anhhTFlrb2I4cGpGbk5vd1AxcmdWMWthdlFUOFlaUHhCRQ?oc=5",
+      "published": "2026-03-12T07:45:44",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Global News",
       "title": "Global Player - Global News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjcwaDRWSXFULVVNVnNsSl9uQzFObDV6czExRFpFa1pxMTBWZ3FodThZMXY1OFJKV0tvb2xOc3dNeVk0bzJYc0xfTDhBVm1pa2dQQnV6c3ZoOE9yVFppWkExUUlJb29yR0xnRGFkU2IxbDNIUmNkZU9MSk8xeklOdS1vRlg?oc=5",
-      "published": "2026-03-12T06:55:40",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzRVYW5nSHdhWVd5LVlYaHhMVDNkUkhJcWRnZTIwNlVpUjBRWlpaTmM5S3dDU2dNeWxIT1NmSER6b3pYMTlrX3lISHJJbTlHcW83NXlNZURHcV9hNjBtMnFXZjNtWVN6QU11S0dKd3Nrc2V6X0FIaEZtS01xTWN1YW16Zw?oc=5",
+      "published": "2026-03-12T07:45:38",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "US Starts Trade Probe Into China, EU in Trump's Tariffs Revival - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTAwdGhfNXhFX1dGXzVreHB0a3Y3a0IzODlGNG9pM3dLQ005czdEVUkzSVU2WEpmRWgzLXNQRFppMHBhM1BHdWhmZmg2M2hBUXZxSmN4NlpHNXNEQnA3SUdkckFxYl9fWGF0NjROWWJsYXNCenNNWHliWnBPUXdlbGdZQ191R3ZnNm80ZU1zSjNaaExudFdGemtsUDUyT2hTaGdKUWUtWkNEdEtRdFVkbzB1OA?oc=5",
+      "published": "2026-03-12T07:43:21",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "US Starts Trade Probe Into China, EU in Trump's Tariffs Revival - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGN3NFRyVUhRZEtZeWlyOXZFVWlvOFZFNDAxYW4tcEk1c2NOQ0huaUxYWldPWUotLVBFMDJMVy1aa2dER1pjdl9BTFJmeXI5c3R3ZmljVjNaTlV6MXpmSGUwQmd5UUJqejNUYjFlYW45M2VNcEZ4NTdoaGRscUtMbmJRVDNWeEgzQzVrX1BHNGFJaEpGR3lucWxBeUlNajM0S05sQTVBaw?oc=5",
+      "published": "2026-03-12T07:43:21",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Honda Warns of $15.7 Billion Charge on Global EV Downturn - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWRKYUhTMDRJcVZBNjB6MEw4UFk3djNzNVhfeWRTMjdBQTRsZ1pkOEpwTnRQbmEzczRxNi1JNml2Y3hlQWlZVnY4SWFlRktGeTc2N09DUUZmNW5mTDdrY2gwYjQ0V2lqa0lXNFZtVWdrQUsyZldLR04wMG1hVmVmVmhoR0lSSVVrT3RxQWJRVjd4QmZtajVmRE4zekdzMTBGdFdHNVotYUJ1ZUZF?oc=5",
+      "published": "2026-03-12T07:43:21",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "South Korea Passes US Investment Bill as Trump Starts New Probe - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGQ0V2ZrVGlYbVNUeG03YTFwT01mU3FZSHNHQWpvUk1oY1RWVmFkQklqYTEzM1RvMDg2dk5VZGVZWW5RRktXb1dzUkMydEV2RnF0eFVkM19tQlNLZDg0bXo2RlJoUWxTWFlHNlNCX1luNS1CV0t1d1JabjdjZnJGQlVnMExVWGwxZy1PVzNNNGNBUzl3djhLdGhHY2dqTmNETU5jZDNLNWl0QQ?oc=5",
+      "published": "2026-03-12T07:41:06",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "China positions itself as force for global stability at its annual Congress - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDd3UGszdkF1eWd6cHJ3SVFKYTJTNUtXUUJZZjBmc3Z2dGZoal9wYVdHU0dvR0VQY19PN3hIeFdSblBmTlBQRFpLb0ZhdGVnVTN3RzlUdjJmRThnOWJLM1p4UWFNaEdZYnhTbXdQdWFTY01jNzVFa2E1WnZFQTJnMTB6dlhfdGowU3NQN3pFTWlobUpRNkVScnVfYlB0c09yYUlQbFhKZWZhWU04NHZURWp4ZVlBUQ?oc=5",
+      "published": "2026-03-12T07:34:09",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China positions itself as force for global stability at its annual Congress - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUjA2M2lNakw0SHpDYlZqV2ZNWnN2dk9DUDZRSWM3Wnk0OEhuYjJJalBkRXFRSE51ZmVJUzc5b19wbTZsRC0yZ1NsRHBMUkpOUDRMZm1VQjVfa0FhQW1CUHNZODlNQUN0WHBqNU94WjhSOVNQRWtFblBhRG9ySm5VX2RhaXRvbDZzMFpYMi1sdEtrRnZvVk5BSmRlMGN6eVlKUnlLSE1LUmxLUGxac0RtTWVQcGY2a2NzWUZia0hWZktPNEhidkxUYXdHTkRTa0ZPak9WcUpKOE5LZHA4dndHMEFNb0FzdmhGVllpdWlUMmFPZw?oc=5",
+      "published": "2026-03-12T07:30:19",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "BMW Projects Flat Automaking Margin as Tariffs Remain a Drag - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYS1wQUVwSW5lcGY3cTA2T2xmaFJfOEY4cmtvaGR5bzFkeE03MU1LdEtGaVJnX2NMSXpNYmFqV1N3OUJvbkN3TzVXTzZBNmFZel9NbTlPUEZtNUQ2N2dWSXlpZ1V4NmRDLW1WVHhBWVBmNk0xVS1MNXVmZnE2U1EzOS1wZU9yVVNRbGV0SUU2U2RoeEhKbllUMVdBc1MyVDJHeWNDVzVR?oc=5",
+      "published": "2026-03-12T07:18:44",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Nvidia Is Making a Massive $26 Billion Bet on the Future of Artificial Intelligence (AI) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWkd6NVl5dlRfTXMxa3dGaUJkbC1lal9maXlhZDhpY0xjVDU5WFEybDhWWk1nYzlfdkJZcl8tY3hGeWlsR0xqVDMtaUgzOFpKUkRQQXNyMExSbzA5TjI4aFgzdmtmZVBoZEl5QjRfelN4OXpkUGhGTE53YWVZMl9oaHFIbzZYQ1BXbWMyY2docy1yV0NaYTYyakJPZmJfcFFpdERJSXdjaEpXQldZazBMaU1sMDdPbi1tWmhIbGN6YUZORGJKeVk3cXBfMFljbEdWSUtjaFIyU3JzRndMYVpBLWJWNWRyaG81ZEs3YkQwWHBRTEp1c0RrZ1pRZW1yTlU?oc=5",
+      "published": "2026-03-12T07:15:51",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "South Korean lawmakers pass law to manage Seoul's pledge of $350 billion in US investments - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0JWLWVBbkVvTzNVUGpXcFc2LV90cmE5R0J0UGY1czdWa1BCdVBsU3g5RkdROXhETjZGS25uX201emFZYjNUSjZHYjNVZ3duc3h2MVZNY1BwQ2N4QXZ2M1FvRnB3MW42TWFWcTZMSXFJVWwyRlcxeHEyZUZ1ZEEzSUZ6Wm1JbXJJWFI3c1VLa2l5bENRWjBETTk5c2FMUlMteG1VZUhzT1RJU3dwTEl6MndGWllXb09MVk9VaGM2RkFWVzBfTnVR?oc=5",
+      "published": "2026-03-12T07:03:58",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Seoul Restaurant San Named One To Watch By Asia's 50 Best Restaurants 2026 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb0xDeXhxb0k4Ql9sY29MekxUak16aGN1OHFEbE5qNTkzYVhNUFRoTDR1bUtwOG9DTmhtM2FwNXR3UTJGRzM4Y0pkZ1k4dzc0eDg0eWJDd1JMN013Q3F4X0pZV0pFYmdFUW9WbVcxdUdnRmlrc2lDX014cmc2ZGhaaDNHa3dKSE1Yay1yaFQzMFI3Qk5UWFdRLWpoVjZzZzB0NDR6WkhkOEh5STlkajdiWWxfT1FZa0c0c1FVdjV1ZENnd1NKbWhLUWdoYmNBMXFTWGVJNG9WNGE1S01sUFVBTWlDVkhRa1cyWUE?oc=5",
+      "published": "2026-03-12T07:01:05",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "South Korean lawmakers pass law to manage Seoul's pledge of $350 billion in US investments - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZVRTVzFvXzVjdDA3RzN4dXNmZEFfS1FaS0V5WnBXZ2tJc1p0c1pobElGUVB5OGs4RkVSSU5rZmw2UnFJZ1hnZkNaMVJPQjNRRU1kT24wbmRzVjMxUnZaanZPT2pVXzdISmk0MjBvcDNFQVNqaEJIOG9IN1p4Nl9HazU3T2tsbmNDb0MxRzJNWlUwR3VQaGhKSkhjakNGX3Q3LWl0UmpzOGZJRDZKVERBZnB4a1BxVmNIUHFKNXFhcEdLSlUyM2U3cXVRTmI1eWJRY3czV005a0Z0Y1FieEhIVE9ZdDVRMzlpZXdoal9YT3pILUQyb2Q1aWlVVzlQMFRveC1pMQ?oc=5",
+      "published": "2026-03-12T06:59:09",
       "date": "2026-03-12"
     },
     {
@@ -16,6 +100,13 @@
       "title": "Putin Envoy Says He Discussed Energy Crisis With Trump Officials - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVZ3dWtPaFJDNDZzaGkwUG9oS2pVQV91RkdodHhwMW1lbGlBQ25TcmhXYy1GYV96Tk50UWhpaDhEbHN4YzJIckJ6NlJyS3RKU3NBeEU1VE8zdmNLY3NNQS1ESERPY25lMkFWLUdybFB4M3BUdXBZbk1pUWxmMHBwS1Z0YzFaQ1oyblE5ZE5ZWnc1elNFeDcyaUU5MTI2S1dtX1ZkcHh4QkUzRTg?oc=5",
       "published": "2026-03-12T06:54:53",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Stocks Drop, Oil Jumps as Iran War Fallout Widens: Markets Wrap - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcS1GOGRCb3JlZzdfVk9OY3d3dlFFYUdaaXlNbEVod0RFdUdJbDM5RjNMX0p5N05pb2FOcnJuQklMSmUtTDRqRnUzVDdMc0dvOEtLM2FSN0JoN2NSYU9uTjliTDQ2d0Z3Qml0Z0dBcURyaHFtSGVoWGVVU1ZyeFdQOTVHVmdwWkZzWGRDZXQ0amU1YjhUbk1LRVRtYTIzMXdIRFBxeE91QTQ?oc=5",
+      "published": "2026-03-12T06:28:44",
       "date": "2026-03-12"
     },
     {
@@ -51,6 +142,13 @@
       "title": "'Horrendously High' Fares, Bomb Fears Upend Spring Travel - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjc5OGxXeDNxY1IzcDVPRHZ3YjdDREtxbWdYSF9yZEVlSFQwN2huN29ZbjA2TmJvVmhnYU0tNnd5Y0R1RjVralMwNlRUYVNKSFF0eUJLVVlUcFRWaV9ZZVZvNTlfTThfQzdqVG1FUWFvS0xLd0RvLWJ5ZUhsb1NpeGZ3M284WmNOUkdoY3Blb1gwVlBtWDdUeWltcnF4Zw?oc=5",
       "published": "2026-03-12T04:53:31",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The Best 3 Industrial Stocks to Buy in March - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVNqTE52by1saWFXc2lick9MV0JsbHdzdEdjWFVvVXRaUy1ubUdMQ2hUZjE0SVlUQ1ByeE9mM1Nfd3pmRXRkaFI4UEt3RUVka01NeGFXclVkTFM4RC0ydHZFZ1h5VVJxOVFIaXNNekw4eThkaFAtUWFtWDlnMGRKaWhTZVhkT0xtZkpReVVia1dPckJmOVNHLUF5QjhUNTNYcDZKZm14UGZZaHdNRWw3WnNsVm1VQzdPVFp6SDhaWkhHMzlBRk1QcVRn?oc=5",
+      "published": "2026-03-12T04:50:00",
       "date": "2026-03-12"
     },
     {
@@ -103,13 +201,6 @@
       "date": "2026-03-12"
     },
     {
-      "source": "Ottawa Sun",
-      "title": "Ottawa Sun - Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5Zc0dUTUdaUUZLN2xTRWRPNF9ndmJ4bDBWRWo1QlA3cWJnN19UaVlORGRVNTZsMFNOb2c?oc=5",
-      "published": "2026-03-12T03:45:35",
-      "date": "2026-03-12"
-    },
-    {
       "source": "National Post",
       "title": "Why Iranian mines in the Strait of Hormuz would be a nightmare for the West - National Post",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mVGhDbnJnRW1SeENXVzMyVUhWQ3dyY1JhbUFBWHpyX2R2dXVsdDhxUmFjV0xMMDNEQ1J6cE5KWFJFUXlwS0FEaDRrcjlZNzBWbTdUaWJuLUdYcTFZUzFtbWd5Q1g4cERK?oc=5",
@@ -127,7 +218,7 @@
       "source": "CityNews",
       "title": "North Korean leader Kim and his daughter try out new pistols at shooting range - CityNews Calgary",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2c1cWd1djc2Y1lPWjUzZ19zWm5lXzJnaUxlWlQtS3pwSDVEZ2NRb2RYNnZZSURkRThYSTUzVVRIQ0ktN3NybFk1S1gzZWlBY05TWjNfY0o5T1RvbkVzOGUyNUh2SUM5QlZlWGxSamlBbUJwRVljS0t4bG52YThkNEtkSlVPWFJQUl9uN1lHYUVvV2tPQ3pVb1F4WFZtNlVtenppeVpqQUxDc0VCWmRBaWExS01qY3hicVE?oc=5",
-      "published": "2026-03-12T01:24:35",
+      "published": "2026-03-12T01:24:11",
       "date": "2026-03-12"
     },
     {
@@ -135,6 +226,13 @@
       "title": "North Korean leader Kim and his daughter try out new pistols at shooting range - CityNews Edmonton",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkxzUVItX19mWmtMdDg1eUFqaEZ2VGtmLXgwejVWc29TcmFSZlVOMHlvNU5JdkVLRW5xUFM0SW9tZmp4dEFKcDUwYWVPSHVvSWNsWl9sYnE5LVRlaTlaMHYzNGdNT09Pdmt0eDQ1eGk3aXVDdmxSZFl6eF9qOFd1UFVFaDNFdVY5emNTQzFiYno3Y2g3TTVQU1JlckNuM2dJOFhzMWttZW5pTlBGaGo5TXpxd191SWpVYjVZ?oc=5",
       "published": "2026-03-12T01:22:44",
+      "date": "2026-03-12"
+    },
+    {
+      "source": "CBC",
+      "title": "Fertilizer prices are affected by the war in Iran. What does that mean for food supply? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96WU1xNnpLLV9oNHRMX2NYNER6Zk1jRndrLXc1cW41QzZDWVhIalp0QmFMYUU2b2F2VnRxeGQ0ZmJOTzRKRzdwSWtYbmx1ZUhWenpkMl9RU2syQQ?oc=5",
+      "published": "2026-03-12T00:56:16",
       "date": "2026-03-12"
     },
     {
@@ -194,6 +292,20 @@
       "date": "2026-03-11"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Greg Abel Has Over 60% of Berkshire Hathaway's Stock Portfolio Invested in 9 Forever Stocks - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNzFCV21vOG1oSkg3VXJpX2RrLTJfTV9OQkVlamFOazRKMmtGQndTWVlDc1plRXlqU3JUWmtOMHlHb1ZRR2dYdUJqdFhic1l6Y0tqeXFDZXk1Q3ZaRzl5elVsalRBWFZrY2lnU1FKSElXN0tyVC1FTDVsU3VwT3RaSDJRR1J1S1g4STBQUGZYbjc0d0Z1NjY5RmNteTNjMGhGLVg3enM2cUxXdU5qODRwMEhzd040ZlNUWGlYVVZFRFNUd216UHpNMTMtblFtV25aUDFLOFB6aXhrQW1vTlN4TG5uWmZSWWZvQWFMb2xIS1FleTdFdGVPZlFlLXJvS0x4YVNDdVd1UQ?oc=5",
+      "published": "2026-03-11T23:25:56",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Greg Abel Has Over 60% of Berkshire Hathaway's Stock Portfolio Invested in 9 Forever Stocks - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVGRKMEF4OVBpR2tybUZ4ZEpXRGZ2elNfR2FlRHBjS0xrc21qeXNwaUpIMTVGMzNrWG02dlhCdjlkOHZGQldfXzFkSjhFb09qN0ZwUGEtd0t1SmxCeHVmTHA1VWNSMVg5N1BYaHl1NVpJSnZQRWdjcHBwNHRqblFES05VOTBwNTZzRnllazkxZWFVOVNNS2YwMEtMdW9EcVZwSkI0TldDZGEybjl0M1lib1UyN1F4R0JVRFp4MkhRMUV2cHhGN3UyQ2JFNHhtZ0M0dkRjM3hFcm1taDk0N0tkcllvOXpHZzBVT3dGMXF3bW9JNWJqRWxTcUY1ZmpMM21XaDVXLUFWTQ?oc=5",
+      "published": "2026-03-11T23:25:00",
+      "date": "2026-03-11"
+    },
+    {
       "source": "CBC",
       "title": "Para Alpine Skiing: Women's Giant Slalom - Session One - CBC Gem",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVBJRU1RQUMtRjEtNDZjbmdlSmd5Z3p5NEZDc2VEZWtnNjNsY0lNYWVxdGhhMzJjTDdXcTZlWTF0c0F3T2laQ0FiSkpmQUJPblF3emI1dkhCRmpaNUNUX3VCWThnMnUwVUlDdVJ2aUtOQjBGeGdkU1QtejNwMV8taw?oc=5",
@@ -205,6 +317,13 @@
       "title": "Peterborough high school students protest OSAP changes - Global News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXdpbEM5MnlTZXY4UXBNT0k4c0lkMnRnc1lSalZLU3NqOE9uN0lKXzlWc0FSTUd6eG5vU0FMQktxb0oxZmpjenIzZlNNN2llWEVyeXpTN0pMSzVYdzhFSjduWDVMRVBWTHNidUxLWVRud25kdHhOendXNFA4OC0waUZLLTduQUZlMjFCTFlmc2x2Nml1U1NR?oc=5",
       "published": "2026-03-11T22:56:34",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "CTV News",
+      "title": "Spy agency won't release its TikTok advice to Ottawa, urges caution online - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMk9LZ09CMXhhNWREaTlEMnhsMEJwUUZtZUlVX2lBdVBsallxbHEzRXFKWnB6ODFNRnRoUmpPRFJSeWJzQjIya1NCV01FNnJJdW80TWMtdW1xLUdUTi03MTA3VE43ZHFkeThrS28zY2FoS190VXhSc2ZieEFEMjB5SW9aS2dnQjRoVmhIS2xsMEl5OTBMMFl3TXBhTmJqbURGTURSaXVjNmNVc2k5M2VKeQ?oc=5",
+      "published": "2026-03-11T22:12:59",
       "date": "2026-03-11"
     },
     {
@@ -243,13 +362,6 @@
       "date": "2026-03-11"
     },
     {
-      "source": "CTV News",
-      "title": "Spy agency won't release its TikTok advice to Ottawa, urges caution online - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMk9LZ09CMXhhNWREaTlEMnhsMEJwUUZtZUlVX2lBdVBsallxbHEzRXFKWnB6ODFNRnRoUmpPRFJSeWJzQjIya1NCV01FNnJJdW80TWMtdW1xLUdUTi03MTA3VE43ZHFkeThrS28zY2FoS190VXhSc2ZieEFEMjB5SW9aS2dnQjRoVmhIS2xsMEl5OTBMMFl3TXBhTmJqbURGTURSaXVjNmNVc2k5M2VKeQ?oc=5",
-      "published": "2026-03-11T20:39:46",
-      "date": "2026-03-11"
-    },
-    {
       "source": "National Post",
       "title": "Poilievre to travel to U.S. to 'fight for tariff-free access' to American market - National Post",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczc4dEQ3bEd0bi1aSjVWckEtU1JtSExab0dsR28tVVhKcXRoUmhkY2ZxNUdnTW1NYU1jdjNSZGdoa3NWeDNXTVhCMVc5eXhNQ0xVeTdHRjZ5anZfODdFQVhIRzRjRDZVczNQd3RpMjE0VXV6RnJzTHJQYXJickxBSEtOZWp4UnZsTHJZMXJSUk5RcVd0aXR6M01jZ1dSR2o3ZTRUdVBUeGJfMUgtZGFzbkpBdDE?oc=5",
@@ -282,6 +394,20 @@
       "title": "What does Canada’s reversal of a TikTok operations ban mean for users? - National - Global News",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pU1U0OHBqVS1FbHRIQmFyaktzWWRxbXA4ekVDY2tsckg5OUlWcVFhUTBmaHVhdUQ5NHBHR1ZCWTVYdUZ3R1JjV1NpUDBWZEtqcEFkZVg3bF82VHFyZEFrTnpzUDBFVWs5WGp4VU02c3Rzam1lWjZlaG12Yw?oc=5",
       "published": "2026-03-11T20:02:14",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Should You Buy Nvidia Stock While It's Below $200? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLU5pVXVfdmROMTRYYXBka013NFh5X0pXZm50YUdzbkZVZWJGM0ZOOUdlcWxkNDJtbmN5NHlBTGRNSVVQQlptXzhSU2Z3RnhCN0JLTV9XaHdZTHI0ZkwxQ3lncDJuWUNNQWsyM05pY0NwQUZ6TlViUElRc1BTMlduQVotWGN0ODVTcHZZX1lUT0lwREo1M2R4Tm1QOXhVcVhqNmhpcHRYaE54QjRHenhKZ3pnOEY0VHBtLW5TT21MTVM0ejNLd1FuWnJnTQ?oc=5",
+      "published": "2026-03-11T19:59:16",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The Globe’s Robert Fife to receive Lifetime Achievement Award from Canadian Journalism Foundation - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXQtRlNfd2ktSGlnQUFGYjFEN3BxT2ZQd2I5U3JVeTByN0lGMGI3emM1SnlFdl9kU1VGVl9IWGlsTjFlakxheE15NkZ4MHhyeXoyTVVTejVEX2k2TGdfNktiakpfSUN1ZUQ1cVBZNUtBbTg0N1ZfT2pMMUNhSWV3U1U0UGhvLS1QTDk3eWdGbmJRelAwWGt3N25tdENkeElHTG14UUR6VE9WaV84Ql9jS1VYMmxxU25F?oc=5",
+      "published": "2026-03-11T19:06:42",
       "date": "2026-03-11"
     },
     {
@@ -419,6 +545,13 @@
     },
     {
       "source": "The Globe and Mail",
+      "title": "3 Stocks I Sold Last Week - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXEtM29EMWVRang3Y0lMdVVBZW56VDl5ZXZvOU1wSTF1bUM3N05pWEJ1WW16TzY4MVRtWktZR2JJczJVdmhuMjdwOWlMTkNNQkwzc25uVE1ReDI5dDY0YnhmVmtFQjFiZEI5MmFUY0Fma1VpTTBnZ2Zia2U4dXpzOFJybVhmbXB3QWZxVzc5UVFnN2xzWnZlSW1DamtUOFhueUdwd3BjUXhqY0E?oc=5",
+      "published": "2026-03-11T15:36:01",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "The Globe and Mail",
       "title": "Kelun-Biotech Signs Connected Marketing Deal for Key TROP2 Cancer Drug - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmZWd2V1cW1pc3o4aUpmd3JLZFh4MXl2VXMzWUlqdXNiMGt4VmcySU03SkItUkYyQVl2ZnNFLVgzekRQaTRjTVM2VnRCY0NmQlhJd1JQQ1RUTEdCSjZFQWhBcUhqeDhBWmpfNWhDWlRHNm9jZ1dQWHh5bm5heE12MGFfUV9PNTNWeWpqcWhjN1ZBQzE1SjhqUjRVU2lBTy03VXM3d1JCaFkyc25ObVE3UEx6YXZlUWRzTWlYazJCWWpBSEc5U3loVGZ1eDFTM1B4M013dGZtdnBLRmN3cnRqaWM2b3I?oc=5",
       "published": "2026-03-11T15:27:28",
@@ -443,6 +576,13 @@
       "title": "Jacobio Wins China KRAS Drug Approval and Strikes US$2 Billion AstraZeneca Deal - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaUxmV01LMmdJNGZSMzJCTW85QU1OUnZocWF5SG8yZXRQekNYMEpLbXdTUjhSU0h0MVpxQ2hvczhWQ3pIV0pMV19qeV9SbWFJT09hUDM0YzRTMktWS2ZIazNYLXBRWnhZTUNSUlBNTnhPbUF4VG5IeTVKSE1EUnZiSDlGNlpqdFo5azI2TVUxTkRhWXFybG5wYkI0NS1NTXNmRnN0eEcyaVlJaEk4Ynd5VHNGa0ZfQ1liTHdDbVU0enVVazQ1cG1qMHJ2RkhYZHA2YzdfZjA4Y0E3YkRHSEJGOUU0Q19OeVV6OWcyX09nSQ?oc=5",
       "published": "2026-03-11T15:27:20",
+      "date": "2026-03-11"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "C's Turnaround Strengthens Growth Outlook: Should You Buy the Stock? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU1o2YktnNElIY3pjbHM3dE5HTW9IU1FIcl82bEh5enNRZ1BkQW56bEItUzRPbjk3UHI1NDg0M0F3d2p4UlRvZzBzOGY1bWFQSWZyVkR3OUZSS2JpVGF2REszWV9Fc0hmRVozbHFjTEZwNkY2MTBkQ1FTdzZER3VxZjJZaG5XOWt2Q0hlZ1pWdGtCWURCREEyYktGclh3eEhPamZwYmhJSWVJWnZfeUp4ZjBqVWJrNHNxdlhxeTJESjBQMldPTDJyM1pXUmp0ZWg1aHBGUEhTR21VaFllMlJIV093?oc=5",
+      "published": "2026-03-11T15:09:32",
       "date": "2026-03-11"
     },
     {
@@ -551,6 +691,13 @@
       "date": "2026-03-11"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Navitas Adds Top-Side Cooled QDPAK and Low-Profile TO-247-4L to its Package Line-Up in the Latest 5th Generation GeneSiC™ Technology - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQRF8wTU1SSnFveVljY3BLWGtyRzJRMDk3alNlR3pfRmsxcy1XWTVRSVBZWkk2ZnBqOXcyZVNCNlhvN0R5bUZNQWZfUkZURW9EXzJmUl9URE4zTDFPT0dCLW14dl9iWEpySjlLelR1ekRiNGpPa2tqdDNnR0lEbGR1WFNHY25LWGFZOGVOTkZ2dVRiU1pRTzhBcFBtdm5KSnZsdlR3NzJROWJMdk1GS19yRlNUZG5KMGMwTHR6cTNkazhQNEE4alVGb3Zwa3lkV2M0Z19IczNsRGR6Q3h5RXMxZXRzZmZ4UEZXYi1URHZOSFhudEJRSFFhZHZDNmNqODFwUkJTSzIwRUJwZy1HSHRPYm9yd0NtZENZTnFOM0xGZnpVOXBpdXBhOWp4SUFiVFd0VmktSFpfaUhhRk90?oc=5",
+      "published": "2026-03-11T12:45:59",
+      "date": "2026-03-11"
+    },
+    {
       "source": "CBC",
       "title": "Para Ice Hockey: Canada vs. China - Semifinal - CBC Gem",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jUFhzYjN6alRiOU5QYk1uLVh0cDhxeVNpbjY4MEFDUGN5cE5WdXhxMHZmNENLckp3elp6YXhCWElyd2dUOUxlVmZYQ0tiMHprU1NScmh6RUFBRFIzeUIzRF9hTnl5YmgycXZ5TzR3RlVHUzNY?oc=5",
@@ -618,13 +765,6 @@
       "title": "China's auto sales sink in February as phase out of subsidies for trade-ins hits demand - CTV News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGltU3F6NFE0OEQxR1pjVkNDZTB3Nk5GR0NKY3czdXBucWljelhQYjNZbldSWkw5WTMtY1RzdEhvbkRNZnNjLVl1RHZFa0ZlZE1zWGsxUURnLXVtSHpRWnpoR0FCUVpWYVM3dkFIMExkQnJMRVJPX3dNMmpHUkhOY3JWX3BMZXl3Q3Jray1OZUFUMXppc0FBWmlfczV1Um5nUFBwMEN5amlmbzQ0V3dHX3dldGJINkJWRWhvZURkSUU4eWVNZHc?oc=5",
       "published": "2026-03-11T11:37:24",
-      "date": "2026-03-11"
-    },
-    {
-      "source": "CTV News",
-      "title": "China's auto sales sink in February as phase out of subsidies for trade-ins hits demand - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeWpuZG9nQ3M0MW54TjZEa00xU1JXcUZ4U0VCbElZVmlsWVZPZHU3bTZib2hfRDdnZjM4ZGN2S1JRRjNWTnpnaTdPWHRBeFJqQnFzbGE2eGZaUlEwUE9maS1FT0ExUlBac0RScWJCUUplX3RpQkprT0I5TE55eV9KYWh1eTJTUHhReGwyTFdBLVRqeVdtOGNQUE96d2s5SW91Q1c2NXV0WjBqSm5UY0VtRjhrN1FhSlRJQTBLNFFVRGNHM29ra1BSZ19WUm9ON0R3U1pUMFl3?oc=5",
-      "published": "2026-03-11T11:35:34",
       "date": "2026-03-11"
     },
     {
@@ -870,41 +1010,6 @@
       "title": "Global Momentum Accelerates: GAC's Overseas Sales More Than Double Year-on-Year in February - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTkVWQmZZWTBrUWJTMlMzR2NDYmszdmlRNkR6dGlGaVBYNlZqbzA5NE43bDhDTm0wOGdVc3NRYXpSbWNLWHZDbXg1eWhOd09pNllEU0FjaU5vZXhJXzdvLVI3YUxwWEJBTkVMenpjakRGR1FTRnhwNW9Vbml2VE5lU0tVQ0ZHY0pEQTU3czFSWk1NN2szeVp1b3hxdTREZTNEekVCSm0zcFpUVzFzNHNKUFlwcUdiY0hIamRhbFJtcGNkNExDY2o5VGotck9VT0lKVGNHek4za21Gd29zdWwweXBsWFlucG8zYnc4MnBoVWpaYVVfUHdudFRRQmJuUnZueEZz?oc=5",
       "published": "2026-03-11T08:04:10",
-      "date": "2026-03-11"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Morgan Stanley Traders Pitch Shorting Kronos Worldwide's Bonds - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUpQNFJEZ3dIaE9aRHdJT2stb2I4ZkwtR2NRVzEtSnVfUXhMY0swczZOTFc0SDUzVmVHZW5zSFQ0bEpKVXFhZlhMVlk0RkRoUHNmSUlhalU1RE13TzJ4V3REaVFVdzlHWV8xcUw5ZXNzMTd1RE5vcm1tZXlienZlVDk1MDJZNE02RUItR1Rnb2d2bURZaENrSDEtWXR2dmh2OHVSSFBIZw?oc=5",
-      "published": "2026-03-11T08:01:49",
-      "date": "2026-03-11"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "United States Antimony Corporation CEO to be Featured on Bloomberg Television's Businessweek Daily Today - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdk1ESFNEWDBpTlFCLXltZ09jSXA4U3p2VmwtTUZPS1FDY2NhQzMxZTRjaXZsazlTVDZvbUhNRjBFX2d0UnFjeUFJZmNNY01uaGFrOUhFR3JfcTB6MFJVZm1NVmQxemJweENUanlhRndCd0taLW5WWVBNdUxRbFp1SHBxeWFob0tFTEE3Y1I3N3M1R21HbTZ2VmdmdFFCb2FvOWhLYmhoczVDUm5EeTBBS0M0RVZLQ3RueWpWa1AzS0c5VllTWnJvaC15S0pyUG8wbXNQU2QwYm14RDA2N2hmQUcxbk94dFBNbTlpVmI3eFpacHZRT2MtWl85WVlYLXdLUk9rTWdsY1czMzRBdmlKUEFCc0N4eG9RbGFHdUFn?oc=5",
-      "published": "2026-03-11T08:00:00",
-      "date": "2026-03-11"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Letters to the editor, March 11: ‘I have always thought our best governments are minority Conservative ones’ - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSUt6b2psYUQ2N2RPTmN5d3d6UTExOTBGbjdsS1g0T0FDNk9URzRTOU5ycGpEa3BGUHdxNklFenR4RktfeTl6Wms1UlJJdThXakhZNkx4NjJ4YWdQSGpvSTdQSGlzR19CTmtpMHFKRXZfMnpQUFZYbTVYczNsYUNpbkoyX1ZzZmxodWRfcWo0SW5FbDRMbnZOelZfd0hpblg4Y1lTZFRvd2dVRG1j?oc=5",
-      "published": "2026-03-11T08:00:00",
-      "date": "2026-03-11"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Cathay Pacific Shares Climb on Profit Jump, Growth Plans - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1JBUWhvM01RWHFoRWYxODBsQV9pYlg5NzVKLTh5ZUc2UVVlTVpEZl9qVFJOdWV4ZWo2VlBkNXVwNjBsdnVMQXdKVy1rMEJkLTFkbTYyLTRvZzJ5c2dYX2xPU0hTMFlWVWN6anlDWkQ4NDV0aDZSMkxPWnNjdkNtenNsNDd1ODQyTW1KbjlLaVpSTDltZVZJWHg2YTg1TUk?oc=5",
-      "published": "2026-03-11T07:23:01",
-      "date": "2026-03-11"
-    },
-    {
-      "source": "Financial Post",
-      "title": "China Emerges as Unlikely Haven as Oil Price Shock Hits Global Markets - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTlseFY4cEpTY2Znck50aTE1RzNtYWlpTlNubVlHYkZRY2JpSjdmLVdOeTY1ZkQxTGhaZDVnRWk2UEhEMFZyaTJaNTJJdlV5LVVoVjlpQmVPZ2I4ZmhCVlRTUGZYa0xjV2Q1ZEFlS3A5TU9xdzF2SWx3bWhaOVh0UEh5aVM3TWlDM3hFd092MnNJSlZqbXRXZEZQNDJsdFdxb1VEbnVfMmlzZWlUczVidG1Pcw?oc=5",
-      "published": "2026-03-11T07:21:00",
       "date": "2026-03-11"
     }
   ]
