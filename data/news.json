@@ -1,14 +1,441 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-05-13T00:07:37.867343Z",
-  "article_count": 180,
+  "updated_at": "2026-05-13T04:33:41.267026Z",
+  "article_count": 307,
   "articles": [
+    {
+      "source": "Financial Post",
+      "title": "US Shoppers Are at Risk of a Costly Christmas as China Hikes Prices - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSExBeEhMd2htMVlJVVR5eEpnM0tTVVh4SlJWdmxkbmFLVlVZRnBNQlF4Mnk0NFBiSE1wZGpWZDFEN1I0dWNBdG96RnpIVExsREhOSzZRNk12LUhRUEJKXzQ3TXJxM1kyZHYtV3l3QVp5RzJLZVhQUzRoMWp2ZGdwaUtQT2Vid3dhX1p3SmhBQUw4SXk1bmE0Ym4xRVlsZGV0UmMwY0JucWRDUHRwLXNV?oc=5",
+      "published": "2026-05-13T04:30:18",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "One child was taken to hospital with serious injuries after being hit by a truck in NE Calgary - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSzlfaXJyX3VVOF9xSXJVZFg2RklWX3VVRXkzZk00aEN0eThvTXUwWGJlb19yb1pkNG5SSlpEa2VNVHV1M1Z4TkpsV0xVWGhjLUp0S2JITFA1VEdtbTNteVhaRU9NS2Vva2V5SWM2YmJrSkdDV2dPV3h4WmNtSmJRdGN2MVI2aXp3dy0xcnRxeVdhRmhrckdNNVVKNWw0b3VibDExb0F4ZVFqcnM2anl3Z0Q1azg3RmVmd1pscTVZTmJ6ejdjRDZiQk5HUUVOQTBvbDRWYUFQUQ?oc=5",
+      "published": "2026-05-13T04:28:35",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "AP News in Brief at 12:04 a.m. EDT - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWF5MXVsRGNQYkpJYmN2d1Y0UWRLWUpnM0VOS1o4M01VU3FVRGtjd3FWMkpfb05HSU9vemRsM2NmUEwzb185Z043RHVjNlNITW5oWVRrTy04VXZXRFVvUDVmYzI4aFh0TzVyZExYYVprN3FmUktRc2xtSWpUb2RLc1dJcw?oc=5",
+      "published": "2026-05-13T04:25:45",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Sabres beat Canadiens 3-2 in Game 4, tying second-round series 2-2 - CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMERoYW0wVGd2cmpKbl9LMzFrLVhKVWN3MV8wVnNJZFRFWWRVTGtUZjl4aERmVmxaaTB6SWlLd3dheU90Zll6aE9BQk1rMDhmckFYWGVXaGdfODRuX1VqUG94WEVvZUhaRkNJZnFqOEhUSU5kbkpPbXU1eWFwbFIxVlpPcTBrdW9RekxTczJIMkhXcXhOcEd2b25IZmxSY2w3WXFUNmw2Mm5MbjU1aE13WGNR?oc=5",
+      "published": "2026-05-13T03:53:30",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Some Japanese snack packages are turning black-and-white as Iran war depletes ink supply - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVhPRDlab1NOU1B3TUdFV1FDQTh1TzFNUUYxNzZrRlZIY2xFVmlwZWJVcE5wNEU5bDhpWHE3VGdLLUlwX2NaX0p4bzBVNVZJVEFoT0ZzTmthZFVHeG1kanVCdGJ1QUVqV2syd0hJQ0VKSUVfODBJSm4yb2d4ZmFlZXdMNkNQSmMtUkJCS1E4MzhBdnZfZjZoZWFKajVkREtLajQxRExCVVJ1Mm8wRk1LWTRfNFFPaXQ1eXd1X0ZlSjVvNDlzZHNn?oc=5",
+      "published": "2026-05-13T03:45:14",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Some Japanese snack packages are turning black-and-white as Iran war depletes ink supply - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQnpFckJDM2NWUmtsWmF1TDJ4RHBOT1FXRWhXUFdybS1KYkNIVURGRXRKS0ZXS25kRGxnVHA0aWpDSVMyTWhjMDVyNzFYcFJ1VnZGOTEzWjVhS0k5NnVISmNGeDVsT2FPbmtYV19Pcmp6aGg5cHB5MjZCQ3FpSjd1cGdGNFZlbG1NRWc4RnVNVmhaR0RmaW80dUxwTUlNM3FDVXJJTjNpa3Y5eG9KT2NobF94M0l2UUNWNG90UHo3NXZjenV1QzFmRG0zcnlIenVBSXRoQzdLZnNJYmFWQURmQWNadldVT1hBWl9yc0I5bzRpeE9RM3d4Qk9NMFRSUTJpRkcteg?oc=5",
+      "published": "2026-05-13T03:42:02",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News at 6 Calgary: May 12 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xQXJyeWRLX0hHSXFpRnYtVWJIaWx3Uzk5WndIQ1VaWmFuSlRkbjNBUFE4X3hvd3M2Y0NONE42Nk1PYWczbmVvTmRSNGEySTdYUmxJNVV1Nm1RS2NxcExnd0VhSEhEa0RkOGlmb2lOOWNsRmNDa0QzUQ?oc=5",
+      "published": "2026-05-13T03:28:42",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Calgary business owner concerned about bike lane project in the city’s southwest - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3pZVnA3UDZ6QTBnZ2JMMjJBWUNQdDYxMXhMNTByS05VYzJ1a1pnVHNSVkVVTkRRMmJsY3hNS0ZWUE1MVDBJb1poZHBtQVpkV19UOWxiNG03ekdLR0FfTTlJZnJnZUgyLUZEQ3dfN3lpT05nM18tbkhwOF9OUm5oMUpyM3Nyc0JobWRrQzVCMWV1cEVXLWN3UkZNa0dyMS1tWDVxemhuNHNsNEdHc3B2ZnFWSFdtMWZB?oc=5",
+      "published": "2026-05-13T03:24:40",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Family decries sentence for man convicted in fatal stabbing of teen on Surrey bus - Global News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhR21aVWMyalY5aThFSWRJTG1pMDI0M2dNUkVuRDBpdXJka0tJZkpNdG4wdTBCMmhZSk1HdHRxWFdfaVVFajE1akJfOS16aVAwWTZXX0xMVEx0UE5XM3luVG9WRVYydUpfeGZtQlEtUTdUd2ZiQUdTenR6U3NEMk0?oc=5",
+      "published": "2026-05-13T03:17:52",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Plans to build long term care home in west London denied after public outcry - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0M2a1BMSmZJSTJPV0ZxeGUxdF91ZkVvV2RSZEpUWGJJX29PWUVGV243Rjd0Wm11TDZaYlFqZklwVHF5aTV3SWlUb0hQUndjcWh4eVN2T0Z3ZDBZU3h3Z0RJTTRWdHN2REg0dnlibTFmRFdhUGNvdXNBNDNuempYWFgxRkNTb1NKNTIxb3dBT2pTZTk2VHlCVlpISWpKVWt6WlVmZDd0Wk9kSFU1aGp5Rmp6dWE0aFBTTU02YWtoTFVxZw?oc=5",
+      "published": "2026-05-13T03:11:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "More retail stores in Ontario can be open for first time on Victoria Day - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZEhBcFBiQ0pieXZDVURKQk9tSzlKc25XVkF5bW1XaWZIbmc4WFZYdlREQ2tLRDMyZkFoT1M3QlJGRDFBd01rZFhMazAxTlQ1aWJzd0l5Tll4UElSUzJyU0hVWmhvSlB3QXlVRGctd3czdTNpOUM4TG5BZlBFemFBelFnZEd2ai1Tc09JcElvMFgtOEFrdVRlR0RkOFdnUHpwNkZueTBjQlo4alVwTTFZVURjRFZkSnNCRFE?oc=5",
+      "published": "2026-05-13T03:08:50",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "National Post",
+      "title": "Trump faces emboldened Xi in China as Iran war reduces U.S. leverage - National Post",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mdFF4RTJob3djUUljbURYbXJpcGRPeUxDYlN0c0oxNE5MZlgtQng3R29DNHljdzNqY2M4Q000SkxxcjlrYU8xS2taWWQ0OXczWXZCcHBlUjk1WjJEdzZjb3ZmMVJXNTJEZ1lhaA?oc=5",
+      "published": "2026-05-13T03:07:59",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Community donations pour in for Calgary family after son’s drowning - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzhCQm5FNkVWTkN3VkVDVFZQS0c2VlQwMHhLNk54MHV6NGhrOUg1cHhmck9hc2lpZHBGSEFKd2hRLVV2LWMxSGhxclc5UFNQQXdqT0VkUEJXcFBSbTIwXzk3cXFNVFBGYUI4YXpqdnhTbHFBSDN2TUNvQXhnY2JJal82UjlBQm5nWjgxNmlPNE5KVEZleDQxRmZUczJacm1lRzFiS1ZXWQ?oc=5",
+      "published": "2026-05-13T02:50:16",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Trump downplays tension ahead of China trip - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zOGc5YU5WSm5icm5rdHBwcWdHa01HRldobmhhTFdMcGRTWlMwVlg4Mlg3cXBuNTR0YzYzZ0tmd1F2eE5GTmJaWmJDNEd3UmVaLWpCOWFkLUNmQQ?oc=5",
+      "published": "2026-05-13T02:37:08",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Committee calls for agricultural research centres to remain open - CBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY09tQV8xM0ZEMUx0dEhlaTI4c1VzRGpYMnRrTUc4Ui1Md1E0dFhkcmxyRVpkNWNhcjI0S0lNNjFEckUwdnJ3OHJpcWVHUWl5c3NoQXR4bFE4NUdMZnJaaFFPZjNqRXo5emlCbXRONTZlclpJUHh6UzlTcFhWVDd6d0dHMlBBemlVMzVjOFc5cmN4Sk9fLXc?oc=5",
+      "published": "2026-05-13T02:24:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Ascentage Pharma to Present 17 Clinical Advances at 2026 European Hematology Association Congress - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMk1BRDVReDNyUy1qVU9KZHpydmd2NzVTOXVaUWg5VGdwMW9SNmpkYmRpVTUzZi10Z0tSNWxjc3FISndiQnktNlB2cUNubEZ3UV9OcGtPcjdGakU4TndaUld6b0VpSHNQbjF2WlpDTkc4Z3owWkhQU0o0S1lUUGw5Wi1JUDdCX1ZIbENfSXF3NXp4MjgwRFVvM09hU0VtSGkxSTVWQlF6VE5zdGxQTlM1ck0xc1JkRmJGUUo3WnFkazFOcHRlRnlaV2RwWklsMXNFcjhjZm9BejVSTHlMMWg0TWR2NDgzMnRESG5IYXJWeWRkMzZ0UVJXTkI4cTJrZXNMNHdzTjlFNHZPRzFIOGNmUg?oc=5",
+      "published": "2026-05-13T02:19:52",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global National - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWlZdUtkWlliU0NONXlvbElyaW15b0JrY2dleGRrMG1Zal9jSEFZbGp1dy1QVU1nOFk5QTJHY3VtQXFwcDlGWjFsWVc0QTNDTTZ3V0FjdFg0MXFDM0dHdGtLT2JnemR3YVRfNUM1cTk2QmdQVUFWVzJnaERjQ0hxU0g1UWlUU1YzV19fWUwxMDEtT1FmM2NLVE5WWDF0MS1LSkgtajBvRHRzTC15YjZuX1ZpdEpjOHpRMXZmb2tKdjE4QQ?oc=5",
+      "published": "2026-05-13T02:09:58",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Living Large: Luxurious listings in the Okanagan - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWdFYkFJWGhRNExLVlVVN2VxLU9uY1RZeTdCbXVaeUpueDhzTTJKZllWZDRRT0V6Q0QzXzlIYmYxc1hCUld6UUdXM3FpMUl2YmwxaGxBbHNtNmlEdENIN1JLd09kREJ3QnNacVhQV3E4Z1JvWkRXUElza3pNTVE4a0VlMG80U2syTTAyT0dobnV0SGtQM0liNkpVTU1JS28?oc=5",
+      "published": "2026-05-13T02:04:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News at 5:30 Durham: May 12 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YU1JzTW9ZcW5Ud2NVamxMSGRDSVZtLWNMZ0FqOFgxU1BYQXZzYU14R25ETzhRUnJkZjA2aUF6dk1lNGkyb3BZUE8xdXFoX0NXTGk4cXpGSC1zbFdkRm1GaGlScnpHUVc0V002WXB6MEtYbmJSS1VCZ2ln?oc=5",
+      "published": "2026-05-13T02:00:21",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News Hour at 6 BC: May 12 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EdWFBbUpvUzJvQmdLdllLOEFUaDVFZDBiLTU4ZlU2X2xTcGNZQTRDNm9EOHZwaFdWUjNSWVNuMml6bjg0TGszSFFSeVk1Slh0YjhHUUhSYlA2d25VYkxndldMNkpHYXI5Mjc3M1V0Y3ZNdmNCdHBLSTNTYw?oc=5",
+      "published": "2026-05-13T01:49:37",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "In diplomacy, pomp and protocol matter, especially when Trump goes to China - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXpJYXJLX1NlNklHNDFZQWdySFJ1d3Ftc21mTXFtNDlNZWJYSEI1OEZYN2hUaVJCVkNrd2txVzd4MnpuUVBIdzJ6QjBYNzFkTFNzenNPc0tFUGY2aUlvQ2lFazZldG14cWFWdDl0NzFkbjlLazFKeVVvbTNHOVAzUHRIOUNEWkVpZ1dVV1VlSnBCb3JYcTg1N3ViTHFXdmhOdnIzakdEdzVBZnh4MEtTYTd2Zw?oc=5",
+      "published": "2026-05-13T01:41:15",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "B.C. nurses vote for strike action - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWxKVDYzNV9MZXU4bXc1N3l3RGVPTXJ1UkJXZXlUdkhKX3Bhc0Q3SDBlYzE3VFlVdTA4eHUwaVV6NHdMcEtHeExDNTVDMW5EOGVaT3JZTmdKaThoTHdBLWVjS05ZR292aUxUdnllYVhHZ29SWDJlYTlORXdwYkRYNHBNTXptT1BYaXVv?oc=5",
+      "published": "2026-05-13T01:33:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Local companies make big pitches at Web Summit - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWZ2TnJNa19YWEllanI5ZmFBTk9oQzR4TXZXVGVELXA0UGxMak9iQlZUWW5MMTBxOVRJdld6SVNMTmdIUDFEVlVqcFhqQjc3anBnSjQ0ODJicjgtNzJJWG9XVVZILS13X2hHNVRKM2EycHFOVEZJd0lOUHZrWTM3aDB4bEgxWTI5MndOaWt2TlZBTHRGQWJDR3V3c3cwQQ?oc=5",
+      "published": "2026-05-13T01:33:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "A look at BC Place after FIFA World Cup transformation - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3hpNlgyc24yalZHend5M095bDRha0Z3RGNCS0s0VFNic0x0VEluUjJPMVF2Vlhzdnd2OVg2Wm1RVWI2bHFBSGtxZXdWVmJMM2xXdklPLVhXd0ZoRm1NdVY2bHpUcE9WTEVLZUpIZ1JzUVZkVFBqYUlUNHJCSVp3UWl0Q0ZkNm9CMU40bk82eWJ4T2szYkt0YS1PSlVMdDhHLVRjM2FpVk8?oc=5",
+      "published": "2026-05-13T01:31:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Outrage after sentencing in fatal bus stabbing - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXdxNnNZeWFaZ1JIT2QweWtQS2RwbUpqcUY5MW14TUVnRWJEVDRJT0NlRVdON2FVWnVvV3J6dnFCQnJmaXFFVGRENEY0TWQ5VzBZNVpHQkRyUmFUVE1PWVk2ZkU3S1RFcU9SdktqMDNXeTJNZFJvcFRhandFemNUdGJzZC1ybG5OalVqcFFCMmhRb1JVZjVWaVZXMlljQQ?oc=5",
+      "published": "2026-05-13T01:29:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Mock crash teaches students risks of drunk driving - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0RIRkR5VVVmSUxFUU5BS09rdTBwVS1YY1hydmxEdFlzWUd1LXdwUmI5Xzg5TzU1OTVhUHBxdjdlMkEzcjBRMVl5bWpsSjRpWDFna1c1NzV2bWxBTDlRVDl3dWQzRks2QU13OUFMSzkyNlZQM0FsdkU0dWNZV0RwNWsxR2xkRXVhX2pzWWdGRU9pTkdKbUtMd3E0MGRKdmhhcTN3?oc=5",
+      "published": "2026-05-13T01:28:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global National - Global News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTBGN2ZFUnE5bDdWaHBsMDNacG5FTHdPTWZQejR6eDVRX1JwTDVLOVVtX3o1Y1lPQWhncHF3VXNXWGpxMGVOWE9NWUtSalJaY0REYUN1d2VqNFFmdnZmNkdtSkVLNVRwenZILS1FRUc4TzAxSzMtV2lWM1FpT1RCUmJsd0NxSXdKY0c2bUxTTHNBbzByazFfM0FXem5uTVFfTDgyUEM5Qjg2emNZamZPT2E4Y25sd2xuTlBTNHR0cm9Pb0REa0dPRDZkTFczLWdUR3BvQkQtT3RQQQ?oc=5",
+      "published": "2026-05-13T01:27:59",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Cyclist struck by stolen cruiser sues VPD - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0I4b0FpMWQzMjZpU3BQTTY2eVhLZVlDRzJNRGlHeUQtU1BXOUZ5OHBNU3pfTEhBUWpSVE5CU1VEaW1DQW11Vl9HWEhGQk1fZWo5YURlNkc0V2VBQjJfZm9Ra2w5VE5oajBtdWpBMG9DcDFuYnhpQzRCakNhMHV1bFE5X2VxaDVBNktNOGdEN1V3b3A2eUNR?oc=5",
+      "published": "2026-05-13T01:25:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump posts graphic of Venezuela as 51st U.S. state en route to summit with China's Xi - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkgxRG8yUjVWNmdLczlvNVllTXV6NDRhWWdleVFxaC1TdC1WNHFYNFM0VlRXNHMxTkFRUkdDQ3RFMXlINmxMTmNVZW1kbU1oaTRKOXd4X1JkSFd0VjlJMWVZUGl1cERMNFF3SklxRjhXMFdxMm5hdVllbTdIMkVsbGpib2RpS2g0Q3dCVDNoZ2oyR21XMUtsSFJsRUM4MVdXTmJpVGxIbnBkV2lsdU5ILUVjb3UydDBoMVltWE0waEYtQQ?oc=5",
+      "published": "2026-05-13T01:16:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Legionnaires' disease outbreak up to 12 cases: Toronto Public Health - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFhXOE1yaGxQeTFhemlfalZid2loNWR0Xy1JNGhUTUJ1Q1ZIbzFUdjc1T2s5MVdJeUZoVGJ4MWVabVJ4U0x6UldwWURoRDFhRF9KOWdVTHprLWYyV2R5aUpfdTVLbWFRMVRpM3A2Q1M5QXdwbk01c2VEV3FaUWtENV93ZFQ5Y3M1WVhNUC13ZDhnS0s1bDAxTC1fSjczWjFJZlVfamhSRW1aNnpMWUs1XzR2Tm56UQ?oc=5",
+      "published": "2026-05-13T01:16:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Trump posts graphic of Venezuela as 51st U.S. state en route to summit with China's Xi - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTnA2N0xSeXljMjlyQjBNa0lsNkhJTmpCVElJVTR5bVVqZ3o3LTBuYXh2bFNQT2RfUkkzZHNTNEo5ZmZYN1lLTkkxTFJQaWVJRlloTy13TWlpRDM3Wnl6cUliRXZVV1p2SHhUOGlMb3dkOHQ1U0x3STh6SFJqak1LRDZ4R1YxTFd4T01QX3JsbExMT19vc3RyaVJiVVNCc0FUMjQyb2ZCQWIzSWItTk0xUnl6TUJvR01WWURSTDJKaUVBSlc1dUx6dmdzTndsWTJiUHpYS2FR?oc=5",
+      "published": "2026-05-13T01:16:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Iran's 'Mosquito Fleet' | About That - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RbGFwSDJhRHR2dlNHWG9vVW5GMGM1VVd0UWxMSkNpYVJTYXN6UFNoM3hSQTY5OURXVUNObWw5Y0hnb3hyaGJkR2R6OUVKeTZEbHNnZTFHMW9FQQ?oc=5",
+      "published": "2026-05-13T01:07:01",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Citi downgrades China Conch Environment Protection Holdings Ltd. (0587) to a Hold - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZS12aXFRczFYdXdKY3dlc2JYeThMV2ZPaVdpVmZraG9NeXozeUFLRGJHRHE3dXc2MVBDLU9RUXJzcnZ1Q3BWWUt6NEhWUlBBbFhnV0gtbjJPVnR2YjBDQjJNQm00Mm1kMEZmMC0taXBnVmJickRPVktjbHl3NUZhYnJqSElSQm96RDF5UFc2Sk4tQS1XU2VRZll4T1haZHFacTBEcmY3eDlnOF84TWlVVk11S3JjMC1RTFo5T1BfYnQ2OEpLTGoteEJudXJjbXQzOVc4d2dEeGRuTHJuVmVUWWpaNllBV2RJeW5sTkJSM3g?oc=5",
+      "published": "2026-05-13T01:02:47",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News at 5:30 Okanagan: May 12 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IeklnOVJKSFJrdXozeWZoTnpwd2Mtc3F5b2xyaEh4bERFcmZQaWVtOURnTERSbVhLbTg5bTlZR0FDNUxjcW5SM1l5ZS1pd3pWV1gzNUJUYzFlaWlnY1B1N2FWS1M3ZDV5Q1VPdnVWZ2lscnlhSDNfVE1KcWg?oc=5",
+      "published": "2026-05-13T00:51:53",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Trump heads to China for high-stakes summit with Xi - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaENiU0FDVERwNnpNd05udkJzbFhqZURuUTVFVFJkQVNLeVM1bzc2d0dBY0lPNXpkdmZWbVR2UzBmTEk2TFZtM1QxcUNHNHFEenFwLUxhVHVKel9MOVFpZmhqXzJpbTRUQ2ZRc21HMEdhMTVuc0VCYUc0YTJlLWFSOXAtMzV2cnl4NkI0ZDZKd1Y1UQ?oc=5",
+      "published": "2026-05-13T00:49:32",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Epstein survivors deliver powerful testimony, allege authorities victimized them all over again - Global News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlc2ZVpwNEo0TUg4TkxfOEFKQUJFNk5TQkZaNlNta3B6ZnhRWmpqVlM0dEhvSHM0N1M3dm9ONDNybjQtT0lIQjhEZnc3SndXYXd4RnVmUmZKSWJlWUJRTXNnZE13RkhpRjgzLUQtbUU4UU1zdXV0bkI3TUFEZ1ZmQWhEQ1JtTGNtd1JobzVOMEJjYm5aanJqUFA4dTZzYmE2V2o2MVgxQi1KdjZ6cVZxTVd3OTRIREZ0VUFOQTY1RnM1TjRZZ1YxbDNtRHk?oc=5",
+      "published": "2026-05-13T00:40:47",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Surrey Police staffing concerns - Global News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Dd2c5a3doNmVBcDZwMUVMTmMzR296UVZIRDhYeTBPREZjcXVqNkJ4VkRrTUxmdHo3aGVfUEt5U0F0eGhoN1dOU0tQYThpX2xQSkZxc0cwckR1UjV6VXZrOWJSY1RRYWV3c3pYTllCWFZOdTBzeUxnRw?oc=5",
+      "published": "2026-05-13T00:40:10",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Strathcona County votes to keep integrated fire-EMS ambulance model - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnlkRFVoYzBRaE9PYnZNRW5sTHN6N1liWElwd3R2R2l3MVBtckdQUU5SaXVFQmplUzJrMUk1OVJqY1Z5Z3FOa3ZETVZGT2x2aU5POEtYelFwNThnM1BLX25iOTZNUVMwdXFoVFptdU12MjVxSTBKZUxLRmVqZl9sRTFCSVhEZUhFRHZPVkZSVHJWQndUV0NFV3c5ZDdxS2R0NFdHNVhZTnpYN2pQVUNlaU1HWEo?oc=5",
+      "published": "2026-05-13T00:38:05",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Vancouver’s FIFA bylaws kick off Wednesday - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjZ0TzlVUlRLZ0k4QlBRbTZFWkhIaFlIMkxrZGM4R1B6SFdBeW1XU2w0dnIxeVJOclhWdXpqbUhXMU9iVEJ1bWlZY3lfd05iR0trMEQwTGRnVUp5bWdTc1RBS0pFTXRGSE96N1JMOUpHSm1DTDdCY1FScVVCSDFaMEhtcHRPUQ?oc=5",
+      "published": "2026-05-13T00:35:57",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "As Trump heads to China, past US flubs on US policy toward Taiwan can be a warning - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzdpVTAzQlUxMHo5NHVWVVA1NUFQZjl5dEIzLWRNbHNoN3pOdkhmbjNTV1Q2STZBeU9qNW1xbkxqaFVLZGN4OUc4SVFIY0hBNU9iNzdMUURJVE1Fd09tSnd1elRXX0k5R09BMjF2M2VOYW9LeXpDaTduTGowRi1IdEVlcjR0UEx0MXZXdE5zSDNBT240cmtvQmgwWXRzcEFZM0RzT0JreDl4OVdDZ3JMRDJEZlZ6ZTVRektEUzln?oc=5",
+      "published": "2026-05-13T00:31:12",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Mikisew Cree First Nation suing over oilsands - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekQ4amNWOHFqamV2aUNjaC14VDgzOUFFRFRvZWZPWUczLUtYRTdJaVhWd2hsNTFRVlJMdHBGNFNaNHg1VkFLMGFOS0xKVlVHeFFmbl8wMVFweC1JNzVHV3pTQVJGbmdxdTZWbWpMVkRuMmU3RVF6a0JmY3lUblhmcFFBbU5sQ0RtNFI4NVBFb0diRVpjMEI4?oc=5",
+      "published": "2026-05-13T00:28:06",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News at 6:00 Toronto: May 12, 2026 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGdXN0x2Znl2WWYxNjVEdDhhaS1mZVZEN1d4SVBlR01HbW8xbjROTGFVSm1NaHM3Mm02M2hLcGZUSmlFMTZ3ZklQUjJWZkhiMlJmSDlUcFlYY0F5VHFBTGJuamZlTVQ3dk94UXNiekVnN1l6d1NGempaZ2hlZThSUWhR?oc=5",
+      "published": "2026-05-13T00:27:11",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "More Canadians prioritizing economy over climate change: report - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEY5NkhsMjVmc3ZvdVpEQjFMQkdfZDNFbGRXY1NVZ0NIVjFyRG1rQVZUSzBJYlRSaGZwanFEWHlmc1g2QWVmVmRobkZReG9hOFJqZHdOYk9LUmphb0puZG5FdkcwR1JaZV80MFlQeEJCRkgtSVVmdjY2NGpZRDVqUHdadTBLbE9RZGx6eGVucjhYRGJlUVlmX2h5SVJxc0RGaW9hUXhVYzktUmJseWNSYg?oc=5",
+      "published": "2026-05-13T00:25:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Centurion Project leader not co-operating in probe: Elections Alberta - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGRMVDliNkRWSXRDSEllYV9oRkJuRW5vVU0waTF6SGJPY2sxSWlsWWRtdGR1NDBNTW9ZVTRWS29ZQm04WExUdkVhazJLT0tFc0VacXpEamZxS3d6eVFqVGtxN1k1aElqYlhHWDZlVGdsUk5pSXdGcGdDRnFVVkFpYjdKc3BILWFQbGxJRFhJV0wzckZqREZvWFlfX2RHc1p0TkhFeDkwU29CWUNYYjctZjRUYVo0bHZz?oc=5",
+      "published": "2026-05-13T00:22:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "iPolitics",
+      "title": "📈 Major overhaul - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ybHUtYjlfUWJuOUZYMG1EN2Z5S2xnOS14Tk9fWWtPS2hKZ1RqMWlneE8zQkR0dGdpTUltdTF4alBvSm40cWFLZ0xvamF0M1l0eFBwMFJJRXRkYVJNQVY0NTB6S2locHotUGNQVDFJU1ZDQQ?oc=5",
+      "published": "2026-05-13T00:20:50",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Jewelry store robbery caught on camera - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemk0MnlQeHR0R3JWa3U0Z25QUVdBdEF1YVJXM05SanpZOXdLWjd1S2hGOFJoQTY1bEY3bm1JTUpBZGZFZHp5ZS1hYm43Q1Vjb29wVF94dGk3LVR3X1NTS1hIT0V6UjZXTW9sbW96SjU1OHpIeDBvcUR2NmN2dzdWNktEcXpENjdTbnI1bnlCZXNHZw?oc=5",
+      "published": "2026-05-13T00:17:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Feds invest $9.3M to support defence innovation, small business in Alberta - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGg5RzUzV2gxczZSZkhtTUc4dHBjUUFDeWd0ejZDcmIwc2RfNVVZOVZ2WHhKWmZpMmtMeVNCbFBOV1RUS2pGOWtpYlh3VW9PMGRJNlVzZDFVTEJtVjlOTC13YThhVEVpRW5WWFRCejFmX1FLYlhoR051dUVzUl9DMG9PRWQzQkdrYUFaMk4xM0k4RXlJc2daa3pNall2cE91NFNnQ0VTeUR4VFRCblo5cmRfZ3BQQWNzTlE?oc=5",
+      "published": "2026-05-13T00:15:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "SHA warns Saskatchewan residents about hantavirus risk - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVRMnhDN0xCSGFYV1kyYVFWWDlhTE9mUDFFV29JTnZKMHQyejVvVUd1TnRWYmFfQ1BCTjJYTGF3cHVXY29rdkxTOEI0d21ZOHF4RGt4WTVCM2VEbVROVGJ0azZqQkotcmFjVi1KNktZTHZObkhaUndwS2xRTUFxTlJuVGxRZnRmTm1GZ19TSjFNb2VyNnFkeUQzMHJsUkI4YnZTSw?oc=5",
+      "published": "2026-05-13T00:14:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Three First Nations sign agreement to improve community safety - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWl0X19sSWJrZlpFNmxJSURkdWVFZ0h2b0tiRmllSkJTbjlTNGkxWFI5Nm9Zel9RWnMwS1FhcUhTRGN2RzNqNGNGb2hFZUgxTDM3LWdCRml5ZjlPendRLTlVeUdkcVFYakRhZEZmT2hHQmhCUGQwdVROR0Jkb0tBcmtJSmRTZDlZNmFJRG9YamRBbWhpQ0NleXdTVWY5VUdLcG1JVnBsNFJTeW1zTXJJ?oc=5",
+      "published": "2026-05-13T00:13:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Star Blanket wildfire grows to 600 acres as suspected cause investigated - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUh1dXctUFQ0WTFoU0JEamJWQncxbHRSajZxUHNaRU1PcEVYTkgySDBTUjVUUW81dmpKWFBzeTVGM3pUZHVUVWJkV2Jsdi1kSE5hYVJhNk5aZGYzdXQ4Qk82Q21rNVJ1UHhvUE42MWY0X2NoTGg4SlVEU3pET09VenE1ZnhOUU9JbUFNeGpCRXlsVFU0Z3N5ekxfN0lXZWJhdDJMME5hZWMxVDVFVFVPTTNremY2aTRRV1dEaQ?oc=5",
+      "published": "2026-05-13T00:13:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Canmore-area gondola proposal draws support, concern for wildlife - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdE9QVGU0UGdkTHZkbjdETlZ0UVQ0eTA2bW56aGpHQUJCVkxFc3lPN1pkNkp0b2FBOHR2Z0FfQnNTZUUxNncybm5PaHJ5VHpOb09PbW9NQkRXWHBBQ1VNX2hiSmNmand0bGhLSTlxTDRyWTFWbjN0Ry1pVWdMRHpHcnZPQkExSVE5OWZ1SlpxNEVaLUNxeEpOTFRwNWZ3REM2aDYxaTJETGZTNmVUak5V?oc=5",
+      "published": "2026-05-13T00:12:51",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Fired Dragonfly drivers continue protest over pay, conditions - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU19yS2xvaXM3WnZGS1pQVVFhNUg5UUJiekdlY1JDMDBzVGRoaGpLMUZaa2hfVzFvUkxvTjdzTzBnWE5IUEZfTldpazY3a0UwandyRjAtdFBRYXpVcmpXSDVjaUM0YmhDd1gwVVZTN25MTFBzODVuVGhKNjM1Q0ZHMy1JSElZZ1RDRW5xR1NnRkVhWnlLSkwtNTdJRHFlTVg2ZjVyUEo0MUt2Q2k5QVNQTg?oc=5",
+      "published": "2026-05-13T00:12:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Turnor Lake calls for more frontline resources after young mom killed - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWJPZTdWLXVRUk5GVldzQ0tuYkhWTkRoSkdkbXpvWjg4TEFhRFJhaHRWQllRTUFJaTdTQkFjSUFEdS1udkNrYXBjSlFrRUtUUG9hTDBtbGxIMFEyUFRhT2VtZTRxTDN5ZjdpeDFFMVRBYWZ5MFdhdzFHZnRMUmFlTWtwMUxScmRUT19zNXR0aUZtZ1RXaWgtTHpWM0JmVTRtazlFTE5XTWRudXNGN2pjYkVRbjRoZDdkNmVxOA?oc=5",
+      "published": "2026-05-13T00:11:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "Global News",
+      "title": "B.C. premier tells crowd about AI optimism despite energy, safety concerns - Global News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9QWDFIQmJwb1dSR3E2RURnSXVzLW1qTEM5VUI3MlZWMFNhNXBLXy1oYXhhOEM1cHU4QVZFRHJtMV9ZVGZCZHd0N0k0UXNib0xLR2c1d28tZHRmVzFnNWs1NDlpLV9ya3BhZDVDaFNBZkJ6QUZwdUVTdUQtY1NsNWpCRXlaUXVKQmpnZTBUMDM0Szg2b1o2bWYzdTZ3RVJ4SF9DcDZYVkRlY3RyQWc?oc=5",
+      "published": "2026-05-13T00:10:49",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Sask. First responders say staff shortage 'takes a toll' - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEFMMEZVXzhyVU53cGdBaFB6VU1mdnRXT1c2MnhkMVR1bVF6NjlsRVlUZUszWnJJakRPbjZzbEtRVEU3dEVITDJobWlLamFhWVppaHltUm9odWZPNlFlMjdwN0tBMV9hb3FpR09tdU5tT3hNMVVBX1lVT3oyaGNKTl9xYTRSeUtaTlVibWx1SUJPb0xGRjcxUXdBNndTUFdZVXlVTXBFNA?oc=5",
+      "published": "2026-05-13T00:10:00",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump set to meet with Xi in Beijing as war and inflation weigh on his presidency - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazA5V1hramt5NWJNX0laMUtjbHRxTlR4N2F2d092UDN2ZUlyemJQS0VYc3EwSTVxWmplNmhpRld4MVVRY3N4QUJjZlFmaExVZ3VHYXdfOWhlRGFrMzBtaHZLOV9iakIzeFY2RUQzN0tzX2dQMy1zOU8wOWNBZkpCOWNfSzh3UjdRT1pHSmVzSm9wZFZRS281S2FSVnM5Zm03djdGLTRuVGJvSFdpUTl4WWdTSWQ2ZkUyMGFuRmlR?oc=5",
+      "published": "2026-05-13T00:07:42",
+      "date": "2026-05-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Martian rock causes problems for University of Guelph equipment - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGhybGNvdkU2dzJScm5KRUtmWGZDM1NKWkxrbU1ITktnQkZ1Z2VfN055YWc3LXg3MWRBb1VDNmxUUllJSHBiMHBMRVY2cG1tQkF0OTlDczBGa19WUlVubkVYX3ZkYVFkeEc4dDdnbUlxZ2JQdlRqalFEZ2FOeVJGLXc1ZFQ4dU5Ddjk2ejZWajJOVXVHWTYxQ0hjN1ZsNklFU3J3Rk5DRlhWalp4RmNWc3Zha0Y?oc=5",
+      "published": "2026-05-12T23:55:07",
+      "date": "2026-05-12"
+    },
     {
       "source": "CTV News",
       "title": "Global EV demand rises for second month, data shows - CTV News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTVLN1E4WDIxa1dSRXFLLWhvQ1hLckdiM0oxbzVuYVJQUFRnbGdJd1FIRnlHeEtXZ3NxYW1OV1lQYzBWU0hPYm04N0ZxMXp3Z1U0NTRxOXJjRnhFWFM3Mk9xbnZHR1hwRVFBalBnYlVfenhVQnV0NG5fdjl5UDhpWEhTWlZMTzhTVHlocGVDYjFHb2NzeW9PWnp2c3Ywdw?oc=5",
       "published": "2026-05-12T23:54:05",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Kitchener Rangers could win OHL Championship tonight - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHFGUEljTElSWFNfYTIxQlo1cUtCbzFPdW5GVzlqc19vUmR4ZWZ4V2hxeWgzeFB1RzJZNUNaajIyWU1Vcmt6NTlrWkRCSnN6RmVtUEpyUDVqVXh1SWtjSmZPamIyMlozMTc3QWlCYUZaTEhid19ROE1udEFuMnBjRW1WZGtWaGxlS3h1ME9HckNLbmxZVzVvR2JJd2xkNkJPbHZnS29B?oc=5",
+      "published": "2026-05-12T23:50:54",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Paramedic recruitment still lagging - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XSU9EakRGcjRWeTJlSGhyZlkxVWxFVUdJLVcxcnJ3dzRVWm9Gc3lHYlNaUVdXS1hvVWF2dndPVkZNa3NUX0VWVGVmOWtRc2RjQ0p1MkJCV0VQTThNNWpnZjB3QlFwVW9Nd1E2Ykx0SzNsT0J5VjFzRkl6NUVPdw?oc=5",
+      "published": "2026-05-12T23:43:35",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Asian Heritage Month: 40 years of flavour and family at New Asian Village - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0xLVGtBNW05M0phSkRLUnY0WVMyN2JfQ1dPLUtXT0hHdUNDSzJoUzREOGwzYjNzc1Y4SWkwZldpQVd1aW1WSUNZNDFjZnRoV0ZlcVFaT3hmemVXakFYTjdaUUNpbmtaREpaRnJtTlNJekl0V3JRYTdjWkhBWHBfWkktX0pZOVdVOV9CbA?oc=5",
+      "published": "2026-05-12T23:36:49",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CBC",
+      "title": "Why the U.S. 'silver bullet' strategy isn't working against Iran | About That - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeGlGZHhQNEI4WFNkajhvNExsLU9iMHE4MDJxbHVlZ1NCbEFpRUZzTVN0MGVlcUZvckkyUm9vQTRxNExHbFdkdnBpQldEV21ydEwtcnl5QkY0dw?oc=5",
+      "published": "2026-05-12T23:32:49",
       "date": "2026-05-12"
     },
     {
@@ -20,16 +447,23 @@
     },
     {
       "source": "CityNews",
-      "title": "Feds invest $9.3M to support defence innovation, small business in Alberta - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGg5RzUzV2gxczZSZkhtTUc4dHBjUUFDeWd0ejZDcmIwc2RfNVVZOVZ2WHhKWmZpMmtMeVNCbFBOV1RUS2pGOWtpYlh3VW9PMGRJNlVzZDFVTEJtVjlOTC13YThhVEVpRW5WWFRCejFmX1FLYlhoR051dUVzUl9DMG9PRWQzQkdrYUFaMk4xM0k4RXlJc2daa3pNall2cE91NFNnQ0VTeUR4VFRCblo5cmRfZ3BQQWNzTlE?oc=5",
-      "published": "2026-05-12T23:27:40",
+      "title": "First Nations women demand status reform - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVk2M2JhX1hCT1QzWkxRem9sWV9vcHQ3eElzb0VwWmExT19qb2M3Q3YzNThkQTA3cTlzSDBJWlNxZ0tudWlxdm5ZQzEycG5zU0lHeVAzZ2U1Y2QySXh4TFByTXNZVHV4aHlNV3FSVzM1OE1kbV96bjdjZFQxZERCMkFKUHg5MS0zRGxGQUFSNVAtZw?oc=5",
+      "published": "2026-05-12T23:27:01",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CBC",
+      "title": "Why fine dining is doing all right and quick service is struggling - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tN3FBeG9zcW1jYzNXZThILVZpTGYxanFEWmVjQ2VJdV9HdHE0VUdPaEpiQnZfaUhwV084ZlYzUGZIM1NncVR1dU5JdWIwTE5HZk5fT3ZZTThsZw?oc=5",
+      "published": "2026-05-12T23:26:40",
       "date": "2026-05-12"
     },
     {
       "source": "CityNews",
-      "title": "First Nations women demand status reform - CityNews Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVk2M2JhX1hCT1QzWkxRem9sWV9vcHQ3eElzb0VwWmExT19qb2M3Q3YzNThkQTA3cTlzSDBJWlNxZ0tudWlxdm5ZQzEycG5zU0lHeVAzZ2U1Y2QySXh4TFByTXNZVHV4aHlNV3FSVzM1OE1kbV96bjdjZFQxZERCMkFKUHg5MS0zRGxGQUFSNVAtZw?oc=5",
-      "published": "2026-05-12T23:27:01",
+      "title": "Calgary Police issue 157 tickets in two weekends during car meet crackdown - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNG1JSmp4bGdCcVY1N2w4ZEJRY2RSazhseExkcF82cjFENHdab0FFYXM4emJWbVZTa3hjN1lkcUgzVUw5T1U3QUZiMU4xMU5nLVNvbjNtbDNPS0FoMzhaRVN4UFBmOFRQYnhVbmxGN0s0YzhhSnhDelJTa1pXUnJMeFFMcUt2YWJyakdLZWcxVlNNbzlfNndoRHZxV0ZITVUxa2Vtd0lTWEVZclE4eHBSdXN6dzE2ZkQzNHBhZg?oc=5",
+      "published": "2026-05-12T23:25:00",
       "date": "2026-05-12"
     },
     {
@@ -48,9 +482,16 @@
     },
     {
       "source": "CityNews",
-      "title": "First Nations women demand status reform - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVNuOFZCaG0ySTdmSzVsRHhaSHZLbzBBQ08tWWxWT3RMMGlPWTY0UG1FTFQyRDI5S0tZd0xpZG5KWHVrUF9KWDBDZ2lzaGp0eWItWWFCQTJWVVc4NUtpa2IxWlBFRWpmdE5zSEU3cm1QMkk5STBBMXBGcVpyQ3FKQU5lTjcwX09rTTVKUV80VQ?oc=5",
-      "published": "2026-05-12T23:15:10",
+      "title": "Tech leaders in Vancouver for web summit - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDg4VHpSRDYtMElxaEJwZGVKMFM1SHdiUUdUYjhHZ3RWUVRua3pGc3poZk1hTmxKdzFySEhtM1lwTnd4SEtZbG92eHJxbUFZSk5XSFdjTUtVaDh0NnpfeURtYzdCTEVoQjlub1hfQjU2cDFIdUpjblJzYnBpRU5LNjJ2akh0dEw4SVpQX3F6eWUxdw?oc=5",
+      "published": "2026-05-12T23:19:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Ottawa Blackjacks home opener - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHBHYWlDYWRoMExoQ28wODZZUFpzSXFnNENFWmtjSmlaY2FrY3BITkI2Qkx1N3ZvYkg5QmRscjdKNmZDa0R3eWV0WHdTc2h6d2xhRXFwVmJsZUdZMmhvOHNBUHIwdHlMRzBPMDZMa2Noa0lhUkN4RkFBVDlMR0lpenB2WQ?oc=5",
+      "published": "2026-05-12T23:17:25",
       "date": "2026-05-12"
     },
     {
@@ -58,6 +499,13 @@
       "title": "Retail stores can me open for first time on Victoria Day. - CityNews Toronto",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdUVRSTJTWW1jemRkQXJja0xJdWVGYnNTU3l2TFQ3MF96bGM5WURidGViV3NZdG9PYlJNWXkzaTBhYWdETkVZd09hOE9MdWxGVmdsR0tMSmk1U0lWcWhxakxLSXQ5N2VJRXVVSnBkM3N6bEgwd19GaTBMb19CWGdWeE44aU5HWkt4MUZuQldSZXFXRmNJRkVWSGZjUW1fVloxMEV1Wg?oc=5",
       "published": "2026-05-12T23:15:09",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Asian Heritage Month: 40 years of family and flavour at New Asian Village - Global News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVR2X2dNVXc2SVI1YkVwZDFFM2lJbTZLZnlsVnFvVy1tNWJoMXFyU3lXbnphZm9GblVZamczQmowSl9PS1lEZ0FrZ3YxTTVqLW81aHhyUTdqUkhrclV1MFFPQm94WEY2eXRKSVF1SEQ2akdQc0c2NDIyU05kMkhFSzNkMDVaNHUtOFlTdFNSVWV6N24zcWk4V1hZWjNnUTktSUpndURwU0VZbXptMUNz?oc=5",
+      "published": "2026-05-12T23:12:33",
       "date": "2026-05-12"
     },
     {
@@ -75,10 +523,31 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CBC",
-      "title": "Why the U.S. 'silver bullet' strategy isn't working against Iran | About That - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeGlGZHhQNEI4WFNkajhvNExsLU9iMHE4MDJxbHVlZ1NCbEFpRUZzTVN0MGVlcUZvckkyUm9vQTRxNExHbFdkdnBpQldEV21ydEwtcnl5QkY0dw?oc=5",
-      "published": "2026-05-12T23:00:50",
+      "source": "Global News",
+      "title": "Texas sues Netflix for alleged sale of user data - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcV8ya2JVdXBOdFppZ191ZWctMGZTQUM5WnJsWERIblo5b0ctU2YzTTRXUmhOQ1UzTVJWN3laWDI4R1BjQjNsQmFsajZEWE91aXN5NXhucnoyTkNlbDkxU0VkQlhfUV9GZFlfUVJ2THRDRG9XZHowd0dValhQMHVGd1RlMm0zMXloWE9rZzhEOA?oc=5",
+      "published": "2026-05-12T23:05:35",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Judge alone trial has begun for a boy charged with first-degree murder - Global News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXFOVlZFdHQyWVpCZzZoZ21WYUV0TS1nWWg2VHJlYWtyZGRGNDByV2o3US1oUGZkNERpTVdOZndnWVM0QXlrWWFidUpfUDl2MkNCbGFHZDNtQS0tNG1nWVhDVzZzcjIxLWhMWXA1MkRXOVNObEJRVnpJTDBvX3FaRGswQ3JRcnh2ZzdQUFpnVUd6cGFPUHo4aVFzUUs2WE9SV2g5cU1mV2prbWFO?oc=5",
+      "published": "2026-05-12T23:04:08",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Low wages don’t fly at Moose Jaw air base - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkJ6V0oxblpEX0VTa3BxM3VTdm9XQ2p3U1hMa3lzTXUwQ0xHNjk3RFhVTllpWURja2h2YWk3TktlX1lwY1lNQlNGN0ozVWs4ZHkwdGJhXzJrTFNPUk5MRUNGeGYybl9IbmpPYjZjVDlYM2VJTTFVZGJuYVY2ZEw3WlltMlI?oc=5",
+      "published": "2026-05-12T23:03:35",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "First Nations women demand status reform - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVNuOFZCaG0ySTdmSzVsRHhaSHZLbzBBQ08tWWxWT3RMMGlPWTY0UG1FTFQyRDI5S0tZd0xpZG5KWHVrUF9KWDBDZ2lzaGp0eWItWWFCQTJWVVc4NUtpa2IxWlBFRWpmdE5zSEU3cm1QMkk5STBBMXBGcVpyQ3FKQU5lTjcwX09rTTVKUV80VQ?oc=5",
+      "published": "2026-05-12T23:03:18",
       "date": "2026-05-12"
     },
     {
@@ -110,6 +579,34 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "May 12 WxBlast - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYkRTTlJTS1l1VEIyZ2d4U0pPaG1aQ1dwQ0tPQXozRXU0UktTRE9ZLUhSaXI2QlNuWF9lTVpucXVkcERxQ0lzbWFOT2lvajNVUlVaWi1zT0JQTXQ2UDBTazc4V1NzOUo2NTJyZDA1Z2pvUQ?oc=5",
+      "published": "2026-05-12T22:53:50",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Friends, strangers and neighbours gather to honour two slain Calgary children - Global News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3JfUmQ4SG5wM3J3UGJpZ3hpajVqRUdXb20zVjZMUWJ6UDdEcmNndER2Q2ptbi1wNkZTaURsZ1RobkF1QVUzdFRzNkpHUFlHa3hjUDVBQUQ5UDBkdVQtUlBENFdqV1k4S0MwOFpMYndiVk9NMW9TNmJ4eTZrR2F6bjhWakw5SlVta25pakQ0bnFqaWRJVlM2aHU0azY4THd2ZklWelJWaU5SUjlmRWxfVHprVVg?oc=5",
+      "published": "2026-05-12T22:53:11",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "Final upgrades underway with 30 days to go before Toronto hosts FIFA World Cup match - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORE9wSHNNcTRGTjNzWUI1OU9PNzF4aXdCejNENlpQU3JiZ1Ezak9EeV9IamNvaHFvdVlWWWYtTlNUVVNwVE9BQVRSTU9qTUcwcFItanZ2YkVDVjRqYTZubFZLTFJBNmZtYXFNNUswUVVDcHMtTDIzZHZKbloyN1NzNG1jWUtRUURiSVJRSm9UNWdwclJHeWVZdmNMeTN0VlVRdUg4dE9LNmZFR3AxMUZDV3BoU3RTMDFZZjB1emlEYnBFcFdiUl93TFRR?oc=5",
+      "published": "2026-05-12T22:53:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "Auditor General highlights special education shortfalls in Ontario - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3owZHJQVnVsb1kwV3hmYUVFVDJ5ZUlFLW5LUjJER3JYNnlBbTdScXE5WkpqN3pOdWwwcUtqbHMwQ1B2Tkh3SWRIT0syTFdnYlA5cHpldVlmMXE5Vy0zUW5kc0JHQlRGZHJSMVN4SjNaZTEwSl9jTE1OallTMURJZF8zR19SbGNLZmZzZG9rYjNCclJ2UXJCWGpFWnlqaEFvY2ZvVHAzcjl5TzBscjgxRGpn?oc=5",
+      "published": "2026-05-12T22:52:00",
+      "date": "2026-05-12"
+    },
+    {
       "source": "CityNews",
       "title": "First Nations women demand status reform - CityNews Winnipeg",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWRob2h3cldJdHVWUFVvNWhzc2xsMkhGTDlsalhIV2RkdlJ2dk12c3pHelMxdHJXX3pjVGNRdGtXLVZvWF92NDJObVFvN0drNGxJTEpnRzNJLTVHU3ZVcVZCZmVCQXpyVnZCc1U3S2ZLY2lGMEJjT25oNGNjbTNsbnBDTklyLVBaWWFieTVNNE4?oc=5",
@@ -118,9 +615,93 @@
     },
     {
       "source": "CTV News",
-      "title": "Granville Street Bridge closed in both directions, police say - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVVyLUVmVFA2T21OMjRhS1Y4SkhEU3djbW5YdDFPeU41YzV5bTBYUGxtaW9rajRyTFpJeUZaYnpDLXI0alROTEVDOUljLTJTekMyNU1yTFFINHd4TWdObmxtb2NmblRqS1lVaV8wSURnTnVzd3NBcm5HOWMyTFViTEdoTzJxX0dfZUF3LUhkMXQxcllXWjVaYklianlBaUNTY0F0Y3pxOHFxbGE2R0gxbllRM3U?oc=5",
-      "published": "2026-05-12T22:49:15",
+      "title": "Huron, Bruce, Grey counties exceed winter maintenance budgets by millions of dollars - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTV5aFhkcS0tZlFNanFWb25qVWtGdDFXMG04TGppZnY5NUo4STdDSHUtdjZTNkEwUXZsR0JhNzNsdTQyVWZ3TklsMWJDVGZDNklBc3Q5Z0xHRFhkd0NmRnc0T3lERXRCUDJxa0lTU2NOM2ZPN3dEc2ZUaWhtT0xmdTJfOU1kZmk0LTNidV8yM2RISHdsOU00am9JVTU4azdoV25fNnNDeXFQaUhYdGFlZTktd1RudnpEY2VXb2R3U2hIaE1FeHk3ck53?oc=5",
+      "published": "2026-05-12T22:45:38",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "Commercial trucker training and licensing problematic in Ontario: Auditor General - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1Q3Rmc2U3M3clhQR0lXSDl1SUVpR0dYRmZ4X3YzY3Z3cUdQYWVUZ0NqQ2lDSzNuVXY3cTBSS085TnhYakN4YVR0d000dFluWG9KbGpzNThUaDcwMVJJVlRsMTV2MmhTMmNrMVZMcnloclo2OGp4SkFCWnVjSTdmWFJNREpncjVNNGZIRGt1bWJ1c21xdGR5cE9nS3BnaTg0Wm54VktrOWJoVW1tdml2N0l6UGFZV3FkbGx6b2pqTWRxQXM?oc=5",
+      "published": "2026-05-12T22:45:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "Commercial trucker training and licensing problematic in Ontario: Auditor General - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTRVeXNSN3ktbUZmN0JhT1VhMGt6SkFwZnJmTVlKR0VxLTNJY1hHLXRMZXVDcktzb0h4dUM3NTNyS1JmUFpTNURQbkgxM05fcExVNnVRaWp0WHFiQUx1S2VrTi0tOTNYdTQ1bjc2QktQbjVWdFVLdjdjbzh3STY0MmUzM1BWQS15QnRiaGNrVTJKQXlPMFVaNWpUQ1JjcnpFQWE0ZHR3bDBVVE4xdTFLazBpeFp2U3h1empjQjc0ZG9jRmpi?oc=5",
+      "published": "2026-05-12T22:45:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "More job losses possible at TVA ‘if nothing changes,’ says PKP - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnV3ZjZJblA2TEZVdG0ybklRVzRDd2pkUnNPVWxWaUpfaWhvYWJJRlZnbEZ3aFJQVGs2b0JyWFRPZHNNOW9UTlFNWVBTMmlrSEpDUmNMZEJWS01MT0hDUWE5aFZ6dmxBZXNJRVlLbXdRSUtVWlVvQkxwblB0LUpSVk9sSTZRUXdGTlo4d2IxbnlYbm1rTzUtU3pINGg5TktCVlpsT3BkcUdLY2FsQkE?oc=5",
+      "published": "2026-05-12T22:41:47",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "New clinic for women's health coming to Le Quartier Dix-30 in Brossard - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2dHZTkyUzdHOU9NTEFEUG15d2VGRmtqaHI4Z0lBVFFxVHhOXzdRenR5VlhFVkRhLU9MenVsR0RScUg5OUo0Sm1SSVBTN281OTktdVJEbmNjT2tKSWZIWDNsQkotdHRHdUVzYlRfVGpfQTFKczYxdG93UXZWMUwwcC1laFZmSUs3dkVlekZZNTlnZGdNb3EyWmdPalhUVTNqSzVZdkNMVXVyN3V2ZlhpakVPMU9fak9OVWNz?oc=5",
+      "published": "2026-05-12T22:40:07",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Video of execution-style shooting shown at trial for teen charged with 1st-degree murder - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHJBU05EaDVSSHV5emZjMTRDOEV6alZjYllHc2R0aEhQZGx4VGhxNjl6d0dOLWszZzB3QWQtQnUtNWJqdHZjRFRpa09nSGJLTkw0UEx1WWV6dGtaOG1GSU1TWUN6TnRYS1V1d2V5SWhIY1Zma2txZTlSYmJUSlJwMTRNUzJxdkpvancxNQ?oc=5",
+      "published": "2026-05-12T22:40:06",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "New report finds almost half of employed Albertans say AI has had an impact on career - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUx5N2JGRDJ6YndSQ0dZUEpvWmJJU2x3NGI3QXczUlZXRkN2WlpiSG9IZXlGX0I4TkJhRFp5ZnhNM0hyMkpwczFlWGhXdVFYZFh4RVh2bGpXdnVRdFl0UTF0M1VEdGlnM2pheFk0X29pRG9idFE4ZXNpQ3RKc0Nrc2NmbmFYd1JzaFBISFY2UkNNZGFVWjlpTjRoSnpjWlZXUjJ2QWFlLXBIZjlxWFczUlc4NktEWGsyamZKd3pIOHdVY2dMQnhsNnJYbw?oc=5",
+      "published": "2026-05-12T22:39:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "Calgarians share laughs, concerns and last-minute rush over 2026 Census - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSk5oOWFaajlPRmIwU2UxSlJsZ2tPRFlqczlLaE9iMTljaS1rcHpHV3FLb1hrUWo5X2Nka1AwdlAyQ1RUZHpBQ2dEZ3h5bWdqNlJuWWlic3Z2bllJMnJEcmdtdjdBMWx3TlpDTGRhRlUwWk84RmZIYmNYMU9sQ0ZfUUczUGpxa2d4MGV5UWZCZzNucDFweUR3ZnhlT2JfRWM2YTRXWDBlVkFCd1BqSVFGNy1HZlFhY1U?oc=5",
+      "published": "2026-05-12T22:35:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "44 % of rental ads in March allowed pets: Leger poll - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUm04U3gzZGhQREgzeXBoUlVLVVYwaF9RZUhQMFNIM09DcnZjS00wbnl4OFowNXc5aVJ3YXhPSTM0U3l4ZHhXWDkwSTFfX1RDS09zTS1ZOWpZNlJkNXIxZjNKMUhhcXVkcE1MeVNxRkRBZlJZRFlIcHpBclMxUF9xa3dSdGZwNW12Nk4tUTE5X0xQdklSYV9GVWRiNGxnZ2c5?oc=5",
+      "published": "2026-05-12T22:33:42",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Ottawa Charge await opponent in Walter Cup Finals - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHFjc0ZiV0x3WjFDVUZBVU4yRW8taUVhcHRnZHduNEhmcTBpbzVzNGlPc3MySGpiRzZFWDBGYmkyZ1lBTG5tZ1pGOWFyOVRYd0s0a1VocjA2em1WSmlsX1dHTW5uaVpxWEoyekxVRHBnY0t3VnhjVXEwNzVmVjdMUkNzWGNVeDVqcGVtMTd3SmRSSXJ4RDNlbElMRDU5dw?oc=5",
+      "published": "2026-05-12T22:31:48",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Ottawa mayor makes case for defence bank headquarters - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMElUajVWNHE0dDB2U3dwQURqd280bUR5ajAySFVHdzZZSHpZQkJvXzBpX1pOSGx3aFVKeDZOc1N3MzdPc3Ria1RHMHNDSjNuM3ZVQkV3dUUtVGVRb18zNHpWYThlOHk5M1k2YnByUWVkZDU0bi0wSGtabk9jc0tVeFhLMXg0bjI1aWhUcnh6QWhhck04TmR3WFpsUXVOLXlsOEx3?oc=5",
+      "published": "2026-05-12T22:31:11",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Ottawa police audit raises concerns over oversight, accountability - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWxaZnFVd19nQ3ZKcVFyWHVCZXR6amFHbXNCQy1LU191LXF5bWdoMWd6MVRUaWFBSXpEc0ZqSU96bzFQdjJ3R055SlhPeHMxYjRHQmM5UDQ4VHVJcmNKMHJtWmhDSDYwY2Uza0xESXVjQmhURjExN2luby1oMkhmamJwZmJBbldHWVd0OHcwYTQxN1Z2bUtFSUZFOHYxYkZoNXRzUHRaV3hKME1EakNuZngzWQ?oc=5",
+      "published": "2026-05-12T22:31:10",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "OC Transpo unveils 10-point plan to improve transit - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWU0SWZtSk8xOU16VTNobzcxNUszRkpLV25BdThtUm1rbkhDYUs2YklCbHUzZFVxRTFQLUJJT3NReEc4T3lNQncxNVlrOEdPaDJWRndkTTc4dWRRWENsRXhjRDI1YlBJaGdnMDJaWDh2UTZ1WjdQVFdTdW9mNzRlTXJXVHB4eW42TFhieW1mQ1VSOGgxMFdlQ3l3QkFkZUFf?oc=5",
+      "published": "2026-05-12T22:30:30",
       "date": "2026-05-12"
     },
     {
@@ -131,52 +712,59 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Tech leaders in Vancouver for web summit - CityNews Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDg4VHpSRDYtMElxaEJwZGVKMFM1SHdiUUdUYjhHZ3RWUVRua3pGc3poZk1hTmxKdzFySEhtM1lwTnd4SEtZbG92eHJxbUFZSk5XSFdjTUtVaDh0NnpfeURtYzdCTEVoQjlub1hfQjU2cDFIdUpjblJzYnBpRU5LNjJ2akh0dEw4SVpQX3F6eWUxdw?oc=5",
-      "published": "2026-05-12T22:28:54",
+      "source": "CTV News",
+      "title": "CTV National News: Sask. teen gears up for a summer of storm chasing - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckY2bDExLVVjSmxfTEMyN1JsNzh3WnlPOE11ZEtoNWpNN0NBRXJPekd5SDdUTkNBdkdTWEpCdWMxdEs2MVN5c2t1dUNzeDg2Q2ZRRnI2RWxmbWRIUFFhbDU4aDhrVy01MmRZZm5lSWlob0dkaUZUT0tuYnZzWjNCZ1pZbXppV1hSUTZWMEhIX0lMVkhXR3pseG94LXNWaXJwUXJMYnpqSlAtajg?oc=5",
+      "published": "2026-05-12T22:29:27",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Loose ends still need sorting in Toronto with 30 days until FIFA World Cup - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTVyTWlHblZYRzVQQnZPOHd3UFJGY2NTNTZTSmE4X2hjaGVxeDZTRmN5UlVtVHVfb0tDd0dTMi1ZcmRkVTN3MmhHRnBuaGEzOWozMHVrVTU4Nm1QNHdYRUh6cTgzaFNFZVlyMjlNTVVBLUV6cTdxTGNBUmJSMnhvZDVkZkdMWXdVa2ViblZmWjR0OHRyNXplUVAwVmNON0xqNkR1VHJrbHRpVjBMMVpCMVhR?oc=5",
+      "published": "2026-05-12T22:22:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Calgary police say one victim of Monday shooting was an innocent bystander - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXlXZGxKaUVDbXBBWTA4aS1iSUswT2doc2tRUXF6Mm9MTEVISzgtOFNlTmhudG00eks0a0o0LUFkcTE0ZGt6X215UGkxZHpUNVVJTnMwZnMwenRYc3BybHZGRC1CdWJrYmcwdm9DRElYclNhMVF0Q1MwTmVCTVZSR08yTEV6TjFJVk1YQlFOVVA?oc=5",
+      "published": "2026-05-12T22:20:47",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Two people face drug-related charges following a crash in Springwater Sunday - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDIzSkxLWE0zWWVIbEVhWDhBMlhBNENlT2IwYTF2OFcwVXJIcHMtU3lKWmFEYWFBZk9LVXVIY1pwczl3MDItWFJDZWhjeXpVbm9jdXVJQkphQk1sNVRqSnpzRkprandOV21laXNLOWdQNVl0ZnByOU9UcFhQLXhnanR4LWo2VXg0Q0xMUEN3Z2xMNGNmRjdfSVlTX2h5LXFIU2hRSVpNeVJGc1FFUnN3Unl1d3pINlVaeHlnakw2dWptdw?oc=5",
+      "published": "2026-05-12T22:16:55",
       "date": "2026-05-12"
     },
     {
       "source": "CityNews",
-      "title": "Calgary Police issue 157 tickets in two weekends during car meet crackdown - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNG1JSmp4bGdCcVY1N2w4ZEJRY2RSazhseExkcF82cjFENHdab0FFYXM4emJWbVZTa3hjN1lkcUgzVUw5T1U3QUZiMU4xMU5nLVNvbjNtbDNPS0FoMzhaRVN4UFBmOFRQYnhVbmxGN0s0YzhhSnhDelJTa1pXUnJMeFFMcUt2YWJyakdLZWcxVlNNbzlfNndoRHZxV0ZITVUxa2Vtd0lTWEVZclE4eHBSdXN6dzE2ZkQzNHBhZg?oc=5",
-      "published": "2026-05-12T22:27:40",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CBC",
-      "title": "FBI Director Kash Patel clashes with senator over report of his excessive drinking - CBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVk0eGdVVDB3ZUR1b3hMZ3h0OG5IV3hUNFZJbDRnNWk2bVlQNFJUMW5mdzNxUFpaRG5uS2R5WVlhSE1hLTFMUFJCQjRjNWIzUnJCcVVDaldDeUgwMV9WRXRIMXNJZTNsc3hhODBkc3pwV3ROTWgzNzBRb2VUNFVuQzhwNjNpQQ?oc=5",
-      "published": "2026-05-12T22:27:27",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "4 Brilliant Chip Stocks to Capitalize on the Artificial Intelligence (AI) Build-Out - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbU1JamJoQjhRbVFLUGplYzZEX2JlV2tZbWZtVnBBV0otcXN0QzdySUw4eTdxWGl5ZHByTENFcVFDQlFCV0k5RGZ0X2VvNERCa2ctQU5kRXB5aHhzZXBkT29XSThqS1J3R25GNmFfOFRpM3FGSHJwUXhvN2JkX1ZWTmYxcW4weGxKcFBST1RxTTZMRTllQjFtUVVEVVd1NDdaRnpMZm9uQXl6aXpqaFh2dElsTVpKZHlWYnUxTzRUSUVwYnhyTU14SS1uYkFVeVp5RmlrOWFIZjJobE9odnFuU0pBVmFnN1RMZGpmcjNUMl9DRmRVVkVYQmd1aw?oc=5",
-      "published": "2026-05-12T22:17:39",
+      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkNwaGlyRDRlWk9MVGxFQm9Hel9vZ2ZEX2ZtYXo2OVd6ck11WEVqR0VXampaUjFOTV9JMzE0Z2w5Y3hIN2NpXzl2dlNWcEJkT1JzSkMyR2dqMm51c0JSWUNiaXAycGwtYzV4bG9LWEVjWlo0cXdOQm1PUTVEWnpBSl8wTWR6SmNOeWFHWDBFNkxuamlkcjVv?oc=5",
+      "published": "2026-05-12T22:06:00",
       "date": "2026-05-12"
     },
     {
       "source": "CityNews",
-      "title": "Commercial trucker training and licensing problematic in Ontario: Auditor General - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTRVeXNSN3ktbUZmN0JhT1VhMGt6SkFwZnJmTVlKR0VxLTNJY1hHLXRMZXVDcktzb0h4dUM3NTNyS1JmUFpTNURQbkgxM05fcExVNnVRaWp0WHFiQUx1S2VrTi0tOTNYdTQ1bjc2QktQbjVWdFVLdjdjbzh3STY0MmUzM1BWQS15QnRiaGNrVTJKQXlPMFVaNWpUQ1JjcnpFQWE0ZHR3bDBVVE4xdTFLazBpeFp2U3h1empjQjc0ZG9jRmpi?oc=5",
-      "published": "2026-05-12T22:16:38",
+      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Edmonton",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGUxSlNOLVZuV3htQzJrZFV1Z3dicXFab0lKT1A4WlhQc2JwU0hza2VUdkM5aFZqdEl1MEM5ZWdvWGdudnNnd0o5SGtMUHBibVVIdGdSWGpuMkhEdVFuTjQyM1JxaWxNVFc4ZWtlS0pOSUw5bFJ4OFhYWjFxcjhwY0wtekxpcXduZFZYWEtYRmpTYVRtdHdfaGhn?oc=5",
+      "published": "2026-05-12T22:06:00",
       "date": "2026-05-12"
     },
     {
       "source": "CityNews",
-      "title": "Auditor General highlights special education shortfalls in Ontario - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3owZHJQVnVsb1kwV3hmYUVFVDJ5ZUlFLW5LUjJER3JYNnlBbTdScXE5WkpqN3pOdWwwcUtqbHMwQ1B2Tkh3SWRIT0syTFdnYlA5cHpldVlmMXE5Vy0zUW5kc0JHQlRGZHJSMVN4SjNaZTEwSl9jTE1OallTMURJZF8zR19SbGNLZmZzZG9rYjNCclJ2UXJCWGpFWnlqaEFvY2ZvVHAzcjl5TzBscjgxRGpn?oc=5",
-      "published": "2026-05-12T22:16:38",
+      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjJnbnlRQWV1MmxwOGhVM2lEVndzcGMzdGZDNmMxU2c0LWdFUWw2N3pWRTh3QVZGVjBIbzctaUZlVFVnLVo1X1QtcFcwendWLW1HREJUVzg4ZlQxdmRRS3ptTnB0Qzg3Ul94ZEJqcWVKUG9USmxRemZfQzVIMXpyZzFhOXNFdHV5eWRqdGMzYVEwU25TbGxlRA?oc=5",
+      "published": "2026-05-12T22:06:00",
       "date": "2026-05-12"
     },
     {
       "source": "CityNews",
-      "title": "Final upgrades underway with 30 days to go before Toronto hosts FIFA World Cup match - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORE9wSHNNcTRGTjNzWUI1OU9PNzF4aXdCejNENlpQU3JiZ1Ezak9EeV9IamNvaHFvdVlWWWYtTlNUVVNwVE9BQVRSTU9qTUcwcFItanZ2YkVDVjRqYTZubFZLTFJBNmZtYXFNNUswUVVDcHMtTDIzZHZKbloyN1NzNG1jWUtRUURiSVJRSm9UNWdwclJHeWVZdmNMeTN0VlVRdUg4dE9LNmZFR3AxMUZDV3BoU3RTMDFZZjB1emlEYnBFcFdiUl93TFRR?oc=5",
-      "published": "2026-05-12T22:16:38",
+      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeE1BUHhFdEk4SVVEVXdjSlFRVVhrVk00UDg4YzVEVTA3bnJFVmRKMTd4b2NwaGd4aHlYT1gzcXhBeHIxSnpzNkZjb2RrbXRpMWM0RGlqZWozeUdxOTdwMXZBVW1NejJnX0c4bnJ4NHlhMjZ2ZXN5bENwSXdjRFZaa3NVSGVGcEt6dkd0TWNNbTdqRENuZ2IwSw?oc=5",
+      "published": "2026-05-12T22:06:00",
       "date": "2026-05-12"
     },
     {
@@ -202,37 +790,65 @@
     },
     {
       "source": "CTV News",
+      "title": "CTV National News: Dunkin Donuts to return to Canada and go head-to-head with Tim Hortons - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnplUlNPTTZwSFNDOUJadmtwTjFyWk93MEcxdGFBSnp5c0xSVzVybVhKRG1RRFBlTWg0OGlnWUd6eWZLb2laOFFqX1pGYUR5cElNRzZiMDFwcG5xUUxQeHhRdUY5TDR1UGhmOHptWlQ4LUN6VkxUTlVZVFc2YXVhWGlQUWxTNVRDek9nRXg5dU1tSDhEQU9oTXpCemlzb0labUFjbEVRSkdiaEx4dE9XTG4yUUt3SEcyc0ZKVG9CdXJEZVIzdDYwVg?oc=5",
+      "published": "2026-05-12T22:00:14",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "These are the worst roads in Quebec, as voted by drivers - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanF5SU94VUlicDBON25rSm51dmZNbHA5aEtERXB5SnowVE5mVGt1dm5HWUtQdlNGZ1ViQnJrdHRUaTcxSnhvZklrR210SHEtLUVnVDVvam5QeUtxcUxUV0RTWDE1RnNOLURxajdjUzF0Q1lrRzFBWmxmREhHUk1qdU5BWExQUkpWN2stbEJ1ZEZXZkxVQWo2RTJwNXpmV0FLVUNLLTE3WFo?oc=5",
+      "published": "2026-05-12T22:00:14",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Halifax councillor hopeful Ottawa will chip in with the Forum - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEZVTnQ2aTFwMUxpUUpiR0dISHlSWDctcXZTQzE5d3MwZ2JTNm1HcjYwUlMxNUZ2OEczU3hHZWFwWU10bThyOXAxRjVjUEtHcTd1Ql9GYUJPRVgxUG5pVFY3akVTUXpsaDZQTTFxREsxbnBDN2psTXdYSllISjg2Q2hSaFdFc1ZHeUhqSUlWZ1JFeTFpRXl2TW9PSEQ1MTh1ZXRjQ0NLbEdGOEtKQjRIaA?oc=5",
+      "published": "2026-05-12T21:59:03",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "CTV National News: Four Canadian cities in the race to host Canada’s new defence bank - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWF9CaG5EZ3hwYkU1ZkxlaktNd2lMWTl4ai1QRnY1RUJsUmwyZnNHelJTQUZ5eEtPd1FXT1VZSkRmeTNHbno4NGFaYUhIY3R3TjBXRktVSDhjclBtZk5reHdoUHYtTVZFUHh1UmhzWWx2V3NVNEZhbVJUX2tybDNpU1Q2YUtQM1kwU0ZTU2d2QTF4SkFpMmNOQUtCb0NzY2tDM01pYUdIOGM0UF9tWEdwS1lEOVExT3JaRlhMRks5QlFDUQ?oc=5",
+      "published": "2026-05-12T21:57:58",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "4 Brilliant Chip Stocks to Capitalize on the Artificial Intelligence (AI) Build-Out - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN1RKUGVRODJhLVpBMnlFbUdUUkdieW1vZk9oT21jUGlCYnFCYWpmdkpzOFlXT3VURXlubUxRYjlURkJZR2lYR1pfbUlPTU1SakJDN3AtSXBQRmVTemhQdlI1U3Z3dmlnTjd1cUlTcTRiWjIxb0VRcWRSMzhLUnpJaGFDRGtEYVFpenZfRHdGdy14M2o1THpFYzVVT0VOdVEzTGZkNi1hWTA4YW93WVNMbUM3Z2NkYzhnOF81WkxUeXFxRUVGTVB3UzRIeHpXWkhCVUljb2NaWWxucThQX0E3V1hseHNNY0QwejR6NFp0bTdKeXZLTUc2YVFUQzA?oc=5",
+      "published": "2026-05-12T21:57:03",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
       "title": "CTV National News: Trump to meet with China’s President Xi as war in Iran lingers on - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHh5R2kxWUloaVhkWUZER0UyQlpKWmNGWUZvb2xVU1ZScGVBZHV1UXo5eTVfTHhidTN6NTZJaHlTTGRTdlRkRkp4aTgxZk10YU9iZU1FRW9RaG1pQVhnZkVjc3UzMVpGOWJEVnVjSGlUY1NoM2hTc0xkTVF0Z2lVOTRHM1NEdWM0UnlsSmlqZ0VmMnBZd09vMXhHUEhNbW4yaDZRX1kzWlBLSWhOWV9oeEhValpJdXJuX3B2cFdwdks?oc=5",
       "published": "2026-05-12T21:56:59",
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Montreal West Island to receive four new REM stations - CityNews Montreal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckxKRGwwT0tTVldIS2ZXNXJIT1ZBQko4R2ZRazFVWjMtRk5lZVA3WUh4ek9UaVdoYzQwdHh1cTlqRDZPSFZxWlNGRkFDVU5nSm0xamRHZnV2eW45OURLcHRGMWtfNm92MG12Y1RmM1EySVdPZGFlT1lPWElwRi0yRm9EZW9LUlVxNThIV2U4WnhCSXYwRVhncmVCSzZKMlFVaEE?oc=5",
-      "published": "2026-05-12T21:52:45",
+      "source": "Global News",
+      "title": "CAA Quebec’s Worst Roads report shows 26% increase in flat tire repairs - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHJ4bmVRQ0FBWWJ2TjJ4Z1lWLXkyQ25QQktxZnZnYmw0em9MNUg2SkhzejJNRVJLMV85bTNCVHNISGJaYXlsNUdYaHdKN0xwSGh3bGRHblVmS0cxcktkVVY2eHc5WFM3cEVadTF2ZHNlZzhuSktBMmQyc1pHN0pCNFd3YzdtOVgtcDRKRVpDblJoRnBaVzFMU1FzUWlTRVRFVEVlLVlGNVpGWkU?oc=5",
+      "published": "2026-05-12T21:54:01",
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Commercial trucker training and licensing problematic in Ontario: Auditor General - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1Q3Rmc2U3M3clhQR0lXSDl1SUVpR0dYRmZ4X3YzY3Z3cUdQYWVUZ0NqQ2lDSzNuVXY3cTBSS085TnhYakN4YVR0d000dFluWG9KbGpzNThUaDcwMVJJVlRsMTV2MmhTMmNrMVZMcnloclo2OGp4SkFCWnVjSTdmWFJNREpncjVNNGZIRGt1bWJ1c21xdGR5cE9nS3BnaTg0Wm54VktrOWJoVW1tdml2N0l6UGFZV3FkbGx6b2pqTWRxQXM?oc=5",
-      "published": "2026-05-12T21:51:34",
+      "source": "Global News",
+      "title": "Charges laid after Saskatchewan teen found injured, locked in motel: RCMP - Global News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlpQSjZTbTh3XzdXQ3NObmo1ZnFIVmM4eWQ0cWM3bHozSGJ1MW1xWDRMRjJVYm8xWFJiWWFsQ3EyYndIamFVLXphczVrUVFxSnlXYkdmQUlQTVU5T3ZwaF9wODN2TDBCZnE5YmpjcTB2Um1DekdRNWZtOS0wdjdHWnpWUzNHZkxRWnd0NEZTYTkySUJQMFVEdTlwaXBadw?oc=5",
+      "published": "2026-05-12T21:44:00",
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Calgarians share laughs, concerns and last-minute rush over 2026 Census - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSk5oOWFaajlPRmIwU2UxSlJsZ2tPRFlqczlLaE9iMTljaS1rcHpHV3FLb1hrUWo5X2Nka1AwdlAyQ1RUZHpBQ2dEZ3h5bWdqNlJuWWlic3Z2bllJMnJEcmdtdjdBMWx3TlpDTGRhRlUwWk84RmZIYmNYMU9sQ0ZfUUczUGpxa2d4MGV5UWZCZzNucDFweUR3ZnhlT2JfRWM2YTRXWDBlVkFCd1BqSVFGNy1HZlFhY1U?oc=5",
-      "published": "2026-05-12T21:41:38",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "New report finds almost half of employed Albertans say AI has had an impact on career - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUx5N2JGRDJ6YndSQ0dZUEpvWmJJU2x3NGI3QXczUlZXRkN2WlpiSG9IZXlGX0I4TkJhRFp5ZnhNM0hyMkpwczFlWGhXdVFYZFh4RVh2bGpXdnVRdFl0UTF0M1VEdGlnM2pheFk0X29pRG9idFE4ZXNpQ3RKc0Nrc2NmbmFYd1JzaFBISFY2UkNNZGFVWjlpTjRoSnpjWlZXUjJ2QWFlLXBIZjlxWFczUlc4NktEWGsyamZKd3pIOHdVY2dMQnhsNnJYbw?oc=5",
-      "published": "2026-05-12T21:41:32",
+      "source": "CTV News",
+      "title": "Final Five: Mars rover rocked by problem and Dunkin’ Donuts is returning to Canada - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGhVc25STzV4TmY2c3lxQXBnNHRjQ1UwYmZrNjV5OVBfdjRyRFVoNW1ZcEJvSWtDdTFxMjllb0JCNVA5WEFfakQyWjB5ZW0ybEhtbmRxckVYc1BFdVh5elJ4ZE9BRmRmSElaUFRWNkRCQmVCaDhVdGlBdkNueTc4YVpTVDE2MDFfYTdjTVU0MjJSaFlXeUZTaFVFZHpqRjJvekp1WDZ6MkdheEtDSnNNTEkwZ29VVTdOeDhNSlp5Yl9jcy00cGVBeVZ1aw?oc=5",
+      "published": "2026-05-12T21:35:39",
       "date": "2026-05-12"
     },
     {
@@ -244,16 +860,16 @@
     },
     {
       "source": "CityNews",
-      "title": "Brazil says the EU has moved to block its animal product exports starting from September - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHF0VFV5SzQ2TF9TUS1SNlpmLXJnY0U2VWM3RDA0dnVwb25YTEVqMWV1WVg3cGtKYU9sQ19pWVBUX1JRMTBkd2xHSlpTMnNuVkIzSWRucmNzN2N3WkQzUUk1dFRwTjNGTGprcTNvRTZVelA3ajNudzJ3Y2oxWEt4dE1VT21DVklkMEZMRzJUTkQxQkZzWElkSUZnak1MV0FIcFBxdHg3OGRfbDhEYWk5eUU5R2NjUUZUUV9RRTlpZWxJWldLVmhJ?oc=5",
-      "published": "2026-05-12T21:26:52",
+      "title": "Montreal West Island to receive four new REM stations - CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckxKRGwwT0tTVldIS2ZXNXJIT1ZBQko4R2ZRazFVWjMtRk5lZVA3WUh4ek9UaVdoYzQwdHh1cTlqRDZPSFZxWlNGRkFDVU5nSm0xamRHZnV2eW45OURLcHRGMWtfNm92MG12Y1RmM1EySVdPZGFlT1lPWElwRi0yRm9EZW9LUlVxNThIV2U4WnhCSXYwRVhncmVCSzZKMlFVaEE?oc=5",
+      "published": "2026-05-12T21:32:04",
       "date": "2026-05-12"
     },
     {
       "source": "CityNews",
-      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeE1BUHhFdEk4SVVEVXdjSlFRVVhrVk00UDg4YzVEVTA3bnJFVmRKMTd4b2NwaGd4aHlYT1gzcXhBeHIxSnpzNkZjb2RrbXRpMWM0RGlqZWozeUdxOTdwMXZBVW1NejJnX0c4bnJ4NHlhMjZ2ZXN5bENwSXdjRFZaa3NVSGVGcEt6dkd0TWNNbTdqRENuZ2IwSw?oc=5",
-      "published": "2026-05-12T21:24:02",
+      "title": "Brazil says the EU has moved to block its animal product exports starting from September - CityNews Halifax",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHF0VFV5SzQ2TF9TUS1SNlpmLXJnY0U2VWM3RDA0dnVwb25YTEVqMWV1WVg3cGtKYU9sQ19pWVBUX1JRMTBkd2xHSlpTMnNuVkIzSWRucmNzN2N3WkQzUUk1dFRwTjNGTGprcTNvRTZVelA3ajNudzJ3Y2oxWEt4dE1VT21DVklkMEZMRzJUTkQxQkZzWElkSUZnak1MV0FIcFBxdHg3OGRfbDhEYWk5eUU5R2NjUUZUUV9RRTlpZWxJWldLVmhJ?oc=5",
+      "published": "2026-05-12T21:26:52",
       "date": "2026-05-12"
     },
     {
@@ -264,10 +880,17 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkNwaGlyRDRlWk9MVGxFQm9Hel9vZ2ZEX2ZtYXo2OVd6ck11WEVqR0VXampaUjFOTV9JMzE0Z2w5Y3hIN2NpXzl2dlNWcEJkT1JzSkMyR2dqMm51c0JSWUNiaXAycGwtYzV4bG9LWEVjWlo0cXdOQm1PUTVEWnpBSl8wTWR6SmNOeWFHWDBFNkxuamlkcjVv?oc=5",
-      "published": "2026-05-12T21:21:23",
+      "source": "CBC",
+      "title": "FBI Director Kash Patel clashes with senator over report of his excessive drinking - CBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVk0eGdVVDB3ZUR1b3hMZ3h0OG5IV3hUNFZJbDRnNWk2bVlQNFJUMW5mdzNxUFpaRG5uS2R5WVlhSE1hLTFMUFJCQjRjNWIzUnJCcVVDaldDeUgwMV9WRXRIMXNJZTNsc3hhODBkc3pwV3ROTWgzNzBRb2VUNFVuQzhwNjNpQQ?oc=5",
+      "published": "2026-05-12T21:23:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Canadore College closing West Parry Sound campus - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2hvamRDNlh1UV9WTU1jZTNEOWR3bWUzTW9jLV9fVEltZlhqWHVKRWp3Y1FPY1E5alBEV2lWVUtReFp5UTI3RTJQQVcydy1GSWc2b1pUQlVqa1RQN1NkUWRsNE5va0tHekFFNFpfVG4tMkJRZmVBQkd0SF84cDd6eE5hMjVQZ2h0dlZKRUtUYU1VS1FaQ3Y4MnRmZXc2NFloYTI5ZVdYV1ZMQQ?oc=5",
+      "published": "2026-05-12T21:17:00",
       "date": "2026-05-12"
     },
     {
@@ -278,17 +901,10 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Edmonton",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGUxSlNOLVZuV3htQzJrZFV1Z3dicXFab0lKT1A4WlhQc2JwU0hza2VUdkM5aFZqdEl1MEM5ZWdvWGdudnNnd0o5SGtMUHBibVVIdGdSWGpuMkhEdVFuTjQyM1JxaWxNVFc4ZWtlS0pOSUw5bFJ4OFhYWjFxcjhwY0wtekxpcXduZFZYWEtYRmpTYVRtdHdfaGhn?oc=5",
-      "published": "2026-05-12T21:11:42",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "Trump’s China Trip Overshadowed by Iran Conflict - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjJnbnlRQWV1MmxwOGhVM2lEVndzcGMzdGZDNmMxU2c0LWdFUWw2N3pWRTh3QVZGVjBIbzctaUZlVFVnLVo1X1QtcFcwendWLW1HREJUVzg4ZlQxdmRRS3ptTnB0Qzg3Ul94ZEJqcWVKUG9USmxRemZfQzVIMXpyZzFhOXNFdHV5eWRqdGMzYVEwU25TbGxlRA?oc=5",
-      "published": "2026-05-12T21:11:12",
+      "source": "Global News",
+      "title": "1 man arrested in Ontario murder investigation, 2 charged may still be hiding in B.C. - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSExHSnUzb3Z5Vk5xWW12UE04MkNDRlBqS29hc1ZRRFRuU2k0SHNnV1ZkSUdxdThJbXpkcUFhSVBGUXd0ZUtmTWpGNTd5bzY2LVotV2pwcE1kMlBpbTByb3R6WU10ZHFFUjdzM0U2R2RheHI5ZWZnUnE3VlVGdU50TEVhbkk0eDVDSGg2NVFaaHY?oc=5",
+      "published": "2026-05-12T21:14:01",
       "date": "2026-05-12"
     },
     {
@@ -306,6 +922,34 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "New treatment centre for first responders and veterans opens in Nova Scotia - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFV3UXR1RlV6UlAwRm5ZNzBFMnhJV0szekgxZGsyLTdlY1hIRGgzTGFfTEh0Yjc5cGV2cTVxQ09EYnlsaEZtd0ZxYnRyRUVhUGdOaEF3TEp2ZFBfWURNRzFXSVFidmhRaEdLd3B5Y1NWeUlTZVlNSTJYNUVuRjBKX1JuZUkyd05aVTdyNVBfM29iamxuTDdGV1dFWDZ4aE9WbGF5bWFNOUxEVHZIMVl1d3RWaw?oc=5",
+      "published": "2026-05-12T20:53:56",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "New Brunswick schools hold mock municipal elections to teach students the importance of voting - Global News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0lhSnJMa3lUZXZtLTdPeVV5RnUyNHNpdWk2NnViU25IYS1HLVFaa2tXb2FYdHhuUkZsbE55TWd0LXJKWV91U1pqOXgxWExuUHRmeDU2OVVtTDJxT3FGM3lIQ2VZdEpjczF2dHNyd29LNEVxd2pZc1FzaEJKZmk5MUhmN29hSU5mNEtHNFY3bzVMZmZZMmdoY2p1WU50clZMVzdrMi1PZ3ZnRm5aZWtmRUtwaUpMa3dzRHlOQXNGaFlBRkJXOXd0S0xsVlE?oc=5",
+      "published": "2026-05-12T20:52:05",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "New Brunswick municipal election sees leadership changes in major cities - Global News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc096dTlVcmNDaEMtSzZkTnNScHhtY05IbGpFSlVKbVVwQWt0dUdxV1VjNUt0NHVDaHVqMWstRmhMbHhSQkVNU1ZxR1cwUER4ZlJ4X2JTck1jd0xVU2lWLTFUSWJQb3RZR2dEalJBZ3VjY3prRGg3WVJUS3A0VzhQY04tcmNxb0xRZXAyemMyN3RqR3RISHE4Y1J6YVppa0hKR092M3hKWWd3R3JRZ2hZ?oc=5",
+      "published": "2026-05-12T20:50:35",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Marking Manitoba Day - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcUF1WjN2b2FjeWk1ejlWN1h2bEtGZ0N3Y1drNnNPV09YV19UNS1JX0lTSFdKYnUzMVpNYWxmcTlibG04YnFfX0xCUE4zUTc0Sm4taVF6bmFsbnBmemtxRl9xSU9pci02Q3c?oc=5",
+      "published": "2026-05-12T20:50:00",
+      "date": "2026-05-12"
+    },
+    {
       "source": "CTV News",
       "title": "Public deserves answers on Canada-China policing agreement, New Democrat MP says - CTV News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckZvSGt4U1NsWDl3SEV5OXJlaGRIUjI1amtiTmxFekJZUlVycE45bGhKM2tlM1R6cmg5RGloSDJVWmpwMXZRYWdBQTM2VHdyZmpfaHNvX2liRFkwZUUyb0U1RDN6QW1TV2ZrLUVNODRTN1hkU3RTVEx6QnctTjBISlFPZktybnRsOGtMTnpxVmFST1ZmTXU3MTdwd0g0XzFobGU5UWhUakRQV2FsQ3JvdEJmRXQzZ2VFWS1TSA?oc=5",
@@ -320,17 +964,17 @@
       "date": "2026-05-12"
     },
     {
-      "source": "Financial Post",
-      "title": "JPMorgan’s crypto push deepens with filing for tokenized fund - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGpleEFteFd0QWNLbnE0UTFWTWwyc0dSeS1mYnZMTWVXOEMyTE1JRXNoZE11MHhFbHkyU3gwUGY5Z2JBZDlkaWVuQjJDdWhEQkg2aGZHTGE1VWVZT3JNSHY3eGtoclRPU01QZlZEY2hPS2Q4Sjl6MkZTV0JYNFJOX3FnVXhYQTdq?oc=5",
-      "published": "2026-05-12T20:39:26",
-      "date": "2026-05-12"
-    },
-    {
       "source": "CBC",
       "title": "LNG Canada equipment problems, flaring violations detailed in report - CBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUFCaFBHVEtlOEllbTZ6dnVQYjBnOGp1Yms0bGtaNmRURVRvWWkyRDJiVnNaQllPblh2WjZqNXo3aVRzTGhxeG9KSi1RS2ZsZV9TU1ZzenVhNnV6VmxsT29NYm9wTUJMVm5uN3EtdTB5MXhYeGNITVJOaGJsaU8tRC1rNzV0dThuZC12cXlR?oc=5",
       "published": "2026-05-12T20:37:13",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Harrison Ford urges immediate environmental, social action in stirring commencement speech - Global News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRW41S21WVkx0WU9WaDEtT2JkaVZqcHBzelZJc2JvbFBjS042M05MTjMzNFJZR2YtWS1zQXdzVlJKRGlEOU1hSkdLelNwU2xIcUVmZ19LdWRIdjBpQ2F3R0ZvRVhraVNrUkhiMWJYdVU0aGp3bHQtZEprTkYtTjh5TFg1N29qTEUyd2hYUDBlcTVuUUNwU3JNWjNZTXA1a1padVh6MWJqVEhJeF9GRzdvSDlKMVQ3NGdwZUVsbUhBR19tRDU3Snc?oc=5",
+      "published": "2026-05-12T20:36:35",
       "date": "2026-05-12"
     },
     {
@@ -348,10 +992,31 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "Another below seasonal week with showers - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1RubFJPTXljZGlzdVRBV09tWXdaYmZ0dFJkV1cyV2s2YVY5Y0hzYVZQV1IyQUNBdk5iZ1dHQmFiQzlDNTAwcTdKS2NoMVZmSVprOUxRc1ZIS2JMaFNjLXR1aWNsT1htNUJjdWJhc0k0akJNSTk1ZUZTdG0yajc5dkVLNEVQN3ZMZERsMENUaw?oc=5",
-      "published": "2026-05-12T20:12:00",
+      "source": "CTV News",
+      "title": "Londoners create personalized scents at viral perfume store - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzhZSWxnRlR3amtaNWJFOGoxWkxMTmE3QlVReHg1NHlYUnZYdi1MdnB3ZWVzemIzWUF5ektQcjBVQVdsMTRQQldvSG1VSXNNcVRSOXNUQUxRbG03RHJxdTkzQmJxS3Y2UDlxR0pvRklWdXdZNUltaU1nQVZzRGJnOXRCY2R5YktidGY1dHk5bE96emZKY1lBVXpGTXlfcEhldHJHejhLRzVBX0E?oc=5",
+      "published": "2026-05-12T20:28:25",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "“Robbie’s Legacy Act” passes second reading - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3R4WlAyQ3I2NHctREh1bVZNQzVGbldFTFYweWxPMmJGREJybVk2b01lMjhXRC01d21Kblp6UVcwOXAtckptZ3lDMi11ejB5NURhTnBQLTFtdmpENV9nUWVqWUpBM3RUbVRCVFV1Qm11YzhiVDQ5ejFYT2g4ZVpyaGdNN24?oc=5",
+      "published": "2026-05-12T20:26:27",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "U.S. FDA head Marty Makary resigning after 13 months - Global News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rSFVnYjFGSnNSOWdLeDNPQ1hpNllOX3Z6Q3BrYUpjTEVzQnhXR2tCeXZ5V0NkdExPZUxRTDI2eW56cnRmdEU3ZHlvdV9vR1VOQXRacVJSckgwNlU2M2RXbTMyakozYXkzTWRXRExxRkUxYXJzLUJQZEZzbw?oc=5",
+      "published": "2026-05-12T20:24:54",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Residents push back on Loyalist leisure centre move - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTRuVTBURXVYVHo2V3JWdEk2UlIza0NGWTZjZkxHV1dRUUVSblgwazlGUFpKb3I5Rjh5YmxUbVNoUWl5bFdzaHpOSHNRa3NvWVRId0dVcjVORmRUZjEweEJPT2lXMHNkLVltTWlDd0ZpdFhoVHktLWNBbFhBNEFSbGNqNTRORlAzaTBzMGxETDdxTTQ?oc=5",
+      "published": "2026-05-12T20:16:03",
       "date": "2026-05-12"
     },
     {
@@ -362,10 +1027,31 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "Fatal shooting in Calgary’s northeast kills 1, police investigating - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODVReE9sYl9JQi1kLVpvRXpWRWVGTjdIclp1VGR4OFBzd09rZ2VnTnlfMDVlWHZmTld5SDBoYjZ2dm51eEdIclhnTm5TVmVoVDFRR0ZDWDNpQnM0RS0zNmRhRnNjOEI0Ymd3dEliY1JrbGFEVU9udmoxdG01M3EzX2VFT1dTem5QdXZidXQ5Tmp0b044eXpXLW4xZnlmN0lLU1NZeTlR?oc=5",
+      "published": "2026-05-12T20:02:25",
+      "date": "2026-05-12"
+    },
+    {
       "source": "Ottawa Business Journal",
       "title": "High fuel costs could be the wild card for summer tourist season - Ottawa Business Journal",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGN3dXbFBNTlp2eUFYWHJWRDFuNktjelZMbkNEdGlRQjFWR1o4MncwRUxQb2JQUEJjb1lmX1p5UjlpS1NUU1FSM1pIRU91LThvdWNwN05fU05Ic25wUnUzR29FbWt3NzNDaWNpM1ZKVzg2RC00R0E?oc=5",
       "published": "2026-05-12T19:56:08",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "BMO to sell truck, trailer financing businesses to U.S. firm in a bid to sharpen its focus - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeDNJRU9IYldRQTBNeEtZdkRxY2YxWDh3aHpfTVZVbVZMMWJnV2w5ell4RUJ6cWc3akNHMVg1QmtBQUtwYVg2QUdVdFNPM3U5UWNDdi1YcFdpekFpQUF3d19ienBfYzFNRFRhc1plMHF6OUVoWVFMUnZMOWhtX0pMMXNlRThIa1RfR01PVG9PNWlfWENPRXVMbnlsWDk?oc=5",
+      "published": "2026-05-12T19:54:05",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "OpenAI CEO Sam Altman testifies in lawsuit against Elon Musk - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WZldCNnRkaERMb19na3lDR0xVQjZhY1dxMXlVVTV0QmVUM0Nadnc4ZklNUkZ3eW5wRzNPZUVOWi1fSkhxZDNNak1vYVFZZ2otWjVGVlBhcEhBeHV3U2xDWlFMbHpnQlFjSmpkaDFGVDRjaHZYT3RHLTRSa2U?oc=5",
+      "published": "2026-05-12T19:46:16",
       "date": "2026-05-12"
     },
     {
@@ -376,6 +1062,13 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "Court hears of prior grisly dog attack at trial over death of 11-year-old boy in Summerside - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85eExSaFdlVU5PNmU1ek11RW8ydm85ZnVZUmswRFdQT2N4Tk50TkUxSTlJdUs2N1p3MzdWbEVaOTJGcTJRSlduQXA3VlZlbm9GNWo5RVJWaG4xLXdlWFhHYjdDejJqUVRVaDVLUi1HNTZIZk0xd2g1YVBfVTRDUQ?oc=5",
+      "published": "2026-05-12T19:43:45",
+      "date": "2026-05-12"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Oil tops US$100 as U.S.-Iran deal hopes fade - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWU1FSHpuYXdKQmxKRDJWT3BxRkZrclB3WnBFbGNILVRTQ2VEZm4tQzVsWXpzUHdOT1Z3QXRXc2dnWHllenZNSy1BZGktRjNRcjRKNWxQb0tuOTg4Q21WT2xWTTVWVFBXUFdZTlRSVHhMVHJzMklqdm9fVnNKUUJGWS1LWWoxQUJMbEhhT1V5ZVpjQTdfbTF2ZmtXWjQzNHhaOHJkRkhIZkc?oc=5",
@@ -383,10 +1076,17 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "The Cannes Film Festival has started. Here are 5 things that happened on its first day - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0JCNHcxUlVlYmZHSDFCNVJhaExzQm15LTVjNHlVUEhkY29xd0tsalBVaTdLZkZ2alk0Mld1a1JzOEt6MDFGTVFNTUZjZnozZWtHZ2ZXMFU5RTJKbi1wOVNMSkhKaXpXWnVSbmRDYlV0dWgzU05iclRHVlFETG0xUV9Xc1dwcnBzY2Nlbzd1MG1UUHpERDFBQmdobnFidjNLTVhOdGhaTnNYdkdhNTRrTFNmSkNXRzJPUTZGN3dJVFBlZFk?oc=5",
-      "published": "2026-05-12T19:36:04",
+      "source": "Global News",
+      "title": "Modi quoted PM Carney’s Davos speech in 2-hour chat during India visit: Minister Champagne - Global News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjNTQ2EwOTladnVNYU5VOTB4WlZqTkhFZzN2SllwR0RaZy04aFc0dmtGd0Rra1FKQkhGMEtvWjVlTXFtZWd4NjZhd0FFV2xNdGRJNXhSb2phM0RBQ2Q2dTIzUUVVVENNM3IwWEVmdzN6MktOR19tMkVKQU1jRlJvakp4bHZqX2FSbWdkeUpWSVhiX2k0ZlE4cE1RNWRDUDRvYS1za3I4TnN3VGJOWFZyVTVydlVfTXFnV1JSVGZXX0h0aDd1?oc=5",
+      "published": "2026-05-12T19:36:22",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Parti Québécois leader worries — without proof — that Ottawa is spying on his party - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeEJ5Vm53cjhiWUhpbXpCS2xjY1lGN0RhLVd2SWZGNHpaU09Zd3pHSGU2eEROZVNRMXZOb0F3YVY2WDVndG1WTjZjWS0wRlVlRVB6WlRaZkY2Y2pXX3p1eTNLMHhyNThBeVVLNGRnc2NfeTVBZ3Y3MmlWZlMxU1B2Tl96TnliTDl1YUI4M1UwLVktSHpSTmhOMEJRTk9BNl9kZmhRazFSNkRSa2V2Njl2Z255ZmgyaE1lOEZBOWs5bzNxTk9VLWFsNw?oc=5",
+      "published": "2026-05-12T19:36:03",
       "date": "2026-05-12"
     },
     {
@@ -404,6 +1104,41 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "'Back to the table and to negotiate': TTC CEO on getting a deal done with CUPE Local 2 - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMy1iR1RTYzNXbk9KSzRXWDZPUUhkcUJBWG9HcUQ0bGRZMzJyZGx5U19qMUJqMVRCOHk5Y2VlaFZWUnBYTTYxRlRlYUZJbkJneG5rYzhyek1zUnRvNjlLMjd4eDcxa25HQ1g1blRpVGowaS1LYThjRUNYVDBEMkRoeFJzSC04dTVJZHhIeVZMVGpPNm5zZERyQm9RSUFrakhtakxsLUZvTkNVZ1h1UFZYUm5aaVVJT0U3TXdXdzlFNklYZV9BNjIydmk3RDM?oc=5",
+      "published": "2026-05-12T19:16:33",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Kenney recruited who he now calls 'lunatics' into UCP: analyst | Alberta Primetime - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnNWQzZlM3NvbTJCRnFvZGhxNUJ6Z0RyMWVIeEVvWmEyR2dvZTZsMnB1cGFydTlpaVlRR2FhbDNKUDktdUo3TTkxNjZnUUFka2huYl8yeUxfUHFEVllzMS1Tbmk3UTBScWdjS2NGRV8xY3VhbkZrOWJ1WWRFRXRuUDNSblBXVzZVczM0dmJPYV80aHlsbGk5YjlsUW1ZaFdndTNlandzOVhWOUdWbUlkMkpreHB6eFZxQjFJTU9KM0pGeFdrSEE?oc=5",
+      "published": "2026-05-12T19:16:33",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Lethbridge police charge man with impersonating an officer - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmhoeE1oZXA4M3E1T0h3X25hWXZoaXc4c293bHdGREI2WDlMc0JDX1d0QWE4SDBlMlF2d0tEbVVFaUVOYjJzQ2dRWHo2YjVpd05xUVFwYTQ2U1liN3RBNE4yU3ZvNmNIenZpWEQtX2dsOXJobVRnbjEtSkg2ZEJ3dnhMV3o3eHhfRlpYU2xuNnI?oc=5",
+      "published": "2026-05-12T19:15:26",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Separatist leader David Parker behind voter list leak is uncooperative: Elections Alberta - Global News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDh5WDFZLVpCT2RuN2tlbC10dU1zckRUdDlTNEdvdnk5NHFnbGxuT0Y2dFR6UmY1cDU4UXF2MTRlVHhOdkVVaURpNUtybVBFdkFIZmZrOHprZ2lOOTRKSVFqVW9kdXV3VWZDcWgtRVBBbUZJaGxIby13V210QW5IYlZ2Q2JKckczdmU3NkVzMUtIX0lycUZlTzFhUlZpU05V?oc=5",
+      "published": "2026-05-12T19:10:39",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "With ceasefire talks stalled, Trump and Hegseth claim 'control' over Iran and Strait of Hormuz - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMHlMU0lmVTZwSGJ2OG5RVF9nb3o1YzVXZGJieVYwY09YbjdmamtTTzlBNElSNmFPeUo1VW51azRoUFJaSU5RTWNDdWNNaUF4N01nLVFnSk1EZjI2WHc4eFo3NjlCelZhWktuTUxZeXlweExaRzNXaXMzaGFERnZnS2EzR01zck5vd2wwVG9HMm92RlUtemY3OG0yWWhmT0doeWUwVm5YYkZYY1JsTlVfQnJGWFpMdUk2c0tYNVRyekUtSGM5NHZoSW1zbzFBajZHN2Z2eUJ6dGtoWlowRjZ0dkZaN0h5RjFDeGFBQW1aVk53Z1dONFdTOFpFa05vS0kwbGJDNmFCWjc?oc=5",
+      "published": "2026-05-12T19:08:52",
+      "date": "2026-05-12"
+    },
+    {
       "source": "National Post",
       "title": "FIRST READING: Even Democrats are weirded out by Canada's enmeshment with China - National Post",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmxWQ2lxZl9CT1BWcWpLZTc3elB2SWhpQy1mZmJkdVpIVjlJbzM5cDJhTkR0RUhMRjB6UEZBTHZkRm14a0JwNGZGUnN1cmdEc3A4SVl4Vks4Ty13QWQyNGs3ZWtIVHZ3TGxGTGY2UTljbTI0MFJQbjJoSzEwU2x3enlIbGJpYkMzMlRQMHBxZ0JISTc4cmVwa2FybVlrM0RqbUhTUEZ3MlJaeU1xbjk4?oc=5",
@@ -418,10 +1153,31 @@
       "date": "2026-05-12"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "With ceasefire talks stalled, Trump and Hegseth claim 'control' over Iran and Strait of Hormuz - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZ2dwLU5tUVZ0czdCY3R1ekFUeUJMQmZJMUZLNk1qcXNDMGNCMkRKbmR4NzF0cVFEY1o4WlIxN1p1Rk9wcU1LSG15VUFNZDNXLS1NZDkzVkpfSGNvazNFMmk2XzlQRTc4eEhSS2gxZ1RnaGVweEMtdU00cnpoMzZiOXRRY2taQXVEUHJ1QkZzbmVBVUlwRlRUcVFiSzNpT1hpN2tMenJzLWw4UWFEU2tKRDMzbjZiRmVWWHdseFhXTktMSjNqaGNXdHlhbUdtTzV2VS1HN1JZVk02ZnM3RUxNMGlEN19FeEVhUVA0Y1pMZHcxaGxZdHJncjZldDZ6VU9IX2V2aGhmcVQ?oc=5",
-      "published": "2026-05-12T19:07:05",
+      "source": "CityNews",
+      "title": "WHO: No sign of a larger hantavirus outbreak - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2lZSnZ0MDFJdUpBRWI2SHZWbFhUQnl6UzJHNDk4NV9LZV8xZl9fd0x6UllRaE5JMVlZU1g0VEJIVXdBQ2ZIaW1DRXJlMVc1QUh1azZTbW1VMnU2QXhxRFl3VGZxWjQ3eV9iVUdSbmxQX3I4UVBqc01ES0twVjI4ZTZsa3ppTDVSaVpfVHI2STdsUQ?oc=5",
+      "published": "2026-05-12T19:07:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Vancouver-born NBA player Brandon Clarke has died at 29 - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnBCcjdTLTdtTUIxTXUyX2lTNE9zUnhGandTYnhrN0dqa1pqZ0hjWFp0LXNuTFVHMzd4VG4wQXpVT0ZyU0dLck1tVGhDMVFoVFFfR1N1eGZxTkMxY0NfZzZLR05pQ0JIVVpCbTNDMTJYUjdGV09FTTg5QnhBYTktTFA4M21kYUxDV3k1bjFabXZZV291dzNsR1ZPaVI?oc=5",
+      "published": "2026-05-12T19:06:50",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "The deadline to complete your 2026 Census forms has arrived - Global News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlg1T0huckpFRy1BZ3F5SE9BdGRNT2RyNEJ0ZE9pYjNEeGEzSzVwN1pPUFMzWFJ0a3Q4NHJZVTFFYXlKUTBleDZjSXRIc3kxTUJVUGVPcjdhNXBINEt5Q0ZNaE9RMldnRFZnN2RKS05Fd1JmTllOeGxWV2Q0REI3djRzMk01d1pabUFMbUdZek1Zb1ZSU2lTZVJIczR1UQ?oc=5",
+      "published": "2026-05-12T19:06:28",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Fatal shooting under investigation by Calgary police | CTV News Calgary Noon Update for May 12, 2026 - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVDdKelVsblRsUzZiaXRzQVFOVHFOZ2p2UzdzX0NIVU4yVEVkTzlEdUxhZS1uRm4wS1BaR0J4ZHFIeU5vdlRBQng0SWZfTllDcXFtNmJQOGtGVktmR0FINm1pOGpTZU96NGVhQUwzN3d6SnNCWUNBQlhzQXY3TEFIUVBqdXV6d2pfTEcyazRSZXU2a3VqZmNsb3hCaW1SUXRKTHZNQ29IazFwQVdvdmVvb0xJeVBsTzNPTUN5amI2NFdvU3BGS2x6MTNDZzF6VzlocU9vUkNoaDhXSFZUTWFz?oc=5",
+      "published": "2026-05-12T19:01:28",
       "date": "2026-05-12"
     },
     {
@@ -446,6 +1202,13 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "Popular Japanese snack brand turns to monochrome packaging over Iran war - Global News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS05vREhOZjNQdGVqN3hZVnVIQzBnUWotYS1lMThGT0k5R05sNDg4V1RrbUZWZ3RoX2ZCZVdhVE9xVUNSanJmNW4zZzlqZm9zV0NMVjN2bUhtOVgzRHpMNm8zWnlJSG9YOVdPandnNkMxZ3VNNWFCdHBCN3ZHZnNJSDBtdHBKaXpVWDg5eGxDcUU3WVNuUTc0?oc=5",
+      "published": "2026-05-12T18:50:56",
+      "date": "2026-05-12"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Is This Costco's Hidden Growth Engine? - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjJoQjVJa3BheVF1MlhIRHRMdHF3SEJUWXdpWkwyVUhFbkh5OGgySVlHLUtWVzQySDdVcW8xeEcwTEU2amlobGdsbmFlWTRYeEt4NUtBYXowT0pBd0lybk04WjhSbDhqeV9tRmF4bkVJWk5pRHEwUDdIQjI1TmtDck5VNXVid18xN0NYeFhvUmVtZmtEWGlUZ21RT3lFcGhYTTQ4a3hyWWJQMXVhMmtqUW1Celgtb2ZkSjhENnNnOGg?oc=5",
@@ -453,10 +1216,24 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "'The government's not protecting people on the roads': John Fraser on AG report findings - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHZpNE5DRElQSjdZUWZIal9PdGJNbU1uaVJpWTlrcUs1Ny1EODBLNUQ4UVpsT0FrTzhqYWNSdHd2ekh3LXdtckxLTWozd19OMzlHdjNwSWNuSGQyTHpfMzNaZVU3TlJNOHFaNW1aWUJNaUtkdGtydkJZdDF4Q2hoUlVVM0xwRTdvODZKVlR0d2xVaURmVkNCWENGYU44dlZ0aUNkMFBMOTlvbVFmZF82TFdEb3FxWFBKSDh1N254azhTVFpYeWptN3RlbFZnUQ?oc=5",
+      "published": "2026-05-12T18:41:19",
+      "date": "2026-05-12"
+    },
+    {
       "source": "Financial Post",
       "title": "Oil Extends Gain as US-Iran Ceasefire Remains Elusive - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFNEUzc3Y0NlOVlobE9vLThXQWxJbElESG03N0kzVHNkWWh0TlZ3MUIwUFFiNFpIWkdPQXBtMGk2Rk5CQ0tIZ3NfQ3otSVZrR3QyVnZvRVlNQmdLV3BBUzM4WF92Mk1DRW4xQmVhWmU0THNaX1RidWsxSDhVYW02UDdyaU42Mm1pLWNUdEp2dThjU3I1UmxMWXYwVWM4M3JWWFJ6bmxVZXI?oc=5",
       "published": "2026-05-12T18:38:24",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "About 100 families forced out of homes in Woodlands County due to wildfire - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2xRT3R5Z0lBVFRaaTVfaDJQdmtOZnR3b0x4anEwc1V5ZV9aR2RjLTZHVHRVTGdBOEFwanJwNXFYTjJSeEsxRjNmU0xKN0NRa2F0RTNJVFFIZzIzQVQ2MUkzd3BzVDVYQWVoODdyMWVoMFFzRU9NRzNDYnNCU0tLcmhuUkVya2ZJZk5SaGF0NnpnNHZTUkRZbVEtLXMxX3lndVU3YlB5NUxuT2tVRUJVczBR?oc=5",
+      "published": "2026-05-12T18:37:04",
       "date": "2026-05-12"
     },
     {
@@ -481,10 +1258,10 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "WHO: No sign of a larger hantavirus outbreak - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2lZSnZ0MDFJdUpBRWI2SHZWbFhUQnl6UzJHNDk4NV9LZV8xZl9fd0x6UllRaE5JMVlZU1g0VEJIVXdBQ2ZIaW1DRXJlMVc1QUh1azZTbW1VMnU2QXhxRFl3VGZxWjQ3eV9iVUdSbmxQX3I4UVBqc01ES0twVjI4ZTZsa3ppTDVSaVpfVHI2STdsUQ?oc=5",
-      "published": "2026-05-12T18:21:11",
+      "source": "Global News",
+      "title": "Tennessee man wanted for sex crimes against minors in U.S. arrested in Winnipeg - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRlF2enNqZU5uUlBrX0Y3ZnI4S0RseEc5QzduUFQwcmtLc2wwbl9IS0VDN2FONDFPM0N1ZEdmVThGR0dHVDVBTFRxZFpWWURTY1hVRVlWYXFldTNsMzNURy0tdEJ4V09uWUJOYTRHMGFBMDhINHhmRE5zLXI3OC1URW5xcHg2a2N6b3c?oc=5",
+      "published": "2026-05-12T18:11:57",
       "date": "2026-05-12"
     },
     {
@@ -495,10 +1272,66 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "Why is It important to complete the census? - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3JDbTV1TllaVHhXV1Joc0NBbVNPMGJfQjBhNzJ3azlJdm9EVlJpSG9YRV82VENHLXZDbEt6akt2ckE4RE1LSVhiWUJLLS1sX0VZeUdnTFd2Vmxvc01kZW1tallOOC01cEw5b2tMalk2TG9pSHptbXJTSjNvLUUyRHlNME45V2E0MGRV?oc=5",
+      "published": "2026-05-12T17:55:28",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "D4vd murder trial delayed due to volume of evidence, prosecutors say - Global News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02SHAxNDhtVHdIM3JCa0tYVkRnTDVfb0l6djdkdHpoVzdRWmt3b21acmhCNmQwb3lBSnlaY3hmSkl6SWYxcGs0czdhMWlZWC1OMHRRdmxhekFjU01SbGFORTNPTDBMRjl5SEs2UjViNnlMZE03TDM1Q0g4bw?oc=5",
+      "published": "2026-05-12T17:53:11",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "The Beautiful Game: Craig Forrest’s Coquitlam roots - Global News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVZvX1N0TU8xTm9OdTU1dnpPU1lXU1NCdnoydm42STdnZUZpY1lXVm55UnNDVDczbzZKcmlNTWgyS1VQMUFBS1VTcFd6REVIdmNweHEwOVZSQ3I3TmxWZjlYTXNmdFNPN2M1ZW1EbG12OENZc2k0OVdIZFRJRVd0X2pVN0ppdmRjOEZ2MURIR0s?oc=5",
+      "published": "2026-05-12T17:50:53",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Feds, Nova Scotia invest $13.8M to support workers, employers impacted by tariffs - Global News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVXZjXzlXUmNuNGVsSUlzdTMteVU1N2VRMTBCMnJPcHVGdUV5TzlQc3p3NHBEdXFnRDJPS292ZC1JV21SdzdEQ2JIdWZkLWdBRFZnZllaNFdYa2NieGtfclByX0N6bXB3V05IUm1GYjZjdWFpTklIN0I5THotRUstbHBfUzljMng2eDZ2ZTJNVW91Vkt4VDhDU3BSVDB5Z0k2LWhXclhRbG84WllnR083ODMyUGl0dDQ?oc=5",
+      "published": "2026-05-12T17:45:24",
+      "date": "2026-05-12"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Harmonic (HLIT) Q1 2026 Earnings Transcript - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG5LNmZieGJ5cEVjMUxfRVEyVnBXNGozREkyZjh5eXhIdXdIZUdjYzYwWkdfRjVzb0hWM1E5ZGtETllwcEdPeGMyODBWRGVBN0c0V1cyYXZERWh1a2VQOS15MEFrN2JfRi10LVVxYlY4ZUE1akoxdE10TXh0VWtDMkxlTnZQWEx6Ujdqei1leUdtYjY2ejZsenJpZXZIT1NTWXpCLV9qWXI1UlRMY1ZCcXdqbFRjb3J6Q1JmcQ?oc=5",
       "published": "2026-05-12T17:33:29",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CBC",
+      "title": "Eurovision 2026 begins but Israel's participation leads some countries to boycott - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZ3R1Y2tiYXNpVVA3VU5wN04zeE1nak14bTBHdldHR21SWHB4eU80NHBIM2FsdXZQYlc5R0FuWnIwc0o5b1ZwSUEyUkhPeTlZR2pwVXJPOGw?oc=5",
+      "published": "2026-05-12T17:28:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Prediction: Pfizer Will Beat the Market Over the Next 5 Years - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdHYtMUNMZFppV0twOWd0UVZFc2ZvV2ZmUWdyRm5YVW1fdEFnbzVfeFZ6ektRd0I1VWxsVFgwS3FGUWl1ZU5PR3plS2l4Q2k0YkhaMzFfY1JiVXlTUG8xWUhsODhjdTdqUEwzOFpSSXpPeloxVGlvdC1VdmpRSFY0TDFQUDRXVDVxQ3pGYXdZWkMySlc3NDVhLWVNdzJCSUJDTlVrS2RibjdsMnNPeGhBUkhEUTdYSXNaOWJDX2lTdVRSX3VFT3Q1UHg4cGpoSXFYTS1vM2VPWGRIeEV2ZEE?oc=5",
+      "published": "2026-05-12T17:25:40",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Motorcyclist killed in Vaughan crash, Dufferin Street near Hwy. 407 closed - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS2kwdzlqSHBBb0o3M0tkWHRrVG9JZVJKOTNJVzFLNmdnandVUzlTd1BPeTFwNXhhVEgzQ2lwY20tNG4xV28wd2tBTDlZNnBBcjFWendGVmhSbThMYzJqWENZS1J0cDBOdWVsdDR3dmhMOFJraHl3QWVkeGw2c2wxdDUzQWN1bDVrZVh2OWZmNXZsMXlTT1J6NU1rVGtxcGJ6dTFsVl9UR1RBWjBGbFFaVHQtV3E0dUhIMnM1ZVI4UHhwd2swU0tvOVdsY0lQMnhkc2pXYXNfRjU2dFNC?oc=5",
+      "published": "2026-05-12T17:24:16",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Pedestrian dead after struck by driver in Shops at Don Mills parking lot - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWFJQYmU2NXFGOTVMRENZNW9uUHlJcGNnTk1lWWQ4cVpQbXBhMThQek5mRDdmRG0xOTZGUDRVNG04cFFVaW1OTFZVYl90U3V5MVJ2dlliazUtVUUySjlGblBJMW1LWGZ2aWJ2RlNqNnJjYmp0THBaSXkzSkpLbTAzdkJkcmQwbXFZSkt0cFRlVTdtZUlLamR2RDAzUllCM0ZJX3FQNzlfY096Q2JHSk1RYjlrbGRzMjBFWW5lTnJURHJZODJkQlJ6UVhKY0dWTmh6ZUNwYUdsTmxtRHJj?oc=5",
+      "published": "2026-05-12T17:23:40",
       "date": "2026-05-12"
     },
     {
@@ -509,6 +1342,27 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "Wildfire season and online scams - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFNqZDdpN0tkZm5haHdRY2hfNG9NbW9aSU5UOGplRk92NklsRFpFMjl3bUh1UGpOdDVpOUtJcTZYTV9ta3NCT250NlZ6emhaM3lHVkdCMUJyVlBIMVNOZ1lqVlA4VnctRWtPZjZxdnVlSHR0Z053VDRWS0pVazBVeVZOVFk2X0p5QnFv?oc=5",
+      "published": "2026-05-12T17:20:23",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Ontario auditor general report finds ‘gaps’ in truck driver training - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeG5GVkFDUjR2TVJXbFpfSjQ2eHRSLUZfaUhPSGg5eDItSTBPS3FoZll2SVgycFZyY3VhLW1KUDAwellETElzR0FiVzVybk9vRDhKVS1oOGt6RzFqVDhvM1VXRXkzWjNZczBsd0dLUnppZ3ZydXVJdF9tVEw4SkJIR0hFbDVsNnJMbUtqcjhxejFJVHcyczRWUkt2blpROFUxTHIwWnpWZw?oc=5",
+      "published": "2026-05-12T17:08:11",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "LNG Canada reports operational issues at B.C. plant - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX25HdFVCcExYWWJyM0pyT3ZiS003RklnWVhXNXdIcW1RWUFwaTBVRU02WlhJa3c4OFpZTDAxbFlzV1NEU1pjQ1BiWE5RM0xMY1pWMnRrblNidC1WY0hPdU1RN3pDTGpJb3QteFdvUU1zUHFOS0wwZDM2MUFkY2R2RU93MkpORFdIZDc0UE1fRXcxUW4yc2Z4UEk5WGE3UWp1cW5LaE9mNWNMOTNHWm95dVlMYjhiZXFMVktGSmNtSURTWDlo?oc=5",
+      "published": "2026-05-12T17:03:08",
+      "date": "2026-05-12"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "China-Focused Fund Cuts $7 Million from U.S. Toy Maker Mattel - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWpLRk1sc0tHTUhpMHpDbDI4LTVBOE9rNXpxaVp4WE9tb3JBcW5PaGZNWkctN0w1OWVNVkFhdjlFdUJnNV92amRHRm91T3dJT2hzb2hyLVpPTTdFRG9QLXg0ZU44MWxnZGtMYUxCLUpTV0VIS3pfMzJtejVHQmFBTzhfUWFlcEdsUlBqVjUtbHNsR25GWnJEc1lfVlBFaHcyUy1ISEdrc1dzLXkzRXBVckx2ZFFldXFSWGtuOTdjZG9aRjB3a1BEXzVrRzlVTmpfNjNoVVpmLVdCUQ?oc=5",
@@ -516,10 +1370,38 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CBC",
-      "title": "As Trump heads to China, policies on Iran and Taiwan loom large - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmxla0NjOEhBTzFHVW9nRHk2Ynl4VENxdmFKRk91VHlpc3dnWmgzaldDOU5xNmlISzhGTU9OMlVqWHV1NUduQjFpWW1TRzYxNk5tS2ptbGZMUQ?oc=5",
-      "published": "2026-05-12T16:54:42",
+      "source": "Global News",
+      "title": "Dunkin’ Donuts coming back to Canada with hundreds of locations - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zbTBLR1AtTGVwWkMxRXMtUlNVd0M4ZUtoQlRFVW8zTEhxNnRaMjJWd3JBNDNXeGFkLTNMN1JFck9famp5VDhTRUFrTWZUTThpNExPWGYzTzhQeDdPNlg3aENOdXN5N2ljSzM1bHo2Q3ZtYWhQWnpNQzRqbUg?oc=5",
+      "published": "2026-05-12T16:55:22",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Ben’s Day at Popeyes Louisiana Kitchen back for another year - Global News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNENZZWc3ZVhyRWY3QU1hbmd1MVNLcVNVYWxGMEhHZU0wRzAxdGtLdjd6UlpuZXVUQU5iX0lpMlprQTVIUVpXUEllSVJPV3BqWngtMFZwNmw5Vk9jNXFzUk44X24xM3V6ZTFsRmpYMjJtcWgzaWhINjl3OHBNaExFYzVmR2JNbHcwSFRDeDh1ajB0eU5CNHhJNDBKT0ZQQQ?oc=5",
+      "published": "2026-05-12T16:46:03",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Monthly Tips from Classic Landscapes - Global News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWNyRTFpTkR4V0VRQ3YyZGlFWS02RzRVM2RyRHhrT0J1UHRQRF8xaHo0Uko1dGtBcVdTVGd2M3VheUVZTWxQNjFEdHdwcDhSLWliQk84Z0pKTThpc0xzbUNtVk1qcEFwN01EcmhSSlp1OGFOd1RsY1QyZmZJN25ldzBhZw?oc=5",
+      "published": "2026-05-12T16:44:35",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "'It would be a good fit to bring Dunkin' back': Foodtastic CEO on Dunkin' Donuts returning to Canada - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2wtQ21nd3ZMbFAtSnhOdkJkX3daMy1SXzJQTmdXcWVOSkxwR0VBS0JXRXZXbDN3LTFMS3pmV0NjVktFVW1UWGZvV1NiOEw1eDBVVEt5N3JJRDdfYkEzek9vV1Ewa2VVM1hINXlHd0JtdDBaczgyS09TLU9yLUJKemtyY1p2LVNXejhDWktHQnpaRlpSZGFySERDblZwaXo4MGRsdkZBR2dtZVBGdkVsbEw2VkhKOUI0c3NfS05aS1RNZmQ2cnphNmRyOFZHa01hbEE?oc=5",
+      "published": "2026-05-12T16:41:17",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Out-of-control wildfire prompts evacuation south of Whitecourt - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM204dTRBb0Rvdjd6NW5NSWdWUFhOdjl1M3NlZ3kzejFxSlVlVVFkVjJ2UmZMaXltRFlDN25YOUJvYlVPamtfQ2hQYm5UcHlXSmNSd3BhenZ4Sm0xX09ScjVfNXZBWm9SOEdjU0JjQldZZEEtZy10Qi15b3ozTTBrb0VBTkZTbmVRU3kzcTd1X2ZqdVFsV1hVcHdKMG0tQlN1aHc?oc=5",
+      "published": "2026-05-12T16:39:18",
       "date": "2026-05-12"
     },
     {
@@ -537,10 +1419,31 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "Pentagon comptroller says Iran War has cost an estimated $29 billion USD so far - Global News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTFJQ3I5ay1IQ0RKYlFwWkZfUWlnc0RxNWtTanJIUG96c2U4STZQR1lkV3dfVVl1UUFDY0tMcXNWTTJXNmZXeThGTFZGeXhCd3FqRjlVVmtnWnZVVWR3Z2JzZXFlOFRBd3BNa0pTUTZjZVUwRGVpek9pakxPQWRnbkRLYnpsYXpoMTBnZ2YtUnlGQlFyYm1aZ1dtVVljYkdQeDJ1RFUyNm1scWFCWUJWMHJMc0wzRUU?oc=5",
+      "published": "2026-05-12T16:26:32",
+      "date": "2026-05-12"
+    },
+    {
       "source": "Financial Post",
       "title": "The bond market today is a 'troubling place,' says Som Seif - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXh5N0owd1NBTDdwVGRGUFJsUGJhXzFiS2VRSGdncVE4cnc5STZyQURjT1ZMTTlOa3huMTlrLUpZNzlfbE5MNEFESnVCclNtb2lpOHFpZ1BaV0JWNmZfQ1FWZERORUt3eW9BR0NGMXREV3I5aXgwaG5iUXpncXNYZFJCMlhJUQ?oc=5",
       "published": "2026-05-12T16:25:14",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CBC",
+      "title": "As Trump heads to China, policies on Iran and Taiwan loom large - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmxla0NjOEhBTzFHVW9nRHk2Ynl4VENxdmFKRk91VHlpc3dnWmgzaldDOU5xNmlISzhGTU9OMlVqWHV1NUduQjFpWW1TRzYxNk5tS2ptbGZMUQ?oc=5",
+      "published": "2026-05-12T16:24:43",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Business Matters: Canada well-positioned to deal with global fertilizer shortage - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGdWbnM0VUpVQ29uMHU3X25RcWVqNlJqRDZBQXZZX2paTUNia2RMbWYwR1htT1hjeDFGODhZUTFDcHZydUJfZC1TY2RXUUY5WnhaNklJdExjNUJjNzNaX0NTQ053Sk5xbzI3YXA2SXR5clRmSmYya2MyVk5QVkJJV0tEeFpzZ2kyUWZ6dFZsMVN6S0xINUo0Zlo1elBUdFJEVTFCU3laSUtjX3p3Wi0wcEI2LUlDQUFN?oc=5",
+      "published": "2026-05-12T16:23:08",
       "date": "2026-05-12"
     },
     {
@@ -555,6 +1458,20 @@
       "title": "The Eastern Company Reports First Quarter 2026 Results - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEdHTFo3UVNLRVFlQ2FZMFVvQ3ZYaldsZHVSRGFZMWl4WWZ1dGs3UV9XQ0lZNVk2Z19tSHEwNmlqWWtoTlNwRE9mLXY4SjIzdWZFZlNTbUQ0a3JobS01WTFURWxYV3FjWWJDdDF5MHNIWDVMY1pTdGo0Z21BdGJRMk9fT194UHVtZjczRUtSWWhVclZZNE8zS3BpN2tXUnYzWE4zbFpwZWlQUEM0aWQwd1djWG9zMU5NZHBYWTFNOUN0Rk5rVXpCeWVGSEhZdXlZVnJwX2JnZGVrTWxY?oc=5",
       "published": "2026-05-12T16:15:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Stolen truck hits Mountie, parked car while fleeing from police in Manitoba - Winnipeg - Global News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OWTJwUGJiVkFhSXJRdVIwOG91akhVb0xlVTdQc2RSYnkwelBFbjdHcmJVNlVabFFZUGdJZzQzRExyTnk1MGNzLW1Rek92LUU4T20wNldlVmdMREhaRWFMOG4zU05PempOQ3QzcVFqOUk0S2ZY?oc=5",
+      "published": "2026-05-12T16:13:39",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "First Forecast: Rain on the way - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZiWFRZbHY2eGt4Mzc2SUowMnlXVjcyLXlqOWx4SDNRQXZRbzhqdjhwX3E2VVlwQTZHVVFWVTJ2eUZMd21mR3IxU25DOHlURGxCb0phekxIVUsyR0hYcExXVy1aUkROdXdZU1dMX1pQSWFsbzBXdFFCTC11RDdHUUVkQmloeXYw?oc=5",
+      "published": "2026-05-12T16:11:07",
       "date": "2026-05-12"
     },
     {
@@ -581,8 +1498,8 @@
     {
       "source": "The Globe and Mail",
       "title": "Is Procter & Gamble's Baby Care Slump Dragging Overall Growth? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejZGRnc2SFNyWXpNOEJqbDU2WjdSb2xkQUllOUNDeUR4U0wybVpxOEdqUlhwQUl6NjdtWWtybE1oVTZNVUxIc05zVXl2VjZuZlNwQVB6MEsyVmhyMDFtYTdGYjBKMHBHRklFdld1dzFxdlFMWjdvbzF4R1NzeXpCcXNrVkMwN1JSUmczZGpMamhyOTY1eUFzbFYzaWIwbEkySDdGdTFvS0hrMkNnc1VFYVdRS2JoZHdMLTJTV1BsQ2taby05Vjl0dVBoenpPT2V1bnZUb1pndjY?oc=5",
-      "published": "2026-05-12T15:52:26",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaEFHUkdrTDJXZkV5Zno5MlVMYlRGU3dSUWZZci1sb2N3ejJTdXdCRXZrN1hjT19NWVJjTVV0Zmc3S3JmWVB2QnNZT0Qzd3N2WGpwQS11LWVYcFdQdkVqWU0tNUd3QnRCOUFKNzN6a3REN0cxUzhqeGJJM0hISThrX3JqM3J6X2RzWE9LQ3lQelZKQzNkYjVUcUNRRnNYWUlqZHQ1RlRTMDc2eUYxODFoeVR6dGhjR2lQX1BXQVFXSGdrb20wNFZWQW9aT3dRRGx4cVIxTTNrS0FPYTBmTmc?oc=5",
+      "published": "2026-05-12T15:50:00",
       "date": "2026-05-12"
     },
     {
@@ -600,6 +1517,20 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "Locally made film getting big accolades - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGVHWXhnZTgxRmVpdG9RcWlzbVNrMUNpcE1BNWFNWjlmcENTNXU3SHFPcDVQYUxKLUtSenR3Y3JJNVdBUGRlb3BMcC1JRWNVZTlsUm5xc3VKVV9rU3ZCNlV3dUNQcWd6Z2U0QkdCRU5kNlA2WEtqN2g0OXp6Y2ExOV9XY2ZvdzJxWWhxM1Uxczk0MW13?oc=5",
+      "published": "2026-05-12T15:40:04",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Baltimore bridge collapse: Ship operator, employee face criminal charges - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFlHN25Wb0tNN0xEbnFwb3N0T3JocHBjWk1KRklyTFVkOHVtWEVxSlhhdElOaXZNY1hQWXdHRG84ZWpKUF9kS3BsUGZlckxKUWZVSEpuRnlpVWVYalE0VC1MT2lrbXZIcWhjNmJNSGlqN0xVNkV6elhGcUduYl94TklBVXVmNzBrb0E?oc=5",
+      "published": "2026-05-12T15:34:23",
+      "date": "2026-05-12"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Invesco's April AUM Increases on Robust Markets & Net Inflows - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkxUalZjVmN4bldpX0F0bHcxQ3pkOEs0X1lxWTYtb0p3czliYy1jbjZNcm1NaEc5VWZ5MUV6cnNmcVRfRWZycVE5cE9iVGNPV25zTXh1Tnc1YTh2c0ljdkJrbXFpTmJxaldDbXQwSjBEQlpKdS1Zb3F1cmhaN01pMkVESS1PQXAwUTBSX2hDbTd3Q1U5NnF3NFJfblpBSHNwaTVHQnFBNkdPRnNlZWpPTk1weVNRbnNpcHZiZXU2WnVLMkt1SkFBZHpNdEVRVGZxcG1uXzFLMGJlUQ?oc=5",
@@ -607,10 +1538,45 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "Teen accused of firing at 3 people outside synagogue with replica gun granted bail - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmlzcDA1M2Y3aXlCM0JhNWRIbV96MjBqYjBVeWJVNDJHd25SU2ptVnFQTlR5cmFZR182SDNXVmpIZTZZT2RJWllJcG8yaXhteHFTcUdEakJpeXBjcU5hYWZuNlU3U0xMcUpFVk90TGRaX2pCcFZERlpBMjdicktYcEdxU0pSbDJzQzA3Ry1yZk9JTktvTmpMZk1pZGhEaGZ1ZmNTQVdVbi1sVzRjYkR3RzN3U21QNjRhTnFV?oc=5",
+      "published": "2026-05-12T15:30:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Oil Extends Gain as Trump Casts Doubt Over Ceasefire With Iran - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjlwbGFQZnFMN0lNWElCTU5ldlluNGFsWUxFeDFIb1ZCZ1NYMUFxRUR4UW9MNzNoQzkwVWdHRVU5czctd2tWbFdlMjN4Mk0tLVBnaUFKN0g0V1FFOHpQYmF2VVhuUGhXR2Q3VVpNeTJZMWQ4bWI5T1pBV1M1Z1J2YUtOdUZvMzhQSG11U1l6MlFhVkFwb2lNeGRuM0JrQ1BoR3BwaldxOHZndzBSNWtteTdub1o?oc=5",
+      "published": "2026-05-12T15:24:48",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Summer patio season done right - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnhHVjFYak9MUjFVZDNfRU8xZEViODhTbldyV09NSEQ3eTNETERFZ0h0SUp2V2xPQlJDQjRlbGR5NEFuRGpEVUVJU3dVQmg5QmcyRlA2cXJ0enp3eFJ5ZHhBMnZCV0laTEJnYjMtZmw5LWMxUW5ZSVJIQ3RZRl8tZTVMRDZ0eXFkNmttWWJSbXdLT25Xdmg0?oc=5",
+      "published": "2026-05-12T15:15:50",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Capital Regional District not expecting Stage 2 water restrictions this year - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDJWVEg3MXY1T2VJMGxsQVE5aEd4YVNkYVFVWExUdldDaVZYMDJodUd1alVXeUpqZ0VKVGFOQ0pIbXFpNFdOQ2VlZHJETzg0d2pmaDFQd1NsLUxlLTY3bVFTREQ5dy10TWtvampyZzNBeGotY2ZtdGhEdmRaX1V3NnRPaGYteWNzOGk1RWJFa2t0TTNrcm5wVndab24zc3NHTGE4OXRsU1pIVmhBckRwRk53RjAtNUJpdS1hel9DLVBQb1VNTEE?oc=5",
+      "published": "2026-05-12T15:06:28",
+      "date": "2026-05-12"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Magna CEO says clarity on headwinds key to finding right solutions amid uncertainty - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM0VRYWhBa3BOdUFVcFhhYWdtRTVjQjc2cjdJUzlPeTcxY25sdU1acHdpb01BdzhacFhSXzdYVm9mbzFORnBYemhpWHBMcElFVjM1dTFoUmR2NTQwZEdtMWxKUVFmamtEVkNfRXRWWW9lRHQtdTZFR0RPQ3U1UzVxd3dUTm5ZU0dwcHNaWGt6cVRhRTNmQUJEWlRROE8xMC1mMmFhR1hXazdPYk1IVElPeHFBdzRBMHVULWFsZTlJWDFZQWVDUEppbUJBNnI?oc=5",
       "published": "2026-05-12T15:00:53",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Inside Education: St. Peter’s College - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmlVb2tfWHhsS25NV0VPbS1IR2Vfa2s0VDdwOVE0ZDdlbG1wR1Rvc1AwaWpCR2RQU01MUnFidThMWTVGaW0tMFdCbk1zU3k2U2N3dlFJU2NCTl9PUDdxSVk4clZwWnRrel91SGhQc3Y4c1ByMjgtMHRLSERCcEVwWEhTTVhxaENySGVIei1B?oc=5",
+      "published": "2026-05-12T14:50:57",
       "date": "2026-05-12"
     },
     {
@@ -635,10 +1601,45 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "Shake Shack opens new location in Alberta - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVllHZldnSmtad0w3OXBZcFNDWmhQQ3FueENZNGFjNmpRNkwtX1lqMjBRdGVwckl3Y2pBUW5LLXlWaThJWnN0WFVVT1piTE5RSVhBZ1pmZ0UzU3ZFYzVaM0E0RzBIblNsMnZBczVaOTlud0FCakc0V3BsU29TeW8yOFNXaEJvUWlhLUtlQjVaZW1KYjNzb2c?oc=5",
+      "published": "2026-05-12T14:46:36",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Cash in this May with Saskatoon Co-op - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTc1QlhZV0V5anZxRExWZTNaY09tS3piekdnek5sTGI3YlRHZ1BsZEsxd3JJT3hVbFB3d1NJNndxenV2UVFsSEY3bnN0eWdCMjhhUXpSOGNMZ2hKVEwxWmZhOG1YNGZrZlFhR1VaV0lETlNTQ3FGMGVieDNlQTg5bWZMTmFmeHpOaTBOZ01JeG5HZw?oc=5",
+      "published": "2026-05-12T14:46:16",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Journey bringing 'Final Frontier' tour to Saskatchewan - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZndETUFpcDBjeXpUYjdLUzlpcDQ1bkpEU1Q3ZXhVR256MU93dy1ya3E3Yk52cHlDVVZFWVBxZkNmU0RvSlV1UDRvNHl0VlN3anpvVTA4R3B4b2tPYjZsZ1FyU2pIY3daNl9nTXdVNDdKdHRqR3oxcUxQVnVJaGpRUlRyX2Nfdl8zakg5bHNpR3ozQzYzaUlOVFpZNzduVDVMaWc?oc=5",
+      "published": "2026-05-12T14:43:50",
+      "date": "2026-05-12"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "CIBC’s Sid Mokhtari on the best bank stock to buy and why markets are now vulnerable to a correction - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzkzYTRkSmhabEQ5NmthSERNSmpzZTNPcmpSWTQtaW1BLWNveEFqQ29ydjNGd3BhQXRVSEhXcDN0cTNyMmNyNHB0N2d1ZkZSdEJxbjZiQWt0S2t3STIzQWpZYko4UE9xcnk3WjctMFRQLUtaVm4tU0NLaEsteDc5WFJXSlFPNDJBX1FqVlA2RHhDTElxT3VsT0wxaXNnWVVXLUlwLThzMUFUek9LbUlYX2I1UlNzSnVQeHRmcFdqNzljMzk2Q2Y1dllmNDZCNm44WS1BUXVQVXhSN0xyQmc?oc=5",
       "published": "2026-05-12T14:40:03",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "California mayor resigns, will plead guilty to being an agent for China - Global News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBib1RYaHZLQzBGZ01LMWNPZktMb2RwdlBsMFhqaVhpTG1YMXZHMHlzU2xRcWRNS1Q3RWJwZERFbms2aVhNb0tSTEQ3dm9Bbl8tSFBpbXlybHNrUkplblRDRFVvQmQ2RU5MTWl2UTRSOTBIX1Nxcmc0UGNoZ3lEUQ?oc=5",
+      "published": "2026-05-12T14:36:49",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Affordability is ‘top of mind’ | Champagne on fiscal discipline, grocery benefit and excise tax - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVBiMTBObGFWR3k3MW42WjlMbUIxRkEyS2Q4UW1OZjRzbWhsRGcxUWRtQk1iWVlUeG9rMVNJdXV5OWlDa2Z6bEotVDNIU1AySlI0TkhoYzRfLURYT0VRT3ZkQkJfQTB3SkstX0dFQVBRRnFOc3kxZkhpLXFvVWlMLTJIb19lQXVuZDg2dEFyQlJFOGR3RE45Z0hPaVowOVgwVHU5aUNOQUlTSzg5emllUmpYVjVrQWdudnlsMjJBbVdjdnNxTFFIT0RiSQ?oc=5",
+      "published": "2026-05-12T14:36:42",
       "date": "2026-05-12"
     },
     {
@@ -649,9 +1650,37 @@
       "date": "2026-05-12"
     },
     {
+      "source": "The Globe and Mail",
+      "title": "Albemarle Rallies 26% in 3 Months: What Should Investors Do Now? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUE5ZTmNoZUpNY3YyUWVnbUdPelJET0pXNHNma0pMZ1M3enZHcGlBelBlUFlCQklVZldvYTdyMGVrQTA5SXJyUGVuc0Q3WlNHZWlIWXNlVm5iX3hueVJQc25LbGRqMWN3a1Y1OW1nZWdmbGFkX3BXZldPOTBhcDFPRzRRM3JRNFpIR2EwYmdmRUFOempDaEpoY280WEROUTBxOURRQlNNX2pwUVpzNHFoV3o3S3RERlVfbEpwZVBTeGVvUmtMSG1jMUVwNm9odkFoMWcyWTZyM1l1SU1HZ3c?oc=5",
+      "published": "2026-05-12T14:21:36",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Canada doesn’t need a digital loonie to maintain sovereignty from the U.S. — it needs digital competition - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2ZLdDJhdGlXdW9xRFl4MG5GZ3IwLXd5ZUJ2bjIwTlN4NkFZZHp4RjFmUGIyeWdqNy1EVXZtYUlaMnFBWGtHRENvMjNiWFNHU1ZXdFRsb1A2YTQ3YmE0TW9wX1NreV9kM214TGVfeWI5MUNtSVpZRzVOZTA5TmFrMXI5UlUyZE9tT2k1UGozbjl0QQ?oc=5",
+      "published": "2026-05-12T14:18:31",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Meet the Regina Humane Society's adorable Pet of the Week - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUU5mX2IwUkNkczNjTm9Yc2ptNlplOXQ3ZzBWWWRCVWJYU1NlRm16eWR2aE02WVpNVnNSYzNob1ljaS1YNXlvOVFUbXhIUm5vMnRmblhSVzNFZXp6Y2RZblZjLWFRUlhER1NUYUJ5VFJ0bk1sTXJoM2IweUN6Qm1nbEhON0RKX0xRTUhnWVBxOGNSbmJlNDF0OTFXZHZtTExvbkw1ei0yNGpycjQ?oc=5",
+      "published": "2026-05-12T14:17:54",
+      "date": "2026-05-12"
+    },
+    {
       "source": "CityNews",
       "title": "Hantavirus cases linked to cruise ship rise to nine: WHO - CityNews Ottawa",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmp3bWJyaUNiQmRyVXo5U05iSzdjM1p4bFhfSnFpNWdFbGpMYjFwRzctcUw3TndwQUdIaGNBTHdteWtjLXZocDJ1M1JPTTNYS0gyUFF1T0hoNUdCbkpOU3BRSTlRTEo3Qkg2MF9DQUVCVGloUUlyM053NklSZTZCUHY4UGRqQlg4d0dWUWNJbFI0bGVVWUs5YjdOR0xWbzl6OUE?oc=5",
+      "published": "2026-05-12T14:17:00",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CityNews",
+      "title": "Hantavirus cases linked to cruise ship rise to nine: WHO - CityNews Calgary",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnFWcGF2azVSeDdRbzh3V21kX0owVEZ6S0tMWHpjOHk2emJqOXRuQ0RUZzluNkNRRGRGRnkwUlVUb281VjlIcndKWDM5QXY5bklmdWxkekxCWjJiOTd5NW9BYnJzSGhKVG8xbjFFV3RUck9hUU9XeUtNTGFCdUlTMmdYdmFpMVI4aDVEVEZtVm9ScTNEcGpnZDFETTB6S0EtOFVz?oc=5",
       "published": "2026-05-12T14:17:00",
       "date": "2026-05-12"
     },
@@ -670,10 +1699,31 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "New book for young readers who love outer space - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVFBblg2Sng5QzNQVGxGd1hfZUVlTEdBUVhhd000dlJaZWswSExfbE80OTA3UURrZlNNVW5HSHF2SThFdmwtRkVMWUFydE9neWtKN25BSTJlZks4YXNNZmF0ZHdBWVdGV3NnblVsTFh4ZDdxUVEzVjF0REZWYmJtcEsxaTB4bW9vU1hGSEdmU09HWXJTQWExeURCSXpzZw?oc=5",
+      "published": "2026-05-12T14:07:40",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Dunkin’ Donuts is returning to Canada. Here’s why other coffee chains might be concerned - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1BCclFUbEZRaGxqUmdaSHZjbEpMRGpIV2NCVzduWk9KNlVfTjVpRjluRkdrSGZkNHh5N3FWbWh4LWx0bGNxOERwTnU3ODV4WHVWNm9TbEJmVURqVjNHSDFrY0x3MGpnZGZqZ1phZjZXSVFhZWNkaGtDMHF2ekRGRzEwV2NyZUNRM0ZCSmFId1hHcDA4MXNFTDAzMm1odWYtYVIwc0V5cXgyOG9KbVEtM01ndDFxaVI3RFZUYXI1RzNDZmFodDhCeGhpWjFWSjQ?oc=5",
+      "published": "2026-05-12T13:56:05",
+      "date": "2026-05-12"
+    },
+    {
       "source": "Financial Post",
       "title": "Trump loses his trade superpower - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVluNVcxRE40d1ZKbzcwQ2tOaEZNZ05ZcFMwZmI3WjdVYUk1NkNhNF9LaVNnbEN3QXBKS2E4THdUby1sR0lrc004WTB1NFljQy1jY2toeUJPYlhHaWg4QVRGdksyM3NVWmpQM29Wc052MWFZVk91OFJKRnRnLVpnWTFvVVJfdFVSQU4w?oc=5",
       "published": "2026-05-12T13:52:49",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Kingston police and fire change to new 911 operating system - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkoyVWhKeGNhOG1KeTFZZVo1TzF5UHVmT0RCSHBuNU5MMUpTakc4ajVGUWw5VzJOYUJGY1dtcDVpd3RHc2pGR3JGS2k5UWM4bUc4VjBRNk16dHRucGVHcWt3Tkw0SW9TUHpNbFdUcEt2S3g3Q3Q3WnN5eWJnQ2xqem5ELWZiMDQ2cVE?oc=5",
+      "published": "2026-05-12T13:50:56",
       "date": "2026-05-12"
     },
     {
@@ -702,6 +1752,20 @@
       "title": "Hantavirus cases linked to cruise ship rise to nine: WHO - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmVvNUttenQ1amNOaHFPZGtzakNFM1ItNTUwQldhTzhkLVRmV2FwUHlNS1p5LUpmNXlFMkxtYUlZNmdNYWFMaXFlbW1ielVBaWlmZzZaTHNKaUc5WE9xZ0dPbGczcy1vVlR5THM0Tzg2NWRzMGNhaVVEMWtOU1lnVGVBQlZPZGhnYWFOSFUzVlQ3UVNRUVM3VDZ6RHFtdGhSd1Bv?oc=5",
       "published": "2026-05-12T13:22:43",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CBC",
+      "title": "Tuesday's top stories in 10 minutes | World Report | On Demand | CBC Listen - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzJHRVRtRUMxdEZTRG1ISnhkdEQ5RW1iWkhGcldIWTRzT0lyNHJJcWRRNkpJYzllYVdLWGt5U1N6NzFyOWVZMWxpS05jcmtKZEl2dURuN0RRdThYaTlkRG5tQnEwdmgyRmplZlZzTjgtOGJIZHI1UW5CaWctaDlqYkluRWtRRm82LTZNZ25NdkNVajdhbGFTTU11WGxPRzZyZXc?oc=5",
+      "published": "2026-05-12T13:19:36",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "CTV News",
+      "title": "Wineries could add billions to Canada’s GDP if not hindered by trade rules: report - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbTFSUGZqMWhVSWxRS2I2bVF2X3ZDTEhiMW4wTW5ObnJmMEhNVC1zZXNSRWlOR19qaTh0TmtySmZmSFdpSmdTNE83RUstbXg5MnoxYjV6VjluenkxQlNnT0YxRGZyX1ZKQ00xQnJrSTFkOHlGU3JFXzlLQm5ZTlM3bm0zX3IyN3ZORy1oeldvYWxQaC1iRV9kZlBMc1NrSlJxYmhYRWxDWjBfWXJNelV1NldQOHd0ZlhBYzNWZ0ZB?oc=5",
+      "published": "2026-05-12T13:13:12",
       "date": "2026-05-12"
     },
     {
@@ -740,17 +1804,17 @@
       "date": "2026-05-12"
     },
     {
+      "source": "CTV News",
+      "title": "Man dies after encounter with bear near air strip in northern Saskatchewan - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM3RWOUlMc1dmbkJndzJoN0Q1dkdFTktmdTFpZ1FGZF8xZzlaRHdzT0RqbkpGVjN1V0Y1RjhEcnpIdFBBMENJRUZkalU5NWRVSGZsRkJSWkZqZVNhU3prbjBEZUk5eVJiT05FdGVibkxYX3FTcUZuSjJWZzhaWjBrSUplNGVzS0Y3aXpJM002azY4YUkyRGdka2xPcGhzQjBsaWx1eFFSNVpoVFdDQ0V3R1JrUllXS3pLb2hOYzYyZTBCVjQ?oc=5",
+      "published": "2026-05-12T12:16:45",
+      "date": "2026-05-12"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Stellantis CEO says partnerships will be part of future strategy - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkh4NDN5WmtBdUN2SHR3aXhMWHpHUi0yNGJkdnl3eTFqQ09wb3FfWlowT3p6NmVFRDRxZVRDSFN1VVJiWnctM2MyQmN6ZVR3SDdEbTFkOUUwTjJQQjh3NUNZeUI4Z0x2WG96NkVkOUpBenRCemxNTFZ5ME82ZUUxQWlDRHhQRzd4U1haLS1IMGs5N3N5dEJtTXRZdFFfZ2dOT2hhVDFVLVFoUDNSOEx4d2xkNA?oc=5",
       "published": "2026-05-12T12:04:08",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "The 2027 Defense Deadline That is Forcing the U.S. to Rebuild 40 Years of Lost Tech - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVzRHcFp0dFpNOEtSV3pQTURxVHRGMmM2X1ZlaktxdzNQd3VfRy1BRmZoTnI0TnRpWW0wLVptaHI4dHdyelJ1WmcwdEw1R091OEFacjdRYkZva2FIUDZ5dFhORFdoNEdmbDFBUzhpWlBuSGZpYjVaMXZsNVRIcENjU2pEaENGd1BnRnQwemlaNTVnVmFpWE83WkN4RWU2bXpEdVFZNTBHU0NMSzAwNWpJbzV5Q3lQUHRBSURXUTh6aGl4Q1pBallTMHBESzdsd1Q2TVRfRk1GNHdhYnJjQWNjZ2thYTRlZW9WbWJkb0ZMbU4yQXdPdWJIem1SWmVuUQ?oc=5",
-      "published": "2026-05-12T12:03:51",
       "date": "2026-05-12"
     },
     {
@@ -789,13 +1853,6 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CTV News",
-      "title": "No deal yet in U.S. talks, says Greenland PM - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamxzOG1VQkZGalNaNGZRTGZ1UXowRndiWEstVFQ1QVRsN3hVaFlmR1R5ajBvT1d1dE5kaHBsanpfM280TnpfQ1h4MVpEZlZOMGtGZTRrVjB3SEo1UlowcmM4Y1NuZHJVbnVfaUlTSXlMRFg5U1JHSEs0aElSUnNUaUpHLXNobllfUkhNQmJvRFlmSzk1NlBj?oc=5",
-      "published": "2026-05-12T11:29:01",
-      "date": "2026-05-12"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Kuwait alleges that Iran attacked an island hosting a China-funded port before Trump's Beijing trip - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbFlLdUhqcnRuRml3T2JtUWpjRlU4QjFmWGg4UFZ2Y0YyeWlpLVlWbmdMV3k4QjlOak1YOEgwUVhBMUVEZnYxNW9QOGdOcDQ4SE8zaTZReWRwQ2FzLWtpaWRjbFZiU1ZKdjl6TGg2TnNYR2I5d2V1VkZjM3FZQTR5bDR5bHNDQWNUSXktaVAyOWk0SXJfTEZ2Y0dyaWRTNjR1eGJWQTcxUzNONl83ZlRjUFFfdlUwdEVaQmZYYWJ3V18tUTNSTjUwVjBQTElWQ2RTWTI5RlJUWHBiVVlTSjFfaUt6M3NUMkJDSWNPSHdZbGpQU0t5QzJ5OG81LUJmVkZiQWFPTzhrWFQ2RE1BLVhaTWtFYw?oc=5",
@@ -803,17 +1860,10 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CityNews",
-      "title": "The issue bringing a Liberal MP and a former UCP premier together - CityNews Calgary",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLUhpdV9CdUl4dURWN2MyNUFDVHg2SFlaZm1zaHhsNXZwVnVsWkU2UlYyUHBvcFJqMGRyQzMwcWxHUG5QUmVRSnloSU90a0VCNGdCYi0td1dCOUxxdC1pSlpnVFJUR1lRX1hPNWI0WGMyM3BPUXJjRW1xYno0bGFLQ0xQTFFvekxEYlZHWXp3VEZRLXgyVGIxak9IRUZxYXMtRS1kVUl5QWFnREt6WkNTMQ?oc=5",
-      "published": "2026-05-12T11:28:00",
-      "date": "2026-05-12"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Kuwait accuses Iran of sending an armed Revolutionary Guard team to attack an island in nation - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS0tQLWthdGxQWWhvT0tZVUZCaXpmQTVJZE96ellqelhLeFdRbG9PZGJWa0dFNGEyMTAxQVY4RFF5azZieFZjUjBCSGZZT0pzYnBsV2JFTEtQVWdQcW1pQ21qMDhZQ2QyQVhkTzFacndUSE5mWnV6QVNJSnFIdVM4d2dDOVVkS2loZXNCU3phRzZvZEV0ci1GZW5YbWxLeWQ5WWJnLUQ5clowR1lwRE13WGRNMTRhdHF4Y1U2UlhpcEhlZnlnVkZveTVVMkRuelp1TWtYNTlaYXBsc2xWdTZ2Mm5wUG0wQzExeTdnaWxqMnpZNHRoMWUwZkt0ZGtWUEtPNms2UDU3TDczRzRB?oc=5",
-      "published": "2026-05-12T11:14:38",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbzBDbjd2M0dyQy1YbEVXYzF2U294TlE1dEt5Si03YVJiTUg2OUo2S0sxZ3BuRjJKeVJLcnM1VVRwMHd6Z3lJRjVFQmRVRzdxRHNuMlAxR0o0a204UmhPQUhOM3I4NkVHQ2E1Y2JydXFHYnVlRFBDLTdRbFB5cHFIalI5eXZMTlRHbVRnU25INUJfMGtiRmlqdXV2S284aE5fblU3aEdTdUpDU2M1aVA4YUt4QUEyWEpBYi1EeWNLVmQ0amdVT2NFcC1oRmFkczREcnRVV1hYcXVKdkoycTBhSEFUSGdSbTlzTXFiT2VwRU0tcVVMT2R0QjBZTlpNWndHc1lsT1A1QWlUVWFz?oc=5",
+      "published": "2026-05-12T11:14:36",
       "date": "2026-05-12"
     },
     {
@@ -828,13 +1878,6 @@
       "title": "Dowries, name taboos: Asian Canadians share challenging task of preserving, evolving cultures - CBC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV04xcFJQN2p3ZEwyNHFoRkpqYlNpcHpHaFYta3dWd0lQY25pSnlzWnVZcjR5TzlveXdTZFJjRllZa2VLZ2pCUm9vWXRGN0wxcm00eXBMZl9ab3N1dl95ZzZxTjBNaEw5REY2VWROVmpjNE1lTFg3THJPRFVqOUVYY04zTTluLTBROWR2bzZjTzZvdw?oc=5",
       "published": "2026-05-12T11:00:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Kuwait accuses Iran of sending an armed Revolutionary Guard team to attack an island in nation - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV1JtNmxRNzUwSGJtRFVJRVJubW1sa2ZGOWp5OUhseVlaWUJIWDhMa1ZnRUdyUEJZeGo1czZxREE3dm5JT2E5ckhRTTVtU1BxTVBjaGVtTVJ3NkVvRUNFYkNnR3NTd0NhSmQ5elVKa2FlM1p6US1FY19KRVN0M2owSXBkN1VYUHI4dkFIeFptVVIyRTduZnlLb1B4SnhtSTVTcURPZnBsLV9pVkYyRUhPVTd0SHkzaDMxaTBnc2pFdEVEam5sTDJCa0tWanozWEhsMDVsUE5pTkpfXzM5bGJKcUY0RG1LNXVraEVfNDNyaVFIV0QxWFRZZllmakZadmxFWnZqN2lMZjRISUk?oc=5",
-      "published": "2026-05-12T10:52:23",
       "date": "2026-05-12"
     },
     {
@@ -866,13 +1909,6 @@
       "date": "2026-05-12"
     },
     {
-      "source": "CTV News",
-      "title": "Bomb rigged to rickshaw explodes in Pakistan bazaar, killing 9 and wounding more than 2 dozen others - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHVuVVBFWGFXaUk0OUhFM25yT3gyYU82UjJ3MEs1Y2RSR1RXd21yZFBXWUt3WTZHeXc1UFZXRTJmeFFOWE9ya1J2Z01Nd1BCZDdVTFpJR19sc01GNGZxOG9IYXZFdWZnR21BRndVN2VYQU0yaDlTQW56ZTFJQjFHTGwwdFZ4d3g0Q1RhNkNXbVlZUkJ6eEk2TjNmRGxibWtyNW5WUmpORlB3S2ZnM3QxWkxkcVlhX1IwZktFQlh2ZGRJUTBLb0hLTFNWZENuWUdNQWlN?oc=5",
-      "published": "2026-05-12T10:12:54",
-      "date": "2026-05-12"
-    },
-    {
       "source": "CityNews",
       "title": "Poll shows support for LNG pipeline expansion - CityNews Winnipeg",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjFyeFBxdXdvSGxqc2pjNW5ud0FEeGV3Zkp3ZERGcE5BeHF3MWZXSjItN1NYd0cydlA4Zk56V0kwbzVxMXVqdmc5UVQ3VUVWTU95aGhsSnhnQTJaZWJ1LVVzYmMyWTVBcEJzTl8za1Uwa0hleUlPRWdyTV9yeW5JUURqbWNBc2luNUpxUmNYMWxnWGE3NjI0?oc=5",
@@ -898,6 +1934,13 @@
       "title": "Tech Rally Falters as Oil Rises on Iran Stalemate: Markets Wrap - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjdtVlJjcnJVQUVZdml3NTdLTlR3aldDNHgtWEVKeF85Mjh4Z1JnZW80WlJDLWppTVkzMDlRbEVhaUhHMllqaW5Kdm5EcFdpcEpTb1NsbU1UaV9PVHJfSHpLdWYteVV3TkhnbmlCS01RWmtpX0UzVU9xVTFReTNRTXY4ZEF2WFVBQjdTVWJoMnI3cUJrejI2Mk5DcnNSdEVMWHM2WDlB?oc=5",
       "published": "2026-05-12T10:04:29",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Canadian intelligence officers visit Quebec company after sniper rifles turn up in Russia - Global News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxaWYtU3Z1dzJVZVVXTTVhNS1IMXJnM1pPc3dXNFhLaV9YaU40STJTdjZfVlNsTUpiMmZiM1BzbFNxMU5Tb1F4M2dLLU9tUkFJczNsVzdQRmdRS0ZBVzI0Wm93VThoQlFXZHNnOS12Qkl1VlA5QUFlNw?oc=5",
+      "published": "2026-05-12T10:00:44",
       "date": "2026-05-12"
     },
     {
@@ -930,6 +1973,13 @@
     },
     {
       "source": "The Globe and Mail",
+      "title": "Oil prices rise as hopes of peace in the Middle East dwindle - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2lGbFR2Ty01cUNrY1dlSXJkdzY0V2FManFjVTBQQndwa2hUWlNPcks2ZF9DN0I1X1dYNU8xUHVOc2tjSDcwVlNTbjNQdVVybGxKVlRmVGxzU05YUjNxczZzSGZwNUZkelRfQkJ5RVd1WlQ3d0I3SGo3X2ZVajQtcjRGNFBfNDc1VXlaSzNmRlgxMVFGS2pvZDNfa2ZndUw0VGJULXNJMjREZkVJczRYMENJRUx6Uncy?oc=5",
+      "published": "2026-05-12T09:38:10",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "The Globe and Mail",
       "title": "The Zacks Analyst Blog Cummins, Suncor and ASE - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVNmQ3QyV2RZR01pUXlmdnVLTGtEa1ZXRzhwdE5taFd4VU5rT2U3TEM5S2preGF4aEszZmxpTlV3dmUyV0NqN1hSbkdGX19mMms2UDZrVFBWRTF3ZzBKdXp2eXlWYjdUSktZVUVUcUNISGtidHF5SlpYeDhCV0NkR0l1MUpBOV9NRVVNd09hNEcxMmJUUndac3h3UTM3U0hkcG04MjkzSVBYSHc2SGxWdW1VZEJXeVhwOWlNYnEtNUUwQmtVTU94eA?oc=5",
       "published": "2026-05-12T09:26:57",
@@ -953,13 +2003,6 @@
       "source": "CTV News",
       "title": "Human rights advocates sound alarm as court documents reveal extent Chinese police harassed Canadian residents - CTV News",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTkM2U3RrZFYwYWFLb2lqWWNfNmpoTFN5WVVTY19NUEwxZ0JJaUZPVVBsMm1uOFlOT2lKcTFjTGE0ZUZXc1Z4S1E4VTZXQzQtSWQxVnZxbkZCdXdmc1BCZmlzeE4xaEF4d0RrV24zenNybWdlQVJHb0UtYTE5bXB6MUt6VXBvY2JPQWE1bUh0bkZsckNaVGJvQW5lZ2Y5RDRJakVNSjNxOTh6LTd5MXZkSng0T2RxWFV6WWJoRmc0Qnl0dmpERzRqSmpNZXlyTEZxbi1FZ2tNd0lSRGpIVi01ekpQRQ?oc=5",
-      "published": "2026-05-12T09:00:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CTV News",
-      "title": "Human rights advocates sound alarm as court documents reveals extent Chinese police harassed Canadian residents - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS0tRMVpJcVVINXBDampGRDJ2ZzNjNnVQUzlaUjZ0ZVBxejdRRGp2c1k3YU91UnlHcXA4aHF4YzdPczI1VDdGMzlJbjBwYXoxdDF4NEhOb3V4aVc4M0t2UFNPTFRZUjdKYl9yRnVFZVJCWlNteXE0dTdtSG5UbXB0VnNXbWFZWEtSdWctQkFlR2c3WG5IOEJpZ01jQUFDQmd6ZTZUNjdIdVdiWFN4ZGV1ckp5OWxqa0pOVmV3bE9xVDl6YzVnczJDRjQwbjBDZVljeThsTHlHazE2aVRXZTNhdUNidlQ?oc=5",
       "published": "2026-05-12T09:00:00",
       "date": "2026-05-12"
     },
@@ -1006,6 +2049,20 @@
       "date": "2026-05-12"
     },
     {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkZSUkswYXFveV9jU0FOaWM1RzkxdzlfOEdoVUdoNmhJR2cwZUFtbjZUSlV3WHk2NXJCWmlCTGh0bUF5aXdkeGFEMXM5dE9uNGpoV1BOUjd0T0hKLTRYdHE5RnhhczNwcV9xblhJTUc4OTBodUdZaFdKR2wyc3Q0d1AxeXU?oc=5",
+      "published": "2026-05-12T07:52:47",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1pfRGE0bjRQd1Q5ZWhuOTNuWUhYbUdzYnEyek1RRXFIU0FkRTZzaXBTVlN6TFluZlBVU0o4UUpTOF9qRTR0bVk3emxneGhsY2tSdFZQWEdxcFViVWtqdk1VWE5tX2J4UHRhX0YxSnVVb2lSdUU5SFFJdXF3LXAyanZabVg?oc=5",
+      "published": "2026-05-12T07:52:47",
+      "date": "2026-05-12"
+    },
+    {
       "source": "National Post",
       "title": "Iran war, Taiwan and unresolved trade tensions all likely to feature on agenda for Trump-Xi ... - National Post",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDVSY29RclBaVnpkeW85Z1BGR0ppem1CeWhSQTJ5NHFQMTQzdFVBVjZvU0k1c1RMeFZOem1tZW1qU3NMTGhmY1J4TkM3MmtXS3g0ZDBjUUQ1eVVPSVJDYzZPb1p4Q0NMWHZhRVZNM0dsRXVGbEhvcUNlM2tCYlpabU0wU0M3alNqUzNxZE1HYzBVVlRXcUVka21jM2FLVTN3RlJ0TUhWMy16TU5PenlrRnBCaE54cGJoTDB0LUhwaUhkUkoyTEl0eFY0d1JOaXUyVnllcTY1MmxpTVVRNno0YUFSWWlHYi0wdngzVlRKdw?oc=5",
@@ -1027,10 +2084,10 @@
       "date": "2026-05-12"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "NextSource Materials Announces Final Investment Decision for UAE Battery Anode Facility - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcWpNT0Rsa3FwQzBrUFoxajd6ZG5SOG5tams5LXBvdnJzM09seWRLVXNFaGtrMER0andNYktiMng1UlhoSDlMXzU2ZzUxVUZCazhVVWx1c0QwM2Z3M2xwYk9FNHhua2dFLThCbTFIWUVwZTdFWmxydDhMVHhua3VTRzYzSGUyRWpiT1VFbEJScVNXVWNFeEpBUmI5dGoxaTJscFJKVzlUSG01Z01GbDFtQlpXZHpsVnhFSDZQOTRwaW9iSUVpSzJHdTNCTFFoZHZQN3JDbGZBLVZCQS1jOE8zek1IQ2FiOEZVX2JPT1pJUFRMai1nLXhvMTVjeGV1UTJfRjYtNmtoZVg?oc=5",
-      "published": "2026-05-12T07:00:00",
+      "source": "CTV News",
+      "title": "Investigators probe gang links after 2 teens shot dead in B.C. - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUURmT0RQa21KX0c1bWZYMzljYnoxel9lcDJudi1tNHhaYmstRGhXb0JYb05fN1dmTnRKczZ0azlIY2RVZlYwM2xzMG5NOEI0TVlyeDlwM282cnVFOTQ1NVBVekRlUEhxcFFEQnRtaHd3eU5JMzRHanZmV1NZVU9CYk45ck5JUVBxMUt4Rm9CNFVzeS1RS3hWYjVoOWRhWWRXNFhUYzA0cFVLZVZORjV5Ug?oc=5",
+      "published": "2026-05-12T06:56:03",
       "date": "2026-05-12"
     },
     {
@@ -1052,6 +2109,13 @@
       "title": "Xi-Trump Meet to Extend China Markets' Trade-Detente Rally - Financial Post",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckY1end1X1NtUElQd0tsdjJmeDZRLUk3U0hpT2hCMkIwek00ZXlDT1VteUpoTnJodWFZYmpIT3VNQUtzRUNNUTVlV01RU1VlYTRkM2RpMVp5QkNXT25lREtIMmk5LVVYX0dOWnd1OEVMaFNWVHFkNVlpaHFLM0s2ZTdMdmM1elhVaUptczNVME9Udm53djZnWmNyeE1qNXE1Q3c?oc=5",
       "published": "2026-05-12T06:12:44",
+      "date": "2026-05-12"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The 5 Most Interesting Analyst Questions From IPG Photonics’s Q1 Earnings Call - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbVhQVHJScXVLcTl4eFNGeWwzVi1JNDhuX0pPODhTV1NOaENwVGZMUGllbE95bzg0QXA1emp5ZDBncVRCUGtjVER4eFZRUHVxRGh1akhKdktnd0pWRk5Oa2IwMTlUY2FSRjM2NnJnQTExdmUtdlN3ZXBqU1gwTEVvVlhYMFh3MzBnN1pPaHU2bmg5RFpWNHlTTGZSclFxOFc1M3ZpQk1VNjVvZFRlQWpwbDdLSjNacXZZbnM3YXNuNFFhcTlCWmRaX2lzZXh4Z1VEaXp2X2w0aG92M1lBOXJpeGNtaXhwQXBGN0IwX3hhaG1FeUJ0?oc=5",
+      "published": "2026-05-12T05:45:00",
       "date": "2026-05-12"
     },
     {
@@ -1087,181 +2151,6 @@
       "title": "Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - CityNews Halifax",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTVpOT1VaNWc2SnRMZFp4SlBKakRnenpfYzFEX1hwTnJPai0tOWZ0T1pvX0dSZjkxeC1kRHkyd1R5NTBpZ25fc25RR2JHYm9qSngydU1kVUlldERhZElaUklkME5TX1UyZVdCazJ1ZFphQndncUQ0SndFeTVnRW5YWVRRLWlBTnJLSl91b2RFcFA2eW1TLVdXV0M4SHBPcXN2OTVFUmlLaUNvUkpIZ3ZoWjY0QlVTQW5QVEZiNC1BOEFvem1YZ0FmRjFlaFNWaU1LMjZ2OFVrSQ?oc=5",
       "published": "2026-05-12T04:31:57",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "Financial Post",
-      "title": "The EU's Commission Chief Is Increasingly Seen as Too Powerful - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUVCa1o4RnU4c2ZpeTREMWZUZ3RsT2Q1bUk4VEhpX1djODlPR0piSGxwMW5Ib2x5UDU4cHRBRzQ5N1Q2RlJBUW81WktGNWt0VE1qQThvVVJZMlFMQTc1RGFJYVlpeGtLWjBRRFREcDFTd1Z5bUgxa1JuRDdrZ2VnaVowSFdicm9hWEJjbklxc0o2QUNxMy1tQk5IeGtZNTFDOUlPZXJPMA?oc=5",
-      "published": "2026-05-12T04:27:11",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "AP News in Brief at 12:04 a.m. EDT - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTkhpcnBkS1B0QktXYzFvSlhqOFN6MjVPTVZkR3RQczVuX0FBWjFILUVoczE1TWZqMVNsUWRWeWlyOXhDR2dxZmdkZ0Fiekh3WVJ5WGJhZmdGS0t3bWc0RDNFeE9MNWhPSE11QWdPcE1ITEo2cUhnTVF0c3FfMzNDOUpCMA?oc=5",
-      "published": "2026-05-12T04:25:48",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "Asian shares trade mixed after Wall Street rally despite Iran war worries - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGYxeldqM3JVRnB0bjRzNmx4VHdKWUhOSUdoejZEdFdMSFpZUzZ3ZE4yZDB2MUtibm5WT1lyLVhvSXE3YVhlMUZrSG5VUFNWUTZHMUJOYVEtWFdSU3ZRTzhpa0Rja3ZVZ2Rqc21UMHNOUDFtejBNQmNMbDVYblFfTjFFaFVlOEpjR2dpYUttRy10UVVKQjlaZ3FkNWZoRHg1VUtfTlpWUWVXOWVzWjM0TEhPMA?oc=5",
-      "published": "2026-05-12T04:25:22",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Asian shares trade mixed after Wall Street rally despite Iran war worries - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRTlqWUFueTRuV1pWYTFiNE9EUF9Od2FWS2tZR0RXenF3LUhtaU5JVWJKTWx0ZFJXRlRCSGprOEFyeTlObGlHdFY3NFB0Qjd2TkdCNnE0VlU4NHVVd3QzWGZSU282cjZkbkhpQ2EzV2QzQWg3d0o4TURSdlBuS1phQmNaTllMYUNYSFBncjJPdmdLcHRpLW5ybDk2aWtQTkJZWjNCc1NkbkRPZmhlenQxTmRaeEktbVVMbWFKenhGcmNBSVphYlVaT3lXRTFPT1g1cTZucEJ3ZlM2bzlRQTFoLXQ2dWE5UVcwUU5kMEtVX00?oc=5",
-      "published": "2026-05-12T04:20:58",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "Financial Post",
-      "title": "Copper Steadies Near Record as Trump Rejects Iran's Peace Plan - Financial Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObS1vdnNMRER0WFctTUxBX3lVTEJDX05DRFk4eHVVaURZUUt2SVdDZjZjT3VfWktrZnNkdmE4dnp0OFpTRlU1cEViVmsyVTZZRmZJOGNyenVQN1B4cUlkMkpyOUpQUVhhZXk3aG5YVmhHMmdUMlh6cW1iVEhVREZYdFNWbFZpQnRUckluc1pGcHg3TE5PaUxQVVp5a0UySnA3SmRNcXVBYw?oc=5",
-      "published": "2026-05-12T04:16:31",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNEtjaWhRR0ptLWgzN0J6TklwTTZXTEVoZl9BWHlaWG1aN1d5dG1rVDdzMzRvclB0WURYZUVZbzZMRk56TEk4M0hIeW9ueUQxZHZZVWdMU0hkYnhiTGxJdl9xMTUxVzc4Ym1BMU1rTFFNWDNNRW1LVmRxaGVxU3M2VTczS19BaGRzbFk2S2c5QjRjYmIzUXM5VnV5Uzh1ZGk0NGl6NGVOemU3U29YZHAwYWdpa0Q5cmZyRVZxUHhuUW1mMGlubmdOQkZMU2xpMDJmY0pkaW83QnRaQ0pfUXVHMFV3dmgwaFBEYS00eWkyR1JfX1V6Z0tPQkJzV1MxQjBER0Fkc21NWlI4V2lCaFh5OHRLT2pUUQ?oc=5",
-      "published": "2026-05-12T04:13:43",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "National Post",
-      "title": "Frustrated Trump learns he doesn't have all the cards in Iran war - National Post",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lcGl1d2hiWkZpemtJX3licTVFd2pkRFRzMlMwZlB2NFRENDRidkVVZ2hUcUVYQjFia2NoSnZUMmg0VGE5aXdZSW41X3h0dktsYzk4NHc0OTBRWk84cDJQaHhhYVp0dzlk?oc=5",
-      "published": "2026-05-12T04:04:42",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxObTR3YWwxclp1eU50RDBsN0lkenV4SkFhZDZnbk9WZGVBU2Zmb0VONVVpWE1WOHBlZU1KTlBocExoVGhLa05sc3JYN1R4eHIzRnpHd19PSTQtUmE0WTlBR3JucE5LT0IzY2xDaWMwdzlXVDRNWUZtSjQ0VVJubEEtX3I3cUVJcUNmU1VubllhUEtpWWF1ajFzeE44LWtGWkQza3g4RElUNENfa18xM2E5ZUphQXFNMGE0UU1JN1lEYndwWFlLSHZYX1pRZ21iRWlORElCUVhFVVF4X0JQcVZkb1ktN19fdmFRLWZSWk5qelFQRG95UnZ3QkgzeU9Balh0dXVkcm9FZWxfeE9BWWIxUG51eHdyNGRqMElDTUV4VQ?oc=5",
-      "published": "2026-05-12T03:50:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "National Post",
-      "title": "A Different World sequel wraps filming in Atlanta - National Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelo5NnZSbkUtdHlZN3dMamI5cDY4ejdoUGNFM0thSVZmdWZuaW1QSUJRcV9YMDc3cVRYVGN3NU9GNmExcnJRR1lrOTRwZFhydl9yTEd5VlNMdWQyVzRGNEF6Q21nUmpKX1hGMFBPTGlrZV9ZSGNNXzFwREd2YUpEX192dGFQeWVjeURUMjIyUzRJMm5uYmVMbjNLWjdPdnZh?oc=5",
-      "published": "2026-05-12T03:12:06",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CBC",
-      "title": "Monday May 11, 2026 Episode Transcript - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEN3VkdPUHc5Wkk3MXhXVGNwM0hFVXZNelpuUUtyX0owdDRwcE5FUGMxU3o3bGtuQnMxX1RpM0ZUajFfa0RuR3p5NTVuY0JNOEZhb1p3NVFMSExhRFBKQ1pkTVRDWjdhUmZiLXpBRnhyNm1jNVBxc2dxRjhnTzJYNy1LYmEtRUxZcC1z?oc=5",
-      "published": "2026-05-12T02:24:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "National Post",
-      "title": "Trump says he will discuss Taiwan arms sales during summit with China's Xi - National Post",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zXzBtTnd0QUFndU9CTldLVG05NllUclFNYlVOeU90TE56Rmtqb0hTdVFySFVTMEJILThuYmNkbXo3dFdvWTB1SG5qOWVDeFk4SFlZbk9BS1RWSmp2QmFMak9wYUlxdmJzQkoyOWpKcmhuempSRlBR?oc=5",
-      "published": "2026-05-12T01:45:48",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CTV News",
-      "title": "Web Summit draws startups and tech titans to Vancouver for the second year - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTZWRE5Od0hjS0xuRXhwZnFjOW9ZRHlhSmthRDRVcENtRmctdHNpTE9XdUNWcmp4cXdia09ZRGQwSXdCanFfQ2t2REw2LTdoblJBbDlxcGJYbDFrdmNkZVNXR2J1ak1ObVE4WElkN090RTR2OTZnOU5UTjRJem1PazQ3UlZHRG43VGtWanZqSTVPMzVsRHc2T3lGd2F0QmRKMkg5OFB3MlJfRUk4a1lPcjhYM2xHbjg?oc=5",
-      "published": "2026-05-12T01:44:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWN1RF9jNXhhSmFxYVlPa0JpYXFEQVJINmlaVFZ0VGdPQVY0NjRaQ2JTSERfQm92a3NBSjlkMUdtM183NERvcS1rWkhyVEdrSHZaYW9aN0V5VWJ1dkdkbDVfMkY3VUNoc0VRcWFNbzZNSVBMOXRkZnJDUkh4XzdId3N1NWhxZ3lFZVZjNnFHb1ZaX3BQdTVLNzYzSlk4N2dZUjBUaFRSYU1RR0l1RVppbk9DOVBGdw?oc=5",
-      "published": "2026-05-12T01:31:22",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Nuvation Bio Signals Durable Momentum in Earnings Call - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUtiMDllVHNnRWluaTJTRUYzRmdEOUVNX0RvcHg1bG1kT2stSWJtdGRmVXdVQ0phNng0RW1LOHdrcmtaaWFvVFRSMEJhYUFjM0d6cmpIUFhhMndGTWRkY2l0b3dYMngtUW81VkdoR3FBejJrdVdUazFudUNZRk9TX2dLUlB0X2JpVU5zdnp2dkQxRXVTejRSaURTU002Z1BGOWxyN3ZCalNJYzBTV0w1OFpTbDBzN3Z2Z0xVdk8wVkp0N3lwbnJwTjJDQ05LRHBh?oc=5",
-      "published": "2026-05-12T00:58:05",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "Trump and Xi dialed down the trade war, but challenges lurk at their China summit - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3ZIUnZXS3c1aFdTeFp4VkFEYTJYMWZUaU15djFXVXlJbWJ6dDU3LUotcXRvalE5cWJiX0ZtNk93b254ZkxQU3lwVWw4VDFOY3h5b3o5WnlKdnhlRkRjaTIxTVFqUmcxeEhGdEpzaWpUOG5IOVpPa1FzWTFNQXNYOTRqRVU1OEpVVkFCMzRjeG0wQzNic0RDbFBkTWZBWjVxSGg2S3lJRE5Ia01JUkx0X3E4cDYtMnlOemFJSVlMWQ?oc=5",
-      "published": "2026-05-12T00:49:06",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "Ottawa Citizen",
-      "title": "World News, Global and International Stories - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrM1JzVFk4T05YTFl5V19IY3J3WEk2Qm42RVRzVmhpZWlnTmZMdDh1UFp5WlItTzltbE51dWdQanRnQXVyMXg3aV9DZmx3ZHBlNGFvbnVEVzFmdw?oc=5",
-      "published": "2026-05-12T00:37:29",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CityNews",
-      "title": "California mayor resigns, pleads guilty to acting for China - CityNews Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzVFRjNyVEhoR3MzU0VQTEhCMkpPN2xaS2Z6TWxibUtkRWJOdTk3MmNkTWhHTUd0Q21GWV9aR05FU3lkbjhveEY3cXNWRjU2MkNXZDkwdG1ialpfWnhLQlhsUDZuUkpFQXE3NDgya3Y0YXA3WGdjQng3dFVHYlRKZFRxYXV5ck82c00xTXN2X0YyaGJZSGJobG56cDdZeU9lOUUxMGVFanB0bE1GeTFFa0NXaUFiYWVrdW1Ccg?oc=5",
-      "published": "2026-05-12T00:32:18",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Hansoh Pharmaceutical Wins Breakthrough Therapy Status for Esophageal Cancer ADC - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXVid0U5YXk2R0t4cDByaUpUNTFJYWI2cTN6Wk5kb3dlYXBoM1RDRTRXNDVvdUZxZGFjZjFrMVp5Mk9IVEJjdGlnUEZ4MzFkQkRacE85UndPV1QyUGstU3Iwc3lsMFFKNnFpSmJfaWtfVVBmNU5GaXgxTTJZV0lqM0JTU3NjZkRiN3R0bkhVN2F4eTBDRTNQY2daWk1jaDVUSjA1WUNLcERQR194Nk5uZnJvSmJNRzFrMlEwZXlEZG1ib3JUZUEzZUcwZURJcElZV1BrRGlTVm9KSXA1R0dzTEpCem5CTW56eWZwQ0NtUXloSEk?oc=5",
-      "published": "2026-05-12T00:25:22",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Wenling Zhejiang Tools Trader Updates Final Dividend and Tax Terms for 2025 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSVV6d0JYcUY0ODVxM19Jd1puQ0E4ZnBKMXMzREFCbC1yNlJtbUstMGU4bTF4dWtMNDJVTF9haUYtbEZPUTF3dEUxRXZuamRnbXpOS0FJLVhIMjctb25qMklNWlVEaVRJdndqd3NGRWJYejVwNm1FeDhFY01uLUhGSVU0LXFKenZkVDUtcTNMUFlTTXl3QUw5dVBNUnpVR3R3MTNwZ2Zhdm1LY2wwMzFkTENLZ2hGNlNZTlJPUTlDYzRWX3BpOTAxbXJvNVJIUmNOSzZfT2dhek1WV1NzN2pBSDR6UkVza1N4NkRIMg?oc=5",
-      "published": "2026-05-12T00:24:57",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "CStone Launches Nationwide Supply of Locally Made Pralsetinib as China Sales Surge - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRzJfbTdmUFQybllXVUk4YWQ4NEV5VHlJUXREUWRGa2FXeXlxVHhEYXQ4NzE2a3JNS2o2Q1RqTy1palExNlRsTlhDbVZFRksxX3NicC1jUTMwNWJZemdqcGVuMDRXSktPell4TDFlOWc1eHdSb1kwbkdCWWs5aDg4bXZzekpIME5lMTh1emhLampHdDVQY1VWVWM0U3REVW5sVUQyeGgzTDJlWUF4QnhwQkZxUnh2eDZEWmZYZF93VHU2R0JGeUFWakFyRVdvLXlwdFJUSmlWVDZXOWdJWmdDMW5sa0FoRDVwZzQwMmxJZ3pHS1hRSEE?oc=5",
-      "published": "2026-05-12T00:24:56",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CTV News",
-      "title": "U.S. mayor resigns, will plead guilty to acting as agent for China - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0N4UVZnYnpkNnFfWUJmYzZTM2VSZW14R3czRjRDMEI0bjFyT18yaUJpTDFPeEhIWmh6TXJKbmU5ZWdVOVpoemdtdzdid1AwdUZaQ3k1amlwMkhGZFBpcEFCLWtiZmZxV0FmUFJKTVBVNjdhUzlzczhhT1hINGZLLTdhN0tYeGM0dE84QkxGTk5zMzlMSmY1bUdNaXBrN1ktdmF2SlVXUUV4eF92NDJsWHhsdGdhaDhvckxUUEtSX01VenI4Q3FvR3RYbw?oc=5",
-      "published": "2026-05-12T00:23:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CBC",
-      "title": "Unifor to begin bargaining with Ford in June as it seeks model for new collective agreements - CBC",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQU5qUHo1bWgwZTgwRlJrN29TZS1TM0pLTlR5emZjS3FGZzJkWE84ZTczUjB3U0owbm9WaE5Uam1fdkFjZkUxcklXdnpROFQ5ODVuc2dORDA5bkVzcTBXRFpwWldSZzlhNkJ2NFVvbElCZGxFMV9sWGoyZGhYdlh0ZHBmWU9wU3NvTTQxSDFOOGtGcnc4eFJfT2dBMmhaQVF5V3BRbEc2WWh3WTBqQ2laVnZ0dUQxVVJKTnpVeDdLWlZUclBnNG40Smc0Ymd0MFdsMnltckp1UnQ?oc=5",
-      "published": "2026-05-12T00:22:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Southern California mayor resigns, will plead guilty to acting as agent for Chinese government - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHB3bXUtTUh4N2phUXRwYUFUVTh4M1c5cnVFakVXbmtDbjBndnVzSGl0d2M4M3BiOUZleVVQZ2o5V2JkWllEbXN0Vk9NQnZ3cmpfb2VzVXFfLTBnR0dRRGtPbHNMdjV6cy1IQ0FnSUh3Z1FrTXVET1V0eTlGWTI0eV9jRkZ3ZU8wMllibmV0MDJwXzhOdXRCcDN2d0NKUTRY?oc=5",
-      "published": "2026-05-12T00:18:05",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "CTV News",
-      "title": "Trump and Xi dialed down the trade war, but challenges lurk at their China summit - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMlFvS2dsdFhnTEltLWFjZFpicDJLTVNUNmRIWnp2cC1YWEIzUlhneXZkYTRlejhMOGI2b2dlaTNXT3FaQzBoVEZZVE1VYkotTm9PUDByYnpvVUpOSmpKa0hLVXc3RHNUd3V5QU5uTWtFeVpjTnpUVTdObl9faTFpLTlEbmZ3Rm56S3UtSmVnSHQteVc3SkZiOUV2VmdLMXpkTnc4Y0piNFV2cEluc3NsR09ycjhfVkl5bFpOWm4xRFlQeFAxbDJ4aE5yZlZkUQ?oc=5",
-      "published": "2026-05-12T00:17:00",
-      "date": "2026-05-12"
-    },
-    {
-      "source": "BNN Bloomberg",
-      "title": "Trump and Xi dialed down the trade war, but challenges lurk at their China summit - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnZnV2FWMGxzcXhpZTVEdjZtLVZoNWR3aUNRZFRBdkxyMzlfQVhvUGdVOEg3ZmxmU3JMZjFIV0E0VVhJQldsUkRtTk9XcDhRT2xWSmVFWmUwTVFKWFI2N3BESXRRa25hSUlyaUt0UFExWWpjQnEzYmNKUTh2anpyVHB5WTZtaHRIeTFhZXdwS0ZWOEJSZDBjaEhabVcwMVhRbGhTSDB4S1kya0JjYXRMem0xVkpKSU5IT3VEZDhYSEJtWWhvRFBB?oc=5",
-      "published": "2026-05-12T00:17:00",
       "date": "2026-05-12"
     }
   ]
