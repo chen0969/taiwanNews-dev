@@ -1,70 +1,623 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-08-31T08:27:38.075859Z",
-  "article_count": 82,
+  "updated_at": "2026-08-31T16:22:33.774063Z",
+  "article_count": 129,
   "articles": [
     {
-      "source": "Ottawa Citizen",
-      "title": "Canadian Forces co-hosts major military conference with U.S. in midst of trade war - Ottawa Citizen",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjJCby0wWmFQbHNZdEJqZGcxWnpJaDVjM24zMllhMi1MNjF2bnRLUjR6MWdjWGhYRk82YV81NnA2YnNxU3ZHVXczbEJwckQ4bDFULXh6ek5NSi1TTWN6cjZMZkxQak9tVG91alJJQVkxSUxBVG1CRUFUY3lIMkQtbk5HQzJ4MTdfVnFqVEgzWDEwZk54ZDNB?oc=5",
-      "published": "2026-08-31T08:08:56",
-      "date": "2026-08-31"
-    },
-    {
-      "source": "Global News",
-      "title": "Doctors caution extreme heat risk for heart attacks, strokes - Global News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMkxqYWZqSWdiZV8yWXRlQXRldTJPTnM1d1F1VS1jVFZUT3pjeWJ4bmowZlE2YjNJbkJORF9tLUxuWnBQeEMxdDYtek4tTVNQTmlYaGN2RklPazdYeXdhYk1iOXFVZG5KSzZ2Y3I0UVZvUmxQV2JrcUlQVmRVdXVFd1VZZy1nVDkxNWwwMTNIQmt1b2ptYmYtWFpSN3BwUQ?oc=5",
-      "published": "2026-08-31T08:00:00",
+      "source": "The Globe and Mail",
+      "title": "Can International Markets Become Costco's Biggest Driver? - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWdWdS1VVnZ4WnVsV3BvMTZBQXQyUkFCdkFlaWxQRHBCLWN6QXIzTWFadVNBSkk1QzFUNXNGSTBtTl9xck9ETmtOWFpZS0JUY3hVVFFQQ2NBdDY3SHpNczJxSlIzZm9Wd0VXUnpQQS1aeDdMQjVUZERjRURyNy1RSW9KT1BTeUcxXzhCX21hczREdlhjaG42Q3hKbmRmYjVGZUhHX1N6bDI0YmxTbGdSYW5fRm5VcWkyTjV5bkc0Z092TnhNbmh0NlRZWnVNWU5YdjR6SEdLRQ?oc=5",
+      "published": "2026-08-31T16:12:17",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "Analysts Expect AI Capex to Reach $800 Billion in 2026. That Number Could Actually Surpass $1 Trillion. Here Are 2 Stocks That Will Benefit. - The Globe and Mail",
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, ExxonMobil and HSBC - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY3dHdVhGYUE3elFkY21IZ1RHLVhjeXlsSS1OcC00SmZ2bWZ4YkpOXzR2cWwwRzBHNHl0em5RQjZyckNfNi1fUHU0SUpSVWY1aVZCN3JZZXdaOUdQM0p2UUdFY1ZOYlRUOXBNNnA1TFZNa0M3VFg5dzQ0MF9VLVRESE4xS1k3aFVkblBGUklwZ2EwNnpoX3BnVFJJS2ZGUm1DaGR2VEdFeUw5cHFQTmp0dVlZdDJfd3RGTXhyTnpLcGdweWxqVFVBZUhJMFFEcXNoanRmTEdRYi1MSk1q?oc=5",
+      "published": "2026-08-31T16:11:33",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Back-to-School Tech Picks That Parents Will Love - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2ZIaW80SlZ3eVUzSEJUUlNmU0ZmQkNyMmd3eE00dGVTNjlpNzAtTFpDS2p0cWdyMDJFcXNUNDlsUDlkbXF5a1lDVWxoUy1aTy1GOThRSWRzeDZGQWg4b2xjXzZsRTE1Z0s2b3QwXy1XQnVmWkFvV1JjcWhwblZ5MXdrYWxET0x0c09WdWw0OA?oc=5",
+      "published": "2026-08-31T16:07:18",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Start your engines: Tom Cruise, Anne Hathaway tease ‘Days of Thunder’ sequel - Global News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ4WTNHTVUzaXp6dTJJM1BpeUFPSEZfQk1BbjJXR2Z3eFJJbFZGM2RBaFozUUVweDluZW9fbXRkNVI0MFZuT0RsbG56dmhPRXhQVkpwUmpuQVhtU0N6bjZyUFU3YVZoaGZILWh3bnFjYmozU0RkbVhXYWNNbzhqUXVkalgydC1UTE16a1FPdnZOeGsyNFhHM0ZrdHVYTWRSY2xfS09GNTRDSklwekFZ?oc=5",
+      "published": "2026-08-31T16:06:25",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "France takes aim at ultra-fast fashion with new levy - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmN4WGJORWN5OEZQaUhUbnRMVkZkNHF5S0tLWXhpNXpEaXNiYnN1eE9ibDR4c0ZTLUFfdE1IQk0xSDdRVGdFQVNwRVNjekhwWHlSTDMwd3VpSXlHSzR6SHN2bnp4dG1RSTkzTS1CS2toeGRmMURMSmlXa1Y1MTBVVnNQSXpHLVVWTkpVRllzMUZiMjRQUG1rYmY0akp6Nk9UZDZjcHRaN09HZTM4TXNXWUhKNXlJQQ?oc=5",
+      "published": "2026-08-31T16:05:37",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "The Morning Show: Aug 31 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCMjBkMkFuMXM4RmRZdXk5WnpsTVpnTkc3M0o5cWRjLTF1WDdVLWRhYTJTRmdRcWo2VG1YV1Y0dEt1ZFlOWEt4dGk1R0RmTmNxVEdraVhZNEY3TVQ5dFlHUnplV2drajF2ZUprdDhlb2I?oc=5",
+      "published": "2026-08-31T15:59:33",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "The Canadian suspected of spying on NATO was denied bail. Here’s what comes next - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdMUDhOazh1dmFaSGM3MWxBczFPWjMxQllNeDUzanc0S1pydVNCRndMOEhnUEZKR2tRODV4c0xoX2FOeVJQU2tRS1FLejZwcVRHenROaElSRllDRWNBdlk0OGdfZ0xXNG8wWE9wNFFoMjQxcGwtb1FnczZ0bTZhV3B1WUFHYXFwdllhTnZlQ3lVSEg3UU5WcXljUQ?oc=5",
+      "published": "2026-08-31T15:58:40",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "1 person dead, more than a dozen missing in Grand Canyon flash floods - Global News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXb04tR2Q3Z3IzSlFsVVloYnVPMjF2MEktclVtT0lPY21hd2oxVUk2ZmFLVWc3Z1A2VzU3blhjVWh3SE5TQVNpbUpQQUpVY3ZFZGRpb2ctZk45a0xFMXF6eHV2T2lBTHVCbGd1WlFWdw?oc=5",
+      "published": "2026-08-31T15:49:15",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Amkor's Global Footprint Expands: Can It Strengthen Customer Ties? - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzF6dkVqS3c0TFJVS1hIUy1xS0FtaGRHRkpBZVV4UjBZM3h1ME50Vkk2WVR0N2dKdmczd1lvb1U4elMtOEhIUDQ2VXF4ejJmYmtocFd3SjF4akd0QnhYZHBQd095LWxUNUlySTNpSk5lUkN3cGlNaENjUlJ4VS1KSEZwRDQxU0FwN0tnbm51b21fMldDZEY0WmdzV1ZTNVhWYUZSR0U3OE5tSTM5YjhUdHJfd2RldGFkc1prOUNtQUxsbEUtRzR5YnpHc3ZaRVpScEhZeUk5UGE3MEIydnRwSzJ3?oc=5",
+      "published": "2026-08-31T15:46:22",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "How family income affects a child’s development - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakl4dXk0Wm9WbEd4MW51NXRTd2dyQm84S0d1ZG5jRnhTdndZcy1MQlBrdEFYNU1GTklwcjBuemNZM0pndThCMDN6OXMtRWxHMXFkQVVCak1uS0NBWmd0WnRsSUVDbTZWSzU2a2Y2LXVlWV9za0pZOThON0FnZzg2R200ZWxxME1ReWptag?oc=5",
+      "published": "2026-08-31T15:32:38",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China’s Xi tells Putin that foundations of bilateral ties will be stronger - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeS1yYmItUHFnX3ZxcVRqUWZITTdrWTRKQ0FMRVd6RVdZTFRxZmJNbERCTjNHTUxqZXdZTVBOOEJTUzVSYXJZZ0hTc196V1ZQR2VocWtZVlE0Z2ZtTFdPdFBtWDlwdWdkNS0yMEpURUNteE55MHFQRVZqMm5lUFBKNmxmRU0wTXljNUkw?oc=5",
+      "published": "2026-08-31T15:29:34",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0pfT2ZQMnduUnh4UDlJMXFLcjFENTg3c2NwMWJhQ0pvc2VIOGVIcUR4TVF0bDhWd2NNV0FLaEdFX1lyY1BJZ19TQmZDdUU5UW5ZaGdmbFljUmNKenJjSzhiVkV4aWxxdzdYVXdnbDJQRVdfMWgydVFfWE5kMm5Zc0dqQm9XQWRwRnVzWUU0em03SUVwRmI3OVZESFNSMnlPdmwzcVZQYUU5MHJyX2cwQ1VmZ2hEa19KT1FXeHFPdDRyZw?oc=5",
+      "published": "2026-08-31T15:09:53",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaS02eS1DYmQ3ZEJKY3VFMDFfaEEzcklXNUNvV0ZOZEpmaXlxVW5JMVNGQi1OTTA3LS1IbmxNU0tVOExTM0FCMDBfUGFCSVU2VVQ3am5nYnVHVTJ0WTZ5Q2tBSnlJY2RYMTRfSFBmSndSWlNxalp6dTRuWEtCTktzcElMTHktZw?oc=5",
+      "published": "2026-08-31T15:05:56",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "Rescuers race to find trapped workers in hydropower plant tunnels after Nepal flooding - CBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VRURjem1kaHZ3R3RwVmotMVZ4MFpNWlltdHMtM2hxVWpSTnVQTE5MSmlxWFFsNmljODdjVzQ4MVZfMnMyNVdoQzg1dGtRNWx1LUw5VW4tbmF4RmlvVHFFMlhGVFhoWGNGS3paVkJ0SC1Wdw?oc=5",
+      "published": "2026-08-31T15:02:00",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Toronto family ‘desperate for answers’ as relatives remain missing following deadly flooding in Nepal - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkYzQ3lEWHZkZ2l2MmgtWlB2TmhJX3c2b1BLbUx6UEFKblZOb0FMMmw3UVZiQWQ4QV9yT1BtZUVPSVF4MDJhMjV5NDgxZWYtTTZBMjdqRzV2SFJkemJ2RzM3T1UxMk9UbHUxQ0EtNXh2bWlqV2ZXQnJLVjI0b1B1TmhJZmZ1dlpSalM1N0duSFJoYWl1UW44TzhQemZBOFRCWHJ2dVFlVmt3QXozTW1WSmVjUE1aVEdHdklUSkVDcjZqcm02RlVtRllwMFlWc0VaNGZsaXpNMnlVdw?oc=5",
+      "published": "2026-08-31T14:53:32",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Toronto family ‘desperate for answers’ as relatives remain missing following deadly flooding in Nepal - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS0NtcHNvWjJnQU4wblNPQ2czcV9rN0ZRLXJSSTlldGdmbHRTNXdSaC1UdkRHbGdlZWNfQ3hBOUZwdW9nNzZFS0FLamxybXBJRUZRdDBvUG1KRXNCZmpVX3hfaUxGQmRQWVZLR2RDNW1jQkEzbVdzYWZuZW0zRGRJVk40dDQ5WnE4WVdqOFRBSERXblFCbTlHaTJBS0ttUmhJTXJZQWxPM2ZSVlk5NXRteXN1c2I5NDFQV1dkUUFmbWhpbW5SZ0lScGVBWHktc2J2ZmtUMkVoM1VpdmhUMWlNVjFvOUMwZw?oc=5",
+      "published": "2026-08-31T14:53:32",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Toronto family ‘desperate for answers’ as relatives remain missing following deadly flooding in Nepal - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSG42SFZGczItNnlzeWFDSjg3Q0xadmdPWDJjcTQ5OFRTVmxUUmZzWmptUXlMX3VlMFQ0VXdiZzVqM0ZsMDBBd3F4QmI1VWFSTC1GTHRuSVJOTjU3LTl0NVNwN0ZXZmxrclM3OG4yZ1NJdE93bmcwTERYeHpVUTB0WHY0VlpLUlBuOS1RRUduU1dMdEc1cVBvUDJLTG80UWtFN1NtSHBWSVBHMGtwbHgwOGZWdU5qWnd1azd2WDJFTmxTd0h6Uzl5YUctNUpDZ2R4WXFnaFlIMVdCcXNPXzNMYlVuenBoZw?oc=5",
+      "published": "2026-08-31T14:53:32",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUJuLXpacVhqUzR6YUxjVFJWYWFhaWYxN0RIcHd5MDRXN1BMYnpjWDR4MEk5Wmd4Tk9SSVRobWo0OUpreEJ5VDVQTXR3WUcyX2o2VzBudmtoeWdwUUFmeWhuWGhnMi1US0dLM2gyejhDSTduU1ZmN2ZDVXpIM0hlX3NjMTJQdXJQVkdRR1lvMUZKOENPeTZleWJjRlZfY1hZTU52bGdKRS1XS18xemxfTVp3UUNaTXM0R2I3akhSdUx0WV9XVmNFRHJrdjQ3V0VwWjNlUEVobDI?oc=5",
+      "published": "2026-08-31T14:52:22",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "The art of a mini break - Global News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNUVmZmlrUVBKaHl1b3dObTE3dExHVGVLMk1ubEg3WmVlN0ZPMllGaEN2OUc5ci1vSXhCemFBZnhHQ25Rd01zU2NWQnhvU3FJcktyeHBNb2o2LWZ2S3o0bHZSNTB2Y2J1STVLa2tB?oc=5",
+      "published": "2026-08-31T14:51:42",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CityNews",
+      "title": "Affordability top of mind in North Vancouver-Capilano byelection - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOERReGk3c1RSQVZzVEJsaDA2RHQ5YUp3N2Y5OUJuRXRMc1hvMzlxV05SQmZxNTdIRC1XNVJEdl9CRmVGQV8yNTF4bDNWdENpd2dYV3JGeGVNS3ZnOS1MLWNvR0hjeU5jR2FHSllZMDlZQXZlS3JoTUc0RlpYZzZyQzNLbw?oc=5",
+      "published": "2026-08-31T14:50:46",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "19-year-old taekwondo champion dead after suffering cardiac arrest in sleep - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0pNYTlROE15NFl3V1QzeDB0TTZIeHVlcnIycXdDaWxycjlHS2RzNEIwYkJrVnl0ckhXT2ttREkxY0ROZ0ZmZjUtUWhkeGdjajJhZUlnXzNLU0xjcks0Rk1vc3NITzQ0R0YwdFIwTTZ2XzV1ZlVQYkRmYzUtTEtPcUNwcXd3RzlQZC1XaWstdXZ4Z1JfM2ZOM3dVbTdZU3R5c0NR?oc=5",
+      "published": "2026-08-31T14:49:40",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Voters head to the polls in federal byelections in B.C., Ontario and Quebec - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERwdGthcm1XeERnZXhvQThlbHB0MG1ZdjRSR2tTUVNjNUl6VjFiVjFzaExfTGtZMlZ6YmotSVB1RHpHcHpQR2VaTHFWWUpvSTEtc0o4am1XcnlXellKX1c4WGJsTng2ZVRCTjBLVXloam9qelQ3Umc2bEYwelR3TkdvZ1JTSzhzekpVeUc3MDd1VTRQaWMxb2I0eHFWUXQwTDdKdEVCa2hXVUs4TzZYQw?oc=5",
+      "published": "2026-08-31T14:47:30",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "MP Materials Stock: Bull vs. Bear on This Top Rare Earth Bet - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTXlRTGxVWUFRcXMxdnp3eC1vS0xrbXY0VFNFQVNmX2h5aks1T3dWOElVbDlUVUZOVmtHeWJ5bnoxZERRejg4bElEUlA4RjNGZG9TRklNSUozenRBRFZPaEdsYk15bkVPUS1yRXd5bWJ0MGpjcy1kWlZGSEhYQkpOb0NWYTFKRVlGVWE3NWkwVmp0X2ZQRlZuWk1SRUU4MkRMckNTRHdyWGVoTk5CNVhYZzM5Q3FuOU8xclBOaExtSnZYbm16eDlSU1FqY3NRZVQxNW5XcVNibEpmdFEy?oc=5",
+      "published": "2026-08-31T14:47:14",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Bessent huddles with G20 to try to rally allies on Iran as tariffs strain ties - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNekRfakVWSzgwZHFpTU1BZkQxLUFteDFHb2U5ZnY2bjlJREY5OW5qZzJocENVTzF3bHd3MnlTU25pSjlzVmQ1aE42NmZIOHotdVptZl9lbnhFa3U4RDUxRTdwVkF2OW5tRVFnQUJ1YzBhaU1wZTNHZk1WbnpHaUkwc3RXY1VLc2F2bnlWUHB6ckNuOExYOHB5eW1kbjFaWUt5RHRWcUg4REtDa2NHQnNRdy0yc1M0U29FR1FHYk4wVmpINGVUS3B3Q2dRUFpoUmt1UkhqUlFWaERRczhBSXFYTTRLbi0zTEdZSDlOUnJNZG0wV3Z6aEpN?oc=5",
+      "published": "2026-08-31T14:44:35",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVZGNEROWGkyRU9naGNjSks5WjU3bDVUUnMtR0JMUFUtUmxwZmZYMjdjYW9RT1JCb3JGWVBqMHB4WjA3VEExQUs1cWZGWF9PalFtb241alM3RzJ4X1J6d3gzWFFyTU8tcWdjTnpDdkxoLXlxVGstS0kzd1pOdnlIQWh1cWd1Zw?oc=5",
+      "published": "2026-08-31T14:34:53",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "Vigil in Surrey, B.C., honours victims of deadly Nepal flooding - CBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFNjaFh2V0sxZ1F5dlNabFpCaTcwRjU1WWw3aGFxM1pROGRPNUIyeDI3UkFDc1RKU2puZVZsOHU2UlViUXNlT3BLZUdxRXZfSTJjSGdCRjJ4TmdoOEhDSC10ckl2UGU3U3lqRE5QeGhuUk9mZ2EwRGRnN1I1eVFFU3V3NnBwTExFMXBHd1dB?oc=5",
+      "published": "2026-08-31T14:32:24",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXBuMmJPR0VpLWppQktMVkJVVUo4OExEQkN6VnREcklGUGgzbTJjbm10Z2V3aU5ObEo5c0czUVJuczYxNUpCb2paY29LeEpJc1BnRHdBY1F1SmtPMlo2aHk0UzdmSGozVVF3U3RDNWotdG9OazF4REM4Rl9VVDhtSzJESTNEdw?oc=5",
+      "published": "2026-08-31T14:31:12",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGFxYWo4c00xX0c2bU9oekQ4YjRlNThESlBpWVg1TGxhWVQwVUtvMTNRelJwRnVyZ1BPREVYTFY4Wnc3bjdTTFVEUlc3Rl8wSXRQUVYwRXRuTVljeGpCUTA5b29KejRfWUpOZmVKOGxwS1hKZk1qendvM1JvVmIxbTdOTk0wdw?oc=5",
+      "published": "2026-08-31T14:31:09",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "GSLDC Unveils 2026 Global Digital Economy Lighthouse Cases to Drive Enterprise and Urban Transformation - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSFBMSnlDeEJRSEJyYVBfMVJrZjlsRm90d0JoY3gzNW5ZOXU1eDdXaUhYX2tseDNURWI3eXR5WmRMS3FKSnRUR3VMUzNEeS1kTmMxa054d1EyNnJtTGxQRzNBOW8ySVpZczBJWGVyMW51V0FPSUhNSnpsQ3Q1dnhtZ19WMHZHWDA2eklMT0hzV1hvMmZ6MTFTSzdfaGdJcWFLVkRJdV94RzMydUV0cE5KRHc2YnRHSm9ocXBMdlYzZW4xOTRYTTlrTzVLd05zS2VRZEJkbWYxZWg1QzNGalVzQXE2Q3dudVk1REJkNWpELVV2NXprRUlLNHNwX0RFdGNvTmcyWHZiTkNfeWFBOGlJdEJ3?oc=5",
+      "published": "2026-08-31T14:24:21",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Seven-hour rowing marathon supports first responders’ mental health - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUFXUlBXM3lUdm5TbkFqWms2d0ZCTGh1Q0xKdUxXV2d2ZFNENlpmaGpDdDc1c2tWbHNTLUs0cWc3UDlRdVM1bWNjOHVOcF95d1JPcnRIN2hYeko0bXNrV1p2bHAwZzlxZ0hpS0Y4QVdKeG5YTXEwY0o3cjlDQkFaUnRzdVF1VnN6enNVLV9fY3ZnTWZ5d0JKVGlibWpoOHMxaFFCZHI2bw?oc=5",
+      "published": "2026-08-31T14:18:38",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Money Matters with Aspire Wealth Partners - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2xDdlUzSUhLY1gxeHljV1o0TVlPYlVUN004ODdIT2EzcW14akNCZU94c2ZvOFFQYjVPSG1YaWJ5a3RwbEx5UnhEZFMzTWdRM01OUWZmcm5UejVqVUVmVjIxUWpWVHpDQUU2QXc3UXpnanFEeWtaMmhYRmNfWkdxcDdqV1BzbjNLRzQ4?oc=5",
+      "published": "2026-08-31T14:18:26",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Calgary Flames tickets available for Farewell to the ‘Dome season - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1RfdTlLbDVLRDJGZzN3YTRwRk9CSHVpcXBjeW9YN0RXc0xhRVFHWkZzSmJLSjdRTDNOMjUwRlRGWndubndrZThGRWNPOEtQa1lsV3pWTnhpQXcwdWxLWjRWZ3dFcm93aVlKU3l4SWlVaEZRSkpHeTJSNXJZZWdVcXdfZHBRbjhtcURWbFI4VXl4bmhUN2JHZGNGYnc1ZXprTHhOVw?oc=5",
+      "published": "2026-08-31T14:18:08",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "National Post",
+      "title": "U.S. and Iran exchange attacks as Middle East hostilities reignite - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2d6X3RlV09ieER5Nl9OaGxOSjVNNERxZ3VUYWF4eW93X3JiY3Q4Zzdaal9tQTJtcWZvYVJWaGNrUUxYLU84X3YtNmMxMWNUdlc1Vi1qdjBwU3ZQR0g2TXU5RG5uMjkweWtLUHYyRVhpcWRhT0REVkg1N1dhMmlRR3dISk11SnNxZnk1QUZ6eEotT1N4aDhyU3RoNHVVMFAzZGRj?oc=5",
+      "published": "2026-08-31T14:15:40",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "United Arab Emirates intercepts an Iranian drone, and other news from the Middle East - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV1g0bVpmbEtYNjZrdEpsU3Z2T0FNNmxNallMZXdSUmIwdlY4OWQzZ2RsN2dYR09fQmJZVTdWVGxkV25FRUZ4M2hWU05fUVRLUldlNHBfeEw0OFYxWWZhaHNPU1hCMHhhWkZMQzJoUWJDcFJDb1owNjZoTFg4T1g2LVJuNE9qUVQySGZ6d0NSOGpvaUo0YnNacFh5RUxLU2otNUJ6RDM2MHFoaDJDTzFKdENjcW5MREMwalNRRkhYeVFHSGdKNDNfM3l4aHpIS2pWWENLRHRxcDhwalZURGhnX0ZzT0RES3I1UEMwS09Hc0ZwMEt5VEQ0dVVuN29iQQ?oc=5",
+      "published": "2026-08-31T14:00:23",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Nepal flood death toll crosses 900 as hundreds stuck in hydropower tunnels - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkhSLXA5YUc4TlhraXNWQ2V5ZUV1cGpTWngtaGN3S2hFaFJUaE5sMVRpSWg4ekp5aEZsbHZUYkJ4Z0dBTWR3V3p5WkF3WGdCZ0VGZWRVSVljMEhYN1VQZWdGTnBHQVpiem1TaXdpYUxDX2NZMW9NNGRhLU00cURlSDRob2g?oc=5",
+      "published": "2026-08-31T13:59:59",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CityNews",
+      "title": "Voting to begin in federal byelections in Vancouver, Toronto, and Chicoutimi ridings - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2g5NHpQSDFrMW5fVUFtbExBa1JNVFE1UUk1WXAxeUpibUE1UzBzMzdzbmgyeFBCLVZvdlBhVTdiWW1OQks0MDRRU0kxQmtyN3lVWUhYeFpMN1lESGVRNGgyeDIxUnhrU0RJMXlPOFdtdkdyRU5WRnJob3lxU1B4dFh6Qi1EN005VGJWX29qTUJUTWlOeEtYMDhxZHlvdw?oc=5",
+      "published": "2026-08-31T13:55:29",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Agilent (A) Q3 2026 Earnings Call Transcript - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlE3Z1llQ0laWXcxc0FpX24ybm41dEdSTDN3aHZONWRsT2RQbV9zUURIaUtjTmh4b1haYjdnenh1NWpzb280X1RNNVZ0dXVBTHNVdHc3OERpTnk4b1ZFczZaaXczRm1tbG5rbzNFcnc4a0VkLWFNYk1nNjVlNlFkOGNkaWZsZ1NveDlrVGotYWhMMUJlWExDYi1RcGVzaE1JcHkwQkY2V0RpUi0tUS1yUW02QU9DN1lNYTliMkJ0eS1YbktrdTBJ?oc=5",
+      "published": "2026-08-31T13:55:22",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "U.S. Treasury bars reporters from some outlets from G20 summit - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWVZQ3gyV3hYU2xaRHlkdlltVTd1YmI2SFJmdW1tNDJwMmdqT0JHNnhlR3Q4NVhtTXRkTjAzcFRRTjNYT2ExNVhPSlJEeFhxeUZ5dTBNSjB5cUs1cU4xaFpSZDdCLXUxVUVyVWg0dHgyTjI0OFhwVmZvRDZMODRCRkFmVWE?oc=5",
+      "published": "2026-08-31T13:53:58",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "U.S. Treasury bars reporters from some outlets from G20 summit - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWotRnBTX1pKaGJCZVFiamZQZ1JaZ1BBazNXZnQ1cDNwZ0kzam02NENwZXRzUE1CU0lsSUN2d2NZcThQS0dPenBYLXhlVzRrNjdYOElkRlQ5c2hDY1ZLYXJfcEI5QUFEWWxYS2NIc0d1NUJWSXpUckh2bUEyWmMyQVNjSnNKcjRPbnp3eUxDRGI?oc=5",
+      "published": "2026-08-31T13:53:58",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "UP Fintech (TIGR) Q2 2026 Earnings Call Transcript - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmRsdjd0cFVsM1JJbzB3OXJZRlYzVnNhOTBBVl9wb0N4WXBybEkydmg2TU1Gd2VfZ0JMNUh3OVc2Sk1jeE10RG9UMkg4Z2J3RE5nQnRZZjluSnZ3ajB5QzR1R0pmZ1NIX2N4aF9VUHRpdWJkTEViem9wRHlCYUNUd0ctbDVGYjQzdVU1N2ZxMmNUQms0ck1VZ1RtZnc0XzVwWnZxYzkzSGJKUEVSeUVGVHlzTTUxX29JRjhLU2N3X283RUlZaWxrOFpTNGV3azg?oc=5",
+      "published": "2026-08-31T13:50:22",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Trump backlash adds new risks to the stocks the government owns - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWnRCZEk4eW5aVy05VTBrOG1FS00zc0FMbnJHcFFoOUVSTjd0VUswRWhVamxoRktZamR1SF9aaUZZRjl1NFJTZ19JOWRqRHEtWkdpV0wzLXFxQzBIVk1RMTlVUGxUV3kxeVd2N2lhOW1nZE5NXzc4?oc=5",
+      "published": "2026-08-31T13:37:04",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Nvidia invests US$3.5B in MediaTek convertible bonds - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXo1dkg5c0ZaeERkVVJwZ0YydFREVk5mVXJxMnpYT3BmbnZfV2Fjd2ZoME9hOVVNejVseTdtSVFMSmpuUERkUUZsWWlxOTZUVEtOX3FTRXBycGF4T0F3ZjdzUkgwTjV5RFhxLWE4OGxSZjE4QTFOQjVKRkF6R1hLZVFVcU0zTjVyWHFnMlZDUTFhWjBPS2ZYZDkzdUtDa1JiXzljYWtfaVBkU3RxY09r?oc=5",
+      "published": "2026-08-31T13:26:04",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Bilibili (BILI) Q2 2026 Earnings Call Transcript - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWc0U1BYRTJFTTl2S3JHOHpKZDNPS1VCYmxJT3NIN0xSNVNkYXpBa2M5bHdhSTlWb1JUNXFQam9yWmRiZFRKZjktQk1vV1NVU2Voelp4YTc4ZGdLc3pZUUJJel9fdFBDaWN4RDEteFlUQmx5VUV2WXZOQkNTYU1pYzlRTTRZc3dBaDRFUldXUzc5ZU1lSkx4NXA3bjFoYzJiTkJyUlBKdjdJQjNMQ3NITnRlOVBtbWstSzJ4MW5ZdU43d0loN0tCRkpjdFc?oc=5",
+      "published": "2026-08-31T13:22:39",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjdhcy1PR3BycXNHMUpfejFpNGJENHZmb3p6MGs0TUNwT0dLSDhiczdxNmdOU1NoSlhXaGFPbFdCUm1QZU5ibVFUeW9FYm4xSWNGMVFELWcxQUxvU3RkcjR5OHRaX2xqeTFBVzBkTjMtWWdabXVVZmswaUt2YkpTZVVsMXNfdw?oc=5",
+      "published": "2026-08-31T13:03:21",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CityNews",
+      "title": "Voting to begin in federal byelections in Toronto, Vancouver and Chicoutimi ridings - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelM2T19Fby1oRDJSQWgtb3Z1N1FFbGRRYnd1UDZIU0RrRUlKNWFDNWFTNWlMejhSblFselZrSzZKZXlNSmZwX2hYZ2k5X2tKcWRudUxhSDlRMmpNZzVHQlRZVDVHcWducnRwQVZrSm9BV3RUbnR0WnhTa3dMZFBqUFUxNHVoZFJTM1JFSnh2dl9saHNjblg2cTU1THZQRGFoNVRnMjBremhLYmlZVU1sYUtrV3NiSUxBOUFHeDI1QVJrdw?oc=5",
+      "published": "2026-08-31T13:01:51",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Global News",
+      "title": "Canada’s Nepalese communities cancel Teej festivals after deadly Nepal floods - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObm1CNVVPb0x0SExaRzRhazR5YTZwU1NEZ0o5LUQwTXlTU2szcmtkSVNSSlk3Uk5fWnZWZF92aTRWUmwxbkFxOUp4MUJOSkJ2eVpJUlhFNHd4T1QwV3FsX090bGU4MVhhU05heW1vblhYWlJSRjZWRDA5dlRhd1lCa2dja0pWMjdM?oc=5",
+      "published": "2026-08-31T12:56:40",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "Australian tunnel rescue expert deploying to Nepal to help find trapped hydropower workers - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZTW9jaWpqbWVyemhPOHRTQkR0NVZVb216Smh0WFBuYVJfU0NRXzFhTGEwQ091dDJiRGRycFdTcTBCZHZpVTVPTHcwYTFDbFlEbmY4b2U2SDA0QQ?oc=5",
+      "published": "2026-08-31T12:52:02",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China Eastern Airlines Nominates Veteran Aviation Executive Yan Fei to Board - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVFOZS1qZjd4cVZldHRid3J0dTdVQnhMNjFBeHFvYl9ER09RSlZrYnY4c1psc3V4LVpXV0JtbUxGOEhZd1BGMkY0U0I1aFo2ZExVTFhEVmo5T0VtSVZxVjRKbW9hMUhlM3VUN1B5ZVROS2dSa0h4TENNRXM1VWJqOGFFYUNKdDFPbE4yMUQxMFRPRWhQYlRRa1B4RGdVNFMtQzM5MzIwMU8yN24wMHFKWXBLNkNkNnhBeXNESkVsNXFvd2Yxd3VNOE9jMnBxU1pqV0JjZ2EtWGNTanh0R2szMkFyMENsUjdMR2taVzhB?oc=5",
+      "published": "2026-08-31T12:38:01",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China Eastern’s Rising Revenue Overshadowed by Wider Interim Loss - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2VkTHpkUTNXOUYyWWNkSldnNjdvUjRnV3lNNFA4NkFJWFVjVVp4Z2lPSjlBY1hfN2pPYUcwQTZ5RFdjWDFKdzdka0FYUUNUR0YtbHctWWVXSlpZMzY5dlgySG1jZm9mcTE2SmN1QnhFU1MyRm56QnFJSmNxTk9iN3RtRFJYT0R3bklUQkd0cXk5VEFjd1pqQk9yZUlwNTN1bDF4QkNhb2R2a0VnLWNlWU1fZ3FtdVpBb0VWNHV3b0dZSVB2VS1aQ3FvUzFoSUl3UnFnNFZHUHZ6ZEhMWkE?oc=5",
+      "published": "2026-08-31T12:38:01",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China Baoli to Raise HK$60 Million via New Share Issue for Mongolia Mining and Media Expansion - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdl9KUXBJdE9mLTVCTmwwLUdLMFNXWllFcmxydF9aY1NpOUx4MnYzU25ZWFFhdnFPay0xUmJ1VGFGMjVnU2JfS0hMUEQ2OU1KXzZqa3lmdUdEdHdIMk9tYThSbzFILTVFRkxRWE1FNXN3SU9McnNNU0d5a05heXpjUVdxLXB1YjF3YmFsdjNiQXF3YzhhQXhWSDdXaGxaYVBDb3lqN3FSV2tyZzhxcU5jNmRPZ0hNdXFFTEdIWUlfVVZiRzRnU2NKbnh1dW8xSHV6RFlaU3Nia2tTWHNpbFVpZFVuT3VUNk1zWUUzc28wZl9DcVJoV1d3VkRhaWw2RjNaRU1nZA?oc=5",
+      "published": "2026-08-31T12:38:00",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Huawei H1 profit drop quickens to 36 per cent on rising costs, R&D spending - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZms0UFFzRkxObml1aVduUUM0TERDamdvamYtVG1OeHUxYnE1bDlwenozRWh3Vjgyajc1bnRSQS1OWVRPS3lheWpsN20xTTdFOWtoOHpVc1RVTmxaVFRITVVYUlZBU1FpekNmMHhtODY0R1lEYTRkcDhkUnd3UGpPSlRiQUx1YjFCMDVfQ1lxQkJoejJrMmNWbXBYT2haMUE4dVhxajhtUWhlSmVKaFMzNmMzeGd2dFVib0ZqRkxyWFlXc2s3dkItWFd0WTh5Zw?oc=5",
+      "published": "2026-08-31T12:07:30",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "Nepalese villagers returning to flood zones, in some cases finding nothing left - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSGVQc2pWQk1qdjlHWkJKdFhvZ01fUmlMbngyTUg3N0FXM3JDUVNzRmQ4cmp5dlp2SXRfR1hySmFVb3QtNzZZSDFHSGEzQy1mMjJ3bkZDNUlRUQ?oc=5",
+      "published": "2026-08-31T12:06:09",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CityNews",
+      "title": "Canada-U.S. trade war - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Jdm1VazlUa1BySkt5b0ZyelpfZ0paUE5fWF9rdDdpa084ck9EM3k3SFM0WHJualV2a0JPazZGOUtpaFIzTFdWa1N0T1RocEhPbWtXSk96QW9CaTdfSHh4Q1FCOFFIczNNalE?oc=5",
+      "published": "2026-08-31T11:54:55",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "National Post",
+      "title": "China 'open, transparent' with flood information says foreign ministry - National Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV1JXaWxnOFItU01iTjZPdGNvRENpRldvZTZHekdwbHgwRDdydnRqcTRwR0JCaWxMcUpsRW5yVHptei1MQ1hhZ1hOeTY3empITm1NcEtiaThqbUQ0a2hGdU9pR1JaaEdIZWdFdF9hS3lsWWxiWGU1d2dGajhzeUx5ZDFHZTNTOWFCcXRQUDBMZzN5SUV6eVB2Z3RWSHZ1VnQ2RVkyLWdKY1lxTUt5ZndiMkxMZy1zRlBBdnZhdlIyeFd2cUZJTkk3UVVJM1VkY1Nt?oc=5",
+      "published": "2026-08-31T11:48:21",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China Energy Engineering Renews Connected Transaction Frameworks With Controlling Shareholder - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORkgza0s4N0NvdXpFeEdoRmdibnhlTXJFM2duUlBnTGRra0I0MXNybVp4Wk11NE9xM0RUbWZJb3EtMXFfblFScmxTVlhqTzdycDJWTy0wdk13Y1NXaVM1bGlGOXpWZk9qNk01OEVDWkJUUEZtN2xGZlhkSHNFQ1JZRXZIWk1UTmxoWmk0SERLRkdyQndybmlOMVh0U3o2YXdBb0IwR0F6cGlfd2d2bEJ3ejFDcmVNSE1YcGVDNzVrSEtTMUNXX2haX252LThoLVk0aTZqWTBmdkttOHhrdnJka2t5RkJITHBWMnhrbG9XV0xEajNsUVMwcENlcG54TGRkYlBsbg?oc=5",
+      "published": "2026-08-31T11:44:16",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Ottawa Sun",
+      "title": "World News, Global and International Stories - Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2SnhPWDllRUw1X0lVZXpsNkpyN0FFa3dnR24yajZyUXlCLV9pNktkYk5NZF9FMjBiTWthSGE0THVIOHQxaWJvYklaZHpmZnBoaFlOaQ?oc=5",
+      "published": "2026-08-31T11:41:34",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Leaders of China, Russia and India are among heads of state meeting to counter U.S. influence - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTdQdjRrVlpSblFmTGpNalprOE1WYUJ2TjhRY2VxVmdZMHVlZGJOV3JHaW1nWlc2aEJIakx0VnQ3d21mMUJNSklRR19OSmtOTWxRR3EyVFhIcHZudGRPUWZHNF9tQVpqZE1jQUFtbS0ybm9YN18zZlhJR09EZTFxVlZZMXFZVE9DM2FvQ0hQTW5JWVlMYldOTW1QQzRlMHpuLVR6RVltWGhPeEsxUEpJdHFaeFJIRDRhMl9uTW5XMFc5Yll1ZmVfeXByRQ?oc=5",
+      "published": "2026-08-31T11:40:31",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "DPC Dash Limited (1405) Gets a Buy from Jefferies - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbU5oRjRPcDlFdmN1THU5UmRXTldySXVidlF3cW5lTzd2VnpRS0FRczRoNGJqSmwzX3NfQmlRa0ZDZGlqUzcxWU9lRlViODk0VFlTWkcza1FldHFwekY4R3owQzZ0XzM2aGoxT25WTUhxLXZ4QkNFMjI2cnIxa281aDc4V0xjUEdVMldDOFQ5XzMzRGhZcnRhY09hWDNoUE9CbW1FRGRMZmZlUy1uczNXaTdHdlBSdE9TUVNES1UyQUdFQV84WlF3?oc=5",
+      "published": "2026-08-31T11:37:17",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Nepal floods expose risks to hydropower in a warming Himalayas - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeHpmSzhmNVJ6OEZLSmZPRUZMM0FINDVpR1NHTHBmSGhrWGE1eXhQWHpYQTJlVHM5ZTFqTm5neGROMk14NXN6bUJxcGc1N2ppUE9vcERGcEZoYi1VM2lLZmp0ZWhsOWU5djNLb01YRXZHRmRSWjZkMk9RcU9PTTU5ZXhYbi1KTHJRcWpvUnVlUnZ3VWczWnVvOUtBYnZ4Vk1NUmxoeS1MYVZJMllpQXFHTUc4VkU5NG1nNDlTQ2FmVFd4c3VQekVyNS14YjIwOGlTcnNHMllrM0NvTWhpaHI4LVhiNWxTVElB?oc=5",
+      "published": "2026-08-31T11:32:56",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Air China Revenue Rises but Loss Widens on Surging Costs in First Half 2026 - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRS1nZnoxbVM1cnNhMEs2M2VaNDl5OUR0b3RzZjh4MkprQ3VYWFdpSkNlR2h3R2czcDdmLWRIQ3MtN04yX3V4a2lWNi1LN3J2dk0wX3ZCUEpVaVBmakZQWjIxTFVpOXFTTW0xY3BzbmNoV21HbW9fd3FacHRvZHNoUWlnVEhONHFPb2gyQXR2T0k3QnB2bERMM2x5VGFvbTYzdFJ6dWZWT25LYVZiR3VldGJxMFRpMUx2QnlZLXhZNUctUi1aVThaOWViSmFXR2JwTzJjU0lKNGczVEl4b09ZazJ3R054dFZ3d05hMg?oc=5",
+      "published": "2026-08-31T11:32:19",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CTV News",
+      "title": "Leaders of China, Russia and India are among heads of state meeting to counter U.S. influence - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkNsN2lKZnRXOUNVa1Znd2NaLUZIMVBlUnVaN0czSTFUek5MamhocTVYNWhZUnUzZ1A3d0VzUnVzQ28zcC1zUEFxSE84dmRVUF9CcHlwUjhycmRzbVRDYnVUbU9NNWt3aC1IOEJFdV9GWHU4QWVFQUhrcjNuYWNmc3lGdktLSE1ZZzQ5WmVpdFc1NzAyQmw3VnMxbUVUcE5lZTZvckx2U2tyRE5BRktnLTNYWUEtYTN3NVVZWTlsTFVxS0oteGU0?oc=5",
+      "published": "2026-08-31T11:30:02",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzBNQWM0VjhjYkx0THJ5bFpHLWxmZFJRM1J0MEtGek16Z0tBbGdlM2xmbjFsRVNELU1PV3hyTHF5bDhRREt4V3lCUW5taXFEVlRrcG1NaVBXTlA0ZlNuMzdZR0VyNHlQWXk2UmRYaDQ5ZDY2eFZBN2M4YjdKQmxQOC1TeHRwVjJORktlQmg5UGlwQ25jUEUwU05fRHgwTU9HZ3BwSDY3TzZCUXBueFhQTS16OWJlTFFRenFINC1GUlNNMHA0dF81ai1TamRvN0lScm5SOTJPSWZUOFk?oc=5",
+      "published": "2026-08-31T11:27:06",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Billionaire David Tepper of Appaloosa Is Overweight AI Stocks -- but He Recently Dumped Every Share of the Hottest AI Stock of 2026 - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTmw5ZVFDQ0toNG5Od2hoRmtPY0dLVzJWeFcteUpsS0g3X1E4MjUtWnN1VGxLQ0JFMWFOVWVEZHNDdUU2ZW42Ym1oWlFKNU5xMEtzYW1fbXROTXJkekNpRnZ0NEN0ZFdfaERVMEpMU1hlcTBKNjNleFBLU0FWRVJpNlJXRHUzTFpTangxYUJEQXlaMW12MURDQ0dBMmNNbHZoYTNGSzhkVWNKb1lFNExzLUdubmhSRGwxakRfR1ZkSDJQcVpkdmNPeW9KeDA1VFFhaDBFN19RZTY1LTFQNDhDOHdOVGtlTWtqeDBqR2RrVnR5dURVd3hBQmJKdU9vQXZDU0J5ZWJjVms5bi01U1dvdzRxbER3VDZYaUdHZFZOZnpDNndaQVB3Q0VsTzIwYjVKS0thTkxtbmw?oc=5",
+      "published": "2026-08-31T11:26:41",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaTJCUlVWR1NIWWdxSlNWYTBtYUFGOUpoWkJ2Rk5POHphN2RjemRDNnFmcVYxa25kNUk1M1JFcnFkUTdjX1JTYi1TRE5qdkZPcFJZaWpraDQzUHdtYnVlRnlWY1pSemdROWNkelUwdmpyblRFcmlMdU83R19OZVRiUmtsU05seEkzSlZfRW9TT3g1RTlxRlduWVRkc3FkMzhQZ2VZVk1MMjlzam9BUkVZMlgzMGhQcFNfUzlmTTFRMXJsN2h5dUVQb2ZIdGFyQ0FVd2EyRmZlanVBVDFCN3dlcw?oc=5",
+      "published": "2026-08-31T11:05:30",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSm5vU2hBZ3JEdnl0QmVtcUdnUXQ5ZTBXUUZCWWcwSXlVNlVqY1BMenFzbDQyc2ZhTDBUSEVCSW11Z2d0c2tIcHR1OWx0dE15STRQUHNoV3dmeFE0VnFxc3VhUHhnZGxIUDJOaUJuV0NwRTV4NnZ2TkRPU3lCaDkzOERHN1BfTFhkNWRCWW1nNDV4VHVwYXhTbzZvUWF1ODJyRWtGSXFSeG5tRFl4eGloTGRLTU4xd0V2bnE0VDlia0MwRVhXenMxcS1VT2p0Y0xSZWViUmNuSXpqSExHQ280?oc=5",
+      "published": "2026-08-31T11:05:18",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "World shares are mixed and oil prices surge after U.S. strike on Iranian rocket launchers - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXRYSm5wS2FFcXVtNTAtS0duTG5TbFB5WnJWZ2tRTExNOE40QmJHUlk2aDZobGN5eHB4Q0tpTU82RHhONXpjZnlQSF9CQWFrWjNabUZtcDgtQUJBNEgzcFl6OWQyRHRYU0hWMmhrM3dKVDRDTjFQUFdSNFpaejhwS0xmWW52VGNlUHNMQ1U0ZFNUZHppV2JGc1hYOXJMN0RLZUs5MmFsLVVGYWNpVlVGQkhwZ3h1eW1ZTFRZcE5FckY1N1RINF9neHNnYWtEVWpjblRwNWI1aWZqMlpGNVVj?oc=5",
+      "published": "2026-08-31T10:51:12",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Shein prices Hong Kong IPO below top end of range, raises $1.74-billion - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGdldk14cUNjUEJMSTBQLTJIQks3ZG5LYzBFY2o0eVdXaGhid2x3WEY0UWJUZktzUVFrU0JDV2d6MHdKdHVBbk1IMm5nT0lGT2MwM2xHeTRUeWVpNVRkSFY4RUl4bWdEbzBYUTlGYWY4MGU2Nk16VlhacC1QTEtqbHR3WVhiXzVo?oc=5",
+      "published": "2026-08-31T10:51:02",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China Energy Engineering Releases Reviewed 2026 Interim Results - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUjNDSGQzTTVYRjNfR1QzWFc3ZHI2ZXo3X1k2YTk2eXlZTFN4aTFOUDFfRjA1cHFYand0ZUJoMkRNcTF6cGk5ZnhaQmZxUUpqay1ubU51ckhNdFVLVVFZNUFzNml3S1FSWjBoNWt3bEFtZnd6UXQyTkoybUZMUWhwQjlZS1VHLWE5Qm02Tzc4MWExYnJ4Tnk0bjRGQmdGb0tPM2IwOWxydVN0cUM2bnU1QTU0c1FwOV9SU0MweFVleVliUnN3VVZLV1E3VFI4dWtrOVBnYjhtQ2hrdFhR?oc=5",
+      "published": "2026-08-31T10:44:53",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVW1oMlVyQzBzdFY4ZWlfZUxJSkFUV1BFT0Z2UVd0bENUYi1jREJqdDVPZ2E1NTlSUFhPTURYYm00bFFrUGF1NVN4LVV5X19RQVZpZ081MDJCQW5mOWJRM0draFdESzFlWF9KcWpaRFdDVlQtaGExSWFLRmU4cWFRZXI4Wm03NGF0NEh5cGJacXNveHhJY3lIOVJ0bnN0ZHRWb3pGMU9hWXpyemNJck5xT2pXVmVyQl8zU1hJWTVKb2xZRHBqTlZmRXlWWUpDR09TalNvWW9zMG5Mb1RaZ3A4b0J0VzQ3Rm5oQzNYcUVxSzZEREtWQ2JpQ0RiWkptMFZiZ3c?oc=5",
+      "published": "2026-08-31T10:31:39",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Financial Post",
+      "title": "Canada-U.S. trade war, rising rates and debt: What stock market investors need to know - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazhOeU1JZXVMZjVYaXVIaWd1QWY3dUFSNDNranpLa0VPRVNiS29IenFwMHluWWV2RjhNV0x1Z09QbjZfVXFidlZZU21JdjBjc1J4TExvRDU4Q1RFcFllbHNaNlJRVjZlZm4wbnFmbnY1YXlENmJmNXZfRkF4U3NadXdrc0tVX2JPaElSazVEUTU2NTY4Y3o5Qy1iVQ?oc=5",
+      "published": "2026-08-31T10:07:50",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "National Post",
+      "title": "Jack Jedwab: The seeds of today's efforts to excuse antisemitism were planted 25 years ago in Durban - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOam9zamk1UHBZN050ZV9KdHdrUnVEWTNNSUpDTmcwYU5Mb1V0a2VuZUlnUUljMHhiYU5SSlhhclFqM0pIWVR6R21sWHYwb2QyU091MHpzNjNtY3BtUjBmNHQydHNwcHVjSmRWcTN3TGVfQmItWkFnNnFuX2RCdmRZX2ttY0h1akZHZVdEQnctdEtxVFlpTFhhX1RHaHkybllwVmlVWk9hcUVyM3RtdUNlNkRxX2VOclNQR3R3?oc=5",
+      "published": "2026-08-31T10:04:49",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Micot Pharma Reports Positive Operating Cash Flow and Advances Late-Stage Pipeline in 1H 2026 - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMjlQcWhpM2plT2FfQXRHdkZLazJERmVBUFJaTHBka3RGTVcxeGM0Qkdwcnlmak80enItUmFENHYzTk9BamxnUldialNYTWNhVTc2NUFQNVRkakZRTVJpbHBEU0hoaFUwTmc0ZWREWTkxcEJHRE0zanVzODF6VVplMEdhTnZPYW9CWTZVVkppTFVnTEFaYVEyV3VESWlmN2F2MmFFd25udWE3Qmp0S0x3TTlkNy1pQW9xUWJGcjhvNllkWmJpYWVDUFJIWFlPbUF1cmVtWG5Xak92RVBQT2llcktwejgwTDd3c0lMMTRScnpzZWU1OVVXRUlEWFFKUQ?oc=5",
+      "published": "2026-08-31T09:48:00",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Japanese automakers Nissan and Honda agree to work together on software for cars - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdVpRbnA1dGo4Sm9ZVXNYZm9vRDJKbExtSTZBQ2xwc2lPWmVZS04yZzNTLTV2TmdGVzV3eGpTSHZUT05nMjRfUWVXQUFqOVdYeEVEdUJPQ2FTRGMta1ZJSmlDblBVM1ZuV25vRTBVaW5YQXJRT1hEQjgwdXNGcmRZVUdYWGtqN3FzTkFacFlNdktsaHVBbml2Z3B3eFFoOGJ4WUxyb0tob0ZoaUx2RmNZS0RwVjlaZkFvWUtDNXVJMEdXU3BSVnMwaTJZY3ZwdEFXZ2dhNXdnQzZiRDQ?oc=5",
+      "published": "2026-08-31T09:45:27",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "TCL CSOT Showcases New Innovations and Insights into the Future of Displays at DIC EXPO 2026 - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaWd5Z2JtSlgtT3M0MnVaRTNLaGhIS0RDUjBRR1NhaEFibnI3azNFeHJjRFdrUnctNk5XQzVTWlJoQzBpYi1aejEwSUFOaDZTLXRWTEg5czZfVnVvQU1PQkRkN1hBWmZYWlp0V0tMQ3pDdHhGNDJDcEdMbVhpVXRzTWtwcmRDWW1JaWpUamM1WkUtYU9XbEQ0ZjBBR3ItbWhnM0VPb25Ca012ek1tWnRVdGt2dER4Q3lUZkZXMmQ0X29mN3JFUnJ0YjFldjFUckJ1U0ZudHhJOVBXSXJ5VWtGekZQN2tDUy04ZHdqWnhnTGtJa05lLURTU0JiV1RKZmRCeUN3Y0NwSQ?oc=5",
+      "published": "2026-08-31T09:38:35",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Analysts Are Bullish on These Consumer Goods Stocks: China Mengniu Dairy Co (CIADF), Smoore International Holdings Limited (HK:6969) - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPUUNRak1DTXprMUdad0pWQ00zNkNibEpHVV9MMm9sMkRUMkh0VTIyWVotaERuaVQxZjE4QlR4WDVCNEI2a1NPb0hwZ3psalZZWXRtYkVSalBIZ1VDMUN3S01RYTByNU1fRHFIOURxRk52Z09MenBaRGNjdlU0RGZ2YnN1enpsdGtKMHhKbkl5bXlIdG5LZER0S0J6Q1dqZ1JzRGgtNmNVM2NXeDhrcjQ1U0c1LWZBX1U2bW05SnNybEMyaG5WZTkyR25hR29lVlkzTEY3UWxkX0VWY2hYMVlabmR3OGp1Q21ZcjIyN3VkWXozMG02VGxidjdkRENLS0hJMGNfYTU4b3Q1R1pfYXM2enJEVXNtRXhKUEJkUmxRMnlyUkwtYmpGdEtkQ0N5ZTQ?oc=5",
+      "published": "2026-08-31T09:08:44",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Analysts’ Opinions Are Mixed on These Financial Stocks: China Life Insurance Co (CILJF) and China Merchants Securities Co., Ltd. Class H (Frankfurt: DE:195H) - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPcl8tYTdGbjlDUVlKV0dlc01sYWxDek55amFHNHZtaTF6WnJGS3V1Rm9CN2RiVmJ3ZnNBVW84Y0dKR0NGOEZhNUJVODlQYlc2bjZWVGdpRzVON3U0eWpXbVI2Y3lQMGlLZVdNVWRjV3h6azMzb1M3THVwSWh5ai1VOVBsQUNkWkFUVFZ3ZWl1dUxZMS1NUFRzbTdDYzFxWGNZeHZnSHlMMFBQbGlYQTdfaERvM0E5dVMxWUxBRWZfU2t6d0hwcXJNYTI4VXgwb0hkRDllZGpHNmJ2dnhoZk1ueElLM1FkWi03QV9mc3hxSkJYV25NbG1VZHJ6Q3RscW16bzQ3NXpUNG1GZ240VmpqbU1TcjZlUHlWU3VEdm9DaW9oNEkzaWxHMU1WZ19pWTZoc3dORF9RaElvd3REbGQyWlUwS2Q0bmw5NEdr?oc=5",
+      "published": "2026-08-31T09:08:22",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Japan to beef up its defense with drones, AI and missiles, defense budget plans show - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMVZsUkVZM01TV1VCMUo2M1ZnSUx1YmFmTzBiWVFJU1V1alZCYm9mTTNtdXlxQjhlazQzYzd1MHJ5Z1dNN1hleVlvNF9aMEZDc2o1NjU1U2x5SFJ5RFhRbmlvSHFqcVJoc2dKWjZybXN6aFczYTJnNmhmSEtnazJtVEVtbVZDZ2RRQ2lFUWwwYzVpbUNJdHZ3SkNXdnBwdEhtMGxLOTJ6bl9fOG1xcEtodWhXZ3NzSHpOZllHTExOMzZnSTIzT2k5ZWFlYW5qSjVPdUZpRVFta2E0OUh3UjdPamFpMXZBR0FwU2V5Z1lEMVhQdXlrR1pPa3FqY1M?oc=5",
+      "published": "2026-08-31T09:04:53",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Asian shares are mixed and oil prices surge after US strike on Iranian rocket launchers - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV1pXX3lXOWtiWmxMZ0c3aVktbHAydC0wUVo4aG90WVRxSnQ5NTNybm9RTUw1d2ZJSzVZMmxHRTRkM0txTW9LWGgxdldIMlJHYVM0X1R0Q25qUXpjbEYzS19zV29jSlRJX2J6YngwT1k1Xy16YmNqU0hia0d0M2VxdFBNRWlQcEZOWkxacE9TU0JBdS1WdTlWQ0NVREFwaDFPRllYTDIwTjZKOU5FdkZlLVVGcFJ4aVgtemxNdnhuYUNROV91Yk0wWkg3TzRNWFVNX2ZNeVowY3lDU2Q4Y3R2ekxZdEdUVjF1Wm5HeVZFTzhpM2FQSUpLNHAtNFNWNmFRQzln?oc=5",
+      "published": "2026-08-31T08:52:44",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "Ottawa Citizen",
+      "title": "Canadian Forces co-hosts major military conference with U.S. in midst of trade war - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjJCby0wWmFQbHNZdEJqZGcxWnpJaDVjM24zMllhMi1MNjF2bnRLUjR6MWdjWGhYRk82YV81NnA2YnNxU3ZHVXczbEJwckQ4bDFULXh6ek5NSi1TTWN6cjZMZkxQak9tVG91alJJQVkxSUxBVG1CRUFUY3lIMkQtbk5HQzJ4MTdfVnFqVEgzWDEwZk54ZDNB?oc=5",
+      "published": "2026-08-31T08:12:13",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Analysts Expect AI Capex to Reach $800 Billion in 2026. That Number Could Actually Surpass $1 Trillion. Here Are 2 Stocks That Will Benefit. - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPN0ZlN215T2ZManM2NmZPN01KX21RazZIdVhHYTJNMFdfbjQwUkI4QlBRMl81SFFwMHhSM3JaekY2TnB6TXpodDFpNTItRFpTNDJUVV9Xb1NsYUNTbUVQX25hQi1PQW9nWnNuX2doYmxKS3FHbnl6NUtLODFCVXNRZmFWSE9uU1FBQlR5WmVtcjJwX0NWWFQ2RV9YUGs4WlBpX3BXMlFUTnJhbVotSXE3ZUxKSHB6S0RLWHF5YkFKSGljQ1pKQ0dKalk4SGxwMmpFLXZEZkJOaElFNUxpMUdFMXpqTHIwRGlLQmduMkUxeVBUdnVlc0Q3VXgwcDZOclpmWFRRakNGckh1NW9LOEpITk1RVnlPQzVGTDJZaDlrUGtMcWV2NENCaHlCXzhzbWNiNGc4cElha2lNbWtWbjljTGNn?oc=5",
       "published": "2026-08-31T07:18:14",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "Asian shares, US futures retreat and oil prices surge after US strike on Iranian rocket launchers - The Globe and Mail",
+      "title": "Asian shares, US futures retreat and oil prices surge after US strike on Iranian rocket launchers - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbmxUOHdzSjFZNjY4c0R0ZWhGdm4yN2I3R0ZycmVZSnM2N3RWSVJhcUl3SUJQdUhsa2xLdUZ4eXVNbUNkdnU2TkUzamhfd3FRUVNMRmhLekhTUERMLVdTYTRWRDFCT0JFU3lDU295MkRnZmJ2MTZjWkNoVXNDSXA1YTAtMVJnNE5waVZwdFAteDFoRHZfN3ZqV1dlQzlGVW91U2R2dG1TZDZtVk1JMjItVUhTWkFWLV9hMV9RVExlcEdMd1ZZOXJqRHpKUU9sTzBwVm9EWVBVS190dkdpcHF6LXZtbXBNeHowVXlYT1NudkNURzZ2T1Q2MWJnWWtJRWtOS1N3NUhPNU9RVDBWV1JN?oc=5",
       "published": "2026-08-31T06:36:29",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "EN China XLX Announces 2026 Interim Results - The Globe and Mail",
+      "title": "Asian shares, US futures retreat and oil prices surge after US strike on Iranian rocket launchers - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTXFzZUdSSHdna1hwd001SlNnR3FlZjZ4ejVFakQ1dHR5OS1wWGV4aVRzSy1oeUFnY0g0QzdFeUxKZ2cyZkc0dF85b2xCb1daeGl5T0F0NmwwZ3BZUmFKZzZZVkhIRTBYcTUzZnJQMi1laVBsOU1sWmEzX04wWHl2dmFvQVNLeEo5SU84bnJsd2xQVjZYM25CbFBDc3FUaUloaDB6eDVqVzJMbUI3dUdEMXktaXBNTFpHSl9TRnBwMDZVU1M1R0dpbXo4RHZIN2lpZk9ULWF4alZFRVBzeWxLZnBXQXJLQTVRNnRxZndZR1o1LXY0aGRfd25OeTdfUmMtNUNsemJ5a1N0WDJQV01N?oc=5",
+      "published": "2026-08-31T06:36:29",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "GF Securities Releases 2026 Interim Report - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFZDVnVpbU9IemNJNml6YVJPZDhIV1IwUjdWOENLVmxrTGVfZVpWbVRySVZVVEVHUXdLSUsxZjJ0OVU0RU9CS1dGRTFuZ2h3b09zaEJKd2dKV2N0ZlZMRHF5bnJOTGY0RGp2b05Eb2sxekRCOFUyLVE5bGJ2dERERk9xZmFsUWJnRE40MDVHdXVZOGRjT24wV25NMExiV2lsM1ZqYWVkajFTaVIyWGVsRlQxQkFmdGlRTHc?oc=5",
+      "published": "2026-08-31T06:36:00",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "EN China XLX Announces 2026 Interim Results - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1k4bTVvNkt2RjhQT0NybVNYQ3Y4UEZIenA2amh1TGNOaFVvVmxVQmxUM2VyeUxxbGQ4RkZKYy1FdktVd240LS03MHdxNVFJSU4zUUpGTWZzM25kYWdLcU04WVptcmM0aWJ3Q3FEUU5FVjVvaFR3V0ZIbXV5NDVPTmpyd1o0WVJVQm50TXFtZlJQUDlNeGh4MDZPTlAtS2xIbGZoRWcxWjZiaXhVVHVKYnV0bmloRWdRa2NhN3pkczlua3NtS0xnYWpTSVRfZw?oc=5",
       "published": "2026-08-31T06:10:49",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "China State Construction International Holdings (CCOHF) Receives a Buy from GF Securities - The Globe and Mail",
+      "title": "China State Construction International Holdings (CCOHF) Receives a Buy from GF Securities - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSzVvalM5N01OaXhMS2o2aGkxcU1LMFRQVGVhcTVnUUtvVXpKUGVVeE03ZVFjNXNqNEFUbmRMTWd2aG1hVGhiRHh4YVNSQ2NiYWxZYnAtZTNsNl9BaUwzOTQtd1Q4dlJLaTRtLUhoUk45RE9UbFlWLXFzdGluSEVtendIUmd2YUxQc3JfWFRkUTMxVXo4cS1oWExMNTNwZEMyVWoxRWhxdVVqTHR2Skc3cnpjNExMWkJTT1ZQWGlpdTc5SzFaNDVzcGFaYUk2eDFTUFhUNnRFWjBOX2lad3MwQXZhdEs3QUM1TzEtX0hNSmdibWRTT181M2JFODM?oc=5",
       "published": "2026-08-31T05:51:14",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "Guotai Haitong Sticks to Its Buy Rating for China Overseas Land & Investment (CAOVF) - The Globe and Mail",
+      "title": "Guotai Haitong Sticks to Its Buy Rating for China Overseas Land & Investment (CAOVF) - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVll6VTFJbkVSWTJaaG9Fb0lCLXlVdTlRWU92cWdBQm12Y1BENnlJZHpaXzhDMklJa3ZuXzhfTk5mX0hhOEJ3ZS13RU1WNE0xRnMyVlNxZVk1VFQ0akRFOTJjNnBOcVNOVTdkX3pDN25CM1VRYUYxMGF5anRsN29MSlhlTHZkbGF1M2hZWU9LOWpwV0dGWnZMLWhxRlB3cFl5UFBDMk5MZEgxd25iZExHclA0V0RaT1QzcnA4cHpOdlc0Y1dQWXJwM2xuRWpUUmFuejhHWUhVVERORGxGYU9pQ0pNemNDRVJ1VmJNTWtidXFQNms?oc=5",
       "published": "2026-08-31T05:51:05",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "Guotai Haitong Reaffirms Their Buy Rating on Tencent Music Entertainment Group Class A (1698) - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOV0VDbjhEeTBHTFhJRnVKM284a1JDeHRQb0t5YzBTRUdGYndxYllyWnBWbWU2eUZwX3J3LXdydGM5VWliSS10V0pIdVE3WFdoMjUzTzM2dkVua19RRGxqeHRBa21OUEVfc0lZM1Mxd3kyZnVSYjQyblRwczY1aVcwU3c0UXVlTVZBdm1LWTIyd3JjaFBEeTRUNkFiYW1OTS1LSnlSM2JRZ3BLZGl1Z0pQRDV1bWcwWmRRZGxvWlIzOUN1allqWi1CN0VLcVFZc1dsQ0NfU2FsR2plNHJSWmIyM1M4V0J6SEZvc2dxc3NqaUh3Nk9xbHA2T1hZR3RFYnNXenc?oc=5",
-      "published": "2026-08-31T05:50:15",
+      "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT1JhWXVkeVJRdVlXc1ZEMElxcUI1dWtONXVNVmItUWJkZG9HdmgwdV8zd3BXVnY0R3pKN0pkR1FQVlEtdWxEbWFvOTVDTzhCRlhxSXh5NVpwZUdjQXlPWTVYYS1fUVh4OHZoampsS2F2Mkl3bnRzX3ZjR1BXblU5Ql9mQzJmZFpoVmE2OHgtQlZXYjRIeHFVRnlYc2wtamZFVmJNTU5TWEpqbmVia2ctRnZianozVm9ocFZCd3NaNXZIWkV1MlIzVFBpblNYbXc1Rm9adFBPUWxuLVVQbWo2Rkh5SUowOEEwWkxsR3VpM2NVZGdiQ0ZCVXVTUkhCUQ?oc=5",
+      "published": "2026-08-31T05:46:16",
       "date": "2026-08-31"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT1JhWXVkeVJRdVlXc1ZEMElxcUI1dWtONXVNVmItUWJkZG9HdmgwdV8zd3BXVnY0R3pKN0pkR1FQVlEtdWxEbWFvOTVDTzhCRlhxSXh5NVpwZUdjQXlPWTVYYS1fUVh4OHZoampsS2F2Mkl3bnRzX3ZjR1BXblU5Ql9mQzJmZFpoVmE2OHgtQlZXYjRIeHFVRnlYc2wtamZFVmJNTU5TWEpqbmVia2ctRnZianozVm9ocFZCd3NaNXZIWkV1MlIzVFBpblNYbXc1Rm9adFBPUWxuLVVQbWo2Rkh5SUowOEEwWkxsR3VpM2NVZGdiQ0ZCVXVTUkhCUQ?oc=5",
-      "published": "2026-08-31T05:46:16",
+      "source": "CityNews",
+      "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900 - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZnZIWlVFTVdkeTZhd0V3WHY0V2ZUeFFXLWZJeXhEcjN2M3dMX0dOenRIaW1oZzdqUTFJVHF5V2xEMTVyb0ZoSkNabEl1ekZCLVRPT21ZZ19USmlXZTVnUjZtcjBmaTg3TlhJYUo4cklDcmN3UW50dTZvcHRYM0JwUEt2WFBVUGhZc1l4Y0tXRUpQUXNJMGlvMTBRcjl0U3ZuVkdteHN5a1pvVkhLVlZvUm4xTUhHSFprLVdXdXZXUWxsa2FQ?oc=5",
+      "published": "2026-08-31T05:15:00",
       "date": "2026-08-31"
     },
     {
@@ -76,23 +629,37 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Bessent heads to the G20 to rally allies on Iran as tariffs strain ties - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZHVGOEEtSERfSlpaQUFnbWdYS2t6VDBXV0ZDSFVXMlAzRnJ4NnV5c19vSFpyNzJKOEdZRS1NQ2Rvdi0wU05kN0Fkc0NtN1pPOVI2QUtJcXdzMXRsLTRTX2pTWmNVaFFiZUpuc2tlbW52bk41Q1EzWmFDcVhucmNrWHJPX0JuUnY4a2N4YVFGNWxzeWNwbGlfZm5kWm9uVG9LVE1iY3p2R3hJWmNXSl9xQmFZeEl6U1lfNFU5bDZubE5Ld3hDSzZyUmxQak45S0Q5RUtobm5VdlptLUdsQWUtaU5hODNHbndEVUhpWA?oc=5",
-      "published": "2026-08-31T04:27:05",
+      "title": "Bessent heads to the G20 to rally allies on Iran as tariffs strain ties - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdTBEekhPczFKVm5yS2V0dWxfMjY4bkczZmhhZUJ5TkxBTVlxel90cmZtSXdNWDJ5cno1Nk93UVQ2MjliRnlEX1VhbEYtcXJKVVJUU1hIZi1nTUpiQ21BNndoOHJMOWVucm54RlJGaFZyTm5uODJBcGthUUpiYVZyaXJuN0xBcWd5cjF4Y003ejk0Q1ZZMjhzTUFsNm9xZlUtYU1XNmV6RGRwRUQ0UjBfUHpyM0g2SUI4YVVVOVUzc080YmNRUnVzdExKSFBpQVNPR0p0R2wxWGVUYUFJTEVGYi1RX0tkdWRIYU84S3BR?oc=5",
+      "published": "2026-08-31T04:21:27",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "China’s factory activity contracts in August despite an uptick in export demand - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMnJ0RDVBUVBvWjRSSEJTT3JjcG9FTXNYbTdKbHVvX2Nwa0ctRVZjQUNhNldOUDFoazNJalRWU2IySWQ3REhTUGROR1pOblVxNnU2a2Vack9qX1NuWUFhazVxcXFvYkNBbzF4eVA2d2RZeVZjVEtUOFRFbHR1WVdfUDNRS3NiMDdRMnFVVGhlcFpURmlOMWZJeFRVOVMxcnJ5RkxaT0hnNDF0eThBTTFMWGhWaGhZZEZQSkVhM1NQUE9KdGVLMjEweUliSkNNTG9vZmpIVzZhVUp3ZFlvQy1jbXpwQ3BteThBQzM1cF9WTU9FOXVnTThF?oc=5",
-      "published": "2026-08-31T04:23:33",
+      "title": "China’s factory activity contracts in August despite an uptick in export demand - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQXF1YWh1TllMQmJQTkF6Wi1UV1hUTzdLczVGQlk5NEZFdVVIVERkTHZISVQzRGFoZ0lYWjJucFF3bGthcGx1OWtYc09WbmtaOXdMVlJIVVBsOFZDM2xzVXcyQUFlanF1Ym54ZVBJaFBncmVpamJPY09yM045R0FDeWRTeFk2aXZQMWxnUm9XYzNfbUhNSlpJcGFvNjF1bDhSRDJpdVRZdkoxSGZyVlV4RFU0bURVZWdZYVdUWE5lS0dMbW41WUxwXzZYNW55QmtzZHl2RklRUDVtREIzbjJMbEROWlowTWR1X0Vha3FObkNkUkZCa2c?oc=5",
+      "published": "2026-08-31T04:19:00",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong - The Globe and Mail",
+      "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZGZ6Qk9TTU9QSi1MajRKZmEweVhNc2dCazVlSTBTN1RueWw1eVVmY1RUN1JQX2RxelZnbkxkcTl1V1dGYlN3RURsQ2MtUVBkcmJuYjl6TXBkemR3V0xpb2VQTjVOdUo0WUpMUGRKcUZYQTIxc0tCT1cxMnAtZXRKQUxtLWRobFNWb2VpVElRdXdQdUI2RlplU2N0YmZNYmx0Ui1yZWhJam4yNFQtcF9hcjhIMlZUWU15Y3JaVXg1ekROYlJPVVdlZ2ZaRzhBay1faHg0YVZpS1lKaF9RMmRuOW1BeW5ybS1PZGwxYw?oc=5",
       "published": "2026-08-31T04:16:48",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CBC",
+      "title": "UIPM Pentathlon World Championships Guiyang: Men's final - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnR0lqZTBXcGRVeXFxS3hxaHpmOHotV0E3WGFPRlJmaDVqdGFZRXIwc0NZVW11Mms0a0NTc0p4b1QxZGluQV92dUdnZHVCS3ZxYjlzSTA3UENBZw?oc=5",
+      "published": "2026-08-31T03:54:50",
+      "date": "2026-08-31"
+    },
+    {
+      "source": "CityNews",
+      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - CityNews Winnipeg",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjh0S3Roa0VscjlGZUpWZU9fTnM3aXcwZm5EQzdLZC1YVmdwV0VpaHlONlBCdnRSRFc4VHpfZWgxYUdqajBaRXZibHlldUw0V2VFNEV2alE3YWhmR3JXSmw3c0Y5cHFDVkhwQmRyS3BibEk1alhYWTgtSW15dTdIQnR5cXpyek9TR0piZU5Cd1hiWDR2aGE5ZXFNUWswckdGOHRNNXdLenVFenFscWJxRFd0T0w1cnZGVmZJ?oc=5",
+      "published": "2026-08-31T03:48:33",
       "date": "2026-08-31"
     },
     {
@@ -103,24 +670,24 @@
       "date": "2026-08-31"
     },
     {
-      "source": "Global News",
-      "title": "BC Conservative Party in turmoil - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVDU4TzgtUWgyVHprRWRHVVlwZkN6aW1IdTRLZ2RIeTZxT1YyVjB3MGw1OXVZOWJheHdaekxjdjJjX2hvcE12c1FMaXJ4c0ozQ1VXY0oteVE0N3BicEtZRllXUGpMRHptS00wdlhMTU0tbmU3X09lWEtB?oc=5",
-      "published": "2026-08-31T02:10:28",
+      "source": "CBC",
+      "title": "Transportable nuclear power plant - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wVlBWX3U3TUpIT1ZuS05XVGt5UFktazFfOTJHMnNFR3lHR0FSVXc2OGFlQkdtbDFBWUpZWklldHFCcFRlcThTNmxEekpFWXlqMEFZRW9PRHp1UQ?oc=5",
+      "published": "2026-08-31T03:18:55",
       "date": "2026-08-31"
     },
     {
       "source": "CBC",
       "title": "Hundreds feared trapped in tunnels after Nepal flash floods - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaN2ttMHB6OGsxQm9tZzM5STlDWTRZNWdhS2daeHpFMzIwWUFFcTU5czZfOGcwazc0VGstSGNTdUlPODNSTDdfNm1JeXk4dHN1NDFJa29hbXkzZw?oc=5",
-      "published": "2026-08-31T02:06:02",
+      "published": "2026-08-31T02:26:49",
       "date": "2026-08-31"
     },
     {
-      "source": "CBC",
-      "title": "15 people may be missing after Grand Canyon flash flood, dozens evacuated - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VUVdMaHNsVzNwZld3YTFMOTlCSzRWZi1kOFB3b25lNk5qMTdIVmxOV3B3cnRZUUVHSXBfWlkyY1NsZlV1TmhqSUFqLUQ5c01Z?oc=5",
-      "published": "2026-08-31T02:03:22",
+      "source": "Global News",
+      "title": "BC Conservative Party in turmoil - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVDU4TzgtUWgyVHprRWRHVVlwZkN6aW1IdTRLZ2RIeTZxT1YyVjB3MGw1OXVZOWJheHdaekxjdjJjX2hvcE12c1FMaXJ4c0ozQ1VXY0oteVE0N3BicEtZRllXUGpMRHptS00wdlhMTU0tbmU3X09lWEtB?oc=5",
+      "published": "2026-08-31T02:10:28",
       "date": "2026-08-31"
     },
     {
@@ -132,16 +699,9 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Video: Danielle Smith avoids separation talk at Alberta Day address - The Globe and Mail",
+      "title": "Video: Danielle Smith avoids separation talk at Alberta Day address - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnhiZU9CMmlTT0FranBiLVU5U181bEk4XzdnS3NETk9MOWpna0o2ZnpwRUtRdFh4VHBFdTcwT3hLNkd1eXFwNGFZaGZXX2VqdUwxOUh5U2F6Vk1oTG9FbkdiOEh4T3FVRjdRRkRncTNpY05XZ2g5TGd2VW5tZHpMZHllT09jYm1qQ2x4dk1iR0lJZFVHRVA5V0N2NlNtVVp4T2o1eGJod1JaUQ?oc=5",
       "published": "2026-08-31T01:21:36",
-      "date": "2026-08-31"
-    },
-    {
-      "source": "Global News",
-      "title": "Global Player - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanhESUJBQ2VROW51bnBMQ3pMTlRaWWdTRXVDV205aWNtdmVwTnRfRVh2Y0FxTGNHV0Vwc0JYWVVobW9hQjZrWkdHVWQtWm02M0dsLUx0czNIY0FpdmdYODFzZDhEMjZDU29nMFdsRThVNUxQN3VfQmlZeFBxaERBang0ZU5rOVJLNjJEeDZUNzItTjQxRGRpVXdfN0F6WlpoQUhMQ0dVOGw0V09FZlhiNVlmRmRqUWh5UC1jRDRmZjlkdw?oc=5",
-      "published": "2026-08-31T01:10:54",
       "date": "2026-08-31"
     },
     {
@@ -154,20 +714,13 @@
     {
       "source": "Global News",
       "title": "Global Player - Global News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzBJYTJWVEJfdFNxbHpLS1VxaXZIUThaa2RFRzVwU0lyQnkyRVdCT3ZIVF9henJrWkJ4eEtXdlFPdzVjeS1xLU1YWk11TjdCRzZhVUIwQUtVc1J3bXA1aDZkd25WS1UtaVUwanp3VHBMRndzRklndEI3aXVkQTZPS2d1eXdJOGpiSnU3ZGxtby1abVA4N21CSUlaUlRtWkZlR3BYWDZKT25nbFFsbEo1RjJYeVNUbzk2TUZBR2wwQU9vVS1lcUdtT1NhRTFiTWZ4TkZKVmZuRTBNZw?oc=5",
-      "published": "2026-08-31T00:49:52",
-      "date": "2026-08-31"
-    },
-    {
-      "source": "Global News",
-      "title": "Global Player - Global News",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS1BTWTZQUlZNLTQ2c2JoTlNsYTAzZmJWMEh1eW83WC1Ic0l6VGJkV1haQnd6N040ZTdLd3FZemExY0V6MjJwcVJ3UGNpeVFhcFNpTkNRUGg1MVJDcWZETm5QeXR4M2huTTBTdElzTVIyMDBMc0Z4VGx3dkNGY25vM0ZGRHpHNDJOR2V4M1JDcDBCbmJla2lXenJzUzZjZG1Sdlk2ZmtUalRtbi1pV3lkQV9SUEZtLTdRUVV0bUxXUmVKQWdJaFZER2YtdDh3VXE3bzI1Mzg5ZUk1UQ?oc=5",
       "published": "2026-08-31T00:49:52",
       "date": "2026-08-31"
     },
     {
       "source": "The Globe and Mail",
-      "title": "Hua Hong Semiconductor Earnings Call Signals Robust Turnaround - The Globe and Mail",
+      "title": "Hua Hong Semiconductor Earnings Call Signals Robust Turnaround - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeGZSQWVNX1BhV1ZhMUhsWEd3R1hISWptNjlVLTh4cFF0QVp0eTIwRFo5MEgyQmpBU3ZEc3E5UFQyNnptOWZrYzFxNHNHWjJYYmlZazhmTUs3SjBUNzdYSEEtcGpvMjRRek96S0E0WHlJNjFEeWR3aG5WaG5od2lGbXg4bkF0cWx6ZXJBVHFXOGFwNEJFdm1KWF9ucjY0emgxdkdnX20wVkNHSjRGbDJNRGhLdUV0Y2N6dl9UMW9qbUFHcWIxQW01WVZzRW1LSmN1Q21zeVpJeTZRa0E?oc=5",
       "published": "2026-08-31T00:37:19",
       "date": "2026-08-31"
@@ -188,7 +741,7 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Curaçao wins its second Little League World Series, beating Nevada 11-2 - The Globe and Mail",
+      "title": "Curaçao wins its second Little League World Series, beating Nevada 11-2 - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObTI3UXVSak1zN2hOWm1oT0lfR3NreXVQRndMc3laNkd1QzlvaVcxeHlKRGlKdWRIQ0pBYkh3ZGJ4bEFhQzZiU1QtcW9jZ2ZNSEE0aW9wVERpMk5qNzl0cW5XMU9Oc1JaSU1qMGhfVThCUktCWHJBb09WVFpDakd4a0V3NmtBaFpOZnhIUHhBbGlMTjNXSlRqVFFVelUtd0E0bUhzRG40MzZGMFpmZ2V4QXhjSGlkTENvN1E?oc=5",
       "published": "2026-08-31T00:12:31",
       "date": "2026-08-31"
@@ -201,10 +754,10 @@
       "date": "2026-08-30"
     },
     {
-      "source": "Global News",
-      "title": "Global News at 6 Toronto: Aug. 30 - Global News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zX0xLY1lrb2xFbzMwMHc1MkNkY2pIYjc1WEJqdnhfeFNGSUYtRTZ3QWdJQmZwcktaM19FZkw2a25KV2h4NXM1bVhpNm8zS282TjAwcTYzcU51SDYyeWxHZnNWNmdWYXIyM0hDWEdUMHRUZnZ0NXhKVENidw?oc=5",
-      "published": "2026-08-30T23:29:44",
+      "source": "CBC",
+      "title": "Charlotte Cornfield - Hurts Like Hell - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oU0NlNVIzRDB6djZjR01Tc25KVjA2UE0yWXVZMjBySHRieklsX19HU3loYjJQVFF0VU9iQUxMSkhpUVdmUG9uU0JrX0xhMTlDcVE?oc=5",
+      "published": "2026-08-30T23:21:30",
       "date": "2026-08-30"
     },
     {
@@ -223,23 +776,16 @@
     },
     {
       "source": "CBC",
-      "title": "15 people may be missing after Grand Canyon flash flood, dozens evacuated - CBC",
+      "title": "Grand Canyon flash flood leaves 1 dead and several missing or unaccounted for, park service says - CBC",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HTnJQQmlfLXFQLUxLQzVTckw1STUyOGVwUUJDX3hjQ3dSb0pUNU5aYldWX3ZhYTRhbDFDajZEZTN6LS1wQ2Rvb2hkem8xUm9VRld1SjRMTTNUMjdjNS0yWk9BRXgzd2o0ZGNEdVZ5cW4zdw?oc=5",
       "published": "2026-08-30T22:58:00",
       "date": "2026-08-30"
     },
     {
       "source": "The Globe and Mail",
-      "title": "U.S. plans to impose sanctions on another bank in effort to curb Iran transactions, Bessent says - The Globe and Mail",
+      "title": "U.S. plans to impose sanctions on another bank in effort to curb Iran transactions, Bessent says - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSF9jMzliSHJiSG9vV3AwanFkdHRfLXNkLWttUzVaQm9Uc1VJeC1kVjA5WXdzOFAtd25MbmNCLVdhRDFUbmFRU3luQUhGUEVRZDZ1SEdncGlCYXg2bl9kdW1jQTZBREhUMFp5ZHo3dUtaX1l0ak8wY2hiRnYtbjdXdVBaQ0ZVT0VnOVlZUXNpTk44RWk1bHZSbU9PZk5iRWxsSlBHVFFDam5HUU0zVzJQa0tWUHA?oc=5",
       "published": "2026-08-30T22:45:35",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "At a Washington war memorial honouring shared sacrifice, Americans highlight new divide on trade war attitudes - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkVsLVhMd1NGVzNyTTVDUXZwUnNWeDZMVS00UmZPSHltUXFrQTUtYlhfd0FHb29KQVVWdE1xZDRTcnFJWWYyVkFub3ppa2hWaWh2QW84R3NRZHNuTlUwWGFna0lLdnNRbUZ5aVZhUzlKcVpGVjBzUVJjcUhWT3hiRUxnVlZmZUNQZDd3NEd6ekJTOVRoT2xfOVpTUlh2M3AxVG8yUURaVE5mRzZaYVlzN0lR?oc=5",
-      "published": "2026-08-30T22:38:00",
       "date": "2026-08-30"
     },
     {
@@ -247,6 +793,13 @@
       "title": "Teej festivals cancelled across Canada as Nepal grapples with extreme flooding - CTV News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0JRMnZPclAydHZwbGpBVXV5cTdCek5jTGZzMkwyQXA4V1A0aDViSWgyc2VybEphTllFQWl4WVBWTUtBaTRuMDN3ek5aNlJuMmRrNTZpelN2TWhJV1htWVNHa3N3NUdwMDR5ZEs4M0U2eUROaHZYSDNZTDUzMElJXzZ2bjY3V0pWWS1sbFBXSGZCLXRyb09wTGtvdi1ocmxQd1pxbDRCQWJKQ183RW4yRU5kZzUydzRvV28zSw?oc=5",
       "published": "2026-08-30T22:29:28",
+      "date": "2026-08-30"
+    },
+    {
+      "source": "CBC",
+      "title": "What can Canadians do about the trade war with the U.S.? - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GNVFjN1hteFpvQmR1WnhmUWRLbC0yYVljanoyVl96ak1mZThFS19BYzJPRnZNbmNobE5DVXctQ0JBY3p1QVhscHBqNUVEQkl5Y25kNUxmb3dsdw?oc=5",
+      "published": "2026-08-30T22:23:43",
       "date": "2026-08-30"
     },
     {
@@ -264,13 +817,6 @@
       "date": "2026-08-30"
     },
     {
-      "source": "Global News",
-      "title": "Manhunt underway following deadly shooting at Switzerland rave - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWUxRjQtTXdoS2c2RXBoYUJRVDA5UGcwNXNPSEpqZV91ZW85Z0JGc1pPWThhMURseXpVUWk2N0tQWk1ubEVyZG5Vdzh6aElQbC1jR2JBT2I1Vi1Xa0VLVlVLT2tPckxzejQyQUZYZGstTk05R1NQQkRuZXlERmxKWXI4cnBtWWw5RVdUWXh1Vmwtd0h1YXhyWnl1bmREaFA3VVE?oc=5",
-      "published": "2026-08-30T21:36:32",
-      "date": "2026-08-30"
-    },
-    {
       "source": "CityNews",
       "title": "Teej festivals cancelled across Canada as Nepal grapples with extreme flooding - CityNews Toronto",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEphN3RJc3FUdG5odThGMzA5N0tpSzlMVzktMGNLZXB6QnltbHdNRTlMcnVmSkhjR1RXUjJPT05PdGg3bDVlRFRWR2ZSR0xsejJQT0tKTy1wSUt5SmpIbndhRVJSUjVENmpUaTA0Zy1ieVZXbjhUYmhnR1JCd1lFVldtV3BIY1JsYXEzTGJYQ0hUdDVqa0cyV0puYnRHNmZ3c0RPMTJyM19uN1p3UngxYWRQandITG0taGc?oc=5",
@@ -278,31 +824,24 @@
       "date": "2026-08-30"
     },
     {
-      "source": "Global News",
-      "title": "Big Blue Boogie Cruise Fundraiser - Global News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oMHZXRDg2TmFxR3JYN2hUODUwbTMyM3BJOHB5aXFkS0xTR3N2djBob25TVUxPemF4Y2RiRWRsQ2NzS192MWx5RW9oR2ZoOEZYOUJ2Si1jQk5LZ2JMUWJUQlpiY1VVdDh2eVJUT1Z3TWNMNmd6Q1ZOeGc0VQ?oc=5",
-      "published": "2026-08-30T21:03:52",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Tehran targets American base in Jordan after U.S. strikes rocket launchers on Strait of Hormuz - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHFtcWRzUU05LVBuWS1TcGI4Zy1nUlNGOEVsV3QzcEFOZDFyTDlidDFRVEVJUXlaWXBMQzlVZGpkWmd1MTFJZnZpMW5scHRuNHJUa1dYNnpHQUhpV1lJa0xTd1Npd0ZXb2VtbUZ1WFB3V0NHMjRYWFZVZjVmd0FJbGNva3J2SFBNa0ZRRg?oc=5",
-      "published": "2026-08-30T20:41:38",
-      "date": "2026-08-30"
-    },
-    {
       "source": "CTV News",
-      "title": "Bullets fired into Kitchener business - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdTYWNvRDhoOXZPeGFCUzNuS3NVZV9QYnNaN1JNSmVuSzFLVm01Z1Izc3hrSUd3OG1rcXZRUFc2SXVJdElKcmY3SEM2eUZFRUNmckhPTVphTVpRQTd1THUtUFFSemdXcld1MmF1cEd3dWZaN2VETUtKU25JMm1uRm15alNZcWZ1T1oxYW5GTzFGUQ?oc=5",
-      "published": "2026-08-30T20:30:03",
+      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ2xpdWV6ZjdJNlV4bV9sZGZUVjRoRzlIUjBUTVBGbWRac2Npc2dkUFFvV1ZORk1xZlhtLUppZlpVQnd2T2R4VWxKSEU0eEN6VWRYbXBQQlZtZkZWR3B0MEl6a1JjUzlUODhmZHN5U0drY1c1d1MxM1d1UV9saF9wZ2hZeXVvelprR2hGNG14U0VzbDhENlp2Nlc4Ui1HUnJyWkR4NHYxdXVMSzc4SVZVNzd5a0Z6aDZXSzFwM1dkQVZxcmJhbkc3T2tiVHF4U3c?oc=5",
+      "published": "2026-08-30T21:13:52",
       "date": "2026-08-30"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Former grocery driver Joe Dean wins British Masters with wife as caddie - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjhsSXo2RFlGOUVmRW94aXFDYnhHeFVaT3pmeVR3eXc4R0gybE0tbmd0QjVTRjNyU1VxLS1oZVp4NFJEUGdxQ3M1ZXZ5NHpkaWpIc3p2UE1kMDBXeldPTzNWX1dHVVhyQTlvRzNMZHQ0RUljbDg1T213REtITGlNbXVRNmN3WTA2ZmYydWNVR0o3dXF2ZlRpYU1rYmJySVFhUW44bkFvWVJjYVJRMnJzR0M5MkdVNk1M?oc=5",
-      "published": "2026-08-30T20:15:43",
+      "source": "CBC",
+      "title": "Iran's Revolutionary Guard retaliates after U.S. bombs targets in Strait of Hormuz - CBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CbUlkXzVUYjlWSlY3SU9mdFVmVWFCa1h3cXdhZUpSZmVhWWZvLTMtWm11di1BNnBTaC13ZW9HaVZzYS00YTRUMC1jd3BuVW94QzNUZW55SXV1TWl5SWZERmkzS202dkh6VC1BNHVYVzVPZjZlalkzZU13NA?oc=5",
+      "published": "2026-08-30T20:32:00",
+      "date": "2026-08-30"
+    },
+    {
+      "source": "iPolitics",
+      "title": "iPolitics News: Key Developments in Canadian Politics - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5EUXV5dXNMRGtOTW5MNmY3REFycnJ0QWNaa0VNVGtnSEpNallyTUl1Y3lESFJTd2l6U3N0TTNB?oc=5",
+      "published": "2026-08-30T20:30:22",
       "date": "2026-08-30"
     },
     {
@@ -320,36 +859,15 @@
       "date": "2026-08-30"
     },
     {
-      "source": "iPolitics",
-      "title": "iPolitics News: Key Developments in Canadian Politics - iPolitics",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5EUXV5dXNMRGtOTW5MNmY3REFycnJ0QWNaa0VNVGtnSEpNallyTUl1Y3lESFJTd2l6U3N0TTNB?oc=5",
-      "published": "2026-08-30T20:02:11",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CTV News",
-      "title": "Canada's Leylah Fernandez tops Zhang to advance to second round of U.S. Open - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHFoR3JLUnVJZ1lwdUFsQ3BwV2xZUEY5X3g2eDdxYjVPQXZMZHpaalRWR1JhRU1HdjdfYS1EWWpudTc1NERTNXNMLTFOSTBWRTg4M3ZqbUpkTl90Y055NnVpakNrWDdnS2JPNmlmRFpMYnhvWVk3dXMwOUpmNkhVNlNvNkZvR1NEeG13N1p4UTNrTGozbjNrXzJHQnh5ZXJsdHdhYVRXLXlwS3VDVVpuQWpB?oc=5",
-      "published": "2026-08-30T19:52:57",
-      "date": "2026-08-30"
-    },
-    {
       "source": "The Globe and Mail",
-      "title": "Video: Toronto Blue Jays unveil Hall of Excellence as part of 50th anniversary season - The Globe and Mail",
+      "title": "Video: Toronto Blue Jays unveil Hall of Excellence as part of 50th anniversary season - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1pRY29ycXBibklwYW03NjNkVmE4aWpQdS1Ic3hLY01OcmNEdXJfLTVINU9MbVNIaUVlaVR4aEVtYXJ6a0FvMDZxOFVxeFBjcldrSmQwbGhNUHVnTlFJcnQybi1Ub0Jqbm9aZ1FFRmtoSEhfVmtaQ1BkZ2hpb1BFaURBaG41QWFOQnVyUUlZYnNrMVJfY0Q2RHZUVnp1YUdkZmdQUDlVaXhHeEFnZ1E0LTR2R24?oc=5",
       "published": "2026-08-30T19:10:42",
       "date": "2026-08-30"
     },
     {
       "source": "The Globe and Mail",
-      "title": "Video: Iceland votes to reject EU membership talks in close-fought referendum - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONENKVEtaUUI1TnpHbnk1NTZfV2FDNW0xTEpGb29ySGpTamI1MldLTEV5b1FhVHZvTk5aMG1HYmVkdkh2NE1tY1h3bF93blU0TU9rQnA5U1JqWm9sSlhDY0JQb3M2T1R4X0FkRURxWEpRYkUtSGhjS0VMUHBTNVBZYjNIYVJGQ0luclFqaUxxZGI0a2IwOTFYNVZ2eXdSTnVPQlRJalVnWk5BemhicDl5LS1wOFJWUQ?oc=5",
-      "published": "2026-08-30T19:08:36",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "What Are Hyperscalers? The 3 Cloud Giants Powering AI's Next Decade - The Globe and Mail",
+      "title": "What Are Hyperscalers? The 3 Cloud Giants Powering AI's Next Decade - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZndBUlZ3U1RyMmlPVE9mT3VhbV9HaGJtbHZ5YjlPQnNHUl9DZUpUbzlLSjZXd3d5YUVPVFFndURXOXRMeTRSWUpqa1FRNDZYTDdsRW05dE8xOFlHRVpvVzg0eUQ2aThnb2N6U3E4NEx6aVg2UmRiejVGTFB5NVF0M0lEZ3E1MHYtbmRxQkdjY251V1F5a0Y5SF9KWmtVbU9pOXU1enpSbGdyUFIxNzUyN3Y3YnpSWlVSUjRqdjd6SmdZMXQtZGJER083cEJOZnN1aFk4THcyWnQ3UzBaN1dFT3o3TG4?oc=5",
       "published": "2026-08-30T18:05:27",
       "date": "2026-08-30"
@@ -363,7 +881,7 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race. - The Globe and Mail",
+      "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race. - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdlp0NVlfaUxRU3JINThqMEVYek9zRzhVdlViY2RTOERUbXR1QVNsN1QtUGV3OU44ZnRFZkNLMF9uQ3lmRVQxT0tBWUV0TkR3ZUIzSHhYcm9XTzJHSHpxT2xVYk91OElIWWtITFE4clM3T0ttNkdBQ3BRT0FRNGJ4M2pXVDRXd0pNRWJ6cUdPUENldmNuUlFFMUh0a0liRWZOcWJtN0lJWmZjS25tSkM0QWNIX09pZVlndlNVY2JuOHAzS050TWRPQTZxVFdZcDNlajFLMzZqNkJMZEprdDQydDlFVXRpWU1iMVN6VTB1R1dyMEFqckl6Z3lFMUxCM0Z2SWtBNTh4eU5qSnpFNHJaU29FaWdyM0RtOVJiVWZlV3dqUko2?oc=5",
       "published": "2026-08-30T17:35:15",
       "date": "2026-08-30"
@@ -387,195 +905,6 @@
       "title": "How China could benefit from a divided Canada-U.S. trade relationship - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NeV9KWDdwa0l0ZXZ6cnI2Vi1NMzlLTkN5RzZqSXN3M3NFWHF1a0tzUGNPUnpZMUFXUngyT1A0ZzVpNTk3a0ZrZlRoWk5HNW9mb3RhTzI5NVFfdw?oc=5",
       "published": "2026-08-30T16:39:49",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Global News",
-      "title": "DeGroote professor dissects intensifying Canada-U.S. trade war - Global News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUV1akthelZuc19GQ0RzTDg3dWZBTFQ3aXNuYmRGQ1NXRm1BckVIMDFSZWJFeFU5cGw5ZnZua3pEbDBEWWlsTzE4SEFaSmFUaXNxdlRocW43QTA2aWk4eU0zWmhuckhfQjlDbzhxcTFQWFZHVkNkT204OFc3S01YU2pvTjRWZUZiZS1QdmRRMzRodUhfSnhFcHVWWjg1SkU?oc=5",
-      "published": "2026-08-30T16:08:18",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "First P.E.I.-born athlete to compete in UFC wins debut fight by unanimous decision - CBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck1NMzBsUEdhVGE5TkZaYm1IbDRkdld0WGdfQ0VZdUx0WDdzMm9ndFB0NHNlVmJ4OW5lejVJUmRIeFJLYjktQldrT3gwaks0QVRYbWNnTWdEdUFUVkNEWHB4TjdlQWcwN191Q1lSRmNtd2kxaUhIekp4Rkgyc3N6OEtjSE83XzJCRUxFdDRRTkI?oc=5",
-      "published": "2026-08-30T15:54:22",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "UIPM Pentathlon World Championships Guiyang: Women's final - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcTNDMDFURnRjYU5jRVNrUHVaZWNnX3pfZlNPMkdMenZvZGNrTUY3S3R6MUVqVVZ1YU5ra1ZweFJxRnNoQTFDX1FjN1JmM3E0MnBPRzNjODkyQQ?oc=5",
-      "published": "2026-08-30T15:45:54",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Video: How NASA's new telescope could shed light on mysteries of the universe - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF81YWV2ZzhtMXM5a0F3eG50WllCdHZ0VnlOc1NwZVdWWHd4eHg4c0VrdHRoZVRMTTFtMXZZd1RCVVNFcjIzNFRrbnpCUzJleC1fNEJYS1FsRkszeXlUVlhYTGQ4cl91RFdwYkhpdW13Y1lQeDlUYUloOWlCMGlNY1hoalpONjFHUWhoYXMxdzlGeV9jTUUyQkpDMF9kNDhrWGRiSWFybHp2M3hnbWpWMGxBdXhYNXR3Z1hvblRIWDI?oc=5",
-      "published": "2026-08-30T15:16:28",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Video: NASA launches Nancy Grace Roman Space Telescope to explore mysteries of the universe - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdWw0aTVIdFZiaXk4dDBjejcxclBWOTNpSGktV08ySHNHZllCUUZBVFFEZzktZC0wNW5YZUNQaVJuOWZyZGtOR0VYVGdocEE3aXp5UUlWRW5GRDhOaFRuLXZUNnVIbjJ0LWN2bWt3YXYtV0Rzaks0UFJFc2ktS0JEQUNhUnJ4dGdteHNZN0tUUmJVdlM5R08xZTRkUVhBVk4zYzNteUxSUTJVZ2I2VUIxNTNUa2dZOHJGLUY2Z0o4Yw?oc=5",
-      "published": "2026-08-30T15:14:42",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Ottawa Sun",
-      "title": "World News, Global and International Stories - Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2SnhPWDllRUw1X0lVZXpsNkpyN0FFa3dnR24yajZyUXlCLV9pNktkYk5NZF9FMjBiTWthSGE0THVIOHQxaWJvYklaZHpmZnBoaFlOaQ?oc=5",
-      "published": "2026-08-30T14:51:49",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Google Maps changes ‘Lake Ontario’ to ‘Lake America’ in U.S. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYU5vbFdpS3dueFlCZXpMQmNUOFRFbV9QNXhTdW1IRU5zbmhoRVhEZTBBSDZrWkFqZlh1bDZLSDQ1VnMyZ0k2ZllldnJYbUhycURzbGptbDgzdmk5eUZ2VEs5djZ3bHpOc1g0ck9tUWFWNmZabktSNWZXLUNsaUxXYUhqclVVdk1MVFRDWA?oc=5",
-      "published": "2026-08-30T14:16:32",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "National Post",
-      "title": "Lauren Sacks: Canadian unions should know socialism never ends well - National Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2hrVWh1VjRkajBxOFF4WTgxcUVLZVg0RUlmVzAtcW0xZVY0OTY5akFUWVFKSVdBRWM3OGJQX052QXVSOEc0R3JXVWZBTU9wTlJvSi0yM3VUdTdmUnFLVXJESzZoaFdhV0c2c2VaZTBtOElSSHRUQmFxMS0tUjJGai1jbjdaVEVTMm1pUzdELXBXN3NjaUVLVUhUbmFNN2hz?oc=5",
-      "published": "2026-08-30T14:07:09",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "Recovery work precarious in Nepal flood zone - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tNnlsVTZTT1FtZVF2LWNYQk5vVG8zRGc4cG51eks0cGZVSVR4TkVRVmsxSDRHN1Zfa3VsNVBMVDNMeGZiMkZVeDNaUGx4eW8yQkM4NlJFSmYzZw?oc=5",
-      "published": "2026-08-30T14:07:03",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CTV News",
-      "title": "Highway 400 fully reopened after late-night crash caused two-hour-long closure - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHM4bmQ4ZmppYm9hZmdvTEMwbHFHQTJFWl9UakhZRERYUTVGQ0UyYndiWmVjdVF4T1pPc0Rhb3dlemp3X3dfTUR6Y2Fhem9pVEhJRGNyZ0Exd0hfMXZ6WEdXMHVaWVMwN2VBSUEwSGFrMVF4b29fcFJ6Qld1STVxVXhnX2JzLXBCT2NXZDhQR2o3dFZZbjRSY0w4UnJaTllaZHl1eW11WnhmSVVIdVFPNERqc2U1dENTR3cyRks0eERYMmhEVEVBR2Z3QQ?oc=5",
-      "published": "2026-08-30T13:57:07",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - CBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMUJrYURqT29iTFlTTFdMc01RSmRvc1JkdW01SDIyYURXTnZLbFgzbEllSk1oT3ZGRHR6UTFTSmVsZ2VnNEdWOGNLUXZzLUhHTXZCM1J4YWVrOW56Wk5uQ3hPUHJEODFIak5MYlJKVWM0OTZRNkZsR2h4QmNQai04MA?oc=5",
-      "published": "2026-08-30T13:27:00",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Global News",
-      "title": "Shooting at rave leaves 1 dead, 5 injured in Switzerland - Global News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RUWRSQzJiOWowRjFUVGJMS1RuNmRZR2dJdi00alFraUhkWDE1WE5lWng5SGxqTGFLS2xBWTM3VDhFaGlobDZnRmEyS3d3bmpfcHBFWGF4VnRGODUtQ2Zvd0NEUlRaZ0RnS1prNVJWTQ?oc=5",
-      "published": "2026-08-30T13:23:21",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CityNews",
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - CityNews Ottawa",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWRYTkFFeFRWcmhRMUZGUEk0OTkwNzBVYlowTnlILVppTVFMdFR2S1dZeUlJcFl4LUdSelZoNXZvSXlaWE9pdVRVaWpNaEc3NHlqeGgtbS1sR0pkako2Q19UaVNaU1h1bnV6Rm4yWjJ3c0F6VXprSVRYODEwZm5CTjIxUnozLUoxdWNWN2tnOU4ybkJGT2lXSU1FbzhqemJyQnpZdkFSN3Y1UkQwUkhGSEpJV3o1bTJv?oc=5",
-      "published": "2026-08-30T13:09:12",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CTV News",
-      "title": "Taiwan’s oldest panda turns 22 - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGZjQmxybEhocDJqMVVVdFlIaTc0MVB2MGw2Z094UzZ6RXdVOTd4S29pVkFRMEZkcXpvZGlCMzh3YW4zZk9UVl96WHQ2ZENxcktCNzdOTTB1X29jV1VFY1lwdFVGb2FCYXBWMnRGVk4wQ2VRYW96U0pIVnJOQ1M1MnBXYUxXWUZSUXc?oc=5",
-      "published": "2026-08-30T12:27:20",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "Canada cap 3x3 Women's Series campaign with title in Takasaki - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoUHRiWERocVFWNkVkbU9vZ0hLamhNWmhMSHNabm5IT0ZHcXh1LTdfOEZtVGZPNDFjRUtQVldTdzdmQ3pfTGQ1UUszRlRHMnpZ?oc=5",
-      "published": "2026-08-30T12:20:40",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVB2U1BvOUtoNERDQmlLQjlCS0NKZkpDdVlVQzVOVEp6SzJUa1JlbmZyWldoQ1hXRXZjck5rS0hWZ29fVU1aUXZlTFFFcWdWcV9iSzlEWE5iUkZvRF9Mc3plWHBFbGpreXhHZmh1aWhzcEFMeDZtYnNYeDJsX3NoelBxdXRfT2M?oc=5",
-      "published": "2026-08-30T12:11:43",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Prediction: This Investment Could Crush the Market Over the Next 20 Years - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZEhoQW50SHI2dU1LUVAyYkJkRkFWX3dFVFZoaGtZeXRyaVROM1Buc2JOSlNTOExoR2xidnRPX0dPZ1J3b0t4d0VPbkVzTWZwOElfOW5kcnptS0d5Q3d2RktaOURWMUIzYVVaaEZqaUszLU1BT0NzanZZU0JzNXQ2TDdwQ0dwUUdsUGFCWHNhcTFxYnhrMlo2UDl4SE41N2Y1eW5TX2ZjMFFmRmRyZ2k2dk9rX2pGbVI3TFZOeFZTM0hxTXNHaUNrWmFXOE5TN3RnLXdSYnhBQTNjdFd3SWdyOHcxeHZGbEJJLUwtTFNWLUY?oc=5",
-      "published": "2026-08-30T12:08:24",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CTV News",
-      "title": "Hewitts Farm celebrates 50 years of growing - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNU96YmZSTzB3ZmRMUDJRZGJNX0F0SUNNLWE4cUxfV21NcTJRRnlaYzVWVU0tTlRiY2FkcVlCZXVFR1dZTFBIbTMzRC1PUVdVd24tejFqb0VtazREWEdfTWxRVlJpSmhpaDhyTWJUMmFJSVN5RkJQRzVNODJDcHZ6YVpzYTlhZG1vQl9naDhBMFJLZzI3NkE?oc=5",
-      "published": "2026-08-30T12:04:42",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CTV News",
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS1JaLU9zYlN1aVNIdWZOWXJKNWlIcDFOLVVtb09ZQ3M2RGd2NE10a294VkctTUNOSzR0Z3dYR3BORUp5WEJ3TGVUbktLZU45Q3F4U2tYcGhjd2gyQUtDU2hKRmtqZG9aQlJ1WFV0TmxsekZBSEE0NHlYdmFwOTRNMkN1aW1LOUJESHZKTi1FRWYyZnhmdVB1d1lPTTN0c0dyTkVlN010REN6OWx1UmdOZVV4VkhUSUFXd2ZtYk80TU1IR3VCdm5JMlJTOE9RelBhOVRLenA4d0cyWk5TbWZN?oc=5",
-      "published": "2026-08-30T11:51:03",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUZQZGdLWnV3R05LVkFrRG02RVllVWtSS09BZXEtc1pXc1MyOUhlaDFQMjhMbkpiTGlIV2p5Sk02UnpSeU5ZUTl0dDZwU2Q0S0FJVER4bjZzUF9oUzg4Q1VDQmF0MGpwT01SUmJ6ekljYnJlRmZ6MjNZX2pmNlZyWkJyS3ViemktZndfdXhublZYVGxuZnQ0Rm9zMUhvQzUyTDNMYk5RUEV3RWo4Zko3UzJ4QQ?oc=5",
-      "published": "2026-08-30T11:46:20",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRFJITjRKUEhUTG5tZER3dEVnZ0ExeXl6NW8tUXB1cXdPMUZzekc1cUE4bS05RzgwOTV0bUtkVkVxLS1nU0xKMTFXdElvZ0N4VW42Y2pGOVF2QkY2THFfb0YwU1lmMXRkVHg2UXU0WXRvOFJuNXY5a2lLVExmNHNIV0ltNjRYcTYteGdpbjF1YmUtTFVxZzRGNTRZRFNJWXA2WVhNQzh2WHZnUUhHOW5EUFhuaC0wYUx6b0wtVDYwWjVhTHdkY1dHT1JqaUNCZnFMdWdhT0VBaTFKQ0E2YVctQUh2a1ZIMklxTTBrc0ZfcWF6TkRXcU1teGx3?oc=5",
-      "published": "2026-08-30T10:22:18",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "National Post",
-      "title": "Geoff Russ: Praying for a friendly U.S. president is a terrible strategy for Canada - National Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1BWTUhrMDRjVjFOWGZvYUZPSEgwTlg3RkNYRXRTS2VxQVBOaDFUb3p0VjBFajR2LTJ0OUZWUklreEl5X3poblp3ZTJjZkttYloyRjdwY2N0VDRWb3lXWlhfZlBYcEhrVmZYMUJUU0xYRkdZVTVwczYydEFMNXpvX1hWN2hwM19TcmtqT2xFSm91VXZoYjY1RWdlaVlTZl9pOUZFaG0tZUp6ZFNXR0VQX1hzb3M?oc=5",
-      "published": "2026-08-30T10:07:53",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "National Post",
-      "title": "At a Nepal hospital, hope slowly fades days after catastrophe - National Post",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHp1eTBXWHJvRVMtV1FsRHVPSXB2WTQyUVdzcmwtVll3Y19XV1p2d3A2MUlISjdtd1h1ZlNVaXRMNFp0NTdEaXE3YkdPamFIeVRhS1JwVk1Vc0NqcHVRZUZuLUsxaUtYWDI1bXVfMEw3ZGJUNHd4NGJ0TWpjVWNOWDByd01QaGhIbjRaVDdCZmItSFJHX0NZck1TWms?oc=5",
-      "published": "2026-08-30T10:07:14",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Global News",
-      "title": "Opinion: It’s easier to support a trade war if you can afford one - Global News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOURhZHpMOFVRdzlaSWZOWWtOMFRxT2VrM3Fwb08wOTA4M1hnWkRpMVE1LVBZWjF1bDlCMVZ4cGZhelNiMlpKVmp1ZldXQ3p3Mi1LbmFKTEZjcFBVblFGTDhyNUl1Sl9MVG9FOFluQlBtS0tpekZJem15WXkwQ0RqdkRadFRIX0h0TEZZYjNJakR2RWdVQTNKa3JxQndibnJUSWc?oc=5",
-      "published": "2026-08-30T10:00:56",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "FIBA Women's 3X3 Basketball Series: Day 2 - Project Redwings Shanghai Final - CBC Gem",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORU5Kam9yV3dUcHBTUmhDWGdfaGxoV3diV3hQZnlCNFFoS2hzM2ozZFVaYzFybUo2VUFPTEoyUWNCN0tOd0RlNnVoMFRaM0VUa1BwSnkzRU1MZUNmdG55UGFyb3ZCSWxsbjllQ0U2M0tsamV3UE40Q0pMOVpnZGcxVko5ZTNBaFZXZU9QUDRlY2EwQnpKaXpNTklISTg?oc=5",
-      "published": "2026-08-30T09:18:38",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "Ottawa Sun",
-      "title": "YOU SAID IT: Both Canada, U.S. need to grow up - Ottawa Sun",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWElCVy11U3BHa09TOWVfVFhFQmlndDgtcTdJT1ZsdTJzcng0Yk4wQVVSXzAxOTdXTEdaZEg4UUV6czVNNXFfc0NFTkEtWWtIY0RKZm9veFI4Q3FMMFpWR2k0WnhtdUdqam4tQzRZNXdGVk9PTTN0c0szdXFLLV9XMFROcThVVHdY?oc=5",
-      "published": "2026-08-30T09:13:13",
-      "date": "2026-08-30"
-    },
-    {
-      "source": "CBC",
-      "title": "This scientist is north-bound as part of a team carrying out marine research in the Arctic - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10SE9JNmx5eU4wQXJxaE11eGVLUHM3c3dmcW9VaWEwU2p6NWp3UUVmRkdPZDFHYjRaejJMZ3Y2ZVJTZlpITjdTXzZ5N0dmbW1QVWl5cGFLT1g4QQ?oc=5",
-      "published": "2026-08-30T08:30:00",
       "date": "2026-08-30"
     }
   ]
