@@ -1,7 +1,463 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-09-14T04:57:46.466557Z",
-  "article_count": 0,
-  "articles": []
+  "updated_at": "2026-09-14T10:29:13.825185Z",
+  "article_count": 65,
+  "articles": [
+    {
+      "source": "The Globe and Mail",
+      "title": "Global shares mostly decline and AI stocks plunge after calls to slow AI industry - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTkx6ZU9RTXk1ek81UDhMSC1sTUp1WWJWMDdEb3g1VGR2TEFVSzB5UzR1R0lTUVdsZm93dWd4VjhHYVprbk10bG5kWk5xaHMxNmpQRmpIQXZ5LXJ0OXF0ZWNGR3lVd2JxbHZUSG1KWEo4RDluSFBIOHN3MEtpMko4TTdOU2tUSnFUdDkxdWxtR3RSWjhvYVhVWnQxcGxNSFJuSXFISGxpQWJ5VEtXc0RmUnBEMFhnYlRRSUd1YkJUTnFtc0poNjl2Mzh4djFYQ1MxT3VRU09OYmdlVV9yWHAyX3JTMEx4YUVULWpMaFhHSnRHLWQwdlMzeGU4dw?oc=5",
+      "published": "2026-09-14T10:12:39",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa0o2RENrOHVpMnJVem80NGFHeURlU0xmcTdBeUVNTzBPTUl1RF9QV1FtVDk0TU9VR2lJbkpPSk5jWUlwT0Y2cHJpQWVFUndBY2Z2MHJVMk9qeHAtRXhKblU3UGdpYWNULW5sc3Y1aXYzVlBnV2FyUVlNRmN4ZFVrSVFJek9mWnZfS0ZOZmtiQTlvNGs0X2JlYWdWWlRuZlZaa1lPUXI4bGpzVEhyRGs2QkFUSkFqX2M4S3RNMTBhNVFTRlNCNG1FSGc5elRFZ2pVWDJmdm5GMFM1c0U?oc=5",
+      "published": "2026-09-14T10:10:37",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "Ottawa Sun",
+      "title": "Canada News Stories, Updates and Headlines - Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDb003UXRKVmFDMlRHd1VyblhkVjl2c1N0aEVKMy1BY3BsTVdybzRtWkZBdGJJcGRoV3JaNFFkdkJqeXFHZzhzZWdQMHZFVXlvUUxqOFNWdDg?oc=5",
+      "published": "2026-09-14T10:09:21",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "National Post",
+      "title": "B.C.'s drug decriminalization experiment didn't change overdose deaths: study - National Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOem85dWF5TlREeG5XZWdJVWNUTWthbnNmSGlJRzZ2dFFXMVZCSm01TWYweEN5X19KdkNWbVM2X2l2aHBmVjZHOFk5cE9WWFhtSmozU0VsZ0JSajBPVW1DN1RON0hFckE4LTJ1dHpXUDJJdU9iOXl2a3hVTS0yS2swR3NLUWl0UlR2SDFocUxuVGFqZHl4RUlkNTdaVzVWdDJJU1RjRGw5bw?oc=5",
+      "published": "2026-09-14T10:02:27",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Online harms place substantial cost on Canada’s health and justice systems, report says - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnd5YWVZa05DZFhpOHJzSjB5czRjNlg4Y0FCQzc5bC1jaWN5TFJCSms5YnB3WjRHazZ6eFY0d2RtRjdicUI4UUY2YkFYYkNMbFBhWDFZMnM0OWNRM0loRDEyMzhrX1ViVlZNZk5TVUZ5S2Y2Zk5IeWx3c3FTZ0pEOXZOU094bkJCSGhpV1JfNUZvTHpIdDktb3MyYkw0bmNwcDBvXy1jQXAzTENTTGhjVDhxNVhtUQ?oc=5",
+      "published": "2026-09-14T10:00:00",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "King Charles to host executives from major AI companies including OpenAI, Anthropic - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0EtZDBjdmcxRGwzd1Voc2VwTWJHMzROMzNBTEdXY05nZ1BrMDk5a2ZJMTZWRVFoYzIwYkhFeTJKdVFwTXVNU1U0VTFEQlh6Y1Y5ekgyYnRyTU9uRDBUbXVwQjlwY3d0M09UUTgtZEhmV0NGdEZrd0RVYmxNcFhrUEFiZGdTWUU0UzdkMm5qcnZUclZsR2VBM3E4a0x1WDNzQWZsRFp5U0RfNjE0bEpvdmN3Mng?oc=5",
+      "published": "2026-09-14T09:57:03",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CTV News",
+      "title": "Companies left China to dodge tariffs. Now some are heading back - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUNJWTNucWlxSGVsZFZrVWU0WWNrNXVUZzRoeVg1elhWd3h1SmhzMUNONU5vMFlEbUxXYlJTSkVOaHJ2UmhKMnR4RktNazVNWmgwOHN6M2hTTUpoYkVhak1EWDVlbnkzTjVEMWR4aVc3bi1QTW13OVd6ZnJhZ1FPd0VSVWxQRk9PMlBQU1BQQ0J2bXR6UDhsaktwVXk5MzFUcmFjS05zaw?oc=5",
+      "published": "2026-09-14T09:51:46",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Companies left China to dodge tariffs. Now some are heading back - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYi10a1k0bXJIczFoWDJFWWl6cl9ZM0JKN21VT0pZVUM4dkszRl9aSmhzZXlNYTJVQlliNVlET1hKZmpZTWMtekd5b3oxUWZoNW5VU0dZejgwREd6cDJiLU1wVU83eXZNTGxBWllRRktBS1ItYlB0eC1KZGNWRXNDTWF2NHZwYTZFUnFXbjRwa0ZzNmJOR1ZWZEk4SXRoOEtFclJoUGhIQS1ObFRUTE9JU2tTYWdIWEl6ZXMwMFU3bVhwQWpy?oc=5",
+      "published": "2026-09-14T09:51:46",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Logic",
+      "title": "The ‘red line’ in U.S. trade talks that sets Canada apart from other countries - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oOHEwTEQ0Unhab1VWRkVOV0tQc0NsTjhMcV9kZTBxUUpBYTFWNjBPcVNlUXFEOWxuVDVidngyY3k0NHZzSmJVbEF6UVlqWmlGUzYyc0tQeVdpUFVrRmRxWEp4bl9qNDdFUjVVRjhTUzhHa2V6MHlN?oc=5",
+      "published": "2026-09-14T09:45:00",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CBC",
+      "title": "Monday's top stories in 10 minutes | World Report | On Demand - CBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZE84cEZGczJXTENDbG1hUkFoaHJ0RldUSW1XYTJxV1pTZzhMZkRBTmd5N3BmZFNPdmhwMGNYei1Yb0dKQzY3a1BNalB6TE1FU1h0ZlkwWGlsNHVSZzBvQUxwOE1IanFuUTdjZTdIR2sxbW1yRFJFUzFpUG5iTGZWWFRFMnNFMUhtT0xXS1pXRjIxQVV1Z0lfNGt1cWtWazJU?oc=5",
+      "published": "2026-09-14T09:44:44",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "Global News",
+      "title": "Global Player - Global News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUl3TlpHNXBIWkM4ckxxSXllVFRYY2x2OEVod0N6Ym1PQ1FGSnFMbTFIZ0dBVkg1RVQ3UElNUlZ3NXhQRzJpSEF6TmhjS21yR0hITVdNMVF4TlBmcVpUWmNiUXZ6cWlneGFDWlVfeVUyMmNPSUkycjQ1eXgyTFBOT0JHbEo?oc=5",
+      "published": "2026-09-14T09:00:50",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CBC",
+      "title": "Amazon suspends use of cargo carrier whose plane careened off Miami runway - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmlxRmpVWGJTbGotZGF4VHlVaUk4VUpFTGx5Qm1OVUxUcDJEbWVuTzVVUUxLMzRKOU9TUndGQVNXMFNwcUlKbzFLQU1xZ3EwVHZxdEdURkU5Z2RWR0lucHdvWHczMHl1azNDUkJxaGlIMEVUam9uanhtc3h2TkhjLUtR?oc=5",
+      "published": "2026-09-14T08:54:32",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CBC",
+      "title": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026 - CBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KOHhWTUppT0tNdHc3UldybGNNcjYzU1MyRVAxUEpBTk1BeUZyUjFjUVJxcExENWdIaEl4TlJZcGE3NjN6ZU9QNVEwMXVzZkNXbWtMQlVRRnFsNEhUUU5scVc0VWVyS1ZIZ01KY0tYbzZoLUo4c1N5bk9MM3U2TFU?oc=5",
+      "published": "2026-09-14T08:00:00",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CBC",
+      "title": "Got a minute? Tell us what changes you want to see in Niagara this election - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXhoUThoaC00bkRkdzdXS0h1SWtwYy1kLXdBNVZwemNhNmFaQVAxY2V2M0JoejRnRnRuQkpvR0pYRWtSQkhEdTJsMTFCVW11bUhpdmlybTBPQ2xHUno3MEp2N0NmWXhDX056dVMzcGV0V2dXSXExOERrXy1YRFRZWTl4a2NWZF9Hc0xv?oc=5",
+      "published": "2026-09-14T08:00:00",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CBC",
+      "title": "Iranian told he may have to leave Canada over past IRGC service - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KY1pYNEVZYVdvMm9uV1p5U1pqUjlaQ2NERzJGNm5YTlhNOC02NS1VLUM3X0c2XzU2THVBTGtWcUFjaUpNd2w1QTJUSThqT21EeTBJdUxRc0VsZw?oc=5",
+      "published": "2026-09-14T08:00:00",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRTA3OVN4OGd0SWlfcjBDdFpxOFlKbHppY1VHM1hHcWpRZE9pbTdBZkJydnRtTXhGd3h2SEVIeFljQ0MxajZmbnRjQjd0bkdjOG1oU1U3SC04YVRHWHhGNE11SzdLcEVfU1dPOFdiRmlGMWo5d0JvTHpBTlFRS1o5Wm1VeTVTUm9FSzQ5QWVWaWFSMVFScEU5ZGc4Y1kyQ2NZX1d3MjVnWUhaQnFtSEc5WGI3Yk9jNWlvRDU5X01qODZIYkJhMU14emxId2dldjVtTzZxdWtUSGxWMzhBTHRZSGtYeEZJMXFYc0JqcmdJbW5QTF9MX2RmcmhYM0ZJb1lyck04dUJZWGpDcngw?oc=5",
+      "published": "2026-09-14T07:49:14",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CTV News",
+      "title": "- CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWh5cHdxRnJ4dzlRMGI2eURsX2k0ZEdIemg0eWJjcE5yX0hfVGxpWDZYOTI2bnAxZU4waGx6V21aQ0c4Zzk0bG1JSU4ya2VubFAtY1c0RlNoWWVvVS1pSjNWdkhQdS11eE1TQktwLU5DbTgwaDRkZm55bk04TmdFSGxGUFNxMHFpRVNFdE9lT1VCdDZrWnZuaDdxY2pPZ2ZyMGZzZDdGdFpPYW4xWV91ZmNPRFUyalRVNnRORmZMR0FfQkRPZm9maGJVUGVxZzExeWc?oc=5",
+      "published": "2026-09-14T05:44:20",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Asian shares are mixed and OpenAI investor SoftBank shares plunge after calls to slow AI industry - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdHpkcFlaelF6Uk84RW84UU9ydVJoOTRfb25PTWRvdnlIZ0N2MHlJZ3ZFUmE1cm5TaEk2ODFnZk11azFLbU1xNU5Oem9oMVJPMWhWTkN5Qllfb3NTdFAxNDUyemRYdExtckFZTEZlRkt1YW13dnJmQ09tLVl5a0VpVzVzRW5QS3pIWDNlV0I5S3RSbktSOVk5S09TalFKR2t2aldpLXV3VjV4Z0VCa29IOV9ESlFvMENJRUNGUm9xTkNSLXhqQ0tUZGk2ME1scVlOTmIyUEd6bHl1NFBSUFZrTTJJaDRrRC1aSE1ycTI2YTNjNW50Mk9UaF9meTB1U0o1X0ZpNllSVUh0eDQ5ZTZ3?oc=5",
+      "published": "2026-09-14T05:23:41",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "Hill Times",
+      "title": "Trump isn’t the only show in town - The Hill Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWNUTkhyMGkyX2Y4RXRJNHBCQU41V3F0Tld6MWlyTkhWYkx4MDFHWXlYT2RPYVAxeTYyc1JidGlmejBmWTlLcklUdEFoZU95aGd6ckttWHhLTEZnVGxFYXBIN0lremtja2EtZHdKbTBCUWI4TmlSR0Yyb3N5MmktUndNWkRmaFVrdmtJTTdKbEhtQl9aWHc?oc=5",
+      "published": "2026-09-14T05:03:46",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Mouthfeel joins flavor as a food industry focus to satisfy consumers craving extra texture - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcXNwQ2FfVV9iRTVqTGZDMjNqNmo1U0RhVWplVkZDOWVFSllCMF96N2prd01tX3VQNW9BOVZsZnNWTFphTmptbjdmVmh2UndDUWR2UjZNSnFzY1VqR1JQb1hFNDE0cXRYVEc3MV94MXdYYmJFR2JLbVptZFFUUjZudHZUWW1mY19sY0RVeTlKVXVUd2dIdDdCTTBOSU5IWWRzbXc5clpWeTVSaTZjQ0VJOGVoUUxoSWJsVE11SHZ1aEdXZ0xua21EZzRfMVhaSVduXzl0d0VDTGdRZUVSYTJNdkdnOFNBcU1hTmt6Szd5QjdGZnRPUUNYVUhOMWJVOTE5OWQ4dEcxbw?oc=5",
+      "published": "2026-09-14T04:14:43",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNG0xeDdxa1BoUGhWcnVLbWoweVh6aURLS25yQ3RIbmh0N3BmelVmWC1RN1pZZDU5VFJCOGRUV0o1b2lzMGhybF9ILUFQQzFoejdaX3BmeGVMVkw5Vjk4SU5ZS1dLa0xfQXk0aFh2VG5xRndNNUR5ejJhUVROSm5UTlhQajEyYXdDNWt4UU1DRmt6SzQ5aDltMmZUT2lob1ZwNmZhTXEydjNzWEk1ODB3ZjJNcDYtSnp5bEhsekhQZ0dpdVhKWnItR0xhZHlaMnk5NTRTTHdnLVlEZVpBNnA2MkUyZUpJaG1qUERUUlpBS0pURlU?oc=5",
+      "published": "2026-09-14T04:10:18",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "'Travel China with the Spring Festival Gala' new season captivates audiences with fresh take on urban cultural tourism - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNXJRZUY2REppSVBlUlNzQU5xeGhKWEZsSTVoQ05ZQUNNMTA2Wkc1MVpsdWRoS2hwZXI3N3YxcV9UTzlVVTFNNTUxbmluNk1xa0xDTmZ5MmZ5N3h6T0dOZ00yQWUwWDlpOGs5eWR1OUpLNUZKRE5qcXc4RFY1OXRialhWZUFSVWJCbzh4ekdsVjdFZWxaN2s0LUJPemx2d0VDZVB0Z3lPclh5OU9CWDJkSjNWcVF0MWk5R3NPT2oyRzAtV0IwWHZvUThROXlhSGxLSmlVZFRqNDV5RmhJZFNFQk1tMHBVVjk3UFI4R2V0NE9kd0FxREI2M0c0WnllOUM3WWozT0xwWWRFUFBrOWxHYlJReVNRS205TEJuMVRoZjlybHFCSWdj?oc=5",
+      "published": "2026-09-14T03:00:00",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Silk Road Cultural Market Full of Charm: Highlights Chinese Traditional Food Culture - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcmVnUFJXeFRZZ0IwYVZPdTJjWHRHbVBRNE9GMEFLaVpyZ2xKWWFLZ01ubzJ4anVMa3FnVDZaTDhRQ01DWmNFQW1NWVN1dDdKZndEUXlFMTczRUpFYXNyOWJsUXBjZlVVeUU0Nk01X1BFVzM5X1VUb0FpMnNiejdDYm1pOThPTW5kWlk1SUNIMEZEUGNFRXkzSl9vbzNHU2dqcWR1RHpCY0xocUtHLUUyY2xXanhMUkh2ckc2MjQ3MV9LWHRzWk44dFE0VmcxM2hEOXNZWG5aY1pjVVRtM2xvT0xRU3BLZUx6cHYxdHYwREUySlh2VkNZ?oc=5",
+      "published": "2026-09-14T02:09:03",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Amazon and 2 Other AI Stocks to Buy With $5,000 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0Rtcjh1dHBCN19RMFl1V2EyZ1ZXRFNFS0xNZ0NPWHhaSlFDa0xESXB4YzlzRDdKNVlMa05sLWtuR1JtQTRUMEVwZ0JDel9RZUxxRWlwZlhBTjNEQmd3VW9sY0w0N0lMcE5acjJ3VXpzS3pwMHBqTFcxT1V5LTl2dnlWaXNxemw4QS1YcGRwT3p2djNKVUlnc1VCWHh0ODJKREVFQUhUbi00WnhmWFc1Q1JtOThxSTYzMnFJSlhPbXZjTUk?oc=5",
+      "published": "2026-09-14T01:08:35",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CBC",
+      "title": "Student performed Chinese ballads to hundreds of Richmond households this summer - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSVZ3Z1ppMkVhWkF3Mnc1RlhVS1lqeldOWnlReHp4bnZ6WXk4ekhuc2N1cS1uX1NGdWRibUFmOEVXTlh5M0dTM1NsSE1XR0h3YTEtZHU4UzBLQQ?oc=5",
+      "published": "2026-09-14T00:16:29",
+      "date": "2026-09-14"
+    },
+    {
+      "source": "CTV News",
+      "title": "Trump says ‘very negative forces’ raising exaggerated concerns over AI - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXNTTUx3ZjY4aDh2Z2tzMkYwQ2g2R3ZiZVpHMFhISE9QWXEtU0F6LUk2THpETlVCRXRvVmttT0gwSTdxUXh4NF9TOG9Xak5Ldk5ndGxlU0FKV1k1eFNXd0pHell3OEFMNUE1OUZNZ2RzN3lFOHQxcFhJQUNrVzFqMDZsbFBfbXhyVGVrOXJDdXFnV0dLUEMyaVFHcklERHJYR1F5X3gtR0tuby1QYkE?oc=5",
+      "published": "2026-09-13T23:57:08",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Canadian women dominate Brazil to improve to 4-0 at wheelchair basketball worlds - CBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOREc3d0NycXE5UTZIUFFoZXlJWS1MSXZ5Y0lCamtvbHNLMGRuRkhrNEF5WEU3VVlmTVJQMHpzelNqYlNYaEs2RGNqOHlnemN3VExabkNNWFNsam9OLXhEOWpWanZYNWExaWxzUWU2bDZjSnpFdGEwV0d1akNOZzJ3YzFzMUhSYy1vRzQ0Q3hacm5nMDkxdmQtdVFTbF9ON2E0UF9YMEZB?oc=5",
+      "published": "2026-09-13T22:57:19",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Rosemary Barton Live | Season 7 - CBC Gem",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5raTV4N0hOSHFLTWRZUDM3T3lNRlNMN2FwbHBvT1MxVkoxX0I4MDMtNDFDeGp1T3ZMdlBIM3JUQk1aN0hGSm1IWWIyalV0RU9OVHFwbm1n?oc=5",
+      "published": "2026-09-13T22:56:25",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Big trouble in South Africa’s motor city - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjV1R2Z6RkI2SkNFQm9xWk5xXzdLa2cwSi1xMDRYSGV1dW0tV0xBTTdibHVPcUlZNDNfT0tnZEM4Y3pwRnRZRFh1UEpHN25LTnlKU2JVMFRmcC02OElreE52ZmN4N2pRUDhfR1NXekE1dmFoZnNrRXM0TkFvQ1hCdXVBN0I3a2w3UXBSUQ?oc=5",
+      "published": "2026-09-13T22:37:34",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "11,111 Lamps Illuminate Nepal's Great Stupa, Praying for a More Peaceful World - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdUFWOEZ3R2ZiX1BTS0x1WU5obDRacWFNQ3J4TWMtbmQ1eVNlemZqcFQybnQ3NE5CVDBUdjQzbzZaejMwdzJRQ0xzc1hBMzU0WFM3MlduSlNnN2pra3hSWjF2bVJuSFphMHhMOG16V3VSRExJR2lWOE9lamxKaUo2TTNHQ3hKMWRud2ZXbjYxNG92ME82VGQwUXY4cEpMRHQ1WlQ3cGhZVExiemdsbzAxck5CVmtnOFpDTUJFdmlIQ2ZyRDlrOGdCWFI0bjBhYU1USzg4VzNxTndDWlM3M2ZnQTJkakpFZGtBRWNNYktpdw?oc=5",
+      "published": "2026-09-13T21:36:50",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "2026 IWBF Wheelchair Basketball World Championships: M USA v ITA - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55cWEtR1VDWGxoX0tTajlFaFBIUEQ0ajZmeHpQUm00azgxN29KYXdweGZ3RUpaWEgtcWFvY1VLYm10UjZJbDVjRmw0MGdSeWhnb2VTRFBQa1ZRdw?oc=5",
+      "published": "2026-09-13T21:00:00",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Departin' from Parton: Nashville International Airport to be renamed in Dolly Parton's honour - CBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUNUSkh5WHIxX0IyNGlleExncWxYQ0ZTcnVDMGhwVUNDLXpfdVFCb3hjQTN6Z0wxWTkzdkZLWHR6Mm1wcl9QYnBKZlBtbzFBeG94aHRCNFBRNkdiZTlEQ2luX25oRGhSd0MxSDE2MmExNjVsbVp4ODVER245MEdRZTBHNl9qY2VnWkZ3OS0xTQ?oc=5",
+      "published": "2026-09-13T20:58:46",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Ottawa 2026 IWBF Women's Wheelchair Basketball World Championships: Canada vs. Brazil - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtLTFHV0FxenZHc29RcTk5ZDdkaUo4THdWNjF5cWRtb2pBSjhEOUpQVExCaU5mbkpBOUZYUDNVNTlJN0c3bTVuWmFkUElmTWdpUU9SOTZqU2ZJZw?oc=5",
+      "published": "2026-09-13T20:50:00",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "National Post",
+      "title": "Trump says 'whoever wins AI wins' as tech CEOs hit the brakes - National Post",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3lyaGVneFRGZHRvenYxOEZBM1o3WURMZFd0dE5jbl9GS2oxT3VRejl3UURocDlFa3dpTF82YjRaa2h0UDBEOXhPUlBSWXlIWE05Y19vWUpXSlNfMVl3MHBJcjEya1hNc2h0MjdQc3pZYWEwZEZRcHBad1VhRUNjOEF4a0ItS3laSWladHoxeFFDUG8?oc=5",
+      "published": "2026-09-13T20:42:15",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Legendary Canadian boxer George Chuvalo is remembered - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ZlI2SzFzaG55NmxBLWJ1Q0t5RVpTVEt4cWEyQXgwRUVoQ0I1b20xb2huNWprUVQ0U0czdlo3RjVNQ0ZJZWRQMThMR2JVREE5Z0NWNjcxVU0zdw?oc=5",
+      "published": "2026-09-13T20:37:28",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "Global News",
+      "title": "‘I don’t want her to be forgotten’: 15 years after Tanya Nepinak went missing - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUNMU3R2aENmZkZSZGVYRWhaeXlkZ1FMTFVKUmlTcUU2a2Z2MkR2WEdzZUtZYWtoN2lXWWxpelJTZFFXcV85OE9QZms2Wlpqa2tkb2RWNUZWYzE5bl9hd29EVDZlSXRSMUhBWVYxd3hpWWMxZlVQMzNwMlQ3NnhvTms3MTBab2FTVXI0MGx0NWQtRDhJRHZkSGItZjlseEtzVlRsbWZBZzBmYU1RZE56bQ?oc=5",
+      "published": "2026-09-13T20:30:49",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Canadian filmmaker sets record for most Bigfoot live-action movies - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEdMRk9fRFJleXpwVzJJY0pnRTVtQUljak1TWWxMZ0lHUEVpb2VkRFI1T25tdjVIZU1xYlpjMlZjWUYyMWlYZVp6a2E2bFBYTlBUcWVRSF91MXdTbXBydHpXc0dHanlMNWs2ZnlnVzJDS3VWSVNDTVRsRmpmamRxaW5tWHhSWGxrTWFEWTFacmR5N2FRRURObV9hVTNIZjBqLTAwRDNn?oc=5",
+      "published": "2026-09-13T20:30:47",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Canada starting to draw attention from global investors, Carney says - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGNMMkNuVUxFbjRvZzllWmNaUWFzZE0zT25WQTZJMG9UQ054Sm9LYlJnanFIbGRGOGNlUGJNUl96Um56UjNZcEJfbUtDaGlOS1hCcVlOR3JFbGlFcW14QjJ5ZUNNLTdpNDM5YzZaczgzUjB2cjVkZVlnNFI3MXVQU29FZ2xqUGZnUWxMZXV2UDNCWkphR0pXTUNwbmxyemx4dmdMQkdLTEx1eWxE?oc=5",
+      "published": "2026-09-13T20:15:23",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "iPolitics",
+      "title": "PM Carney set to make the rounds at Toronto investment summit, address European Parliament - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbFRZVzcxY010YmFEeHQ2U3dWUkp1bnlFUjFiRmRjTkc4LUJTSjREaVBTM3pzTXJzQXB5Sl9XMzhWd0thR1kzWm1sYk5NdnNTbEdVUXo0NTBBODBYNVdseVpYM1Y0T3NtZ2ZGeFRKd09QUDgyZE9KMW95b05XaXpFQ0wtX0RCRXpqM0kzRVVpWWZLbEI1TnE0VGxIcnEwTlphUmFCZ0thWDl2X1A0ckw0c2xtQmpldFdUWnFsOEdaR3plNFRq?oc=5",
+      "published": "2026-09-13T20:05:44",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "iPolitics",
+      "title": "iPolitics News: Key Developments in Canadian Politics - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5EUXV5dXNMRGtOTW5MNmY3REFycnJ0QWNaa0VNVGtnSEpNallyTUl1Y3lESFJTd2l6U3N0TTNB?oc=5",
+      "published": "2026-09-13T20:01:34",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Second Timberlea home gutted in arson days after fire at neighbouring home - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWRrdmdvWDlKWU9nVFdZYXUtRC01WFQ5LWhobmtIRE5tbXdfaEZJdGhaMGlnV0ctWmQyRmZNQzhOakU2cFVZcFY3RmFmU01FYnZOQkd4R09HVGdOQ1lCOVkwUGFGaExjd08xTFIyeFhFaTlNekN3YllwV1RJbFA4MDE2ZnJJbVRkcXhTaVJLYVZjRkpGVjRqcDFWMXMzVnlsVUM2YU9TUFhJUEk?oc=5",
+      "published": "2026-09-13T19:54:07",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Carney says economic activity already spurring from investment summit - Global News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcXdlY25kNmtvcmFrOG44QVlIZXRGX25OY0Z4NTlxQU1rdDFmYm1FZ3JTSVVlYm40aW5SekpzcjRScXUwcUtlbkFxUVJPdUlvSXFnMG5iUzdrVzhZV083NTdkZ25HUlh5bGVYRlByUDgxcTd3eGl6dVBZTWcybUlxcQ?oc=5",
+      "published": "2026-09-13T19:54:02",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "U of O contract teaching staff vote in favour of strike - CBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmJMVEVQWUZYSHJrLWtjVl8yWEhBSFhZaXd3Y1ozX29qXzlGZ0YtZGg5S3U4aFYxM0tnTXhEMTl6T0dxZjZYM1l1T2tYNVVNUm9iYWdJbjhjWWpSS1dueWExLWZ6dmxDUC1KS0xwaExGRzJWQklubTVQZExTWWlyYnpSbGh2RXRXdTFrU0dOalJPc2FmNjdST2o2cUl0eURzaHhXd0Nn?oc=5",
+      "published": "2026-09-13T19:16:54",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "'Whoever wins AI wins,' Trump says, calling critics of the technology 'negative forces' - CBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82YVNMTndEazhVTGtKQ1ZjbzFuRU5nWmRGWWpWM0F0S29MZmpLNDIzZ013LVU1bjRaNVJHSVMxMXVZVEthM3BIRmJKbFdiWDF1ZUg1YnZEZ3NrRkFhVWdENTl0Nms5MW9lNC1EUmJ5UktBQQ?oc=5",
+      "published": "2026-09-13T19:00:00",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcmVSV3dzZXZOcDkzdTRvYTh1RFdHMlRSQWd1Vk92LU5OakRjeTUtNmtXbGoyOHdNNEUxWHdKSjhYVDdZdWdHVzBYb3oxQkFtdE9DR1BvZ3BDQ21wZ1llTlUwN0paanVhd3RxX3Yxb1lpRzFobmMzdXBEOEpkb0NDcm44Y3UzN0xGUU82M0xVS1F6TEZkejBwTW43OEszYlJ2YVhEVW5hd0RNUVpfalMtTWtJWk5HbEx0U0I5cFRVdGhnWktXR2lnTmlNWGRvT2UwUHAxdkZpLURaX2RmSnZfWUtxWDlJSHpaZmExVFJkV1RlVk40OEkyMW9xV2xQVldSMTVkTkxiaVpyT3JVNnc?oc=5",
+      "published": "2026-09-13T18:58:06",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "2026 IWBF Wheelchair Basketball World Championships: W FRA v NED - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cc01DLXJOMDhXY2NUY3R0cEpjcjJES2MxSjAxdV9PbU1MY0NURlZCN0JxdW1yZEhob0J0MGw4TEMwTFVVaUlkbjFrOXVOUWZwcUd6TTU2SXFDZw?oc=5",
+      "published": "2026-09-13T18:53:32",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Surrey man awarded $275K in defamation suit after months-long protest in front of his home - CBC",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSTh3Nk5KVmstbThnRkZKRmwzYS1YR1lYWi1NU1NuMktNNFVLY3ppbnBfU09ud2htcmpkUWJDTi1CWTZTSjFuLVB2MGpERDFWX1FzZktyUUc4TkJNUVkyN09sN21CVGF4OGowX0JDWTl6YjljNlRnTjlNbHFiTGJvSUdYTDQ3ZlZEVGREMTRMRm9ZalY5VGdvRVV6SjY1a0lwQnhMb21CZ3VSNHNpdE1FeGNBeGc5T2lQVDdqNWJDZWVoY00yYkRGOEZEZ3Zyc0RoQjBaUzNHRzE3LVNsQVRNdQ?oc=5",
+      "published": "2026-09-13T18:38:41",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "2026 IWBF Wheelchair Basketball World Championships: W GBR v AUS - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZZi1mS3ViV1lFNEVfWEgyWXltalR1X0tTaVVad1FCVklyY0tLMk5MVjF6Qk9rRERvQldIR0h4RDhCak9mX2w3ZzBEbTktWkdWUEh2blJPRnE5dw?oc=5",
+      "published": "2026-09-13T18:04:37",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CityNews",
+      "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNemZ3dEdwZVJucE9XODg3U2xfOVI1UlpSSENSZWFUeW9iclFyNHhvVzdWV2M1TmJCbm83enQ5Wnp1dHMzUG1jWEZjd3pYTHlycjR6VW5qOGVUT0VMczI0bGQ3WkJxYThjcW9raEFydGxiM0N4R1Zyc2tEWWZmSmNvN09SSEVGMWNOcHlIV3RRd0ZRRTZqVzdFT0ltYnNDdkpfUnZxbWJyZE9CZFpfSjdDR1Q2emxiZmZfUFFWaGtqS19lQm5rR2QtcFJMUDBqbnM?oc=5",
+      "published": "2026-09-13T17:45:00",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "Ottawa Sun",
+      "title": "World News, Global and International Stories - Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2SnhPWDllRUw1X0lVZXpsNkpyN0FFa3dnR24yajZyUXlCLV9pNktkYk5NZF9FMjBiTWthSGE0THVIOHQxaWJvYklaZHpmZnBoaFlOaQ?oc=5",
+      "published": "2026-09-13T16:51:44",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "2026 IWBF Wheelchair Basketball World Championships: W CHN v BRA - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PanFjUUpFTUVYY3ctTjZGa213cWxHM1NXa2NHUXJ6RzZOMDN2ckl0SjRLcWh3TWNxWGR2b2J6djYwRjFqbjkyMlVXS3BwbnJ5ZTlLQ2tsZUpWdw?oc=5",
+      "published": "2026-09-13T16:30:07",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "2026 IWBF Wheelchair Basketball World Championships: W ALG v GER - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ca1pMRVdLalN5QXVJQm9MU3I0RUJrVU9KYWUzU3BsVm1ZaVJSd3ZZUWFodlRra2FpR0IzWDRqTk9NbXowMVl5eVQxYmduck91SmtMalBUeUJkdw?oc=5",
+      "published": "2026-09-13T16:29:27",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "2026 IWBF Wheelchair Basketball World Championships: W USA v NED - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdHA1WDlJYnY4cm55b01WUGt2cTlSQkZadVZjbWlpb2k0ZWs2a2VWMXNrMlZ1WDJackJ2YWl0dmo2VkVnTDV3OGlqdUFVUVNlU05BR3FBX1ktZw?oc=5",
+      "published": "2026-09-13T15:22:11",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Can New iPhone Duo Power Apple's Stock Higher? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY1c3VmV6ZXd3MjE4dENrM2RaN2RXNHJsSmRMNFF5bkxjVDlFOXpBVWphYlNLX1hra3NRVmF6RGkzTk83ODAwWnhhYjFMVnpCYncySDhGWGlRNUhFaEM2c3NRekRoNDRpOHlFRGFfM2RCaU5vVlY5b0tvSUJkdTBVZTRnX1ltRGlrcDJvUThNQi1pY2RWNHdCRlVrZVRuUmNXY2ROMmVOTTJ1R1B0LTc1dlRRWTJFYmVhNk1hNXFrTzNLTWROZEtYUGd0Umk?oc=5",
+      "published": "2026-09-13T14:22:18",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Search underway for at least 130 people missing after passenger ferry capsized in Java Sea| Ward - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3NVlyZlhVa3ZrczJYTW5DeGduXzE2bkZEM0dTTFhsVlJ2bG8wNTZsUWlGZWxFOFhrZXFqa2hkYUlfU0ZVbTBIYjE1V3pyS29GazA2dVRmanJSZw?oc=5",
+      "published": "2026-09-13T14:05:05",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Summer-like Sunday ahead for London - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzRFekZRQ0FXZjZLTDVJMlBxNXItUFdLZDZVQUY3ZFRTTkhtUVRLLW0zczJRZzZjWjY1ZWpibk8tZlpISFI0WG9KMEVQYnVfajdaRGw5NVp1cEp3UUx3TEpEZWg5dFkwS1AtMkEzOXdoa3FISHM1U29sVGx4OElxWG9mc2hSVVRZZHc?oc=5",
+      "published": "2026-09-13T13:58:45",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "National Post",
+      "title": "'Serious' critique of Carney is what loyalty to Canada looks like, Tory critic says - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmFMeGs0TU5Fd0YyR0pJeWl5T1hMQU5Sb1NLSUFxOVBiM1RmcWx2M1pGbFJ1cGZaeEx1NUg3NFNtX1NJbzJsc2xNYlNuTHdVbTd5OXBIZFpzNUFrN3hjcWtmdVN0UHU2ZlVjaGM3YVlnTDhHdWFYR21MSnhMM3BmZzAxN3ZJb2FnRTZObE1CZ09EdFBYS0U1V2huQXRaWlpvSEQ2dFJJUlUyMFoyd2J5S3Z1WXJSVU9z?oc=5",
+      "published": "2026-09-13T13:02:28",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Police investigating body found in vehicle fire in Mississippi Mills - CBC",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2VDNHFtMU9ETlpjNGhmdElUQS01NnhJLXJCQ3hIa1VmN1RYNWFtb0x3UDdRWndlckoxb3I2X05GbzkxMTFhUkVQd09tYjFZalRlZXgzZXZsc1J5OVQ4a3RpQUhEM051bGFYOFQwMlB5WkZmenhuREh4a1BFVXVDZXZSVXpBbTVtaXFtMWUzSmJfNFFENDBzYVU3cjNNdi1uakJ3V3UxaFl6NGs1cHhOSjRHNkRKTkk?oc=5",
+      "published": "2026-09-13T12:54:26",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Applied Materials vs. ASML: Which Tech Stock Is a Better Buy in 2026? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOUp0aDhzMU5Hcm1uVGM3cDFWemF6V2JIeDd5aTJmNmUydDhtTk9UZW01cjBDWjNCYVhtWlFmdDlWaVdmR1ZWS3VxdVp1ZWgtUUxtekc5NXpBT2M5bERqR0pya3QwMUFDaTlSYjdnMk5RNS05dXg2Y19WTF9tNlNObGNMV01BODNvZkF2TWs5WE12TE9DYk9yZl94V3ZET1ljNjFVNUdka29DZDZvcHEwTGpJN0J2ZXVEak0tTlRFckR2QTFfSzJfWUtvekpjYUpSZzhvTmdXRVl0bjQ4eThMX0k5WGtwUUti?oc=5",
+      "published": "2026-09-13T12:54:02",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Beijing bans drone possession in the city after earlier moves to tighten rules - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTJNeUpmSG1DRG9VOVdIS0kyWmVVWHBVYzd5TEowbFNneXZoZDBocjYzaDZLeFcwM3U5OXFrMGRiYnhsRlFIR04tMmlER0RiSHpyNlZmMncwakZHelFkaDhKcWhCRnZjVGxKRHM5NFVhbmJmMFBEUC1xckcySjlOUE82ODBsYnpueFJMNUY1YVVKeEs1dDBYYVFkQm9SYWJmdzRsVW10T1RjRzRrcFoydEpORVhTbzQ?oc=5",
+      "published": "2026-09-13T11:45:49",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CTV News",
+      "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTi1iRjF6TUdBV3VwRTYwbVRlVWNNMGpmQ2hwZWdEZ29OM1ZrUWFWNjRQSUZjNXp0SlRkLVdhSTVpejFoRE9HX0ltUnZnZzNRa2VvUGZTUmVfYzctclhQbmFuQk4zdERtTUVxN1VNdldQOVU0YlpydzlRd2dtcUlHNmFJRjZ0Ym0wWGFvX0duaVBJYXI0Y21UdnRiSjhBZkhvb19yYnJJVU82d21Xc2pDVDRxbW92SmUzN2RtaGRWSHdyS0ZfSEo2bHFjdkc2UmZ1em51Zi1IdEJqYV9val9EemRxQnFndw?oc=5",
+      "published": "2026-09-13T11:43:36",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "Canada moves to a record of 2-0 at Continental Championship, sweep Puerto Rico - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSREZFQnNkS0RaTngwbzVOVlFHd3ZCT0JXWHNHOV8xODY0TEhGa0dhLTVBY1I5eHkycmFCUzh6VVFrNzRVYzlYcVpWZjNuMWVJR1d1Q0lLTnItQQ?oc=5",
+      "published": "2026-09-13T11:37:46",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZUVzdmN4SENmUXpkd1Rac19VTnlZdUN5NUp1bktrQ3JZWWRlUnpOQ1I1STN0RHZnRThpSFpDZXdjNmpQWTFhQzBoS3JiaFhMLUxsQkVvOVJINER6Yzctb2pySGx3TTJJalJhR3czUVk0Z1lTNXE3VkpJd3ZlSHdnQ2RlbHVEM2NaV1ZnOTFNQWNQbWhoWS1Gc3U5WkE5RjZjODFFNUpneHV3ODQzZHJuV2VXXzBpM2ZERkdPTjRGcm5QMGIxbXlyN0JEMnMtT1lOa2NZWHB0dC11SjRVYm5Ib1ZIeWE3U1RsMUtQV1llUUNnNEQ4N1YzZmliWQ?oc=5",
+      "published": "2026-09-13T11:28:00",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "Global News",
+      "title": "Global News at 6 Regina: Jan. 20 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idHpvbGVMZWFiR0FjbS1UaGFfTmJFcGVhcmtSVF9MaEZpTGtHYjRGNTlEbGhuMUJra3g4eFFzTjBnOGFPWlZkRHBLMTR0V04tLVRCYks4STE4MXhCUEJHa3NJN1NBYkNuUTNpVg?oc=5",
+      "published": "2026-09-13T10:31:50",
+      "date": "2026-09-13"
+    },
+    {
+      "source": "CBC",
+      "title": "World Table Tennis Champions Macao: Day 6 Night - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3a2ladmg4ay0tcHZZdVZWNjFLZ0J0eFlveDVCd0x0WFhYaHlLcjU0dkFJOGItSGFQVTkySEFJd2lRUHJ2ajNaNnBLSjA0UmV0UFcySGJXUnlkdw?oc=5",
+      "published": "2026-09-13T10:30:00",
+      "date": "2026-09-13"
+    }
+  ]
 }
