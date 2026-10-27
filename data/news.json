@@ -1,35 +1,133 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-10-27T00:04:11.990173Z",
-  "article_count": 87,
+  "updated_at": "2026-10-27T05:29:07.263012Z",
+  "article_count": 110,
   "articles": [
     {
+      "source": "The Globe and Mail",
+      "title": "Apple vs. Taiwan Semiconductor: Which Tech Stock Is a Better Buy in 2026? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZmpnaGRRS1E4ZmVvcElPblRRaXo4cWFaV1U1TjRlVkJNTGZnWi1BTDNaakRrMWhrX3VpNzU3NUExLWc1LVR0RFJzc0FFcU91QThKOFdLcFV6bXo2a090ZlFIX1IyWU9wSHRpSDFmODY4VWQ1THNvd1lGeXBncmlJM193eVZON0doT3lSd2FQNVZkZDNpRlMxODZ1ME1CY0tLbmZwX19PdzdHcGJpMC1SazhEQmM3X09Cel9PZUxQRHZjVzJBcFlGcXBYRmhaZnJtV2REYS1BN3QwVElFSlVyMFlzQ1Y5TFdRaW55UA?oc=5",
+      "published": "2026-10-27T04:06:18",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "CTV News",
+      "title": "Calgary to see below-seasonal temperature in lead-up to Halloween - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1FwNWFHLWdtMzZRX0V2cGE0WjVBNkdBLXJnMWkzb2RVT0lFZ2YyRTBJaHFKRE9lQ3lJZXV1UWR1TGNNTzN1al9aTTdJZ0p1UXlzODBvbGhDTlloMk1iR0FqQ2ltblJndzFUdDVFVnFZNkN5U2RyYm01ODFWOG9INGhiVWZOREtyQk9EZkZZYXlRM3lKaXdRLWtkTmdZUTdxcU5QWS0zdXk?oc=5",
+      "published": "2026-10-27T03:37:00",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Amkor (AMKR) Q3 2026 Earnings Call Transcript - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONkM3MmROUlYxMUY5SDA5V1Q5S0xMRXA5Yzd4aF92dXV2Rks5OUNtSW0tREU3LUNYQ3ZnYnFNelVSWGd3TVhnZXJMM0VIY0R0emU5N3VsRXpEWHhxMklndm9PclZFUlRUbVRUNnJWd2Y2TGpqa0JnMjBKcmItVzQwRVJkQ000aW1YWUVUaTRTcFBwb2VRSm1wNkZ3X2FTUDB2NElhd3F3UGRlUmtYcndPQzZTVGJPRDZjRVd2QWF1SQ?oc=5",
+      "published": "2026-10-27T03:36:58",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "CNS Issues Report on Jingdezhen Ceramic Expo, UNESCO Heritage Listing - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUZ1XzJmYW5CYTBySC1DQnM3ZWJsNUpabWNFdkFtTGJvaFRNY1Fta0s2dGY0MzZHekFtTE1hWTltakU2TE43TGFGeVZYWmRTbnhSNE44ZHVXM0hKWmRlckxRUm82d01RNE9JR0RyWjlraW9ETmNXeTFmQ1AwN0pGcnJtTWdkalp4bWVKb2JrR0R1RFhBbHJGcTNlUk91R1gzM2c5a3djR1piaVNabEZORW5pX0xNZ2pYMEZPc2NzZktBa3ZhT0ZpaDEtTnNUUVp1cEhWX0VXM2VnVDRQRTRmSkhVOA?oc=5",
+      "published": "2026-10-27T02:55:04",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "CBC",
+      "title": "Jay-Z to headline 2027 Super Bowl halftime show - CBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jS21HaFE3WUlXaXpudkI2YThDQ0xXUXpUYTB0OUh5Q25CT2dNOVJ0NXdEcnBzSlZXVXhHNUR3RW5mYW5zNFJ5SV9VemxFM3RNVEo0eU03cEM0YVd4Y2tqM1JoZjBzMnlFbjFxdnctV2dfSHdFUDFBbWpzVkNTUQ?oc=5",
+      "published": "2026-10-27T02:55:00",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "CityNews",
+      "title": "Olivia Chow wins second term as Toronto mayor in nail-biter with Bradford - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkZyOTJWa0xlOEhJSVh0Xy1fMFdxTTdBY3I1MUkxZWNNbURFdHRyWUNmRGFTTXcybjNwX1p6d2I0N1p1TDFxVzRUbVBhYjQwWDMwcmRYR19pQ0lkblpENTZwS2RfT3VqdzJ6bmFoaFc5X1htUWFaNWtfb1lOdWZ2TE9wR1VUNUNEUmxOOEFjU2UzUmZ6bFUta0xuMEYwQmVpcmJRdWcwWk1FTUNwbThaV3d5WQ?oc=5",
+      "published": "2026-10-27T02:00:00",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "CBC",
+      "title": "Rare disease traced back to Nova Scotia's Black Loyalists - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zYW1rV0hNbERGZW5LSGJFVzRiVGpjV3EzQW1iV0FjcnBlcHRaQ2RaY29kdWZ1X21vcVNBRTVxQ3lucHJVdnpieW1ZX1N3LWotRV9VcVFEelVoQQ?oc=5",
+      "published": "2026-10-27T01:39:44",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "CTV News",
+      "title": "Japan's former PM Yasuo Fukuda, proponent of ties with China, dies at 90 - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVVQMnM0aTFsb3RIM2d6c3hFWlJfODhMLW9WLTJuS21GUDg2d2ljSk9DbV92R3BXbXFmdkEwTzliZ1NrZWEzTjVibWlJbzdIb0cxaTI2MlB1Sjgya0F5OVJfdHpwaFR1QUhHNERVZmRmZ01wY09CTVNqaEJzTlpwUmZBalRpUVgySFlreW5Ub0VsVXhhRTRCMEZmbURITGJ6eE9ydG5BUEZvTWM?oc=5",
+      "published": "2026-10-27T00:48:00",
+      "date": "2026-10-27"
+    },
+    {
       "source": "Global News",
-      "title": "Edmonton diaper bank helps families in need this Christmas - Global News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXRUX3NkX2w0dDYtbVBLcjExMHBuTmZXQjN3SkkxQ3l2ZHVNN3g0aVBGS1gyMVNTbDRySlNDaVBfVG9NaXJqZmxUTDU1VS1QTGpBMkM2TF9xS1NkUWwtZ2dZMTJXZXZrcFdnb2RjYVRHWXlSZVdieDJmTk0wN0tYYXNFNVV6dWlndVZuN2IxM1NpUGhuQmdkSjBTTUo?oc=5",
-      "published": "2026-10-26T23:15:26",
-      "date": "2026-10-26"
+      "title": "Calgary police investigating after man run over, marking city’s ninth pedestrian fatality of 2026 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmVSSHNJc3dqazhrTHRDTmEzRk1TdGtRZS1vX29mdXdzYVJoX3djT3BScVB3SFhndDBDR1FHTTc5ZzN1OWhKY19Ga3o1Q2UyNFozemlPR3NtYnBQOXNrMC1HTFh1NHlYSGNBazEzcGtMMWUxNmVDWHdaN0ZBeDZ5aDBGY25BdHBoeW9aelhyMDlYWmFpMDFWbDJmbnhMT3NQeE5JTXIyeHlBaV9uOU1NTEY2clhuVGJXWExnd3RtZXE0RmtCR3ZKYkppS1Btdw?oc=5",
+      "published": "2026-10-27T00:30:17",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Atlas Copco Earnings Call Highlights Record Growth - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3oyRWlQRkNYZUlKVUpab1JCSVNDUS1ndnczSXJsY1Rub2JDQnFRdm00U0pPaERMWFlySDdVOU9RMUF3LWJOZS0tc2h4NERPUXE1Z0RLQlBIdC14dzdCcmZITzRyMmhsVGN2aHVOempSdUhJQk9BNWZmN2NsU3piTjJXYlNaYW5sSUZQckg2VVM1U2ZXOGw0TDBLTVNOb2ZQeEpjR19pY0JYamNFSkFUOC1WYnZSN0FxR3BKY2JIYjhIeU1mam5oaXBvTQ?oc=5",
+      "published": "2026-10-27T00:28:55",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Video: Carney says he is open to abolishing Indian Act after Kinew raises issue - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2NmaFFjVWFUejFvMGlsb0JxVEpfU29MQUtmUDJVYlhhYTNMTHI2cjNNNWUyMVJod3BRUW1fNUFQa0NPOXhhcVowQmx3RDBlREN5bHYxaEY4aW9vZnZ3TkEwWEx3TkpWUVJpTElobmlpbkVSb2Q1aFVfNzR3aGRTdlo1VGxQWWJKbnExNU5sbTZNZE5tTnFTX3BwUTJIUFFodC1MWUpLZzIzckxXQlNwb3ln?oc=5",
+      "published": "2026-10-27T00:24:36",
+      "date": "2026-10-27"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "New electrification index shows China out front as US risks stalling and Europe's policies outpace delivery - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMFNpUWpIX1RjTzZJcm1OMkZOMW9zM0dGZTZDaXQybUVUYmc4THV5aGxHTG9GNVVnRGJMZzA4LXlBZVB5MnFCWmNsaEc0NDdEbXJ1VTduc09lbVpIWGdiSlpfYnRCbEszY2pJWF82dE5hNk52NDczRkxxX3cwLXZqXzF4QTdfREFWaGkxbTJsRjk3NnJlSXd5QWhLeXNwQ0Rpc1BOOTJ0LXJaa1ZFZ1VYZnJWTFZudkl1Y01UMWtQX0syU2lNRG1HTHVXOUozeGZKME5OTjgzdzRsNFJUOHhtU1V6SWRaODhoNzZ3aFlSMzVycWlFcWV5c2VSdFRXXzdHZFJwLVVTS1FhLW1LelJBeHotUWxNa21NSGlz?oc=5",
+      "published": "2026-10-27T00:16:45",
+      "date": "2026-10-27"
     },
     {
       "source": "CBC",
       "title": "Nicolas Jimenez out as B.C. Ferries CEO, review launched - CBC",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlFLUzliaENLRjBDU0NVZzNsVnhLNTB4YmtoMklMVWsydVN4OV9UdF9OakNKcENGNENlM09YR2ZwMXVOU0VTVmVzWXA0LXlUTERfVnN5cnBRejVYRXRVOVpPZUNaRWZxZDF3Y19lc1NKWWU5NVNFeU5KMWFGQnBjalpwZFNJUXpCNDBvaWFWVGR1UFF0RUNkc0xkMk9uOU5BSi1aMmcwRzJDekVLUWM2N1ZB?oc=5",
-      "published": "2026-10-26T23:12:01",
+      "published": "2026-10-26T23:35:10",
       "date": "2026-10-26"
     },
     {
-      "source": "Global News",
-      "title": "Trump’s midterm election interventions test voters’ trust in US electoral system - Global News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3hDbHR0SVpKNUtXUTBFRkJQMmcxRmZHQnVsWV9mbGVPN19Ra010UFBXSXE0aHlIM1Vnek9EOGZlVkVNU3dMRnBFVEJQRW8zbFZSOVJvN3VKYXp2b3pGUXdXTi05NlZtU1Vka184YW43bElnRHZkX1pJdTZMT1h5U1NnU2VxRkJVMUZlaDNsRkotbllSS2lYVndQSkFkY1NZY3hqR2xsLWlvZm5kdFMwOWk1NDJTMTQ?oc=5",
-      "published": "2026-10-26T22:59:09",
+      "source": "CBC",
+      "title": "I trained hard to make the volleyball team. Then I was told I was too short | story | Kids News - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2xidVFDOUlkcXVRRWJQMDA2dGd4MEZuWWZqZm9EeXFLSlFNWHFvdTRGUHdESFRiNXFLR3J1SG1iVkN5V1RGSFplR2JDNzhhcG1lQXE5Z0ZYRW4wTXVybEpra05GMzFUUVBjZ1htalFkQ0NyX0VUaXNSQWszWFgzd01kQUdzX0d1NERaUzRZYU0tU1B0OTVtbUtjZHlVRGNOclBrTXowNWRnaG8?oc=5",
+      "published": "2026-10-26T23:33:04",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CityNews",
+      "title": "Watch Live - CityNews 24/7 - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByNENINU9CZWdCOERkUVlRRlFTb1poS3d3Q2luZHRwNUZBc09kajRScS1oOFhMWWVNckQtLVBHNE1fLXlYMkhNc3Bn?oc=5",
+      "published": "2026-10-26T23:08:00",
       "date": "2026-10-26"
     },
     {
       "source": "CTV News",
-      "title": "Witnesses sought after deer illegally shot in Vancouver Island city - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjh0bENxT3ZSazBLeC11WE8wUmtzTHF3UW92LW1OWkU3aDJsSlFINF9IZGhneTNtaEs1Uk1LZGhIWXhxMTdKUDl4enFpZXk1QXo1NDFlUDRxOXJaSkVaZjZZRm1HdGdSWjhrZUQ3TG5INU1ISzZna2syaTNZSk5uY3d0R2lEa3lKaG9McmJURFVZdmtrdmpwWjFGcTRmWUxiWkVHOW9Lb3RESHJkYmc?oc=5",
-      "published": "2026-10-26T22:28:43",
+      "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTW4tRlZ6UDZBRDFPYzNLcFpyY3Z3eDZyR3pnX0lqZVFldWNuS29CN2c5ZmVRemxGaW0tSjZxXy1RTmotaEw0TTF4SjA4MXpBUDUtQzhGYndLSEo5VU92a0RBckNLU0dhSFVRMzhwSi1QYVU3N0pHZ3NxbmY3Z3E4b2FoWldrZllJOHNPWTZRTWZ6UEtVMzgxQUVWWFRyU2Q2cWx6SHpNMU1yOFVSdlloLTl3Y2pTalRIaEIycXFLZWlTNWV4dnNF?oc=5",
+      "published": "2026-10-26T23:00:55",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Logic",
+      "title": "Feds and First Nations to work on sharing resource revenue, with a sovereign wealth fund one option - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVRQaURoWHZudDgwSDBGTk1zLUlyQW1zMU5PX3B4bHg2eEVzVEQ0SWk5VkxTeWE1aVN0cEo1UDhIMDZvNUtBOUljeEdoWlJDdWhHcmpmT085LXNOYnRrM3pPakEyM01NVXNPc2hCczhDdDFBdElNd2RqbjZaaHV3bU4wMjlmX2tKZ3pMYWJncFdrc2lXcFhRekwwNmpkWTI4aWxtM1dFMTM3dVVTS25lVjhxakVuU2JGcElSeTZNZGxKdGtqNExF?oc=5",
+      "published": "2026-10-26T22:47:00",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CityNews",
+      "title": "BC Ferries CEO Nicolas Jimenez out as board launches leadership change - CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3A4Nnd1SklLVWhHV05lNmlZLWJUWU43LVFsZ1ktcmFoN2NhQ2ZXUi0wdHRBc0xuOXc0dG9COUxVZEdSaEsxVjJIUDBQNnpocGkxZGNRUXVVRVVFSDFQbF9yYlFja0xidnJCVU5haUtrSHNlcW9mOE1NaGlXbk5GdmpfSEQ?oc=5",
+      "published": "2026-10-26T22:17:14",
       "date": "2026-10-26"
     },
     {
@@ -47,13 +145,6 @@
       "date": "2026-10-26"
     },
     {
-      "source": "CityNews",
-      "title": "BC Ferries CEO Nicolas Jimenez out as board launches leadership change - CityNews Vancouver",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3A4Nnd1SklLVWhHV05lNmlZLWJUWU43LVFsZ1ktcmFoN2NhQ2ZXUi0wdHRBc0xuOXc0dG9COUxVZEdSaEsxVjJIUDBQNnpocGkxZGNRUXVVRVVFSDFQbF9yYlFja0xidnJCVU5haUtrSHNlcW9mOE1NaGlXbk5GdmpfSEQ?oc=5",
-      "published": "2026-10-26T22:07:26",
-      "date": "2026-10-26"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "BC Ferries board cuts ties with CEO Nicolas Jimenez - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXN2cjlBd25ITXMxRTRNQm5CX2Qta0NKR0xZMnotSUtuRVM5ek84bUhBNlFtSTFyVXJ4VVoyb1hrSnhhQ3RyVEdYZmpKS0k2NmN5Mkg5UEdaSG9jWEZCNlJ6MDRIb1RNQ2tuWGhnUEFtRDg0aFhvb2djUl9aYlNSV0dJNXJQNUdSWkQwNl9UYXEtQUJLdEU0WWthMA?oc=5",
@@ -68,17 +159,17 @@
       "date": "2026-10-26"
     },
     {
+      "source": "CTV News",
+      "title": "Former Canadian ambassador to U.S. says relationship may not return to what it once was - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOWtESGhtS2JRcFJTWnV5ZENWY3g4SC03TFBWbWV6OG5GN0h5QW84aUV4TURKN21jYzVlZ3dyZjVKaG50V0FoQUhGT1lQamdIU2tBMkNEWnVkY3RIS2pPWlhwQl9BaEZfMmJ0VS1LdE9KYWxlejd3b1NoYVo4NzVPbDVleUJLdWFyTUpGMm5rdzJvcTduOFFrQzhrcEFPbXc1cEFMQVQ0Vy1XNVp2Z2dDekxFZnRaWmVDelRORFZRUTRPYVJWTGF2SjNLRlV5Zzc5RHZlUQ?oc=5",
+      "published": "2026-10-26T21:28:31",
+      "date": "2026-10-26"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbW9iSHBRQUl5dy1GRTJfdThFUmJnNHcxX091TG5fakxHelNBMW1ONE05TnFyYlhuNjZ0ZGpaYXFzVXI2WUNrR2dOWnl6azJYZ0dfWkZyZmVNUWI0bm8yX3B5UmtqYTMyOGFMY0VxMHNFc3dhd0pRRHMzeEJQVlVGU1JSbkxubUlDbGNtRVVVOVR2QmdjTS01UHpxMU1kSnVtUWNNZV9zZDFYMWZlcGtGa2s2Wkh3Vi1fUVJNZFVzU1lYU3FSSVBpekNJZy1nbVdFU201d1YzQWlndVdKMmY4UWlUNG5JVFJYc1lHaTJJUVZuYlQ3OEx2a0tzY1lRNmthNW16NWhmNzRXYkc0X1E3Y1VOUjVucXpnN2hLNzNhNlp3Z1BJNjB1eHE0SXV1MjdRTkpFMGotLVdNSXRsclE?oc=5",
       "published": "2026-10-26T21:16:50",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "CBC",
-      "title": "Rare disease traced back to Nova Scotia's Black Loyalists - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zYW1rV0hNbERGZW5LSGJFVzRiVGpjV3EzQW1iV0FjcnBlcHRaQ2RaY29kdWZ1X21vcVNBRTVxQ3lucHJVdnpieW1ZX1N3LWotRV9VcVFEelVoQQ?oc=5",
-      "published": "2026-10-26T21:08:04",
       "date": "2026-10-26"
     },
     {
@@ -89,10 +180,52 @@
       "date": "2026-10-26"
     },
     {
+      "source": "iPolitics",
+      "title": "iPolitics News: Key Developments in Canadian Politics - iPolitics",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5EUXV5dXNMRGtOTW5MNmY3REFycnJ0QWNaa0VNVGtnSEpNallyTUl1Y3lESFJTd2l6U3N0TTNB?oc=5",
+      "published": "2026-10-26T20:56:39",
+      "date": "2026-10-26"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Video: Anthropic files for potentially biggest IPO ever as CEO warns of risk to humanity from AI - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0puVE9BWXlnblRLb1l6NUE2V0Z2TWJ4OEdHWGlrc2hEbnN3Q2hkWWtxSWI4U3RVRWN1Q2tpSVRDQmhlcGlHcVZpR1Q5OWJwTzFGY3pjWlpMQlZvX2pZTUFGR1pZdWtqNjF6VG1XbHF3Y3dVMTVMdEhZTGlLUHd4RlE5dlhxVndGY0NzTjlQUkoxci1sWGJ4dWhVd0ZETVFRRGNMY0pUOUlZZ1dEX0lvSlM0SlR0UDRD?oc=5",
       "published": "2026-10-26T20:55:39",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Logic",
+      "title": "Zafin buys U.S. fintech Naehas in nine-figure deal - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTTlNUHVuc3JRUW84SF9Cd0NRZ3BhcEZLdmRmSHcyMDhUc3drLWFfLWVudkJLZ1lkaHlLcTdpZjRSUGRLUWN3X3M5UXRWVGdMRjVuZnBSS2Z0MjFkVlN0czFtYmNodk51S01XUjlQSTNFaFBTQkVhcGdYSTVBTmhEX1JZMnJpdw?oc=5",
+      "published": "2026-10-26T20:53:00",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "Global News",
+      "title": "Canada-U.S. trade talks ‘moving quickly’ at political level ahead of midterms: sources - National - Global News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjNVUGZmYnBuS1NCV1Rrd2p3QnI3THJxbUpraXVONkxsRldBMTNzWFdOS2c5aTZqaXhGUWpWazQ3dUJEQXhVeXZGZ1hJMzUzemc1VkxoenFQQnE1UzcyTm1VMlZmV1M5Z3E4Sk10YVJKZUtBR21qYmR3cVRNZ3VST3Q4TkN3d21Ta1E?oc=5",
+      "published": "2026-10-26T20:43:28",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CTV News",
+      "title": "Ontario attorney general highlights northern courthouse security upgrades during North Bay visit - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjVXSnJ0WGZfVkp4YWZiVW5FcDBuS1k2X1ZIblFnZUdBaVA3MVBNalVHX1U3aUhKTWQ1Zzk3a0o3TGJVdjRZNl9NcjJHalg0WHQ3RkZnQWdMUFQxZWRYZkhYMjNRbUVxMExfaFdUMlVrQ0FwTmZiVDdCYW1BRWVhaHZCc0tZMzBWcF9iQkI1Yy0zUDcxNVZQREEtdmRUUnNSYVBoczVXVnQ5dXNzUjRRci1KclUtaGd1QUg2djlWUTNtVlRMMG43aFBQSGN2alF5bTM2MmVBMlE2SDJOWEE?oc=5",
+      "published": "2026-10-26T20:34:22",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Logic",
+      "title": "Violations of money laundering and terrorist financing rules hit new high in Canada - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbERiUWZjZ2s3TEtVR3BiYXZyUjYyY1NRUHR1UlFjU2RkTkx5N3pMa1dKUUhqU1REdGlmMmlmQk5mdWZ1Z3hsWG9OWlhkRWtZZm02U1dncUMybU9GN3U3bHVpQjFsMTVjeGVqLTZ1UDlQZm9FQmVNUjhsWV8weDlJU21DbHI0MERCcEpqMzdlYUJDMzZwdzJmZ2gxLXoyay1QMl90dnNodXJzR3h1djZSUHN5QQ?oc=5",
+      "published": "2026-10-26T20:28:00",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Logic",
+      "title": "Brookfield Asset Management opens Qatar office as it courts Middle East investments - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYk5XWUJ3Y3I0dmpFUnNoMmlDUm1FYjFUTkJteXloNUdPWFN4amNabWVnT3JIS25hTGJjamJNcmdfYXpKOUNIRlU2RWwxSXpBdTFkNEdoeW04cEVGOTk4UndFQzROZTQ5T0lFd1BGaU5qTmVYUWZPenE2WlBXQlJkZHJ6dkNyNUczLW84UE1tN3kyWnRuYTRjbFFmV2pBWHlzcUdfQ3V0RkRaekNVS25Id3NVQQ?oc=5",
+      "published": "2026-10-26T20:26:00",
       "date": "2026-10-26"
     },
     {
@@ -111,9 +244,9 @@
     },
     {
       "source": "CTV News",
-      "title": "‘Immediately stop using’: Electric snow throwers sold at Home Hardware recalled - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFFPM1gxLU5PNFZTSGVKWkUzSlBtWVNGb09OT3ZzdE1ucjU5NHhFOUVuTkNDa1RZZlpLT0FUT1lsbFowRWNiaWdlNnJndXZxVTJ1dFBUM29hdHAwcEowZ0VLQW0xaXQ5SUEybmRZVWFPVWEwTXN3bDBNWmRKMUZtNkpFdzBnUXhWTVlCaHlCUFY0ZGNjUzNGcFI3S3hWSGhNeWhUSXVrS28xZGk2c3JEbzI2NER1X3VFbzUxLU1UbV9JZ0FGYnc?oc=5",
-      "published": "2026-10-26T20:06:36",
+      "title": "Missing R on Ottawa street sign sends drivers to ‘St. Patick’ Street - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZlZuNmZGcVBLY3ZGeEdMcmRfejRILVQzbGhBUUVCYVBOLUNXWGktQXkyNGhyMXRtQUJXYVdwLWwxX2oxQW10d3A1anVSQml0UWg2RzA0dTBySXpoWmMtQ0hZdGJ6U2llUUpVRE9OMHg1SFhlazllUFJqMkhSNkdWUUxzd2RuS3RtSFZlVlE4dDlZVnBCWlEzTXhRYm85NlJEbXE5czlMdw?oc=5",
+      "published": "2026-10-26T20:02:50",
       "date": "2026-10-26"
     },
     {
@@ -138,6 +271,20 @@
       "date": "2026-10-26"
     },
     {
+      "source": "The Logic",
+      "title": "U.K. decides not to join Canada-led defence bank as allies prepare charter signing - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2V4Y0pXa205aWUydDNvU3Q2VkJ5U3I5Mi10bjNZRWY5UUdfcHh6RW9ZeGlyYkVGNkpKc0V1SDEzdmtaMUI5Xy1Zd29iYTd1ZTZMYnQyQ0psRWQzSDdRc1VoRkFITmNJY2VrUlNKTWxsSU8yYjFZYXNSbFEyZUo2ajJoX1Vja2l6alNzUWtCVjJmTzRobGRDTlkxOVNzQXl0dk9KU0VDQVczeGtpcGxIbg?oc=5",
+      "published": "2026-10-26T19:44:00",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "Ottawa Citizen",
+      "title": "Canada News Stories, Updates and Headlines - Ottawa Citizen",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EWTA5clhyR3lLWklPc3A1RVVkR1RJMDU1UHR5M0VTcGktd21WUW95cE9EMmZRSTRPWC1IcXBrbDhsYlZyVUJ2TXR6TE5MTkdWQXluUC1BR2ZxTFJIX2c?oc=5",
+      "published": "2026-10-26T19:43:06",
+      "date": "2026-10-26"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Roots Corporation Completes Go-Private Transaction and Announces Leadership Transition - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOV1FmOHZZTDdmeC1DcUxiQXhXOHVGTlQ3eVl4TTY5ZXdsOG5YZzk3eFZ0WkZ4V1NyT2tpRmh3LURGMy1razBnNi1rMlpKaktQM2dTdU9FSTlSemhDUnhQQnlTRElyQU5LYjBOQnVwaGZoblVyU01MTGFOSU1TM3pmR1Y5aXV3bWxmdFdxaW9XeFFJYUxqUTlleXZXbUR3U1g2TzR1SS04aS1JSGcxVE1YcDNybUVBdjJJVFNJd0MwUVRiMnptLUJzN2VJOFFyNzBrdng0VURpQmdMOWpYakxEREU4UlBNcExHX2s1N0FLcEJ4MzBpb2RqRVJyM2NoV3VhTFlQMQ?oc=5",
@@ -153,16 +300,30 @@
     },
     {
       "source": "CBC",
-      "title": "Sarault finishes 1st, 2nd on final day of Vancouver short track World Tour stop - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0hxeWdhV0JiUXFxWmxlZUVpWnJmd1FOaUEyaDFiVWt2R3lMYUxRSy1UdVl0Zi10aG9vQVF4SmlMWjRxN2VGck1mOEY5bHd2djVNeHJkeXVTdTJhTzB0MDBLcG9wNnhWaDlERHRQbzNZUi0tZFlrUHNmMmFtV01pMW1ySENLZk9xZERZZXJnbjdBRE5fRjVUQ0JxTTdOeUFTa3Z0emNWWlA3Mk40b2FUTXdOSUdMTW5ncHpWWjVRYlY?oc=5",
-      "published": "2026-10-26T19:20:01",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "CBC",
       "title": "Women 'risk being left behind' in AI push, advocates warn Canadian lawmakers - CBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tbmg4ejdMeHR1allyaVlhcVpUY0FEQ1BWUFo3Ui1yaXVpZUhVRnVnaHVSUlQwQ0FTWjdMd014cl9OaDB2WU5OSFBDUUx6MnA4eVB0UEpBN1BCeDRrS3VBX0gtWk9SelZIUDhxcC1WZHI5Nzc3cENV?oc=5",
       "published": "2026-10-26T19:12:27",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CTV News",
+      "title": "Off-duty officer intervenes in theft - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbWZXTEY4OC0ySms1aUxVWVVoaEJrQ2h2eExpOUpvWS1JcUtyTkhXczEyMWk3UHUtZ1RMeUczczZjS0piSUhwY3lHWmNzZVlOeUpfcmJlQTAyOTdBbWxpbFFtTFlHNmNkWHV0YUlRNU5vbUNMZUN2TEw4TUpTUDhCNG13?oc=5",
+      "published": "2026-10-26T18:56:43",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "National Post",
+      "title": "Breaking News, Headlines and Stories - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zb2dCdHVySHRPSXk1ZlVDZVJYTU1adjJod25fd2oweEtZanhRS3pvVVdVNi1tYnZUUzBJU3cyWUpjWVZJQTZMUGYtTGRlLWJn?oc=5",
+      "published": "2026-10-26T18:48:29",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Logic",
+      "title": "Churchill port owner Arctic Gateway Group to work with Dubai’s DP World on expansion plans - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWEk3LWJ0MXlxVm9JRll2NTNsRC1rQV9oM1ltYVc3RllQeURIcS1sWkp3eVpyTHhtaEVnMjl2MUpPTnRQcUY0QTZQRFhaYXdfdi0zZVNfN0p4bFBKZlRJRElHdkVwb2Z6MmtuWVF5aFVoZFJQSDZ4V3ZmVTU2UXVuVkFjc3BqUF84ZWxMVlNKMzFRMEtsTTJlWWxJSVAxN1BQSV9OT2tHTlJwUDlFSE81MWFSZTFuV2JJeXBv?oc=5",
+      "published": "2026-10-26T18:27:00",
       "date": "2026-10-26"
     },
     {
@@ -180,17 +341,10 @@
       "date": "2026-10-26"
     },
     {
-      "source": "iPolitics",
-      "title": "iPolitics News: Key Developments in Canadian Politics - iPolitics",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5EUXV5dXNMRGtOTW5MNmY3REFycnJ0QWNaa0VNVGtnSEpNallyTUl1Y3lESFJTd2l6U3N0TTNB?oc=5",
-      "published": "2026-10-26T18:15:36",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "These punks became city councillors in B.C. – and brought their progressive politics to the table - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSlFkcjhHU2ViWGZNZUt4VTlFTy1jcWJqNlljZUE0dFhaR2JtYUFFRzBteG5ZNDRrZGpxMWdvT0hrT0pUel85LTlUTURZMHQ2ckhTdjAwZ2lDVHhUVE9GXy1XMFFPcTJLWExSeGJRcTB2MW5aTDBBa2tUb1ZzRXk5VWZDT1F5UnJReVpPZGc1TTlJN2lNU1NkbGl5b2FFSU1OeDQyM0RPT3lQb0xGeGc?oc=5",
-      "published": "2026-10-26T17:56:37",
+      "source": "CBC",
+      "title": "Sarault finishes 1st, 2nd on final day of Vancouver short track World Tour stop - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pNndYOWlkUHNNdVFLOUNIb01uSTJNRWRqeW5ESUpuaXc4M0xpSHdKV196RUJjbmd6d1pudDRMMVlMb1hRblNLUHh6X3JnQkI2?oc=5",
+      "published": "2026-10-26T18:18:07",
       "date": "2026-10-26"
     },
     {
@@ -208,10 +362,10 @@
       "date": "2026-10-26"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Walter Koenig, Ensign Chekov on original Star Trek series, dies at 90 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXNTaC1MLXJLdXRfRFF2WlNJLWlxeEFnZnpsTUh6WlltdDQtVFVrSUFzOXhvYm01aDRhYzc0ODhEVm5lRzhqbFVUcVd6VjE2WmFqWFJRNXRmcWdhNmNaN2U3dFljeV90MWRJdkdJNDk5Tzd5SlY0UVV2V0JCd0FSRE51cEVBRXB4aGtkT01ic2ptcmJkRE4zQVMyakE?oc=5",
-      "published": "2026-10-26T17:15:49",
+      "source": "The Logic",
+      "title": "North Vector Dynamics raises over US$20M for anti-drone missile development - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVklROUcwdmdhX1V0QU9NOFNhVkg5SnBVdG8xb2JUWGJtNjM2ajlwWWZNbnlsLUVtSExMQlFwbmJCbjN5RFptRWFYSUFoSE5qX25OMU1PMHFUUWdxUmFrWTVOSXJYVHNWOG9rVWRodXh0ZWZ0S08zQko0dUFscW9reUJ5V2dudUd0WVo2WEFOaTRkWVZsdWhKT2YwbTRqRXVWclJ5bkdxcw?oc=5",
+      "published": "2026-10-26T17:23:00",
       "date": "2026-10-26"
     },
     {
@@ -226,6 +380,27 @@
       "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUWR6RmRMN25BdGtSUGk0U1Z3X1pOcElBaHlPU2xCaUcwYXJSeWxjLXRGRXJFazdWNUhpc0xZTVduSU8zTWlyek05Y3BaTHFVeGtRemJuTmNZRzNQQ2x2Z3ViVzJsaURVMXRxRjc2Y2tkUUplVHBnSmpSMFZEUDJtZ010S2NjWTVYOUNaSS1nZ0NVZnlUSVg0ZThJbUVvVEtXV090RG50S3ZvYTlYdExzbW5PVkxrekg4ZURKa2JOY21zSkY4OG9wT0RmYlo1SEcwY1ZYSE5vNlI2WG5iUjU5WUpDaWpnNzJwd1Z0NEkzZWhEWENyeDFTaGNlNTFFemFWci1oa240dlpHZw?oc=5",
       "published": "2026-10-26T16:16:26",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CTV News",
+      "title": "Elora teen charged in South Bruce Peninsula crash - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWJQN2xFQjl3YTlmMjZUM1lqZ281bTcwRHg3dlhCdUp6c0E5TU16NXptcXQwb2p3Vm5aSGlIQzZKeWRHYkYxUEp0RmlQeFQzN2lyMElNZHlVaXpYRUw2MjBVYXlRQjVjb1JJTHoySEd5OHdQTlJjMnVzWVJqQUpWMFlFR2ZjOS1Ed05LSEoybHd2cmptWXc?oc=5",
+      "published": "2026-10-26T16:06:47",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CTV News",
+      "title": "Pope Leo’s trip to Uruguay, Argentina and Peru to go ahead, Vatican says - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEx0aW43eExPVDd1c19LMHVIX0JabTJMM1JhVUZwSGNpcDVFZUtqNDFvbFlZN2hPbGZHbGwwdFVNcFZsOHZiYmdkSC04VURyVGZtSmxRNGVkbnF3b1dHUjZRR2NvNGdyejlwWGZOdWNVRXNQS0xRS1VqTmZwRmloRGhrbGtJWi1lMUpINmo2MFRZb19xZkZibUFJYUw0Q25teEJreVVMZ0FhQkU?oc=5",
+      "published": "2026-10-26T16:00:30",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CTV News",
+      "title": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNk1zaGZ4eXZab0ZfX1U3TFpxZzBVdWlfWjBTdGZPR2R1YlA5OEk4RzIyMTVDTFY1QWxWUEFtWF9QMDh3VURPWjVQQ1dxVjkwNkJtY1JIUVZXbFVtR29JNVBPV3FQWjZQVWtaMmZqLUVzeG1UYlRjMVFxTjA4Y2RhVnhZRTJPT0k4V1ROOVc3NzNWS2JtR1B5WThoRF9XSXBDbVFnR0IydnZKNXpHU25aUFFHb1RMLUMwYlhrZlJEeXZGRUI2RV9Zbk1sbG5vZlRETUE?oc=5",
+      "published": "2026-10-26T15:33:26",
       "date": "2026-10-26"
     },
     {
@@ -250,6 +425,13 @@
       "date": "2026-10-26"
     },
     {
+      "source": "CTV News",
+      "title": "Canadian mining company Teck Resources says workers began a strike - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3h2U1RkeGF3UjNYYXFURlFXSko1X3VzVmtiOExWc1pxMnZNWVVBR0RFYVpHOTZhdXRnaXdBNWFfMTZZLVZxVFhoSEV2ME9BZG16ZnRMVzBRc2oyZVdEZVRrejBvb2NMSFdmOEtRS284SjQtNFJyb1k2LXdlYnE0TlpWVUVOR1NpSDJWV01sb3FwRml3Zmp1ZndXZ0FLbHE1eU9CZnVZc2RmUmM?oc=5",
+      "published": "2026-10-26T15:20:03",
+      "date": "2026-10-26"
+    },
+    {
       "source": "BNN Bloomberg",
       "title": "Canadian mining company Teck Resources says workers began a strike - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczVHWURBU0QwcGlQTnpFNmN2LV8zdzRZc1F1TWg2dzlCYVU2alNhQnN4RFVmVnh4SHhwc1NOcHB3YmZQXzJTNEFUam92MFh1VUczRWRoMDRCeTdmNVM1ZWhqd1JpcWVXcUJOVHlrc2xncjJ4NDFFSkg5aE1KV1JqbXFJOTRaSDI3MEg4SmVHMnNTR19pc0phdGRpaXpGY19WY0oyaktPNVNoUVJzdDh5NG9OekpOWWZ1ZlQwTFhKSkpFZDR2NzJz?oc=5",
@@ -265,6 +447,13 @@
     },
     {
       "source": "The Globe and Mail",
+      "title": "LLY vs. MRK: Which Stock Offers the More Compelling Investment Case? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTcxV25xVEluRG9QZjEtT3JMeF9uN19nUWpvYnJjRjV5bzdZZVdmcWxPWFlkeUlwTEJZb2ZrMmRzNGlWZnRHSmdSMFc1Q0VvZWVuMkdNel9vT29mS0NnRUV5WkdsLWFVTnF4a0swaExNNUp3N3pvTldDckw2N3NZRTVvcEJmenJZYTdfZHZ1Tktvd2t6bjJ3bUxWOXlyOGpWQnJmZDFJSjV2Q2JncEVtTEtNR1FBRTF0UDBQcXU3dGNTLWpzZEdOOTd0bUFWajFUa2NPSXZlOHpZMFJCY1FGMVYxVQ?oc=5",
+      "published": "2026-10-26T14:53:04",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Globe and Mail",
       "title": "Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOclZWbThFY1JQYmZKWkhUZTFjVlhMa1ZmVHExVm14TVYyNDZmc0pNdUw1YUZ3QmhhMWxwNmh5NjROZjAzbXZma3cwRzRDQ01sVFdTWkl2cDE2akEwaWhIanpVT0lUYndhRlFEeXFpNlhuclBxUGVHWmZHTlhpRHFTa2tYa0t6cGJOOGhQbmdhM0dOWFFrYnpxYmtBczhMNE9pYm5hRjItWFVPd1UxYURMM01jTTNWUU5OWlpkelBiek5md3o3ajRxZmJEQ3ZzTnVPM3pSa2d2UnVPT21mM3BuVGxLQm1ZYzBhRy14YWk3S1VDeGh0LXl4TnJYSURobVdQTW9qN29zUGk4eW1OYXVucg?oc=5",
       "published": "2026-10-26T14:51:19",
@@ -272,16 +461,16 @@
     },
     {
       "source": "The Globe and Mail",
-      "title": "LLY vs. MRK: Which Stock Offers the More Compelling Investment Case? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVG9rSjZMTUk1WHVSUzFmVWJPUWNPeXpPVEt1YmdFRXdnTGMxWHBHY3RXbFBLYURsb2JadDBQR09vZkhmSVdRU0traDlRa3plVEdTZG11dTBjcVhnWWxFUXhHZDdyeWxGeC1iZkZTclMyRkM3Nl8xTG5LUzQ4VS1CNF9wcTNaRjZYM01RRjlJSjdvMHFTd3Q0blBYbmxwcFZ3dV9MdmM3c3Y4RWxyMEZZc3RQSnNiVkFqWG9UWGozNVpzUmduTU5oMDlNZWVfT3FCdDZ1a0kteGpzeFhBOEJkTmNjYw?oc=5",
-      "published": "2026-10-26T14:37:19",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
       "title": "ZenaTech Targets Adjusted EBITDA Breakeven in 2027 Following 425% First-Half Revenue Growth - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMHlJaWE2NF8zZzRZVkNTRjgzUFpCLURGajVtN0RPSnVkM0h1OFVKSUxQdGl6REhwYUFoeTdza0VYbndoY29neWVPVHNSWjlFNnROMXlpRTlHOUhNVURPTHJkZTVTTlRGY2NmRmJlWFJxNHFidm52ZTNUVGpNUXlhM1FxVkV4RUVyMEN4aEw0bEdDSHVpNXBzcm9vb3RsM2s1VzRXekFOSFNBZHBfTmZCazk5QXZEZEdTWVhJaVRRM0J4NzVlQXltZER6VktTOEtNN1N5ZGZiUkp5TlRQRnJnOTNBT3pkYWFVQ3h0WEVyam4xXzRLYzd1LTl1NzczSU9MSkR0QjZyRVQ?oc=5",
       "published": "2026-10-26T14:35:18",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "CTV News",
+      "title": "Ontario proposing changes to Blue Box recycling program - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2cwWk83NjV2aF9vRW4yVXVJWkcxT3lvNGpabEFyOTNPT1pqY1RDb0ppZUlCXzZiZlZEN2JDeUFGTzktczFOUjUtM21MOVdwNllTLU9fcjlTdTl2WVRsYnNWWUVKZUl4dW84Ylg0ZjUxdElQNXF0QURKZld4NVUyLXhsSVNiUUJCMFAwZ0tCblFhMkNjUTNLWXJjVQ?oc=5",
+      "published": "2026-10-26T13:57:57",
       "date": "2026-10-26"
     },
     {
@@ -299,17 +488,24 @@
       "date": "2026-10-26"
     },
     {
-      "source": "National Post",
-      "title": "What authors of the Alberta ‘firewall’ letter think of Smith’s referendum: Full Comment podcast - National Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlBYdHlQNjkwaXhpVVdWSms1d0g2dHN6ZWxCRDlsOUoycXlqLTIxcGpoby1GSms2STl3SVMtRXI0OFNmSlY3MmhiYVZyeElBdWNHdlJNVnZHMTFxTS1ia1otZ0s0T3VoSk5sdXBNX3dnMEYxSlR2QVhqamp4ZWJJc1B1S0xSZGpHNVlMRmk4aDVSbmZMQ1VUN2VyaXJRRHhuTVA5cW1n?oc=5",
-      "published": "2026-10-26T13:49:49",
-      "date": "2026-10-26"
-    },
-    {
       "source": "The Globe and Mail",
       "title": "Dutch Bros vs. Lululemon: Which Stock Is a Better Buy in 2026? - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0NYdGxiZTZmQzlBc0E2Y083LV9mNHRXeGpDQWVrTVhXSEtIMmFsU0xpemdZVjJJaE13Q2xCd2xHUDFxbENWWE9GYWw3MmV1ZEFTd29HbW52SDhyME1uOWdfb0k2bTNyQnhoRG50cWtrVUltRVZUdElRYkI0Wkg5QXJMQThPV3JwS3BkUjVxWVhqUWIxSWpZYWtZMXlCbEN2UGZUdHd0bElYQ0licEpFYVg3SUFJb3Vwekk3QVJqNnZaXzVGVi1TSkdlbTRrQ1otMF95NA?oc=5",
       "published": "2026-10-26T13:43:44",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSF9EbE5mNmtTSC04TzJTOXB2enZoNTJTb0JtRVEwMk9qUi01dXNUWjdoMm1FZ1MtRWRDdUFtUU5EdldMQm5LRk9lVUFweWRPRzVjYjZKY1V2SnlvX3YzYThwTzNSSjJrOUVVbTdwbHVjeWlRbWFCUFFsaS1RZW0wejk4ZGdnSXFzOVN4TVpvWUNvU1VsQTQ4LUJuSWNGeHJVXzBOakZMUDBNbF9nUlNlZWZQZ2NiOHQ2UnBSRWhGeEhyQk5WTEw4b0x3UQ?oc=5",
+      "published": "2026-10-26T13:27:08",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Inspection, Automation Equipment Could Be Overlooked Winners of the AI Buildout - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYlNXVmczbTByc09sT2xlR1NXbDc2TkJzampVbGhoQmtScEpJczdoSURhQXNvUHVFdFpMR2FZYkllbHgta0FBTE1waEE5dFpMcGhoLVZIQlNuZnFVOGc1M0x0aW1qSE1QbFE5Ump1a1RBcnc5WWh6cG9iNEhieDc4SXNTLUZWeHJSN2hGeGp5WGFrZW9xRFZ4ZjBfVm00Mk0zd2YwNFJmdGJGWGNxei1oY0x3cmduNnQ5dkoxN0l1WU82RkFzVU85anRodFoyMzFROUpCb2dtWFJFNGx3SGVUZlZuTE5acW9oMWxzdGtEYkh3VTg0TEE?oc=5",
+      "published": "2026-10-26T13:23:37",
       "date": "2026-10-26"
     },
     {
@@ -362,13 +558,6 @@
       "date": "2026-10-26"
     },
     {
-      "source": "The Globe and Mail",
-      "title": "Inspection, Automation Equipment Could Be Overlooked Winners of the AI Buildout - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN2IxN1FTNlUtNHZOWDFiSEFITUtCSWRCdk1CdGhOTW9iaExHM0FERDh6QTlLRHdCd0U0NnRqT3ZXS2tfWWlCY0xyaE1BeExmNm5sbkt1TjgxbzZwYzFYdEJYVjZqZEtEWDZEamQ5dHFEWUhDYlVBOVpJSjUxejkyczFPZ0ZIUFltbktpTWxnR1ZMXzh0cFhnYUdzd3FNbUJzVHprZU5DbHBOZHUxX0NKQzhoQjJQeVFxV2hUS3BMOHh1OXJNSUJRaVVQajhNWUZ4OUQ0YUxBZllycWEtTUxzUHk4bWZQSzktcHVwdS0xMVlRT2VjeW9V?oc=5",
-      "published": "2026-10-26T12:56:15",
-      "date": "2026-10-26"
-    },
-    {
       "source": "CTV News",
       "title": "Windsor-Essex residents head to the polls for municipal election day - CTV News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakJVQlpMbWJjcVRTdnZaSmRmekZQTk02R21RcGxqYVowdmx1X0g3UU12TWIxb1NGaEtzRUN1NW9NcUNEeUI2OEVWODVYUUhzTzhqMUdERVg0SjZSSW9ERW5fSnR6Zm5aY2t4LXpBVElvOWNybHdwdXp6cnhmLVhIZTNXUFBISmVNQWU0NUNJMU90cU9NZXl6MkR3ck83YjlValpmQjFVUkdEZjdBUWlWVg?oc=5",
@@ -376,17 +565,17 @@
       "date": "2026-10-26"
     },
     {
+      "source": "CTV News",
+      "title": "OPP charge 3 with drug trafficking after northern Ont. traffic stop - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmd5bFRGQ2RVZm5JY253SGQ5VS1VUk83NmFCd29Va1M1NUVtZkR3WWRXcjA3Wl9xWTNYdjM2b0Y4RXJOOVVOeHVpT0tHTWlYNWxMVV9qWE5Lek9mY296eVN4UXc0VnZneUdhNjRjUUx1M0tack5MLVkzQjZGdzN2NFI1Z1o2V2Z0Q3d2UVE3SjZidVFkb095V0JzdUczVF8zc2xSREZDSVE5RXE2TU9CYWFpUVBsQQ?oc=5",
+      "published": "2026-10-26T12:43:10",
+      "date": "2026-10-26"
+    },
+    {
       "source": "Global News",
       "title": "Brazil’s Lula wins presidential election, bucking regional shift towards right - Global News",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Uc2Zhd0tDdjlZa2NlbkNWS3dMY1pEckpiQ3Bjekd1R1hud3BUTnRBYVRkNUVueW81N1VYN2tMVGhBbWVTVE1KZWdEV0EzNU9JZzRoOGZJdWgwTnpuSUw3VmF0OWJwWnZZ?oc=5",
       "published": "2026-10-26T12:38:20",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Chris Brown spared prison time for brawling at a U.K. nightclub in 2023 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDdpclI5dWRlckJFZV9CcWg5WWtzemtiWkk0M1NKdE40aUFxZDRjQW9tOXV6bHJFZnVuYTJ5WTNqM2lDdzlTcV9iNmh5ODZ6ekFxSXdqWTVjaGtfR3ZZM0p0T2VDdV9TamRpS29VSUlNSFJCTWh4Sm5BSERFYVhvU3pnWEw3bzVaOFFLVkh5Z190NVEydnhIYTN6M3JkTjBqTm92NUFTVHUzbEtr?oc=5",
-      "published": "2026-10-26T12:34:00",
       "date": "2026-10-26"
     },
     {
@@ -401,6 +590,13 @@
       "title": "Manufacturing descent: Canada’s industrial comeback won’t be easy - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRmlicmU3cmpYTXhySkxrZU5POVczeEJrMlRRWEtlbTh0bUNkSUVmWkJtd2lQb3FPWDNFd2J3RE90dWJsaTFfcXNPbGFUR28ySVpDYnYybnBvOXNDVm9qR0JRV0xSMkZ1bmJQSXU4MllmWXk4aG82OE14SmhqOVRsZXI5RVJ4TnRMX0d2YjhCa3VVSk83T3UzcDVwVHJ3XzhxSHZBSFcxaVhhVnUxX2RxUzlpVWtlLWpERDlYYnl2d0JUX1U?oc=5",
       "published": "2026-10-26T12:00:00",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "Ottawa Sun",
+      "title": "Canada News Stories, Updates and Headlines - Ottawa Sun",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDb003UXRKVmFDMlRHd1VyblhkVjl2c1N0aEVKMy1BY3BsTVdybzRtWkZBdGJJcGRoV3JaNFFkdkJqeXFHZzhzZWdQMHZFVXlvUUxqOFNWdDg?oc=5",
+      "published": "2026-10-26T11:40:09",
       "date": "2026-10-26"
     },
     {
@@ -425,10 +621,24 @@
       "date": "2026-10-26"
     },
     {
+      "source": "National Post",
+      "title": "Opinions, Editorials and Columns - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01NWlYZzR1c3k5M0VsRndMZXJQZnl2TEs2dDVlZEt5aVdXWkhfLTdjQ1l2QzZPWGN5QjE0V1FVaWU5c2pTdUlscmc1ZDJyOUFoWWk3ZQ?oc=5",
+      "published": "2026-10-26T11:06:01",
+      "date": "2026-10-26"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "Tianqi Lithium Posts Surging Profit in Third Quarter 2026 - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGdvMldEbHJJZnNQLWRpRFpKZ0JndnpoUkJ1cFhIYzJibE80M1JoaFR1X2hJa2hrb2NLbWJSQ3BudVZpOHQ5aEdIMmdiRllYR0p1UHdBeDFiTzNyZGwxWkhvVzJFbVlnR0ZnNThLamVXb0hORTVrRDUtcEpfN2tFSTNLYW9RLWd5X2FETzNDOWNVMDNGQXp1cTE0Y0ZXZkpCSmU5RWh6aGg4QkZyclo1cXZYdkh6X3FucFVuN0lfb0RVVHNlaXZrMmlGQXdzNThxSnJxdw?oc=5",
       "published": "2026-10-26T10:53:14",
+      "date": "2026-10-26"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNG1FMDNQangwV2I0U3B6TUJRM1dYY2VnUkVUX2lELXZTNFNEdWN6ODJ6YjExaFZTYjNiMDlWdGs0eHh3WDQ3Y21aVDNqV3B0Z1ZSMTdkV0dtUFRMeHowZ1luaW5qejFvTGpyR3FIYlU4cEI1Z0Iwb3FkR2VmZ0V6U3lPNlpwZkZucnktM0h1cWYxclE5bkVZVTNlRjZSZUtQNXpmdDlQTXdwOXNrYUtwWUN0MGZhLXlza19Ta3Bhb2g5OEdZRmpfTlBrUnJJZDFld2VXQVJ2VFlDNG1uTFB5bEpR?oc=5",
+      "published": "2026-10-26T10:52:30",
       "date": "2026-10-26"
     },
     {
@@ -439,10 +649,10 @@
       "date": "2026-10-26"
     },
     {
-      "source": "CBC",
-      "title": "I trained hard to make the volleyball team. Then I was told I was too short | story | Kids News - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2xidVFDOUlkcXVRRWJQMDA2dGd4MEZuWWZqZm9EeXFLSlFNWHFvdTRGUHdESFRiNXFLR3J1SG1iVkN5V1RGSFplR2JDNzhhcG1lQXE5Z0ZYRW4wTXVybEpra05GMzFUUVBjZ1htalFkQ0NyX0VUaXNSQWszWFgzd01kQUdzX0d1NERaUzRZYU0tU1B0OTVtbUtjZHlVRGNOclBrTXowNWRnaG8?oc=5",
-      "published": "2026-10-26T10:40:15",
+      "source": "The Logic",
+      "title": "Canada faces a satellite-launch crunch as SpaceX retires its workhorse rocket - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbmpGN294SkkxQVRZY2cxLW1aeElNNkhwYlhGWk1RSE41V2xTVmRHdVhzVkFOVkhlaUdBOUw5eG85T0tSX3VEQlR2c0FBNGUwcW9GczRvQ0FDVkMtR3h1UVZVM0VuRTRtZ0Z3RWZkR1Q?oc=5",
+      "published": "2026-10-26T10:45:00",
       "date": "2026-10-26"
     },
     {
@@ -450,13 +660,6 @@
       "title": "Here's What $1,000 Spread Across These 4 Memory and Storage Stocks Could Be Worth by 2030 - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOGo0S3p3cjJ2TnNEUndCV2dzUmxSX09pOUxTTGhDc0MzTnNjVDBKUktCTV9pYkNreS1TMkpORGkxXy1tSUJzR3drY0NGeEZPREVMajkwUTU3NmpaMTFuVW1zRmF1Vks3MjlJbm9EVXlDd1oyT0d3ZXFDWHppN1dOWWRBMlRSZVVZc2x3NEhEampQbmV6dEw1WVdrTjZiX0I4aVhaajVGajZERERUM0VwZXRSVmNyWWpHdFpyZ3VUM3VUTTRYWEhZU1ZJSnNoX1pjSTdZYVJ5c2pnbjBMakpjbktnS29ZTzY2ajhWUTNfRmpJUFZuZWxrdTh2QQ?oc=5",
       "published": "2026-10-26T10:20:54",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "National Post",
-      "title": "Opinions, Editorials and Columns - National Post",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01NWlYZzR1c3k5M0VsRndMZXJQZnl2TEs2dDVlZEt5aVdXWkhfLTdjQ1l2QzZPWGN5QjE0V1FVaWU5c2pTdUlscmc1ZDJyOUFoWWk3ZQ?oc=5",
-      "published": "2026-10-26T10:11:57",
       "date": "2026-10-26"
     },
     {
@@ -569,48 +772,6 @@
       "title": "The Stargazers: An Original Drama by HIT Recreates a Spiritual Group Portrait Through Artistic Beauty - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVGVaVmluSTBHZGd4eUZ6WlRseXhWYUl1dDdxN292aWViZ1YyYWRndzNHbFUtbF91SmZhaEZvckJWX3k5d2owWWpnaHVmNFlWMFJrWExVMzdibThNZEtsUHVTZS1wWmprdXJDMUdwbTNaamRiUGlwTVVUQkoyS2hNdFlxS1BaeVBpZE1fRkVQUEc3T2xfdGpKcHFrU0RJOUszSXIwZVV2djJ1SzNma3lSUzdEZ3hHazJ5Y1BzUV84SXctMGRUd1ZmaVRVaDZ2MDJ4X3JuQ1U0XzIxN3hUNlh0dDNiS1VkcWhBSWtWSVdHbUh5cWFwZHYtUE40eDNIMUVrMVdxNDdXMzRSVnM2VURHWGlOcmE?oc=5",
       "published": "2026-10-26T06:11:57",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Here's Why Estée Lauder Won't Reclaim a $100 Billion Market Cap Anytime Soon - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeFBvYVlpT3J2NDNIQzVoQzBQMXBYUUZHM3VEb0dWVGx6d0FQWGFYZ3NCTGlwbTJ0cE5BeU1LRVFwOEV0TzZjb1A0ZnA4MEpiMFIwa3VJbmJoWGtPbGhlUlRUTThGcHRwZjg1bk81N2FGUmxxQWl0LTVMdlNWdGlsRElld3NCeERuLXBwdEozejJrYTNoWWlNU0xBT056aHVrc2dBYTFiNTR5LXF6RE5UNTdCWTJ1QjlMelgzc19GV2VIdkxYSDIyWFVfWURuMzh6QUt4NzJrVUs3aF9DNkl0LUlHcEczUngybkE?oc=5",
-      "published": "2026-10-26T05:22:15",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Upcoming Meeting Dates - October 26, 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3pvQnFWeUdWcnB6TV9UTkxhbU5pN0NCS0hNLWlGWWFqa1hzbEQ5NklCbVNVSEIyTWNGQ1dQOFl3VGJtS1JTbWNkcDV2N0xWNWhMVjdDNUZoaXgyd3lhN050S1ZWcmtQTkp1a1JGbXdReXlBVkdtTkUyVGNEYjFwczh0ejdYc1RjOVdGUmYxblFsbEJtblUydWMwU3pUMVRGVkxZX0psbkFHc0pnUzZwdzJ1bzhSM0h2ZUY4?oc=5",
-      "published": "2026-10-26T04:10:14",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "UAE diplomat becomes front-runner in United Nations race, sparking criticism over Sudan role - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEpLLXNRX3JJV19sdGFud09rYm5ia0gzckpqNnZRQlRQcmR1eGhKWV95dl9wZHZOUGtCSjVhZEkyT2J4ZXZwcWhTV3dReGFDLUd6T3lHQnhJUHUyNlR1cFphNEprMW1lNy16ZFVoZ1czcTVBa3JVYzhTemJlTVcwbjh1NGZVTlNmYWlCZkhRUFkyN0lfTXdiTG9Kb2RaTUNjdWtnNWRsbUVFbjQ?oc=5",
-      "published": "2026-10-26T01:01:33",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Wall Street Thinks Archer Aviation Is a Buy. Here's Why I Don't. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRk5UenpyZ0dnY1VUSDJ5NnhVcGtDVVZhcklNX05OR25VWU56azlhaE5PbU0tbWxGV3NRTGhTMkdORWh6djlfQ1VnZ3dIbTdGZFlUYndrZHJfbHVPdktJd21DeFZObjFOYTB1Y1NMM1B1cEN3bWpzWk5aRF9BQWJKMUY5OEZla1ZvdUVGZnJNLWZSSEhwYm0zbEZMTHZNZzRET2VEeV80d1RHQzYxUmd2a3k4dDNlaWZYT1ZjSHU3TU5mWDl3NVpSNlBJOHZfbGJpS0RCS2UydHB4VWs?oc=5",
-      "published": "2026-10-26T00:52:40",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Lockheed Martin Earnings Call Signals Broad-Based Surge - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSEwxU1VCbDZDdklSZ2lGZDdOaGZ0ZkplNm1UVGdLVnE4TVlnVDJuSVExNWgycTZMWnY2MUt2SFZYWEZWb0JlU2stelRvR3VRQ1Zuc2p3NnVFTm5GTmQwcno4b1NDU2JBWEJDMWxLbjhTc3VnVl8yUnVodkloaUpudjNvd2MydnRWbWxsU0Yya2k2TV9XSURIODhGTkw5dUZubGxkZW9oeW9teVJtVHAwdkNTTTVfZkpyTVVQTW1mNWdad3pLbEZCb2doNnFlR3RlejdOeWZB?oc=5",
-      "published": "2026-10-26T00:15:58",
-      "date": "2026-10-26"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Tesla Earnings Call: FSD, Robotaxis and Capital Surge - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUjROMHAwNEYyYnJHR25mUFBRdWx5Y2pLNG1KMzhDN1pqRzNReVZQQ0trbEpaLURSRUtfQ1NmNVhuclRTajNIV3RIcGNLZms3RkZUb0lXQ2xqOFB0YnUzQTYzNzZEUVRUSUZ6WlFwOFhMalVqS0ljUHdTUU5JQVA5aDN2YlZLWTZ0dmNTQkhSNTlVVElEMFZCNThXMG9uMnVLVDV5dWJCdlBnNDlQMGhCNzR5aWRrZHZhRlRlZE85ZWxpZjBoZGhXeDk0dC1fWUVXc0E?oc=5",
-      "published": "2026-10-26T00:12:00",
       "date": "2026-10-26"
     }
   ]
