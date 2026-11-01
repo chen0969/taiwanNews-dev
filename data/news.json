@@ -1,84 +1,77 @@
 {
   "source": "Google News RSS + site-filtered sources",
   "query": "Taiwan + China + Lai Ching-te + William Lai",
-  "updated_at": "2026-11-01T17:55:48.494588Z",
-  "article_count": 74,
+  "updated_at": "2026-11-01T21:54:49.567511Z",
+  "article_count": 36,
   "articles": [
+    {
+      "source": "The Globe and Mail",
+      "title": "Binance sees spike in withdrawals after $6.3-billion heist - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHY1eW1RUGpJMzJvLW03V1dsRGZyU2djWW9RMTU5MlNYS0RJN25SdzRCbktPekluNHBtR012MVFZVFczTzNkNkpQSUxCTzBsNDVTdEpLU1h0NU9wOXFZci1FWWh4aW41NG1pMExCaXE3ekV6eFV1eV9PbkZPdi05VHVRSmNQdjhEdFNJODk5a1Q?oc=5",
+      "published": "2026-11-01T21:18:10",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "CTV News",
+      "title": "Canadian taxpayers now own a part of Cohere AI, what that means for digital sovereignty - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGViUlZZMDhkcl9kbjRUV0J2MUlUQkxwYmlKZ21JNWZnVkZYcXpIU3NSWTdheE1xcVhFZ2VNU2V0cS1RSmpsTDdtSUwyYUlBTmVUc1EyaVpnRDZsMTNQMHJqLXJOaEZiUGJxcjhQVng0ZHNLYkxsVlAzWG9Ed3djR2lSdnY1Wk9sVXlxUVZmZEs3MXE2T0VFZ3R0ckdVeXhZWC1NdnFMV2ZjSC11TGx0enhsajMwaFRRNFpRSEFQbVo4V0V3ZUE?oc=5",
+      "published": "2026-11-01T19:53:14",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "CityNews",
+      "title": "Defence giant Lockheed Martin acquires N.S.-based undersea warfare company - CityNews Ottawa",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdXclc0UU9EMFAtN3A1NlYyZWstTS1LQzIxOWF5U1hUMmNjUi05NUp6bXZSQkRTMjFvU2djbFA0alB2YnE2OFZmMHRZYWY0ZkxMZUh0MTdLdUpHa2dSalNFaE5Ddi1nMGNOZWpvMWU1QjZxdHBUVTUtd2pfNUFrc3BEYURNelFCUlZzemZ2UGxIQW50TDFrSENFaTM1MjFKZE1YaTNMSU0zTUhGeUlZZGdB?oc=5",
+      "published": "2026-11-01T19:46:43",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China Factory Gauge Falls Back Into Contraction Zone - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2dRRkpXcWdYYTlYZXNvcWRfMV9PaldmeG0zRTNoSlpzMm5ZbXVMSnRZVGZ6ekw3c1Z4ZWlBdFQ2Ri12UGdrREVkbUlSNGxKdFM0cXBJZjNtWlQ1NnpvRlE1RldZWENqTm5USDh2TEJRVmJkZXA3WVFaSkNCTWxxeVZGUmM1NXdEbDZHWmx1aVFfUENPcERSUVY1SnFBd0wtSjhVaHF2UmhPQ0Q5a3A5TzA4SENrN3dxZUhZN0c1RnRhVVMxYW1QYzhncC1YQQ?oc=5",
+      "published": "2026-11-01T18:07:32",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "China’s Services PMI Slips Into Surprise Contraction - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMV9nd0xuSEJySXU1M2xDN0Via0VJLVJBUzQ3X3FmQXdNelhGV1c2akp0Uk0ydC1BZlVUaExwdG5aakR1MTY5U0RlSUlNUU9SMlc3TnZBOHhKMWdFT2c2R0IzQVUxSTBMNVdsdTRHM21aQlN5dEduUjcySk4yRXItQmhpODdDeWhrbTFoSmlNeG5DNk92YS04ZWlfekk3MGhyZWJFRFZTNE9mQ09leG5NM1VVWHo3Ukk3cFFURGRwUWdYbUFNTUw4TFdhbHg?oc=5",
+      "published": "2026-11-01T18:07:31",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "Global News",
+      "title": "How will U.S. midterm results affect Trump’s trade war with Canada - Global News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0FTMzhvRXQyT0tEbWl1MVZhelduRVV3TEUxNUFUVlJ2OHI1X1N3MkpKdndwVmJWYnc1ZnNUUm5vbC1PZ1NxRmhWNURDRmZfV1ZSN0NUTC1yRktHZGJXcWREc21YRjN5cVM3NG5acy1kWVEtazBKNm50OTlacm9aMGx5alVRZURWVUtxVU9zSXZaNlB3Rnl6VTc1MlJrcG42QWFjdg?oc=5",
+      "published": "2026-11-01T17:57:49",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "Global News",
+      "title": "The West Block: Nov. 1 - Global News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZVk04bTQyN1UtM1M1WDFna0pZanpmOE9PZ3JQRW51RllRLVUyYjM5WXpYYWZrWDJvSUM2d0FWWkVyVW1sQ0JmWHYzMllJRUlnZmlmRlBFNE1XWnA2dVdBX1ZDN3prOFBDOXR3Qw?oc=5",
+      "published": "2026-11-01T17:55:44",
+      "date": "2026-11-01"
+    },
+    {
+      "source": "The Globe and Mail",
+      "title": "Twenty years on, supporters of jailed Canadian Huseyin Celil haven’t given up hope of freeing him from China - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTk2NW1MZjl1d3R4a0R5SXlXRDdjX1BOazBDWEw3MXZuS3dNQ0RmeXR3Wlg4VnAxbG5WanBSNl9JY2FHVC1YSks4VGVHa2ZYd3hzRm1rS3hfeGZOZGVXMnpXSHNBdS1HM0lkbzlOVnc1ZDB6QkpTc2MwTVhEXzdoazNDNmk?oc=5",
+      "published": "2026-11-01T17:52:43",
+      "date": "2026-11-01"
+    },
     {
       "source": "CTV News",
       "title": "Federal by-election called for Yorkton-Melville. Here’s when you can head to the polls. - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUy0yM2pfS2lmemdjT093c1lyOUZfbnJvVDIxamt3RmZ3MEJ1cklpQUxsX0pZWXV4OEptY2VENnRlRXZlelhpT3hRWFNUYmNTUEN5OS1uRi1HMTltbVBQeWRxem5qWlF4eDBoV0E1VWVEZkNOWHBYMlZINkVxWENpd05tTFBjUHRWNG11VHZGWjVBenk5Mm94LWdNSHB5d2xhMjlrVmVaREdoVU9qbkRSb1VjdTJfTm5rZG1QZFE1Qkc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlVEYlR4YkVQU1hfTWJwRkpFM1ZSMDRpT005TWZRMmluUUhJRWdXUWktb3RCUVZkYmVqRkpnUXY1cDQ2ZmRBVGxyXzZXa3NRM3ZLNmNzb2Jud3JOUmNIYndtV05HamxENlNPSkFTS05mdmpOdTB1MVMxM1J1MVh3Sk1FekdVeGFMTTA2elFCeU9QSWlsNnZCXzRXTnc3TGQ4bXIzRTdzZjlzbGpxYy10Vmg0RXd6VkdneWtpYllQdHhNWHVFUUtKNXRlWQ?oc=5",
       "published": "2026-11-01T17:36:22",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Woman charged with impaired driving following 3-vehicle crash in Toronto’s west end - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0tjSDVaUUtOeE1kbk1MYXlmUldiRHQwRkVsdGFuOTg2Z21WV21HZzVLSWdZRjRVUmlrdy1KazBzS09qc20yTUFadXdaQWpUUG9lb3I5ZFUtMFBxQ3lpVU5XR1JCS19OY3lUd2FWODRtVVhSV1RFaEdwb0xJRlNMSklDRHB3OUlXVUVJY1liaXdmVmdHVE95bm1waGNqNUFUM2l1OTlTUm1KdThuaDFVaFlsRTR2S2lOeUFjTGxaSQ?oc=5",
-      "published": "2026-11-01T17:28:42",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Saskatoon firefighters extinguish duplex fire on Whitecap Crescent - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0JXSTJ0cHo2bkNSaTY2RzBlQ0VEbm9YdnctNFpLMHphektZZXFPNW9xZ2Z6U1hNN0JtUU9kdy1FckNwVWp2VGFUOWdfZHU3bzVsZlpKTjVyc2xqQUlhQ1lUZUJMZ0psTjVTVVJ2SGxuLW14Y0p3MmYyWHctNDc2N19nNU9JYWN2TTNzN0xSNUdNZUUxTHQ3N01NMmNoUG9lekh6Zi1lWVkzc0wy?oc=5",
-      "published": "2026-11-01T17:11:13",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Part of Sherwood Park Freeway shut down due to major collision: EPS - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXBUbXVlZnI2QnJ1UDk1Yl96dEF3Y1B2UVZMVXhyc0p4MkIxZDBOUmxUeHpmV0ZST0gyQ0VhTWtyRnRxQ25pelBhcXpDYUpqNXdSNW0xa3FKd3ZydWJGUWhDM2lqbEc4T2tDNmo4U1NMUXNlUkctXzZSSURlLTFoelhKUjFKS1RpbG9RNmF6MHFPbUM3RzNxa2V4SDBJWFE3eGhVaGZQazd1VEk?oc=5",
-      "published": "2026-11-01T16:49:07",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Windsor Fire promotes CO safety during awareness week - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUsyckpSZ3BHUmNiTEpxRHFoVmRoSk91ZUlIYkE4UVhWemdKM3NRMWtrZEx1azQ4UGU2clBNVE1oMWFuLVdzN0JEbjJ0bGFuN3BwZEhjOEtKdXRIZ2k2Ny1VVnh4cG5rSVFEYkNEX0xvZkM0ZUF1Y0RUV1JaNklxV003SWxfZ0xFa1p0RTVhT2FGYXhEV0lVZ0hTeUZadw?oc=5",
-      "published": "2026-11-01T16:47:10",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Windsor Fire promotes CO safety during awareness week - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjhUcFhSZjFwRktaNkxoOEdBTTFlaTgxblJKX2RkTG4xSUMwdVA4N2Q3MlpQb1ctUHZGbVN6M0VfZlpxN2NudWt1elZJcENKRWRQZnFyck5CODliTVhvbEF5SkZoQWEyMS1BR2RNUjlUN3ZabGVUYVUyd0cwaHNaQmx4SVZrcUpNVFJlZjNSS2VkMXdRNFBtZg?oc=5",
-      "published": "2026-11-01T16:47:10",
       "date": "2026-11-01"
     },
     {
       "source": "The Globe and Mail",
       "title": "5 Huge Winners From Anthropic's IPO - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQm9BTnktX1VVVGZIZlRUMUY0ckFnOW11Y3I1elhMYk05T1NiLVRBOXVLUkJaczdIVUJHOU41UV9BYmFmSGZnV25lSzROUkktUTNIaUprdUJXVERhR3I1Q0l0RTlSWmRXSG1PYkFtSVBuSkRxY3EwOU1IcDlFVnFGSXZCWHpqN1BCNC0tTDJDTjJ0djEtNWQ5Z0Z5RlE2WWVpd2RlTzNMWTI4VEpUQlo1Mlc2SThfT3NYVlc4T0xQNA?oc=5",
-      "published": "2026-11-01T16:29:06",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Sunset will now be before 5 p.m. in Ottawa as daylight savings time ends - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmNNOFZFSDZwTHJObmZsOWlPTjVwZmdzMHYweEdFOGFGb1RXNWRpd0V2SjdUakZMZE90RnI2RTZLcm4tOWl5ejVnWWNmQWhONVl1RnA2c2Zqb20xQno3TV9BazVBNWVmUVdTYkRieEtnWEo3ckNzUk1STVROeWpfMTk0ZV83WjFfMWw1d3NaV0ZrdTk1Vl93MEhfOGd5T1E2S19QXzVKemcwdkJrYWc?oc=5",
-      "published": "2026-11-01T16:26:05",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Calgary K-Pop fans jam WinSport to see P1Harmony headline Jammy Con - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWVUVDJyeGE1LTdnTHZWTVIzT3BLWUhsQ0NpbU9YTjk3V05rMFpDbWVvS21aelFFbFZPMGczZ0R6U2JJQXJueXN6TjI0QWdHRVBqZ1Z1SHoycjZ2NmZBNUZta1RaeXoyTkRYRGg4VGs3dWdxdm5JNmJkV3pYU250QWJZaHVFeUlBdWpXVHpHQ0dhT2ZXUENTNi1yQ0xjMnBwajlPNEw1ZE94SmpO?oc=5",
-      "published": "2026-11-01T16:19:35",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Needles, metal pins found in Halloween chocolate in Quebec, police say - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU9IWXBrRERodDdVSnFGbU9pTGVJS25GSVpkNTZaMU5IVnRCWnQxRFBzOXRnNC1TYVE2dXE1c3MxWEROdl9oX3FZZjJCa1UxTlctMEhRcFdhYXFkTVNUd3F4eTI1TG5oNEhOT3QzWml6YUEyQl9DRkw2N2tZc2ZnN3JrUm1Ibko1dmJoWEdRemV5TklQbVU2cFdGeGtoZXBCRE9HY3RDZG1ybl9Qb2c?oc=5",
-      "published": "2026-11-01T15:45:31",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Vehicle recovered, suspect still missing. Have you seen them? - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnJHQzR3aUZ4QnRnaUhZbnQ1a3d2ZHFmc3Z5LWM0bU5uaGR2b0h5b1VPdGdXQlRzbmotOGd4TWFvM0piSkhPTmNZV20yajNDd3VpOXNmaGdBajRRaVo4YkdPTTM1MlVDS2FhMFplQlRKZ1RncldlM25DbFRnZFVRdUlWVUY5OEJab2tLRjFrVnFFWkhldlJBOEx6MjBCUQ?oc=5",
-      "published": "2026-11-01T15:40:25",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnhQdFV4YnVQdm9yRk50Y2ZrczA0ZWRRdE1XZm03dTgxdE83a09CbVVjWEZ1bUZfbVJqU0h2SWpyUzFFNnlZdk81TlhDbDg5andLX3doRHM2RVVCeC11SW4wMnNGX2todlpScjBEVXZ4ZXFfVnlnd211ODBqV2xwb0tzb0d2dkFRX05meVJYRlk3ZWhuMmc2Q2F3anFQWTZlM204UEt6Z0ZfLVFHaUc2R0ZUNzhJWkpxSHc?oc=5",
+      "published": "2026-11-01T16:34:09",
       "date": "2026-11-01"
     },
     {
@@ -89,87 +82,10 @@
       "date": "2026-11-01"
     },
     {
-      "source": "CTV News",
-      "title": "Female driver dead following single-vehicle crash on Hwy. 401 in Courtice - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDYyak5IMTRUZ3RfcTVOTDlKMWNybUROSHVWM1ZDVUJxcDlaOG9OSVNEQUhlM0k4c1R6Z2hSUFJGaTVndXp3TVQzaVRMZERSUmhuYVVZRC1jSVk3N0tjbndFU0c1SjRWQ2tHU2xBWDlXMF81cXNBeUh0ckoxcm0ycDJWSWlFQ3RqYTRGU3NwX1hLM3lRaWI5dGhJNXg1ZEFLZW1jOGY0RG01VFktQjZwNFBXNnpTdVVFb19TWXRGVE85VzA?oc=5",
-      "published": "2026-11-01T15:31:31",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Quebec to hold 3 federal byelections on Dec. 7 - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYW9fWm1KMUkzcllkbDN4Q3otaVA4UWFpaHBMS1I4ejB5MmVwYVJwYm9jVG1qVGQxTFZxVmgyRGhjd2JmSUNtMXVTM1prVGlhYXlGRExBZlM2bWN4RUdhdW1uVDB3UDRtemlDSkRacWljSXU4X2ljcWxkWFJYbHFmWThxU0tTM25D?oc=5",
-      "published": "2026-11-01T15:17:26",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Spitfires blank Attack 8-0 in Owen Sound - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXRIVzhoSmhNYml2N18xbVBraGlCOHM0OERjejk2OVJac0xudWFKN2RrOTdWVEtMb2UtVnVCR3pEUTVPU0MwYlFnYXp2THVlYW4zcFZZUjlZcW1kcXhwcjlGQUZ1LVNaR2FhMFppUWRPZXF4WXZVek9Bbjh2clpxN1Y2anUxZWc?oc=5",
-      "published": "2026-11-01T15:16:30",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Fog advisory issued for large part of Alberta - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXRrcWhzbTVScDc3NU50aDRNUkJpWTRuOV9sRUQtZEVpOXljVGczUldaYVh0WThZbjl3THBya0xOeG1zOGVJUEJvdjBaSEo5MW5ucF9sdy05dVA5WGdWSXFfUHQ0WTY0STg4WWctc3hMYUpwMTJkZmpTZkVhT19ZSXV5N1NaVXlFd2hJSWh3?oc=5",
-      "published": "2026-11-01T15:13:25",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Thousands pack Toronto’s Gay Village for Halloween on Church festivities - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkg1bHdNNHNxOHRITHItdVYzaGJnYjJPT3R3YUtkMWVVWEN0V1ZQYkJ2bFN1R0xkX3BNZVFTYnlheENrazM2NjlpYjlFWFpNT25sem5xSGpGWEl4OFpuWDFrTGFWNU5nQkdEYXFVYVZOUjlidS1TUHJlU2h1UXR5UDY4Z1o1QmlQNDlYLWVZY0JSa3kyOTRwUjZ2MzV3bHBfU0piZ1hPczBvcWpiaEpIRg?oc=5",
-      "published": "2026-11-01T15:12:34",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Police seeking help finding 36-year-old elopee last seen in Toronto’s west end - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWU9pSDVoOVBIcHRFN3RUNDBjZ29ON0JmQmFmb2dqUUJGWHg3dzZ2N0V1ZUctd3RMeE1KdUg3dkktSUNwRU9TR1Myb1FqYnFiM080OTJZanJObDRoZUdodHpfT2M2TGVkWDU2akUtT2RvUm5LNHI4UW5OMmFtbjA5TTN5eDlLOWRaV3JSV011cGtrcHVlU3BuZnM2UUlLeVpxOE5kcHFjWUl3d3ZyRHdGMklPOXFQME9a?oc=5",
-      "published": "2026-11-01T14:30:18",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Driver charged after vehicle crashes into Brockton home: OPP - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0dwNmU1bWszeEVIMjVIMURGVXpYbUdsRUNwQXR1bFpJYVd6TnpXTzJlaUliWnhvc1RJSy1PVHd2RnFjcHo2d1dZRWhpRmVaZXhGMmZycHpVYzBJWEpZNW13UERUS0d4cjZBOXNEbGRKbm5TNnh2UmNhMG5uRVB0SEgybnJ5TGhnNnBmZ25EQWFmLS0zc04wNHM1bEZjRmM?oc=5",
-      "published": "2026-11-01T14:19:00",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Two people suffer minor injuries after car collides with train in Middlesex County - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzlSRll1U0xwTXlhU1RYdUpOTi01VXdtVWIxcE9uWWZ5Z3RKZ2JOQkJidHVZcFlDRnVOMlQ0Z2E4MDhReWQtbFRkQThsSDk2dE84NG13LWlZb1NjbjFJRlJEWlYyMDBvZ0JIZlpVZ3BudVkxVFdDdnpkMWtyOUdqUG1JSkUwTWlxSHpGY1Voa0dZYk9WNlpPVkhGWlZpb0M5VklLbXYtTzN2d2ZsNEJpbGtNMzlmTnowbDRERHZB?oc=5",
-      "published": "2026-11-01T14:18:01",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "You’ll never guess what Heidi Klum dressed up as for Halloween this year - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWE5hVWxxTHIyUEdyOUpYdGZhZUF5SnVlaTlOVURCU2l1MkR3M3o5VjRESGFpRExDcjhHblR2WlVaSl9tVXRhdW1Nd2xFU2xLdUpnMU5TV3k5Z050c0V6azBFNHZwc2swb2JBTXlqVEU2aGJMXzB1VFBMenNjd3BuZ0YtZWxGU05tTTRHM3V6WVZqOVFwRnVYdHRvT2tfcUNt?oc=5",
-      "published": "2026-11-01T14:07:58",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Driver charged after blowing more than 3 times legal limit - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm43WUFnV3drcXZVRVdKZVpHcXJ1bHRMVTdRQlFpbUREbnM2Um8xbHYyeXl3NWRSS1Zndy1Hci03dUlBQkZINERjZ2t5QkY2SGIyYVMtRXhzaU55Tll4RDREZkpYX3BGeXF3bVI2U0V3REJhdjM1c2w1Q0lxYkNwck85RHR5bnJjVFU4aUVNTnoyc0xKeS1CRWswcjBhMG8?oc=5",
-      "published": "2026-11-01T14:06:00",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Man in hospital, woman arrested following stabbing in Brampton - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzhtYk5jSDdON1VnSWl4dDhlYzRwa2had2lvcG5NUkdEVGwtUjZMRWFOSnVlSDZ6RFhfWDZhS2t2blZQRlFVQjZUWW10czdmdmdhLVFkakk5RFFmMW0zMTJEODFHelBLNEJfZUw2SzdreXp2ZWhZNERmME9vbHlsblBxVldFaVJDX2M3Y2o0aEhxWExCNUZObWNtNWJvY1JzLWFkX0F0TTU5aDRjQjdwazF3?oc=5",
-      "published": "2026-11-01T14:03:12",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Lehkonen, Makar lead Avalanche to 5-2 victory over Flames - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUh6S3BYOHVMMk0yS3RSaWhzYlJKZGtJdmhGVFJxcFRnTF8zWTRsRXBGTUxlUXRkak9LbWhwVE5xMWRhRlVKenJEZVRPWHR6Nm5aeUMzbjEyLWRLYXp4SE1iYmtwM1Rid2xZc25sTmVLRFpDUDlEbmJiODNvVVM1R0U1RXRlalRva3QzWUY3eVFfOW5JUFlLUW1yWmw?oc=5",
-      "published": "2026-11-01T13:43:24",
+      "source": "National Post",
+      "title": "G20 not the place for yuan valuation talk, China says - National Post",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ01FRlJWb1gtTEVlci1LVndwTk1nY1loejNlTV9OY3lVZEo4N2hfM0pRLUozWWd6dGhhUWdGTkF6UTZ6NGhCUVBqLUJlcF9seXl0dk9kQXFXNjVRaHVsWVphRXlJNDUxdS1pazYzZDdrNEZzYjhCY3duNnpXOUhDS2JwUDNrbzZybnVV?oc=5",
+      "published": "2026-11-01T15:30:53",
       "date": "2026-11-01"
     },
     {
@@ -177,13 +93,6 @@
       "title": "Taiwan accuses China of harassment after standoff between coast guard ships - CTV News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYk9pS0x6NDF4c05kaVhjQjM5OXVTRGNPVGY0dnR5bVZKc1FEY25PNzF5djlES3FvRDZVWHl2eHdCRnd6eUl1eUJ0ZlFHQ1B0YzVLNlBnSHJvWjl3dnJpWGZBcVN0OG5sWnVWVG9qNkg5QUF1SjNXUHNDcEkyLVlkUGtDaXN0U3p0Q3Fac0tfb3ByUFoxaTRyWnRZX0pmTUNOMjNvTnR3SF9HdXBheTZXREM0aw?oc=5",
       "published": "2026-11-01T13:42:31",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Alberta man arrested for Vancouver bank robbery - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmJ6VklBY1E5alp3d1BCUjE5NkttM29IbEtvMFI3SDlEaU9DS0pleTc2ZnR0bjBpY0pQa2YwTDNPRWpEdDJVZDByM1RWWTRCdVFBSElaaENsV1B2NUZUS1ZPbDV4TV9pYzlvc0VvbEZ4alQzODEyblFSa0ZjNkFHWGlHOXUtSEFoMDg1UDNyWkI?oc=5",
-      "published": "2026-11-01T13:41:00",
       "date": "2026-11-01"
     },
     {
@@ -236,20 +145,6 @@
       "date": "2026-11-01"
     },
     {
-      "source": "CTV News",
-      "title": "1 in hospital after 2-alarm fire breaks out at North York home - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDQxUmFOYUtkSTViZktpRWhKRUpIc2JlR1F4NFRjX1hhT0pkRThqWVFHU21CSUdTU0N2UU83WlM3bWlMVlpfWmp1TGYxWnltRU1mQzNjdGVLOW9uRERBSzJMQTN4MVhUSm1GTXoyWmNzRGVDNGZranozZHpPekt2TTdJNWdoNGRGMXc0QXVwZ2IxcndmQzJCWmZyQkJIZFVRaHczXw?oc=5",
-      "published": "2026-11-01T11:46:41",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Veteran who lost daughter in training accident named National Silver Cross Mother - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSnJoMlFLMTJXVnVLR3Zwd1FsWGFNRHVzZWNwRy02QXhyRDNndVVPYUNpdkNOQWtwb0YyelBrNjdfUkZITlVLcUthWGxFZ0RuTGpBSFVyVTdWY2VqdUE1NzNIN3VqbGNhWnhSYmY3MFJHQ1k3aTZwcnpuX0tNdnkyZFFMbHdaN3ZDeG1vQWNBZ3BoTmlHN25xX0NRaHhia09jUmdOZlhxNjZtYjBNVmU3ejc0N3dGUUtRNlE0aHFFeEVmVVJvZnZpcl9rcWRrR2VFLUozYUdjdDJrRk5tbkRXZUlWejZEMFZFZVE?oc=5",
-      "published": "2026-11-01T11:00:01",
-      "date": "2026-11-01"
-    },
-    {
       "source": "CBC",
       "title": "A city between flights: How Moose Jaw is holding on to the Snowbirds - CBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWJ3cEg5SC1yWlpVeV8zNno2VXc3bEhySmlGLS1KeVpQckZ0TnpDM1VscDd3anVPdzE4YWxVU2JaQkVtZTJ2VzRSbktGV1J4ZTdRWUc4dzVmSy1NV3p5MEJMRlMzRWRGTHBCeXo2VW02ZWxLdHFnZGlXZ1pvOVN6WEdCTXJuYmpkMnJpQ3VyVVVQWVd5Nk16Wnp5XzdIelFLWmtBemdXLUc?oc=5",
@@ -260,13 +155,6 @@
       "source": "CBC",
       "title": "P.E.I. potato harvest shows significant rebound this season following ‘worst crop’ last year - CBC",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVlNfOTBXNFYzd3JSNkRxZVZnMVpQRFV3N0Jvc01ieFB0VDVPUlpVbDJfN2UxR3lINzV1OXVTQjNyR0FBallibnFBdV80Y090Yk9GclJuWWV0M0YwN2NFcERGbHlPY282dUxRQ01abnFwLUZTNWdhV3lCR3E3a0NDdlR5QUFuNmV2dkpkdjBpaFMyaVhiWEUxd0ZyM3FMOFFleTNBWlZvQXo1MjJMV2R3MGFMVU5TRFhJ?oc=5",
-      "published": "2026-11-01T10:00:00",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "New Weyburn General Hospital opens today - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd1A5clRiMVZ5MmJTLUt1dWFZWk1wRTBDdnVzdkpxZDlQazdiSnA1c3dxMF9maWIxNmZybEhpWjRBN1BEVXRmYl9lbGpzdnN5V2ZiNHRKT18tR2NiR0pfLWVGam9kRUd1N0VkVmF5TzlBWW84T1NLWnhtbUhRUzhGYjJQWGY1Zw?oc=5",
       "published": "2026-11-01T10:00:00",
       "date": "2026-11-01"
     },
@@ -313,10 +201,17 @@
       "date": "2026-11-01"
     },
     {
+      "source": "Hill Times",
+      "title": "People who say they were convicted of crimes they didn’t commit still waiting on feds’ promised new route to challenge their cases - The Hill Times",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOUI1YTI2aGp1a280U3NLeFlzTndfT1JfTG9JSjduZG9WeE9BT0NWb0h6OWlJNFh2Q1NucGw0N2U4bTVlbU1GajlRS0sxOEtXSWRWbDRqX3pmRW5YQjNpSHBJSllEd3lfQ0hmT2FneGpJYjFmLW9ORnVDS0owUF8zV25KWmtEOXlFdGE4UV80dWdJMU5KTnVhVU1ocTNFZi1IUEFHZElqUFhIU3h5S2pLc19LbDhsY29BRGlpamc5MFNmWHdkYi1rSE9aaTZ1Yy02NkhEallrNWNsWVpzdlFIUndmejB3eVpGRUlKM0lJdFFjUXRGcEtqN0F4T0hwWVlCNVpV?oc=5",
+      "published": "2026-11-01T05:01:39",
+      "date": "2026-11-01"
+    },
+    {
       "source": "The Globe and Mail",
       "title": "2 Unstoppable Growth Stocks I'd Buy With $1,000 and Hold for a Decade - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX0p4ckRHZ0dRcFJHMjZSREpxUTFQSDc0WkJMLVJsd2dleEdrQVlvem1PMnBaR1BNUG1xckZXc3A4dWtyRjRNQ3I5WkxqV0IyMFZXWEp0RnMtSERiSVpLTU15amd5eEVtYXppVFNEYVJJVlBSZDZlbUFJNjFJYU0wdGFKWnBvQ1doYTVkd1VmeEdLWHBWN3JVcC1VdnNnQXZycW9DR3pSSEFqdmlYRFhDdUFtbGV6ckJuN3hqRWpTUmc5eU9odGRhQ1VRWnhXMDhNY2ZNOGpZNUpDdWNkLWVHQ2E4U2plRHJLeXc?oc=5",
-      "published": "2026-11-01T04:20:43",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2ZfNTkzTGNQaWpQcmJKQU1YcmhQVGFzMGpfeGtOY3ZxWk0ta1EzeTFvU2lvQV9sOFlrXzVudTh6eG44U0lWcEFjTUtxdjBJdUZ5Z1hsYVd1SkZ5RlhXVEZkY1JGekV5MGhsclhpanl2S1FNNWhBZ2RPUFNuTGNMTWEwRUJVYmVwVDFUX3czd1ZNNE9kQmtiS1FfMXk2d0FVcGRoM0hhSXN2UTVIWmtPMGNZOVh0cmc4RTAzN0dkcndyX2R0NGp2SWVJVUZEcjVzcmUwWFZVdEE5aXk0elM3Z0thMlhBUQ?oc=5",
+      "published": "2026-11-01T04:29:17",
       "date": "2026-11-01"
     },
     {
@@ -360,167 +255,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN1dFN1hYaDlCUE83cUs3M2dIa256YmZ2M3lOdzI2dDJaQ3hJYjZnNFNxbGRKR2tqSTZ2bTc4cEE1MFNISk5yR3M4NTUwVmVEMTdydXhPcHEzTzBhQW1ONXJhVGd1ZWZHY1JjV1dVUVh4STZ1eVd0RWNyZWRpTXNLUS0zT1RIMFdRV0RjY280b1g0MVMzRmQxbzZQclJEd3ZnMlhnaGtsamhmZ0k0T0dCNWFtM3dzcDdpcktRTkU3TW0wazlsZHg4UkdUZVAtNy10eGo2RU5jZmVMMUI0azA2LUxtRQ?oc=5",
       "published": "2026-11-01T00:45:34",
       "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "‘This system works’: Anti-privatization rally held at Vancouver airport - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjR2Tk4taU5mcUtkTnc2ajJJcFdldksxRkp1dFkzUXBudWVtVjI1dDVyR0dqVzk4VlFfX2tST0RCUHNoRExBSzdyUndJaVVqT2p1eElER1djcmctd1R5R1NBT1VSYjBWOEpoYjhibWl1WWpHdTFHcUZYZ2pUQnpvWkFVQW5UTXgzb0pkSFdobjlEQ0xiNUt4dmxCdWxROXdOd3FzNFphc1pJX2R0bERF?oc=5",
-      "published": "2026-11-01T00:00:00",
-      "date": "2026-11-01"
-    },
-    {
-      "source": "CTV News",
-      "title": "Regina Pats to serve as captains for U17 World Challenge - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFpWnRWOWh6b29qTUk5TWFJTzVKcGNFUDFEd1NKMTF1YXBkT01JTHdiTWdXZ2RYbmF5TnluTlU2cVdKSmt1Z2RGNVNWOTFFdGQtMWw2TWE0YkZqSzRTOFRMS0V1V3V1b1R1bmMxaWlKZ2VNYk1ITy10S1pWSTZRdk9SQWJLR2JFajBNUlJ2T1ZKdnpkNy12bE9uNA?oc=5",
-      "published": "2026-10-31T23:56:10",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Trick-or-treaters take over Saskatoon’s Market Mall - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGVHcEVHWjZkVDN4X0U5TndyNVVSMVh6RUlIRjJad1Q1eDlJV1FqMERlc1FzVWtlRzlfdHhDeVB1bkktM2pqZENWSkExWWRwMEVmY0FBaHRVbFVFMFYxdnZYbWFWV01ZZmtaUEl6YVlXam9QSXdFWl81ZTduZm0wWnhJVnpPZm1EcjREMHhzX0taWlhRTzhz?oc=5",
-      "published": "2026-10-31T23:09:43",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Woman struck and killed by vehicle in Markham - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZUZfMzRRVVdfRm1oczlDTUZPTkpPeUVQTk9rNFlqelJscDFBNGxraDRnd2E3ZDRMcktOa2ZFVW84QnY5S3BtTEh6Tm9mZTl4SGpwcVljcHY3YjNUZVcwWklpa016LVBMRXVESUhsZ2U0TWlacEZCdjdPaHYzbVBXNlZqS3A5NTEzV2o5d3pBTkZuNTV6QzJxMFhZU3F5R0pkY1pLZ19INA?oc=5",
-      "published": "2026-10-31T23:02:25",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Ottawa gets spooky with Halloween daytime activities - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXU3ZmlFaFN1a18wQXE0VmJfdWoyZjhMSzQ0UDNlQl9DM1pnc2RaRVNkTDFXOUwzM01EakFDT1BCOFg5SkRTRnBZV0VNbUNYVWh0b3Y4MEJtZ0dQTTdPX1pQeDUxU0FyRXB4Z013bU0zdnc2Ty02OXo1RnZ4ZW5NYklmVy0ybUZHRzI0TmpUWjQ4Q3FNNEE?oc=5",
-      "published": "2026-10-31T22:54:02",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Man and Great Dane secure flight home after airline initially denied boarding at YVR - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlNzSzVyNFIzdml3T194UF9UOXlScDVrNi1BazczNlZWQ2l2M0RoZHFtVWVJNnd1UEI1VWp3UlVOOTdYa1lTaE9VS0pINWJNNUx4SW9QeWhrWXN1VkctdDJBRjU1WFRveXZLVVdxakhHc1c2UlNwaEdyS1F1Yk9kNWtDRzlwT09VSWZQR0JNVnc4VklWR1F1aUVtMHprWU51Y0tabGplMVRkdGluZXIzR1VyZmd1aWtYY1RBUVpxNG81cFpi?oc=5",
-      "published": "2026-10-31T22:51:30",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Pedestrian struck and killed in Mono - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0Z0bDhMYlJETXQyQWxWdDdjUGhPU1hpZlMtc3JPbmZ5MTNkWlJreHNZZEwtUllMZGs5eTF2ckhVdlpnNlcycXE5TEJkbVVOSTBqSTRhRlNmdkJyaUQ0RXhnT2txNmJMc3drd3RNZFh0SmpSWV9kN3piWGV4cmJFLQ?oc=5",
-      "published": "2026-10-31T22:46:30",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Police investigate fatal crash in Parry Sound - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1ZVaTR4M3kyN1dnTnRZUVpYRTRxUXNTeVFXaVcxU3ZGbzROZ3l0aTVSNXg3cl9URlp3V1hyT09Cb3RXNm9SMGRBeXFubVd6WWY1UXNDbjF4TnJ1cEM4U3VZYzRqSjhQTzJHTGhpbzFYZGw5cXctSmZMRlhsb0dJcWlhOEVyckR1VG5uaw?oc=5",
-      "published": "2026-10-31T22:32:44",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Heavy police presence at Saskatoon city hall, downtown bus mall - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEx1d3BkQmJyT2ZlZ0NwM1NXcHZnYVVObTdHc1o2Y2ppSzJJcWFSWnFUMUxWWDJheW9lSVhvY2lRNTVRY2ljZkVUSDN4cktZWG01aHppSEMxd0dPSmdnUy1SX0ZienM0T19GTHN4YWhjWHdxSFVMUW84UEV0cUU2ckJvU1hKUkdnZjBKaEw2OXBkOUJKVF9GU1BfMW5uUEZRZ0ROdFdQVQ?oc=5",
-      "published": "2026-10-31T22:26:11",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Black professionals build community at 11th Unmask conference in Calgary - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3JWZVlvYzVfZlBuTWpPbTQ1Q2VLanRhSm14bERheWtvUFJmUmtJcW51ZkM4WnhYVDRhOUxRMUZnb3p4UGNWdlo3V0pmZEZsajZVY0lJVUdqd2twR0FtdmVKMEVvN29zd0pGSHFlV2dFbDRWc09RcHlRSFdPRHpjS3JXSHBBeHprbWg3Ti1mTnBHcTMwYWNXNHhDc1hMZmNhWWVqdzJld3Z2bGxrY05qREZB?oc=5",
-      "published": "2026-10-31T22:02:57",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Trump lawsuit against Wall Street Journal over Epstein birthday letter is dismissed with prejudice - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS2sxLWRCd0V3N1hKem40ZE9MWVU4djBybHlSSW01aTB5RUE2NlBNaFJraXJ6b3VWQ3hNbURDamlXbk1GZFFCZ3U2a2NxS2F4eXM1N1NERXdCcmswS19ERXRSWGVIbXQ2R2tEWXFXTklmT2dScmJ6R3hGQ0RBX2hqaGtMQVBLWWVIeGpaalE1QmgxRl85Sm5jTC1EanNHRE5WRE5KOWQ1Qnd5dWxNUW9rVndzRnhXdUtUd2pDVUhWQ3hXOTZXcVVVOXg5cXhvUXd5RGc?oc=5",
-      "published": "2026-10-31T21:22:14",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CBC",
-      "title": "Canada's Roussel, Laoun finish 1-2 in men's 500m at short track World Tour in Montreal - CBC",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHBERkhTNDd5cWJ6N1ZELXJBV3QxRjZSR0UxRWpzb3c5aGp6aFZHUGFLYmk0WHpVYTVOcy1LX2IwYkRSX2N1czlGR0tqbWNTYjNMUFVxN3k4MlhqV1dOWHFqYWUteVdCQm1mZWlvNmxoTllkeUwzN1hGVERkc3RITm1tSUlBNlhUMlNPUlc0YTY2bkFsenU4TFZMQ3J3QTFQZHRIaGphdFN4LWR2ZWxPaTUyV01ocVdaQXNSYWRydw?oc=5",
-      "published": "2026-10-31T21:05:00",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "The Globe and Mail",
-      "title": "Better iShares Emerging Markets ETF: IEMG vs. EEM - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGVaVDRaeXBnczhoZ0ZWNzdMdmwxN2FoTDRXNTZZWGRmVl9qWmNSLTZkRktKV1Y5Z25SY3VSVG82cWQyT1VyS0xYTU5FYUhpQXZlQVRnbjFEV3Y5Vlg5VmY3UHpoU0F1cW1CLWkzRnZHcHgtRGRzWGhqN1F4djZ3NG5tUG5pRzFQVDl6enpEeXpIancxQnp1M2MwYkp1T3pZNDVPUjUxWjYwUm12TUQ5bXotay05Y3d4bnpFeElidVVYY2RH?oc=5",
-      "published": "2026-10-31T20:19:45",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Calgary school showcases Muslim culture in celebration of Islamic History Month - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlY0SnNwZDBnSE1STmpPSXZpLUlvOHVPZkdEdmpzR1h2cWZad0E1UUh6YUxXSnQ5a29GbWVJbHZTcEVOX2R3YUZYNm80cnJ0b2dsSnJDSU1sa0lEMEdzUHFqN0stT0ZTLUJFQjVJXzVPV1lHbm9XakROczM5eFV4cXczTWctVEFGS1NYU3JrdG82bDNfd3NLd0dubThWeERUU0FULUxBc2RIcEVhZENzWVNLNHluZG9QQVc4?oc=5",
-      "published": "2026-10-31T20:11:38",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Pedestrian, 19, dead after collision early Saturday morning - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1ZzRDRtMGtRZW1YSzgzU3NHU0VsdDNkcnlDTWxhWEItbWdYX2hxNkRWd29Pdm0xQ3plRWtCQXpYT3RORl8yMG95WC10Qkp1eGNwX3JqaUlBMUJhZGFrOE0tcVM0NGcxNXNrVFNFU1JWcVhURm8yLXJtWmx0cW1lSTkxZXROUFpkVXFnbW9CRVgxUml5YWZOT1JCVl8zLVk?oc=5",
-      "published": "2026-10-31T20:08:52",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Liberal Party announces its candidate for Brantford-Brant South byelection - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHJFcTVTRHotd0VVZTBZalFGVTl1eVRhTVJKd2Q5QlB5dXJLZnh6TWRNcUdoa3dwV0d6SW05blU2dkxpYklZUXpwblkwVVVITUdKc1M0RnB4a0k3ak1ual9ORXpIV2F5c2hIenkxVzRKTHJPTm8zT3k4em5Va2Q1bkNhT3hxUmdEWVpfb1VkVlI2TUNXSTNJNDVzTjFaN2tpVnVHb2xubmMzQVpHRFZheE5RTWE3STA?oc=5",
-      "published": "2026-10-31T20:07:53",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Matt Pavelich, the first linesman inducted into the Hockey Hall of Fame, dies at 92 - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmtMRVd1R2ZzVmpKcmlQUzBETFFmbFFRRklUUGhmXzVzWmRpbzN5b3FlR29UVkFDSEpZeXZnUDZfLTd1QVRpNVZKbTFmTjByZlFrTDRPTFhhc3g3TmhjdXdQc3NFaWhNUDVLd2FBd3FSb1p4Sk9QTDgxSHBTTnVIQUdMQ1pYZjdQcENOLWtHYTVRMXg2NHZZcnc5TnhGYzZxMmxnRFZpTmE4NHpmbnZubWs2cUhFenpoekZmUA?oc=5",
-      "published": "2026-10-31T20:01:45",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Bank robbery in Vancouver’s West End results in the arrest of an Alberta man: VPD - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTdZWUh0dW9oM1Q5YTAzZVlZU0pqVUdoWXFyQ29mWUxfSXI1dDI3Y2sxWnhNWlZkb3VMbEZoR0tDcGNJUnNPOW5DZ2s2TzdkVmh4U3pYaWdyNTVUbDBZcm9reUV4c3dkQVYwUUI4bTI5R0RzYkQ0Tk9aVnFQMmk0aVF3dWRRNkJLeC1RS1BtM3MxT0hiRzhkc0xpOXlGMjNHclB0ck9pWElBcUZaWDRSUmIwb2d0dU5vRWJWdlpR?oc=5",
-      "published": "2026-10-31T19:34:31",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "B.C. acupuncturist suspended over alleged ‘serious boundary and informed consent violations’ - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb004T2RRTl9IY0FCc1VMbGJINS1YZ2xkeFI4Z2pEUExHYzhUQ1J6NzVUYlZWT3l2ZGVUbWVqbHBNZV9pSnFRaDlyRTNyd3p4Qjl3SFgyVncwV005VERDemJ6OE8tWmozVXJNaklBSVBkeVFKbDJhYWVmd2xhNnZFVWowMzQ3WTVkcXlrNFlVUFFMaXRyWlNOdXdOcnd1SU9MZE5xWHp3Q2JVd0dhWW9vUGg0X29CNnh0bW5hV3hEdDlmcjFBVm9KN3Vn?oc=5",
-      "published": "2026-10-31T19:11:12",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Volunteers help restore Oldcastle trail at TD Tree Day - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0RRaVpfVUF3OENpNEQxYkNkc3Ywbm5uZ0pUTjF1Nk9vRlZGMkJPQ0lTUEpoWVNjWWlpR2QtVG90N0huVmh6LVotTVpxOVdfNTU0Q09paG9JN3JsNXhGMVRPRk1aR1BoNnN2cnhfMjhZZkdzR0oxWkZMVHNwcW9Jd3BVRnRuWXJMVFNXN0xqTENjdldJSHc2Wkln?oc=5",
-      "published": "2026-10-31T18:59:04",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "1 dead in 2-vehicle collision on Highway 3 near Lundbreck - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTBsU3lGTzZJZzZtU2hhQUl4TmYxOExKc1R5WXlRZDFGR0p4TmtqQWQza1hFcktXdFJmMi1WZEo3aDRnazdpVVUydkhDRlcycVVjR3NaOWI3RDVaUVJhby1xaHZkQUI1Z0kyN0RLTkR1Ry03b3BkN2dHRmVqSFIzc19ia2I4eVprWm5WRDRpaDU0bTNiRkc0Z0F4aFhJQQ?oc=5",
-      "published": "2026-10-31T18:31:51",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "CTV News",
-      "title": "Montreal records 20th homicide of 2026 - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGJyZ1JHanMtT0pzSC1uR25HZDVxcE9QSlYyRHJVRDBRRnhjamhHVjN2eE4wRW93Z25rSzhHMy0tcVJWcDg4cjF2dC1oYjVoZlF2dG9QMUhlc2tmcUtKMWFNSXhkMGF6dnpFV010cUhNQlBuQjdvWmxzbnNTc3lBVG9PcnRvdw?oc=5",
-      "published": "2026-10-31T18:19:12",
-      "date": "2026-10-31"
-    },
-    {
-      "source": "Global News",
-      "title": "An ‘Alliance for the Future’: key takeaways from the Canada-EU summit in Montreal - Global News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQzRoMzZudXdSTjhESUp2OXlkMlROUTZKMElxZ2VVZDU2d0tTeXJpN0Y5S1hPRG5DM2lHaWUzd3Bma3BBU3NvS0tIOUdTUGEwZjIyTFpiVVdJcnpvV0F1aXRDVEQ3Y21hWXV6YXFtT2F1NmtCTzNRZWxFRGtjZzYyOEphRE9XS1ExZzhYYmxlYmEyNThIVGJsQVlCNWwydHBhUkZ0Ti1QSXlqT3REckdTVVdYYWdmeGc?oc=5",
-      "published": "2026-10-31T18:00:18",
-      "date": "2026-10-31"
     }
   ]
 }
